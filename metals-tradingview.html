@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 100%; height: 100%; background: #131722; overflow: hidden; }
+  .tradingview-widget-container { width: 100%; height: 100%; }
+</style>
+</head>
+<body>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+  {
+    "width": "100%",
+    "height": "100%",
+    "symbolsGroups": [
+      {
+        "name": "Edelmetalen",
+        "symbols": [
+          { "name": "XAUUSD", "displayName": "Goud (XAU/USD)" },
+          { "name": "XAUEUR", "displayName": "Goud (XAU/EUR)" },
+          { "name": "XAGUSD", "displayName": "Zilver (XAG/USD)" },
+          { "name": "XAGEUR", "displayName": "Zilver (XAG/EUR)" }
+        ]
+      }
+    ],
+    "showSymbolLogo": true,
+    "isTransparent": false,
+    "colorTheme": "dark",
+    "locale": "nl",
+    "backgroundColor": "#131722"
+  }
+  </script>
+</div>
+<!-- TradingView Widget END -->
+</body>
+</html>
