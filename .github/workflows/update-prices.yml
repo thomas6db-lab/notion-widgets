@@ -2,8 +2,8 @@ name: Update metal prices
 
 on:
   schedule:
-    - cron: '0 * * * *'   # elk uur
-  workflow_dispatch:       # ook manueel te starten
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -17,40 +17,53 @@ jobs:
       - name: Fetch & compute prices
         run: |
           python3 - <<'EOF'
-          import urllib.request, json
+          import urllib.request, json, datetime
 
           TROY_TO_KG = 32.1507
 
-          with urllib.request.urlopen('https://data-asg.goldprice.org/dbXRates/USD') as r:
-              gp = json.loads(r.read())
+          headers = {
+              'User-Agent': 'Mozilla/5.0 (compatible; price-bot/1.0)',
+              'Accept': 'application/json'
+          }
 
-          with urllib.request.urlopen('https://open.er-api.com/v6/latest/USD') as r:
+          # Yahoo Finance: GC=F = Gold futures, SI=F = Silver futures
+          url = 'https://query1.finance.yahoo.com/v7/finance/quote?symbols=GC%3DF%2CSI%3DF&fields=regularMarketPrice,regularMarketPreviousClose,currency'
+
+          req = urllib.request.Request(url, headers=headers)
+          with urllib.request.urlopen(req, timeout=15) as r:
+              yf = json.loads(r.read())
+
+          results = yf['quoteResponse']['result']
+          gold   = next(q for q in results if q['symbol'] == 'GC=F')
+          silver = next(q for q in results if q['symbol'] == 'SI=F')
+
+          # Yahoo quotes are in USD per troy ounce
+          # FX: EUR/USD via frankfurter.app (free, no auth needed)
+          req2 = urllib.request.Request(
+              'https://api.frankfurter.app/latest?from=USD&to=EUR',
+              headers=headers
+          )
+          with urllib.request.urlopen(req2, timeout=15) as r:
               fx = json.loads(r.read())
 
-          eur     = fx['rates']['EUR']
-          item    = next(i for i in gp['items'] if i['curr'] == 'USD')
-          gold_oz  = item['xauPrice']
-          silv_oz  = item['xagPrice']
-          gold_ch  = item.get('chgXau', 0) or 0
-          silv_ch  = item.get('chgXag', 0) or 0
+          eur = fx['rates']['EUR']
 
-          def pct(price, ch):
-              prev = price - ch
-              return round((ch / prev) * 100, 2) if prev else 0
+          def build(q):
+              price = q['regularMarketPrice']
+              prev  = q['regularMarketPreviousClose']
+              ch    = price - prev
+              pct   = (ch / prev) * 100 if prev else 0
+              return {
+                  'priceKgEur':  round(price * TROY_TO_KG * eur),
+                  'changeKgEur': round(ch    * TROY_TO_KG * eur),
+                  'changePct':   round(pct, 2)
+              }
 
           data = {
-              'updated':  gp.get('date', ''),
-              'eurRate':  round(eur, 6),
-              'gold': {
-                  'priceKgEur':  round(gold_oz * TROY_TO_KG * eur),
-                  'changeKgEur': round(gold_ch * TROY_TO_KG * eur),
-                  'changePct':   pct(gold_oz, gold_ch)
-              },
-              'silver': {
-                  'priceKgEur':  round(silv_oz * TROY_TO_KG * eur),
-                  'changeKgEur': round(silv_ch * TROY_TO_KG * eur),
-                  'changePct':   pct(silv_oz, silv_ch)
-              }
+              'updated': datetime.datetime.utcnow().strftime('%d/%m %H:%M') + ' UTC',
+              'eurRate': round(eur, 6),
+              'gold':   build(gold),
+              'silver': build(silver)
           }
 
           with open('prices.json', 'w') as f:
