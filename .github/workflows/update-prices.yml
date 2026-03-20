@@ -23,13 +23,13 @@ jobs:
           TROY_TO_KG = 32.1507
           HEADERS = {'User-Agent': 'Mozilla/5.0'}
 
-          # EUR/USD rate
+          # ── EUR/USD ──────────────────────────────────────────────────
           req = urllib.request.Request('https://api.frankfurter.app/latest?from=USD&to=EUR', headers=HEADERS)
           with urllib.request.urlopen(req, timeout=15) as r:
               eur = json.loads(r.read())['rates']['EUR']
 
+          # ── Stooq helper ─────────────────────────────────────────────
           def fetch_stooq(symbol):
-              """Returns (price_usd, prev_price_usd) or None on failure."""
               try:
                   url = f'https://stooq.com/q/d/l/?s={symbol}&i=d'
                   req = urllib.request.Request(url, headers=HEADERS)
@@ -40,42 +40,51 @@ jobs:
                       return None
                   return float(rows[-1]['Close']), float(rows[-2]['Close'])
               except Exception as e:
-                  print(f'  WARN {symbol}: {e}')
+                  print(f'  WARN stooq {symbol}: {e}')
                   return None
 
-          def build_usd(symbol, multiply=1.0):
-              """Asset priced in USD, convert to EUR."""
-              result = fetch_stooq(symbol)
-              if not result:
-                  return None
-              now, prev = result
-              now  *= multiply
-              prev *= multiply
-              ch    = now - prev
-              pct   = round((ch / prev) * 100, 2) if prev else 0
-              return {
-                  'priceEur':  round(now  * eur, 2),
-                  'changeEur': round(ch   * eur, 2),
-                  'changePct': pct
-              }
-
-          def build_eur(symbol):
-              """Asset already priced in EUR (European stocks/ETFs)."""
-              result = fetch_stooq(symbol)
-              if not result:
-                  return None
-              now, prev = result
+          def build_usd(symbol):
+              r = fetch_stooq(symbol)
+              if not r: return None
+              now, prev = r
               ch  = now - prev
               pct = round((ch / prev) * 100, 2) if prev else 0
-              return {
-                  'priceEur':  round(now, 2),
-                  'changeEur': round(ch,  2),
-                  'changePct': pct
-              }
+              return {'priceEur': round(now * eur, 2), 'changeEur': round(ch * eur, 2), 'changePct': pct}
 
+          def build_eur(symbol):
+              r = fetch_stooq(symbol)
+              if not r: return None
+              now, prev = r
+              ch  = now - prev
+              pct = round((ch / prev) * 100, 2) if prev else 0
+              return {'priceEur': round(now, 2), 'changeEur': round(ch, 2), 'changePct': pct}
+
+          # ── CoinGecko (crypto) ────────────────────────────────────────
+          def fetch_coingecko(ids):
+              id_str = ','.join(ids)
+              url = (f'https://api.coingecko.com/api/v3/simple/price'
+                     f'?ids={id_str}&vs_currencies=eur&include_24hr_change=true')
+              req = urllib.request.Request(url, headers={**HEADERS, 'Accept': 'application/json'})
+              with urllib.request.urlopen(req, timeout=15) as r:
+                  data = json.loads(r.read())
+              result = {}
+              for cid in ids:
+                  d     = data.get(cid, {})
+                  price = d.get('eur', 0)
+                  chp   = d.get('eur_24h_change', 0) or 0
+                  prev  = price / (1 + chp / 100) if chp != -100 else price
+                  ch    = price - prev
+                  result[cid] = {
+                      'priceEur':  round(price, 2),
+                      'changeEur': round(ch,    2),
+                      'changePct': round(chp,   2)
+                  }
+              return result
+
+          # ── Fetch all ─────────────────────────────────────────────────
           assets = {}
 
-          # --- Edelmetalen (USD/troy oz → EUR/kg) ---
+          # Edelmetalen
           r = fetch_stooq('xauusd')
           if r:
               now, prev = r
@@ -83,7 +92,7 @@ jobs:
               assets['gold'] = {
                   'priceEur':  round(now * TROY_TO_KG * eur),
                   'changeEur': round(ch),
-                  'changePct': round(((now-prev)/prev)*100, 2)
+                  'changePct': round(((now - prev) / prev) * 100, 2)
               }
 
           r = fetch_stooq('xagusd')
@@ -93,24 +102,27 @@ jobs:
               assets['silver'] = {
                   'priceEur':  round(now * TROY_TO_KG * eur),
                   'changeEur': round(ch),
-                  'changePct': round(((now-prev)/prev)*100, 2)
+                  'changePct': round(((now - prev) / prev) * 100, 2)
               }
 
-          # --- Crypto (USD → EUR) ---
-          assets['btc']  = build_usd('btcusd')
-          assets['ada']  = build_usd('adausd')
+          # Crypto via CoinGecko
+          try:
+              crypto = fetch_coingecko(['bitcoin', 'cardano'])
+              assets['btc'] = crypto['bitcoin']
+              assets['ada'] = crypto['cardano']
+          except Exception as e:
+              print(f'  WARN CoinGecko: {e}')
+              assets['btc'] = None
+              assets['ada'] = None
 
-          # --- Aandelen & ETFs ---
-          # GOOGL trades in USD on NASDAQ
+          # Aandelen & ETFs
           assets['googl'] = build_usd('googl.us')
-
-          # European ETFs — traded in EUR on Euronext/Xetra
-          # EUNL = iShares Core MSCI World (Xetra, EUR)
-          assets['eunl'] = build_eur('eunl.de')
-          # SLMC = iShares MSCI World Small Cap (Xetra, EUR)
-          assets['slmc'] = build_eur('slmc.de')
-          # WTD8 = WisdomTree Global Quality Dividend Growth (Xetra, EUR)
-          assets['wtd8'] = build_eur('wtd8.de')
+          # EUNL  → iShares Core MSCI World (Xetra)
+          assets['eunl']  = build_eur('eunl.de')
+          # IMAE  → iShares Core MSCI Europe (Xetra)
+          assets['msci_europe'] = build_eur('imae.de')
+          # EIMI  → iShares Core MSCI Emerging Markets IMI (Xetra)
+          assets['em']    = build_eur('eimi.de')
 
           data = {
               'updated': datetime.datetime.utcnow().strftime('%d/%m %H:%M') + ' UTC',
