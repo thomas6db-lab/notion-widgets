@@ -1,8 +1,19 @@
 {
-  "updated": "20/03 23:48",
+  "updated": "20/03 23:53",
   "timezone": "Europe/Brussels",
   "todayLabel": "20 march",
   "tomorrowLabel": "21 march",
-  "today": [],
+  "today": [
+    {
+      "uid": "6606-640980@ufora.ugent.be",
+      "summary": "Special Session 1 - online - Verwacht",
+      "location": "F000892A - Innovation Management",
+      "start": "2026-03-20T17:00:00",
+      "end": "2026-03-20T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "ufora"
+    }
+  ],
   "firstTomorrow": []
 }
