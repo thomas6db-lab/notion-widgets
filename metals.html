@@ -3,200 +3,125 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Metals Tracker</title>
+<title>Portfolio Tracker</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Syne:wght@400;600&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
-    --gold: #C9A84C;
-    --silver: #8C9BAA;
     --bg: #F7F6F2;
     --surface: #FFFFFF;
     --text: #1A1917;
     --muted: #7A7872;
     --dim: #AEACA5;
-    --up: #3B6D11;
-    --up-bg: #EAF3DE;
-    --down: #8B2B0F;
-    --down-bg: #FAECE7;
+    --up: #3B6D11;    --up-bg: #EAF3DE;
+    --down: #8B2B0F;  --down-bg: #FAECE7;
     --border: rgba(0,0,0,0.08);
-    --radius: 12px;
+    --radius: 10px;
+    --c-gold:   #C9A84C;
+    --c-silver: #8C9BAA;
+    --c-btc:    #E8922A;
+    --c-ada:    #3A7BD5;
+    --c-stock:  #6B5EA8;
   }
 
   @media (prefers-color-scheme: dark) {
     :root {
-      --gold: #E8C46A;
-      --silver: #A8B8C8;
-      --bg: #111110;
-      --surface: #1C1C1A;
-      --text: #F0EDE8;
-      --muted: #9E9B94;
-      --dim: #5A5852;
-      --up: #97C459;
-      --up-bg: #173404;
-      --down: #F09575;
-      --down-bg: #3A1508;
+      --bg: #111110; --surface: #1C1C1A; --text: #F0EDE8;
+      --muted: #9E9B94; --dim: #5A5852;
+      --up: #97C459; --up-bg: #173404;
+      --down: #F09575; --down-bg: #3A1508;
       --border: rgba(255,255,255,0.07);
     }
   }
 
-  html, body {
-    background: var(--bg);
-    font-family: 'Syne', sans-serif;
-    color: var(--text);
-    -webkit-font-smoothing: antialiased;
-  }
+  html, body { background: var(--bg); font-family: 'Syne', sans-serif; color: var(--text); -webkit-font-smoothing: antialiased; }
+  body { padding: 0.75rem; }
 
-  body {
-    padding: 0.75rem;
-  }
+  /* ── Top bar ── */
+  .topbar { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.75rem; }
+  .topbar-title { font-size: 10px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); font-family: 'IBM Plex Mono', monospace; }
+  .topbar-time  { font-size: 10px; color: var(--dim); font-family: 'IBM Plex Mono', monospace; }
 
-  .header {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    margin-bottom: 0.6rem;
-  }
+  /* ── Section label ── */
+  .section-label { font-size: 9px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); font-family: 'IBM Plex Mono', monospace; margin: 0.6rem 0 0.35rem; }
+  .section-label:first-of-type { margin-top: 0; }
 
-  .header-title {
-    font-size: 10px;
-    font-weight: 600;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: var(--muted);
-    font-family: 'IBM Plex Mono', monospace;
-  }
+  /* ── Grid ── */
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
 
-  .header-time {
-    font-size: 10px;
-    color: var(--dim);
-    font-family: 'IBM Plex Mono', monospace;
-  }
-
-  .cards {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 8px;
-    margin-bottom: 8px;
-  }
-
+  /* ── Card ── */
   .card {
     background: var(--surface);
     border-radius: var(--radius);
-    padding: 0.75rem 0.75rem 0.65rem;
+    padding: 0.6rem 0.65rem 0.55rem;
     border: 0.5px solid var(--border);
     position: relative;
     overflow: hidden;
   }
 
-  .card-accent {
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 2px;
-    border-radius: var(--radius) var(--radius) 0 0;
-  }
-  .card.gold .card-accent   { background: var(--gold); }
-  .card.silver .card-accent { background: var(--silver); }
-
-  .card-meta { display: flex; align-items: center; gap: 5px; margin-bottom: 8px; }
-
-  .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
-  .card.gold .dot   { background: var(--gold); }
-  .card.silver .dot { background: var(--silver); }
+  .card-accent { position: absolute; top: 0; left: 0; right: 0; height: 2px; border-radius: var(--radius) var(--radius) 0 0; }
+  .card[data-id="gold"]   .card-accent { background: var(--c-gold); }
+  .card[data-id="silver"] .card-accent { background: var(--c-silver); }
+  .card[data-id="btc"]    .card-accent { background: var(--c-btc); }
+  .card[data-id="ada"]    .card-accent { background: var(--c-ada); }
+  .card[data-id="googl"]  .card-accent,
+  .card[data-id="eunl"]   .card-accent,
+  .card[data-id="slmc"]   .card-accent,
+  .card[data-id="wtd8"]   .card-accent { background: var(--c-stock); }
 
   .card-name {
-    font-size: 9px;
-    font-weight: 600;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--muted);
+    font-size: 9px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--muted); font-family: 'IBM Plex Mono', monospace; margin-bottom: 6px;
+    display: flex; align-items: center; gap: 4px;
+  }
+  .card-dot { width: 5px; height: 5px; border-radius: 50%; flex-shrink: 0; }
+  .card[data-id="gold"]   .card-dot { background: var(--c-gold); }
+  .card[data-id="silver"] .card-dot { background: var(--c-silver); }
+  .card[data-id="btc"]    .card-dot { background: var(--c-btc); }
+  .card[data-id="ada"]    .card-dot { background: var(--c-ada); }
+  .card[data-id="googl"]  .card-dot,
+  .card[data-id="eunl"]   .card-dot,
+  .card[data-id="slmc"]   .card-dot,
+  .card[data-id="wtd8"]   .card-dot  { background: var(--c-stock); }
+
+  .card-price {
+    font-size: clamp(12px, 3.2vw, 17px);
+    font-weight: 600; letter-spacing: -0.02em;
+    color: var(--text); margin-bottom: 5px;
     font-family: 'IBM Plex Mono', monospace;
+    line-height: 1.1; white-space: nowrap;
+    overflow: hidden; text-overflow: ellipsis; min-height: 18px;
+  }
+  .card-price.loading {
+    background: var(--border); color: transparent;
+    border-radius: 3px; animation: pulse 1.5s ease infinite; width: 75%;
   }
 
-  .price {
-    font-size: clamp(13px, 3.5vw, 18px);
-    font-weight: 600;
-    letter-spacing: -0.02em;
-    color: var(--text);
-    margin-bottom: 6px;
-    font-family: 'IBM Plex Mono', monospace;
-    line-height: 1.1;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    min-height: 20px;
-  }
-
-  .price.loading {
-    background: var(--border);
-    color: transparent;
-    border-radius: 3px;
-    animation: pulse 1.5s ease infinite;
-    width: 80%;
-  }
+  .card-unit { font-size: 8px; color: var(--dim); font-family: 'IBM Plex Mono', monospace; margin-bottom: 4px; }
 
   .badge {
-    display: block;
-    font-size: clamp(9px, 2.2vw, 11px);
-    font-weight: 500;
-    padding: 2px 6px;
-    border-radius: 20px;
+    display: block; font-size: clamp(8px, 2vw, 10px); font-weight: 500;
+    padding: 2px 5px; border-radius: 20px;
     font-family: 'IBM Plex Mono', monospace;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
   .badge.up      { background: var(--up-bg);   color: var(--up); }
   .badge.down    { background: var(--down-bg); color: var(--down); }
   .badge.neutral { background: var(--border);  color: var(--dim); }
 
-  .unit {
-    display: block;
-    font-size: 9px;
-    color: var(--dim);
-    font-family: 'IBM Plex Mono', monospace;
-    margin-top: 5px;
-    letter-spacing: 0.03em;
-    white-space: nowrap;
-  }
-
-  .footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .footer-note {
-    font-size: 9px;
-    color: var(--dim);
-    font-family: 'IBM Plex Mono', monospace;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    flex: 1;
-    margin-right: 8px;
-  }
-
+  /* ── Footer ── */
+  .footer { display: flex; justify-content: space-between; align-items: center; margin-top: 0.6rem; }
+  .footer-note { font-size: 9px; color: var(--dim); font-family: 'IBM Plex Mono', monospace; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-right: 8px; }
   .refresh-btn {
-    background: none;
-    border: 0.5px solid var(--border);
-    color: var(--muted);
-    font-size: 9px;
-    font-family: 'IBM Plex Mono', monospace;
-    padding: 3px 8px;
-    border-radius: 5px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    gap: 3px;
-    flex-shrink: 0;
+    background: none; border: 0.5px solid var(--border); color: var(--muted);
+    font-size: 9px; font-family: 'IBM Plex Mono', monospace;
+    padding: 3px 8px; border-radius: 5px; cursor: pointer;
+    display: flex; align-items: center; gap: 3px; flex-shrink: 0;
     transition: background 0.1s;
-    letter-spacing: 0.03em;
   }
   .refresh-btn:hover { background: var(--border); color: var(--text); }
-
   .spin { display: inline-block; }
   .spin.active { animation: spin 0.8s linear infinite; }
 
@@ -205,57 +130,123 @@
 </style>
 </head>
 <body>
-  <div class="header">
-    <span class="header-title">Edelmetalen</span>
-    <span class="header-time" id="hdr-time">—</span>
-  </div>
 
-  <div class="cards">
-    <div class="card gold">
-      <div class="card-accent"></div>
-      <div class="card-meta"><div class="dot"></div><span class="card-name">Goud</span></div>
-      <div class="price loading" id="gold-price">&nbsp;</div>
-      <div class="badge neutral" id="gold-change">laden...</div>
-      <span class="unit">per kg · EUR</span>
-    </div>
-    <div class="card silver">
-      <div class="card-accent"></div>
-      <div class="card-meta"><div class="dot"></div><span class="card-name">Zilver</span></div>
-      <div class="price loading" id="silver-price">&nbsp;</div>
-      <div class="badge neutral" id="silver-change">laden...</div>
-      <span class="unit">per kg · EUR</span>
-    </div>
-  </div>
+<div class="topbar">
+  <span class="topbar-title">Portfolio</span>
+  <span class="topbar-time" id="hdr-time">—</span>
+</div>
 
-  <div class="footer">
-    <span class="footer-note" id="footer-note">Laden...</span>
-    <button class="refresh-btn" onclick="loadPrices()">
-      <span class="spin" id="spin-icon">↻</span> ververs
-    </button>
+<!-- Edelmetalen -->
+<div class="section-label">Edelmetalen</div>
+<div class="grid">
+  <div class="card" data-id="gold">
+    <div class="card-accent"></div>
+    <div class="card-name"><div class="card-dot"></div>Goud</div>
+    <div class="card-price loading" id="price-gold">&nbsp;</div>
+    <div class="card-unit">per kg</div>
+    <div class="badge neutral" id="badge-gold">laden...</div>
   </div>
+  <div class="card" data-id="silver">
+    <div class="card-accent"></div>
+    <div class="card-name"><div class="card-dot"></div>Zilver</div>
+    <div class="card-price loading" id="price-silver">&nbsp;</div>
+    <div class="card-unit">per kg</div>
+    <div class="badge neutral" id="badge-silver">laden...</div>
+  </div>
+</div>
+
+<!-- Crypto -->
+<div class="section-label">Crypto</div>
+<div class="grid">
+  <div class="card" data-id="btc">
+    <div class="card-accent"></div>
+    <div class="card-name"><div class="card-dot"></div>Bitcoin</div>
+    <div class="card-price loading" id="price-btc">&nbsp;</div>
+    <div class="card-unit">per stuk</div>
+    <div class="badge neutral" id="badge-btc">laden...</div>
+  </div>
+  <div class="card" data-id="ada">
+    <div class="card-accent"></div>
+    <div class="card-name"><div class="card-dot"></div>Cardano</div>
+    <div class="card-price loading" id="price-ada">&nbsp;</div>
+    <div class="card-unit">per stuk</div>
+    <div class="badge neutral" id="badge-ada">laden...</div>
+  </div>
+</div>
+
+<!-- Aandelen & ETFs -->
+<div class="section-label">Aandelen &amp; ETFs</div>
+<div class="grid">
+  <div class="card" data-id="googl">
+    <div class="card-accent"></div>
+    <div class="card-name"><div class="card-dot"></div>GOOGL</div>
+    <div class="card-price loading" id="price-googl">&nbsp;</div>
+    <div class="card-unit">per aandeel</div>
+    <div class="badge neutral" id="badge-googl">laden...</div>
+  </div>
+  <div class="card" data-id="eunl">
+    <div class="card-accent"></div>
+    <div class="card-name"><div class="card-dot"></div>EUNL</div>
+    <div class="card-price loading" id="price-eunl">&nbsp;</div>
+    <div class="card-unit">per stuk</div>
+    <div class="badge neutral" id="badge-eunl">laden...</div>
+  </div>
+  <div class="card" data-id="slmc">
+    <div class="card-accent"></div>
+    <div class="card-name"><div class="card-dot"></div>SLMC</div>
+    <div class="card-price loading" id="price-slmc">&nbsp;</div>
+    <div class="card-unit">per stuk</div>
+    <div class="badge neutral" id="badge-slmc">laden...</div>
+  </div>
+  <div class="card" data-id="wtd8">
+    <div class="card-accent"></div>
+    <div class="card-name"><div class="card-dot"></div>WTD8</div>
+    <div class="card-price loading" id="price-wtd8">&nbsp;</div>
+    <div class="card-unit">per stuk</div>
+    <div class="badge neutral" id="badge-wtd8">laden...</div>
+  </div>
+</div>
+
+<div class="footer">
+  <span class="footer-note" id="footer-note">Laden...</span>
+  <button class="refresh-btn" onclick="loadPrices()">
+    <span class="spin" id="spin-icon">↻</span> ververs
+  </button>
+</div>
 
 <script>
-function eur(val) {
-  return new Intl.NumberFormat('nl-BE', {
-    style: 'currency', currency: 'EUR',
-    minimumFractionDigits: 0, maximumFractionDigits: 0
-  }).format(val);
+const FMT_EUR = new Intl.NumberFormat('nl-BE', { style: 'currency', currency: 'EUR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+const FMT_EUR0 = new Intl.NumberFormat('nl-BE', { style: 'currency', currency: 'EUR', minimumFractionDigits: 0, maximumFractionDigits: 0 });
+
+function fmt(val, large) {
+  return large ? FMT_EUR0.format(val) : FMT_EUR.format(val);
 }
 
-function setCard(priceEl, badgeEl, metal) {
-  priceEl.textContent = eur(metal.priceKgEur);
+function setCard(id, asset, large) {
+  const priceEl = document.getElementById('price-' + id);
+  const badgeEl = document.getElementById('badge-' + id);
+
+  if (!asset) {
+    priceEl.textContent = '—';
+    priceEl.classList.remove('loading');
+    badgeEl.className = 'badge neutral';
+    badgeEl.textContent = 'geen data';
+    return;
+  }
+
+  priceEl.textContent = fmt(asset.priceEur, large);
   priceEl.classList.remove('loading');
 
-  const ch  = metal.changeKgEur;
-  const chp = metal.changePct;
+  const ch  = asset.changeEur;
+  const chp = asset.changePct;
   if (ch !== 0) {
     const sign  = ch >= 0 ? '+' : '';
     const arrow = ch >= 0 ? '↑' : '↓';
     badgeEl.className = 'badge ' + (ch > 0 ? 'up' : 'down');
-    badgeEl.textContent = arrow + ' ' + sign + eur(ch) + ' (' + sign + chp.toFixed(2) + '%)';
+    badgeEl.textContent = arrow + ' ' + sign + fmt(ch, large) + ' (' + sign + chp.toFixed(2) + '%)';
   } else {
     badgeEl.className = 'badge neutral';
-    badgeEl.textContent = '— geen data';
+    badgeEl.textContent = '— geen change';
   }
 }
 
@@ -266,23 +257,22 @@ async function loadPrices() {
     const res = await fetch('./prices.json?t=' + Date.now());
     if (!res.ok) throw new Error('prices.json niet gevonden');
     const data = await res.json();
-    if (!data.gold || !data.gold.priceKgEur) throw new Error('Wacht op eerste Actions run');
+    const a = data.assets || {};
 
-    setCard(document.getElementById('gold-price'),   document.getElementById('gold-change'),   data.gold);
-    setCard(document.getElementById('silver-price'), document.getElementById('silver-change'), data.silver);
+    // large=true → geen decimalen (goud, zilver, BTC)
+    setCard('gold',   a.gold,   true);
+    setCard('silver', a.silver, true);
+    setCard('btc',    a.btc,    true);
+    setCard('ada',    a.ada,    false);
+    setCard('googl',  a.googl,  false);
+    setCard('eunl',   a.eunl,   false);
+    setCard('slmc',   a.slmc,   false);
+    setCard('wtd8',   a.wtd8,   false);
 
-    document.getElementById('hdr-time').textContent  = new Date().toLocaleTimeString('nl-BE', { hour: '2-digit', minute: '2-digit' });
-    document.getElementById('footer-note').textContent = 'Bijgewerkt ' + data.updated;
+    document.getElementById('hdr-time').textContent   = new Date().toLocaleTimeString('nl-BE', { hour: '2-digit', minute: '2-digit' });
+    document.getElementById('footer-note').textContent = data.updated ? 'Bijgewerkt ' + data.updated : '—';
   } catch (e) {
     document.getElementById('footer-note').textContent = 'Fout: ' + e.message;
-    ['gold-price','silver-price'].forEach(id => {
-      const el = document.getElementById(id);
-      el.textContent = '—'; el.classList.remove('loading');
-    });
-    ['gold-change','silver-change'].forEach(id => {
-      document.getElementById(id).className = 'badge neutral';
-      document.getElementById(id).textContent = 'niet beschikbaar';
-    });
   } finally {
     spin.classList.remove('active');
   }
