@@ -3,39 +3,259 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Edelmetalen</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
 <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  html, body { width: 100%; height: 100%; background: #131722; overflow: hidden; }
-  .tradingview-widget-container { width: 100%; height: 100%; }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #0F0F11;
+    color: #E0E0E6;
+    font-family: 'DM Mono', monospace;
+    padding: 14px;
+    font-size: 12px;
+  }
+
+  .widget {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+
+  .card {
+    background: #161619;
+    border-radius: 10px;
+    padding: 14px;
+    border: 1px solid #222226;
+  }
+  .card.gold { border-top: 2px solid #C9A84C; }
+  .card.silver { border-top: 2px solid #8A96A3; }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+  .dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .gold .dot { background: #C9A84C; }
+  .silver .dot { background: #8A96A3; }
+
+  .metal-name {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 13px;
+  }
+  .gold .metal-name { color: #E8C96A; }
+  .silver .metal-name { color: #C0CAD4; }
+
+  .change-badge {
+    margin-left: auto;
+    font-size: 9px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: 500;
+  }
+  .up   { color: #4caf7d; background: rgba(76,175,125,0.12); }
+  .down { color: #e05252; background: rgba(224,82,82,0.12); }
+  .neutral { color: #666; background: rgba(100,100,100,0.1); }
+
+  .rows { display: flex; flex-direction: column; gap: 6px; }
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 5px 0;
+    border-bottom: 1px solid #1E1E22;
+  }
+  .row:last-child { border-bottom: none; }
+
+  .row-label {
+    font-size: 9px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #555560;
+  }
+  .row-values { text-align: right; }
+  .row-usd { font-size: 12px; font-weight: 500; color: #E0E0E6; }
+  .row-eur { font-size: 10px; color: #808090; margin-top: 1px; }
+
+  .change-row {
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px solid #1E1E22;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .change-label { font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: #555560; }
+  .change-values { text-align: right; }
+  .change-pct { font-size: 12px; font-weight: 500; }
+  .change-abs { font-size: 10px; margin-top: 1px; }
+
+  .footer {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2px;
+  }
+  .footer-left { font-size: 9px; color: #3a3a42; }
+  .live-dot {
+    display: inline-block;
+    width: 5px; height: 5px;
+    border-radius: 50%;
+    background: #4caf7d;
+    margin-right: 4px;
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+
+  .refresh-btn {
+    background: none;
+    border: 1px solid #2a2a30;
+    color: #555560;
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    letter-spacing: 0.1em;
+    transition: all 0.15s;
+  }
+  .refresh-btn:hover { border-color: #C9A84C44; color: #C9A84C; }
+
+  .loading { opacity: 0.3; }
+  .error { grid-column: 1/-1; text-align: center; font-size: 10px; color: #e05252; padding: 16px; }
 </style>
 </head>
 <body>
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
-  {
-    "width": "100%",
-    "height": "100%",
-    "symbolsGroups": [
-      {
-        "name": "Edelmetalen",
-        "symbols": [
-          { "name": "XAUUSD", "displayName": "Goud (XAU/USD)" },
-          { "name": "XAUEUR", "displayName": "Goud (XAU/EUR)" },
-          { "name": "XAGUSD", "displayName": "Zilver (XAG/USD)" },
-          { "name": "XAGEUR", "displayName": "Zilver (XAG/EUR)" }
-        ]
-      }
-    ],
-    "showSymbolLogo": true,
-    "isTransparent": false,
-    "colorTheme": "dark",
-    "locale": "nl",
-    "backgroundColor": "#131722"
-  }
-  </script>
+<div class="widget" id="widget">
+  <div class="card gold loading" id="gold-card">
+    <div class="card-header">
+      <div class="dot"></div>
+      <div class="metal-name">Goud</div>
+    </div>
+    <div class="rows">
+      <div class="row"><span class="row-label">Troy oz</span><div class="row-values"><div class="row-usd">laden…</div></div></div>
+      <div class="row"><span class="row-label">Per kilo</span><div class="row-values"><div class="row-usd">laden…</div></div></div>
+    </div>
+  </div>
+  <div class="card silver loading" id="silver-card">
+    <div class="card-header">
+      <div class="dot"></div>
+      <div class="metal-name">Zilver</div>
+    </div>
+    <div class="rows">
+      <div class="row"><span class="row-label">Troy oz</span><div class="row-values"><div class="row-usd">laden…</div></div></div>
+      <div class="row"><span class="row-label">Per kilo</span><div class="row-values"><div class="row-usd">laden…</div></div></div>
+    </div>
+  </div>
 </div>
-<!-- TradingView Widget END -->
+<div class="footer">
+  <span class="footer-left"><span class="live-dot"></span><span id="last-update">—</span></span>
+  <button class="refresh-btn" onclick="load()">↻</button>
+</div>
+
+<script>
+const OZ = 31.1035; // grams per troy oz
+const KG = 1000 / OZ; // troy oz per kg = 32.1507
+
+function fmt(n, dec) { return n.toLocaleString('nl-BE', {minimumFractionDigits:dec, maximumFractionDigits:dec}); }
+
+function buildCard(card, data, priceUSD, priceEUR, changeUSD, changeEUR, changePct) {
+  const sign = changePct > 0 ? '+' : '';
+  const cls = changePct > 0 ? 'up' : changePct < 0 ? 'down' : 'neutral';
+  const arrow = changePct > 0 ? '▲' : changePct < 0 ? '▼' : '–';
+
+  const ozEUR = priceEUR;
+  const kgUSD = priceUSD * KG;
+  const kgEUR = priceEUR * KG;
+
+  const changeEURkg = changeEUR * KG;
+
+  card.classList.remove('loading');
+  card.innerHTML = `
+    <div class="card-header">
+      <div class="dot"></div>
+      <div class="metal-name">${data.name}</div>
+      <span class="change-badge ${cls}">${arrow} ${sign}${fmt(changePct,2)}%</span>
+    </div>
+    <div class="rows">
+      <div class="row">
+        <span class="row-label">Troy oz</span>
+        <div class="row-values">
+          <div class="row-usd">$${fmt(priceUSD,2)}</div>
+          <div class="row-eur">€${fmt(ozEUR,2)}</div>
+        </div>
+      </div>
+      <div class="row">
+        <span class="row-label">Per kilo</span>
+        <div class="row-values">
+          <div class="row-usd">$${fmt(kgUSD,0)}</div>
+          <div class="row-eur">€${fmt(kgEUR,0)}</div>
+        </div>
+      </div>
+    </div>
+    <div class="change-row">
+      <span class="change-label">Dagwijziging</span>
+      <div class="change-values">
+        <div class="change-pct ${cls}">${sign}${fmt(changePct,2)}%</div>
+        <div class="change-abs ${cls}">${sign}€${fmt(changeEUR,2)} / oz</div>
+      </div>
+    </div>`;
+}
+
+async function load() {
+  document.getElementById('last-update').textContent = 'laden…';
+  try {
+    // EUR/USD rate
+    let eur = 1.08;
+    try {
+      const fx = await fetch('https://api.frankfurter.app/latest?from=USD&to=EUR');
+      const fxd = await fx.json();
+      eur = fxd.rates.EUR;
+    } catch {}
+
+    const r = await fetch('https://api.metals.live/v1/spot/gold,silver');
+    if (!r.ok) throw new Error('API fout');
+    const d = await r.json();
+
+    const gObj = d.find(x => x.gold !== undefined);
+    const sObj = d.find(x => x.silver !== undefined);
+    if (!gObj || !sObj) throw new Error('Geen data');
+
+    const gUSD = gObj.gold;
+    const sUSD = sObj.silver;
+    const gEUR = gUSD * eur;
+    const sEUR = sUSD * eur;
+
+    const gChgUSD = gObj.change ?? 0;
+    const sChgUSD = sObj.change ?? 0;
+    const gChgPct = gObj.changePercent ?? 0;
+    const sChgPct = sObj.changePercent ?? 0;
+
+    buildCard(document.getElementById('gold-card'),
+      {name:'Goud'}, gUSD, gEUR, gChgUSD, gChgUSD*eur, gChgPct);
+    buildCard(document.getElementById('silver-card'),
+      {name:'Zilver'}, sUSD, sEUR, sChgUSD, sChgUSD*eur, sChgPct);
+
+    const now = new Date();
+    document.getElementById('last-update').textContent =
+      now.toLocaleTimeString('nl-BE',{hour:'2-digit',minute:'2-digit'});
+
+  } catch(e) {
+    document.getElementById('widget').innerHTML =
+      `<div class="error">⚠️ Kon geen data laden. Vernieuwen?</div>`;
+  }
+}
+
+load();
+setInterval(load, 60000);
+</script>
 </body>
 </html>
