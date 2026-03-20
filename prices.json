@@ -1,14 +1,14 @@
 {
-  "updated": "20/03 21:02 UTC",
-  "eurRate": 0.86543,
-  "gold": {
-    "priceKgEur": 125040,
-    "changeKgEur": -4489,
-    "changePct": -3.47
-  },
-  "silver": {
-    "priceKgEur": 1890,
-    "changeKgEur": -144,
-    "changePct": -7.09
+  "updated": "",
+  "eurRate": 0.92,
+  "assets": {
+    "gold": null,
+    "silver": null,
+    "btc": null,
+    "ada": null,
+    "googl": null,
+    "eunl": null,
+    "slmc": null,
+    "wtd8": null
   }
 }
