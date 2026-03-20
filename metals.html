@@ -39,65 +39,51 @@
   html, body { background: var(--bg); font-family: 'Syne', sans-serif; color: var(--text); -webkit-font-smoothing: antialiased; }
   body { padding: 0.75rem; }
 
-  /* ── Top bar ── */
   .topbar { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.75rem; }
   .topbar-title { font-size: 10px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); font-family: 'IBM Plex Mono', monospace; }
   .topbar-time  { font-size: 10px; color: var(--dim); font-family: 'IBM Plex Mono', monospace; }
 
-  /* ── Section label ── */
   .section-label { font-size: 9px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); font-family: 'IBM Plex Mono', monospace; margin: 0.6rem 0 0.35rem; }
   .section-label:first-of-type { margin-top: 0; }
 
-  /* ── Grid ── */
   .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
 
-  /* ── Card ── */
   .card {
-    background: var(--surface);
-    border-radius: var(--radius);
+    background: var(--surface); border-radius: var(--radius);
     padding: 0.6rem 0.65rem 0.55rem;
     border: 0.5px solid var(--border);
-    position: relative;
-    overflow: hidden;
+    position: relative; overflow: hidden;
   }
 
   .card-accent { position: absolute; top: 0; left: 0; right: 0; height: 2px; border-radius: var(--radius) var(--radius) 0 0; }
-  .card[data-id="gold"]   .card-accent { background: var(--c-gold); }
-  .card[data-id="silver"] .card-accent { background: var(--c-silver); }
-  .card[data-id="btc"]    .card-accent { background: var(--c-btc); }
-  .card[data-id="ada"]    .card-accent { background: var(--c-ada); }
-  .card[data-id="googl"]  .card-accent,
-  .card[data-id="eunl"]   .card-accent,
-  .card[data-id="slmc"]   .card-accent,
-  .card[data-id="wtd8"]   .card-accent { background: var(--c-stock); }
+  .card[data-id="gold"]         .card-accent { background: var(--c-gold); }
+  .card[data-id="silver"]       .card-accent { background: var(--c-silver); }
+  .card[data-id="btc"]          .card-accent { background: var(--c-btc); }
+  .card[data-id="ada"]          .card-accent { background: var(--c-ada); }
+  .card[data-id="googl"]        .card-accent,
+  .card[data-id="eunl"]         .card-accent,
+  .card[data-id="msci_europe"]  .card-accent,
+  .card[data-id="em"]           .card-accent { background: var(--c-stock); }
 
-  .card-name {
-    font-size: 9px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
-    color: var(--muted); font-family: 'IBM Plex Mono', monospace; margin-bottom: 6px;
-    display: flex; align-items: center; gap: 4px;
-  }
+  .card-name { font-size: 9px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-family: 'IBM Plex Mono', monospace; margin-bottom: 6px; display: flex; align-items: center; gap: 4px; }
   .card-dot { width: 5px; height: 5px; border-radius: 50%; flex-shrink: 0; }
-  .card[data-id="gold"]   .card-dot { background: var(--c-gold); }
-  .card[data-id="silver"] .card-dot { background: var(--c-silver); }
-  .card[data-id="btc"]    .card-dot { background: var(--c-btc); }
-  .card[data-id="ada"]    .card-dot { background: var(--c-ada); }
-  .card[data-id="googl"]  .card-dot,
-  .card[data-id="eunl"]   .card-dot,
-  .card[data-id="slmc"]   .card-dot,
-  .card[data-id="wtd8"]   .card-dot  { background: var(--c-stock); }
+  .card[data-id="gold"]         .card-dot { background: var(--c-gold); }
+  .card[data-id="silver"]       .card-dot { background: var(--c-silver); }
+  .card[data-id="btc"]          .card-dot { background: var(--c-btc); }
+  .card[data-id="ada"]          .card-dot { background: var(--c-ada); }
+  .card[data-id="googl"]        .card-dot,
+  .card[data-id="eunl"]         .card-dot,
+  .card[data-id="msci_europe"]  .card-dot,
+  .card[data-id="em"]           .card-dot  { background: var(--c-stock); }
 
   .card-price {
-    font-size: clamp(12px, 3.2vw, 17px);
-    font-weight: 600; letter-spacing: -0.02em;
+    font-size: clamp(12px, 3.2vw, 17px); font-weight: 600; letter-spacing: -0.02em;
     color: var(--text); margin-bottom: 5px;
     font-family: 'IBM Plex Mono', monospace;
     line-height: 1.1; white-space: nowrap;
     overflow: hidden; text-overflow: ellipsis; min-height: 18px;
   }
-  .card-price.loading {
-    background: var(--border); color: transparent;
-    border-radius: 3px; animation: pulse 1.5s ease infinite; width: 75%;
-  }
+  .card-price.loading { background: var(--border); color: transparent; border-radius: 3px; animation: pulse 1.5s ease infinite; width: 75%; }
 
   .card-unit { font-size: 8px; color: var(--dim); font-family: 'IBM Plex Mono', monospace; margin-bottom: 4px; }
 
@@ -111,16 +97,9 @@
   .badge.down    { background: var(--down-bg); color: var(--down); }
   .badge.neutral { background: var(--border);  color: var(--dim); }
 
-  /* ── Footer ── */
   .footer { display: flex; justify-content: space-between; align-items: center; margin-top: 0.6rem; }
   .footer-note { font-size: 9px; color: var(--dim); font-family: 'IBM Plex Mono', monospace; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-right: 8px; }
-  .refresh-btn {
-    background: none; border: 0.5px solid var(--border); color: var(--muted);
-    font-size: 9px; font-family: 'IBM Plex Mono', monospace;
-    padding: 3px 8px; border-radius: 5px; cursor: pointer;
-    display: flex; align-items: center; gap: 3px; flex-shrink: 0;
-    transition: background 0.1s;
-  }
+  .refresh-btn { background: none; border: 0.5px solid var(--border); color: var(--muted); font-size: 9px; font-family: 'IBM Plex Mono', monospace; padding: 3px 8px; border-radius: 5px; cursor: pointer; display: flex; align-items: center; gap: 3px; flex-shrink: 0; transition: background 0.1s; }
   .refresh-btn:hover { background: var(--border); color: var(--text); }
   .spin { display: inline-block; }
   .spin.active { animation: spin 0.8s linear infinite; }
@@ -136,7 +115,6 @@
   <span class="topbar-time" id="hdr-time">—</span>
 </div>
 
-<!-- Edelmetalen -->
 <div class="section-label">Edelmetalen</div>
 <div class="grid">
   <div class="card" data-id="gold">
@@ -155,7 +133,6 @@
   </div>
 </div>
 
-<!-- Crypto -->
 <div class="section-label">Crypto</div>
 <div class="grid">
   <div class="card" data-id="btc">
@@ -174,36 +151,35 @@
   </div>
 </div>
 
-<!-- Aandelen & ETFs -->
 <div class="section-label">Aandelen &amp; ETFs</div>
 <div class="grid">
   <div class="card" data-id="googl">
     <div class="card-accent"></div>
-    <div class="card-name"><div class="card-dot"></div>GOOGL</div>
+    <div class="card-name"><div class="card-dot"></div>Alphabet</div>
     <div class="card-price loading" id="price-googl">&nbsp;</div>
     <div class="card-unit">per aandeel</div>
     <div class="badge neutral" id="badge-googl">laden...</div>
   </div>
   <div class="card" data-id="eunl">
     <div class="card-accent"></div>
-    <div class="card-name"><div class="card-dot"></div>EUNL</div>
+    <div class="card-name"><div class="card-dot"></div>MSCI World</div>
     <div class="card-price loading" id="price-eunl">&nbsp;</div>
     <div class="card-unit">per stuk</div>
     <div class="badge neutral" id="badge-eunl">laden...</div>
   </div>
-  <div class="card" data-id="slmc">
+  <div class="card" data-id="msci_europe">
     <div class="card-accent"></div>
-    <div class="card-name"><div class="card-dot"></div>SLMC</div>
-    <div class="card-price loading" id="price-slmc">&nbsp;</div>
+    <div class="card-name"><div class="card-dot"></div>MSCI Europe</div>
+    <div class="card-price loading" id="price-msci_europe">&nbsp;</div>
     <div class="card-unit">per stuk</div>
-    <div class="badge neutral" id="badge-slmc">laden...</div>
+    <div class="badge neutral" id="badge-msci_europe">laden...</div>
   </div>
-  <div class="card" data-id="wtd8">
+  <div class="card" data-id="em">
     <div class="card-accent"></div>
-    <div class="card-name"><div class="card-dot"></div>WTD8</div>
-    <div class="card-price loading" id="price-wtd8">&nbsp;</div>
+    <div class="card-name"><div class="card-dot"></div>Emerging Markets</div>
+    <div class="card-price loading" id="price-em">&nbsp;</div>
     <div class="card-unit">per stuk</div>
-    <div class="badge neutral" id="badge-wtd8">laden...</div>
+    <div class="badge neutral" id="badge-em">laden...</div>
   </div>
 </div>
 
@@ -215,38 +191,28 @@
 </div>
 
 <script>
-const FMT_EUR = new Intl.NumberFormat('nl-BE', { style: 'currency', currency: 'EUR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
-const FMT_EUR0 = new Intl.NumberFormat('nl-BE', { style: 'currency', currency: 'EUR', minimumFractionDigits: 0, maximumFractionDigits: 0 });
+const FMT0 = new Intl.NumberFormat('nl-BE', { style: 'currency', currency: 'EUR', minimumFractionDigits: 0, maximumFractionDigits: 0 });
+const FMT2 = new Intl.NumberFormat('nl-BE', { style: 'currency', currency: 'EUR', minimumFractionDigits: 2, maximumFractionDigits: 2 });
 
-function fmt(val, large) {
-  return large ? FMT_EUR0.format(val) : FMT_EUR.format(val);
-}
+function fmt(val, large) { return large ? FMT0.format(val) : FMT2.format(val); }
 
 function setCard(id, asset, large) {
   const priceEl = document.getElementById('price-' + id);
   const badgeEl = document.getElementById('badge-' + id);
-
   if (!asset) {
-    priceEl.textContent = '—';
-    priceEl.classList.remove('loading');
-    badgeEl.className = 'badge neutral';
-    badgeEl.textContent = 'geen data';
+    priceEl.textContent = '—'; priceEl.classList.remove('loading');
+    badgeEl.className = 'badge neutral'; badgeEl.textContent = 'geen data';
     return;
   }
-
   priceEl.textContent = fmt(asset.priceEur, large);
   priceEl.classList.remove('loading');
-
-  const ch  = asset.changeEur;
-  const chp = asset.changePct;
+  const ch = asset.changeEur, chp = asset.changePct;
   if (ch !== 0) {
-    const sign  = ch >= 0 ? '+' : '';
-    const arrow = ch >= 0 ? '↑' : '↓';
+    const sign = ch >= 0 ? '+' : '', arrow = ch >= 0 ? '↑' : '↓';
     badgeEl.className = 'badge ' + (ch > 0 ? 'up' : 'down');
     badgeEl.textContent = arrow + ' ' + sign + fmt(ch, large) + ' (' + sign + chp.toFixed(2) + '%)';
   } else {
-    badgeEl.className = 'badge neutral';
-    badgeEl.textContent = '— geen change';
+    badgeEl.className = 'badge neutral'; badgeEl.textContent = '— geen change';
   }
 }
 
@@ -259,17 +225,16 @@ async function loadPrices() {
     const data = await res.json();
     const a = data.assets || {};
 
-    // large=true → geen decimalen (goud, zilver, BTC)
-    setCard('gold',   a.gold,   true);
-    setCard('silver', a.silver, true);
-    setCard('btc',    a.btc,    true);
-    setCard('ada',    a.ada,    false);
-    setCard('googl',  a.googl,  false);
-    setCard('eunl',   a.eunl,   false);
-    setCard('slmc',   a.slmc,   false);
-    setCard('wtd8',   a.wtd8,   false);
+    setCard('gold',        a.gold,        true);
+    setCard('silver',      a.silver,      true);
+    setCard('btc',         a.btc,         true);
+    setCard('ada',         a.ada,         false);
+    setCard('googl',       a.googl,       false);
+    setCard('eunl',        a.eunl,        false);
+    setCard('msci_europe', a.msci_europe, false);
+    setCard('em',          a.em,          false);
 
-    document.getElementById('hdr-time').textContent   = new Date().toLocaleTimeString('nl-BE', { hour: '2-digit', minute: '2-digit' });
+    document.getElementById('hdr-time').textContent    = new Date().toLocaleTimeString('nl-BE', { hour: '2-digit', minute: '2-digit' });
     document.getElementById('footer-note').textContent = data.updated ? 'Bijgewerkt ' + data.updated : '—';
   } catch (e) {
     document.getElementById('footer-note').textContent = 'Fout: ' + e.message;
