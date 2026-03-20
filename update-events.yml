@@ -1,0 +1,173 @@
+name: Update calendar events
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch & parse calendars
+        env:
+          ICAL_URLS: ${{ secrets.ICAL_URLS }}
+        run: |
+          python3 - <<'EOF'
+          import urllib.request, json, os, re, datetime
+          from zoneinfo import ZoneInfo
+
+          TZ = ZoneInfo('Europe/Brussels')
+
+          # ICAL_URLS = newline-separated list of:
+          #   label|https://calendar.google.com/calendar/ical/...
+          # Supported labels: thomas6db, timeedit, tectonic, feestdagen, ufora, verjaardagen
+          raw_urls = os.environ.get('ICAL_URLS', '').strip().splitlines()
+          calendar_sources = []
+          for line in raw_urls:
+              line = line.strip()
+              if not line: continue
+              if '|' in line:
+                  label, url = line.split('|', 1)
+              else:
+                  label, url = 'overige', line
+              calendar_sources.append((label.strip(), url.strip()))
+
+          def unfold(text):
+              return re.sub(r'\r?\n[ \t]', '', text)
+
+          def parse_dt(val, tzid=None):
+              val = val.strip()
+              try:
+                  if 'T' in val:
+                      if val.endswith('Z'):
+                          dt = datetime.datetime.strptime(val, '%Y%m%dT%H%M%SZ')
+                          dt = dt.replace(tzinfo=datetime.timezone.utc).astimezone(TZ)
+                      else:
+                          dt = datetime.datetime.strptime(val, '%Y%m%dT%H%M%S')
+                          tz = ZoneInfo(tzid) if tzid else TZ
+                          dt = dt.replace(tzinfo=tz).astimezone(TZ)
+                      return dt.strftime('%Y-%m-%dT%H:%M:%S'), False
+                  else:
+                      d = datetime.datetime.strptime(val, '%Y%m%d').date()
+                      return d.strftime('%Y-%m-%d'), True
+              except Exception:
+                  return None, False
+
+          def unescape(s):
+              return s.replace('\\n', '\n').replace('\\,', ',').replace('\\;', ';').replace('\\\\', '\\')
+
+          def fetch_ical(label, url):
+              try:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                  with urllib.request.urlopen(req, timeout=20) as r:
+                      return unfold(r.read().decode('utf-8', errors='replace'))
+              except Exception as e:
+                  print(f'  WARN {label}: {e}')
+                  return ''
+
+          now          = datetime.datetime.now(TZ)
+          today_start  = now.replace(hour=0, minute=0, second=0, microsecond=0)
+          today_end    = today_start + datetime.timedelta(days=1)
+          tomorrow_start = today_end
+          tomorrow_end   = today_end + datetime.timedelta(days=1)
+
+          all_events = {}  # uid -> event dict (deduplicate across calendars)
+
+          for label, url in calendar_sources:
+              raw = fetch_ical(label, url)
+              if not raw:
+                  continue
+
+              for block in re.findall(r'BEGIN:VEVENT(.*?)END:VEVENT', raw, re.DOTALL):
+                  def get(key, blk=block):
+                      m = re.search(rf'(?:^|\n){re.escape(key)}(?:;[^\n:]*)?:([^\n]*)', blk)
+                      return m.group(1).strip() if m else ''
+
+                  def get_with_param(key, blk=block):
+                      m = re.search(rf'(?:^|\n){re.escape(key)}(?:;TZID=([^:;\n]+))?[^:\n]*:([^\n]*)', blk)
+                      if m: return m.group(2).strip(), m.group(1)
+                      return '', None
+
+                  status = get('STATUS')
+                  if status == 'CANCELLED': continue
+
+                  uid      = get('UID') or (label + block[:40])
+                  summary  = unescape(get('SUMMARY'))
+                  location = unescape(get('LOCATION'))
+
+                  start_raw, start_tzid = get_with_param('DTSTART')
+                  end_raw,   end_tzid   = get_with_param('DTEND')
+
+                  start_str, all_day = parse_dt(start_raw, start_tzid)
+                  end_str,   _       = parse_dt(end_raw, end_tzid)
+                  if not start_str: continue
+
+                  try:
+                      if all_day:
+                          s = datetime.datetime.strptime(start_str, '%Y-%m-%d').replace(tzinfo=TZ)
+                      else:
+                          s = datetime.datetime.fromisoformat(start_str).replace(tzinfo=TZ)
+                  except Exception:
+                      continue
+
+                  # Only keep today + tomorrow
+                  if s >= tomorrow_end or s < today_start:
+                      continue
+
+                  day = 'today' if s < today_end else 'tomorrow'
+
+                  if uid not in all_events:
+                      all_events[uid] = {
+                          'uid':      uid,
+                          'summary':  summary,
+                          'location': location,
+                          'start':    start_str,
+                          'end':      end_str or start_str,
+                          'allDay':   all_day,
+                          'day':      day,
+                          'calendar': label
+                      }
+
+          # Sort
+          def sort_key(e):
+              s = e['start']
+              if e['allDay']: return s + 'T00:00:00'
+              return s
+
+          events_list = sorted(all_events.values(), key=sort_key)
+
+          today_events    = [e for e in events_list if e['day'] == 'today']
+          tomorrow_events = [e for e in events_list if e['day'] == 'tomorrow']
+
+          # Only first event tomorrow
+          first_tomorrow = tomorrow_events[:1]
+
+          data = {
+              'updated':        now.strftime('%d/%m %H:%M'),
+              'timezone':       'Europe/Brussels',
+              'todayLabel':     now.strftime('%-d %B').lower(),
+              'tomorrowLabel':  (now + datetime.timedelta(days=1)).strftime('%-d %B').lower(),
+              'today':          today_events,
+              'firstTomorrow':  first_tomorrow
+          }
+
+          with open('events.json', 'w') as f:
+              json.dump(data, f, indent=2, ensure_ascii=False)
+
+          print(f'✓ {len(today_events)} events vandaag, {len(tomorrow_events)} morgen (toon eerste)')
+          print(json.dumps(data, indent=2, ensure_ascii=False))
+          EOF
+
+      - name: Commit events.json
+        run: |
+          git config user.name  "calendar-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add events.json
+          git diff --staged --quiet || git commit -m "chore: update calendar events"
+          git push
