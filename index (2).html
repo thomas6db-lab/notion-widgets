@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Metals Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Syne:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --gold: #C9A84C;
+    --silver: #8C9BAA;
+    --bg: #F7F6F2;
+    --surface: #FFFFFF;
+    --text: #1A1917;
+    --muted: #7A7872;
+    --dim: #AEACA5;
+    --up: #3B6D11;
+    --up-bg: #EAF3DE;
+    --down: #8B2B0F;
+    --down-bg: #FAECE7;
+    --border: rgba(0,0,0,0.08);
+    --radius: 14px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --gold: #E8C46A;
+      --silver: #A8B8C8;
+      --bg: #111110;
+      --surface: #1C1C1A;
+      --text: #F0EDE8;
+      --muted: #9E9B94;
+      --dim: #5A5852;
+      --up: #97C459;
+      --up-bg: #173404;
+      --down: #F09575;
+      --down-bg: #3A1508;
+      --border: rgba(255,255,255,0.07);
+    }
+  }
+
+  html, body {
+    height: 100%;
+    background: var(--bg);
+    font-family: 'Syne', sans-serif;
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    min-height: 100%;
+  }
+
+  .container { width: 100%; max-width: 480px; }
+
+  .header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+
+  .header-title {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .header-time {
+    font-size: 10px;
+    color: var(--dim);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+
+  .card {
+    background: var(--surface);
+    border-radius: var(--radius);
+    padding: 1.25rem 1.1rem 1.1rem;
+    border: 0.5px solid var(--border);
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.15s ease;
+  }
+  .card:hover { transform: translateY(-1px); }
+
+  .card-accent {
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2.5px;
+    border-radius: var(--radius) var(--radius) 0 0;
+  }
+  .card.gold .card-accent   { background: var(--gold); }
+  .card.silver .card-accent { background: var(--silver); }
+
+  .card-meta { display: flex; align-items: center; gap: 6px; margin-bottom: 14px; }
+
+  .dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
+  .card.gold .dot   { background: var(--gold); }
+  .card.silver .dot { background: var(--silver); }
+
+  .card-name {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .price {
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    color: var(--text);
+    margin-bottom: 10px;
+    font-family: 'IBM Plex Mono', monospace;
+    line-height: 1;
+    min-height: 26px;
+  }
+
+  .price.loading {
+    background: var(--border);
+    color: transparent;
+    border-radius: 4px;
+    animation: pulse 1.5s ease infinite;
+    width: 85%;
+  }
+
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    font-size: 11px;
+    font-weight: 500;
+    padding: 3px 8px;
+    border-radius: 20px;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  .badge.up      { background: var(--up-bg);   color: var(--up); }
+  .badge.down    { background: var(--down-bg); color: var(--down); }
+  .badge.neutral { background: var(--border);  color: var(--dim); }
+
+  .unit {
+    display: block;
+    font-size: 10px;
+    color: var(--dim);
+    font-family: 'IBM Plex Mono', monospace;
+    margin-top: 8px;
+    letter-spacing: 0.04em;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2px;
+  }
+
+  .footer-note {
+    font-size: 10px;
+    color: var(--dim);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .refresh-btn {
+    background: none;
+    border: 0.5px solid var(--border);
+    color: var(--muted);
+    font-size: 10px;
+    font-family: 'IBM Plex Mono', monospace;
+    padding: 4px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    transition: background 0.1s, color 0.1s;
+    letter-spacing: 0.04em;
+  }
+  .refresh-btn:hover { background: var(--border); color: var(--text); }
+
+  .spin { display: inline-block; }
+  .spin.active { animation: spin 0.8s linear infinite; }
+
+  @keyframes spin  { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+  @keyframes pulse { 0%,100% { opacity: 0.35; } 50% { opacity: 1; } }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <span class="header-title">Edelmetalen</span>
+    <span class="header-time" id="hdr-time">—</span>
+  </div>
+
+  <div class="cards">
+    <div class="card gold">
+      <div class="card-accent"></div>
+      <div class="card-meta"><div class="dot"></div><span class="card-name">Goud</span></div>
+      <div class="price loading" id="gold-price">&nbsp;</div>
+      <div class="badge neutral" id="gold-change">laden...</div>
+      <span class="unit">per kilogram · EUR</span>
+    </div>
+    <div class="card silver">
+      <div class="card-accent"></div>
+      <div class="card-meta"><div class="dot"></div><span class="card-name">Zilver</span></div>
+      <div class="price loading" id="silver-price">&nbsp;</div>
+      <div class="badge neutral" id="silver-change">laden...</div>
+      <span class="unit">per kilogram · EUR</span>
+    </div>
+  </div>
+
+  <div class="footer">
+    <span class="footer-note" id="fx-rate">Wisselkoers laden...</span>
+    <button class="refresh-btn" onclick="fetchPrices()">
+      <span class="spin" id="spin-icon">↻</span> ververs
+    </button>
+  </div>
+</div>
+
+<script>
+const TROY_TO_KG = 32.1507;
+
+/*
+  allorigins.win is a free CORS proxy that wraps any URL.
+  It returns: { contents: "<JSON string>", status: { ... } }
+  This bypasses CORS restrictions for static sites (GitHub Pages, Notion embeds).
+*/
+const PROXY = 'https://api.allorigins.win/get?url=';
+const GP_URL = encodeURIComponent('https://data-asg.goldprice.org/dbXRates/USD');
+const FX_URL = encodeURIComponent('https://open.er-api.com/v6/latest/USD');
+
+function eur(val) {
+  return new Intl.NumberFormat('nl-BE', {
+    style: 'currency', currency: 'EUR',
+    minimumFractionDigits: 0, maximumFractionDigits: 0
+  }).format(val);
+}
+
+function setCard(priceEl, badgeEl, priceKgEur, prevKgEur) {
+  priceEl.textContent = eur(priceKgEur);
+  priceEl.classList.remove('loading');
+
+  if (prevKgEur != null) {
+    const ch  = priceKgEur - prevKgEur;
+    const chp = (ch / prevKgEur) * 100;
+    const sign  = ch >= 0 ? '+' : '';
+    const arrow = ch >= 0 ? '↑' : '↓';
+    badgeEl.className = 'badge ' + (ch > 0 ? 'up' : ch < 0 ? 'down' : 'neutral');
+    badgeEl.textContent = arrow + ' ' + sign + eur(ch) + '  (' + sign + chp.toFixed(2) + '%)';
+  } else {
+    badgeEl.className = 'badge neutral';
+    badgeEl.textContent = '— geen change data';
+  }
+}
+
+async function fetchPrices() {
+  const spin = document.getElementById('spin-icon');
+  spin.classList.add('active');
+
+  try {
+    const [gpRes, fxRes] = await Promise.all([
+      fetch(PROXY + GP_URL),
+      fetch(PROXY + FX_URL)
+    ]);
+
+    if (!gpRes.ok) throw new Error('Proxy niet bereikbaar (' + gpRes.status + ')');
+    if (!fxRes.ok) throw new Error('Wisselkoers niet bereikbaar (' + fxRes.status + ')');
+
+    const gpWrapper = await gpRes.json();
+    const fxWrapper = await fxRes.json();
+
+    const gp = JSON.parse(gpWrapper.contents);
+    const fx = JSON.parse(fxWrapper.contents);
+
+    const eurRate = (fx.rates && fx.rates.EUR) ? fx.rates.EUR : 0.92;
+
+    /*
+      goldprice.org shape:
+      { items: [{ curr: "USD", xauPrice, xagPrice, chgXau, chgXag }] }
+    */
+    const item = gp.items && gp.items.find(i => i.curr === 'USD');
+    if (!item) throw new Error('Onverwacht dataformaat');
+
+    const goldOz     = item.xauPrice;
+    const silverOz   = item.xagPrice;
+    const goldChOz   = typeof item.chgXau === 'number' ? item.chgXau : null;
+    const silverChOz = typeof item.chgXag === 'number' ? item.chgXag : null;
+
+    const goldKgEur     = goldOz   * TROY_TO_KG * eurRate;
+    const silverKgEur   = silverOz * TROY_TO_KG * eurRate;
+    const goldPrevEur   = goldChOz   != null ? (goldOz   - goldChOz)   * TROY_TO_KG * eurRate : null;
+    const silverPrevEur = silverChOz != null ? (silverOz - silverChOz) * TROY_TO_KG * eurRate : null;
+
+    setCard(document.getElementById('gold-price'),   document.getElementById('gold-change'),   goldKgEur,   goldPrevEur);
+    setCard(document.getElementById('silver-price'), document.getElementById('silver-change'), silverKgEur, silverPrevEur);
+
+    const now = new Date().toLocaleTimeString('nl-BE', { hour: '2-digit', minute: '2-digit' });
+    document.getElementById('hdr-time').textContent = now;
+    document.getElementById('fx-rate').textContent  = 'USD/EUR ' + eurRate.toFixed(4) + ' · auto-refresh 1 min';
+
+  } catch (e) {
+    document.getElementById('fx-rate').textContent = 'Fout: ' + e.message;
+    ['gold-price', 'silver-price'].forEach(id => {
+      const el = document.getElementById(id);
+      el.textContent = '—';
+      el.classList.remove('loading');
+    });
+    ['gold-change', 'silver-change'].forEach(id => {
+      const el = document.getElementById(id);
+      el.className = 'badge neutral';
+      el.textContent = 'niet beschikbaar';
+    });
+  } finally {
+    spin.classList.remove('active');
+  }
+}
+
+fetchPrices();
+setInterval(fetchPrices, 60000);
+</script>
+</body>
+</html>
