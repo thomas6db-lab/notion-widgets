@@ -1,4 +1,4 @@
-name: Update metal prices
+name: Update prices
 
 on:
   schedule:
@@ -21,48 +21,101 @@ jobs:
           from io import StringIO
 
           TROY_TO_KG = 32.1507
+          HEADERS = {'User-Agent': 'Mozilla/5.0'}
 
-          headers = {'User-Agent': 'Mozilla/5.0'}
-
-          def fetch_stooq(symbol):
-              # stooq.com returns a CSV: Date,Open,High,Low,Close,Volume
-              # last row = most recent trading day
-              url = f'https://stooq.com/q/d/l/?s={symbol}&i=d'
-              req = urllib.request.Request(url, headers=headers)
-              with urllib.request.urlopen(req, timeout=15) as r:
-                  text = r.read().decode('utf-8')
-              rows = list(csv.DictReader(StringIO(text)))
-              # take last two rows for today + yesterday
-              today = rows[-1]
-              prev  = rows[-2] if len(rows) >= 2 else rows[-1]
-              return float(today['Close']), float(prev['Close'])
-
-          # XAU/USD and XAG/USD spot prices in USD per troy ounce
-          gold_now,   gold_prev   = fetch_stooq('xauusd')
-          silver_now, silver_prev = fetch_stooq('xagusd')
-
-          # EUR/USD via frankfurter.app
-          req = urllib.request.Request(
-              'https://api.frankfurter.app/latest?from=USD&to=EUR',
-              headers=headers
-          )
+          # EUR/USD rate
+          req = urllib.request.Request('https://api.frankfurter.app/latest?from=USD&to=EUR', headers=HEADERS)
           with urllib.request.urlopen(req, timeout=15) as r:
               eur = json.loads(r.read())['rates']['EUR']
 
-          def build(now, prev):
-              ch  = now - prev
-              pct = (ch / prev) * 100 if prev else 0
+          def fetch_stooq(symbol):
+              """Returns (price_usd, prev_price_usd) or None on failure."""
+              try:
+                  url = f'https://stooq.com/q/d/l/?s={symbol}&i=d'
+                  req = urllib.request.Request(url, headers=HEADERS)
+                  with urllib.request.urlopen(req, timeout=15) as r:
+                      text = r.read().decode('utf-8')
+                  rows = list(csv.DictReader(StringIO(text)))
+                  if len(rows) < 2:
+                      return None
+                  return float(rows[-1]['Close']), float(rows[-2]['Close'])
+              except Exception as e:
+                  print(f'  WARN {symbol}: {e}')
+                  return None
+
+          def build_usd(symbol, multiply=1.0):
+              """Asset priced in USD, convert to EUR."""
+              result = fetch_stooq(symbol)
+              if not result:
+                  return None
+              now, prev = result
+              now  *= multiply
+              prev *= multiply
+              ch    = now - prev
+              pct   = round((ch / prev) * 100, 2) if prev else 0
               return {
-                  'priceKgEur':  round(now * TROY_TO_KG * eur),
-                  'changeKgEur': round(ch  * TROY_TO_KG * eur),
-                  'changePct':   round(pct, 2)
+                  'priceEur':  round(now  * eur, 2),
+                  'changeEur': round(ch   * eur, 2),
+                  'changePct': pct
               }
+
+          def build_eur(symbol):
+              """Asset already priced in EUR (European stocks/ETFs)."""
+              result = fetch_stooq(symbol)
+              if not result:
+                  return None
+              now, prev = result
+              ch  = now - prev
+              pct = round((ch / prev) * 100, 2) if prev else 0
+              return {
+                  'priceEur':  round(now, 2),
+                  'changeEur': round(ch,  2),
+                  'changePct': pct
+              }
+
+          assets = {}
+
+          # --- Edelmetalen (USD/troy oz → EUR/kg) ---
+          r = fetch_stooq('xauusd')
+          if r:
+              now, prev = r
+              ch = (now - prev) * TROY_TO_KG * eur
+              assets['gold'] = {
+                  'priceEur':  round(now * TROY_TO_KG * eur),
+                  'changeEur': round(ch),
+                  'changePct': round(((now-prev)/prev)*100, 2)
+              }
+
+          r = fetch_stooq('xagusd')
+          if r:
+              now, prev = r
+              ch = (now - prev) * TROY_TO_KG * eur
+              assets['silver'] = {
+                  'priceEur':  round(now * TROY_TO_KG * eur),
+                  'changeEur': round(ch),
+                  'changePct': round(((now-prev)/prev)*100, 2)
+              }
+
+          # --- Crypto (USD → EUR) ---
+          assets['btc']  = build_usd('btcusd')
+          assets['ada']  = build_usd('adausd')
+
+          # --- Aandelen & ETFs ---
+          # GOOGL trades in USD on NASDAQ
+          assets['googl'] = build_usd('googl.us')
+
+          # European ETFs — traded in EUR on Euronext/Xetra
+          # EUNL = iShares Core MSCI World (Xetra, EUR)
+          assets['eunl'] = build_eur('eunl.de')
+          # SLMC = iShares MSCI World Small Cap (Xetra, EUR)
+          assets['slmc'] = build_eur('slmc.de')
+          # WTD8 = WisdomTree Global Quality Dividend Growth (Xetra, EUR)
+          assets['wtd8'] = build_eur('wtd8.de')
 
           data = {
               'updated': datetime.datetime.utcnow().strftime('%d/%m %H:%M') + ' UTC',
               'eurRate': round(eur, 6),
-              'gold':   build(gold_now,   gold_prev),
-              'silver': build(silver_now, silver_prev)
+              'assets':  assets
           }
 
           with open('prices.json', 'w') as f:
@@ -76,5 +129,5 @@ jobs:
           git config user.name  "prices-bot"
           git config user.email "bot@users.noreply.github.com"
           git add prices.json
-          git diff --staged --quiet || git commit -m "chore: update metal prices"
+          git diff --staged --quiet || git commit -m "chore: update prices"
           git push
