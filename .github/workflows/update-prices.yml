@@ -17,53 +17,52 @@ jobs:
       - name: Fetch & compute prices
         run: |
           python3 - <<'EOF'
-          import urllib.request, json, datetime
+          import urllib.request, json, csv, datetime
+          from io import StringIO
 
           TROY_TO_KG = 32.1507
 
-          headers = {
-              'User-Agent': 'Mozilla/5.0 (compatible; price-bot/1.0)',
-              'Accept': 'application/json'
-          }
+          headers = {'User-Agent': 'Mozilla/5.0'}
 
-          # Yahoo Finance: GC=F = Gold futures, SI=F = Silver futures
-          url = 'https://query1.finance.yahoo.com/v7/finance/quote?symbols=GC%3DF%2CSI%3DF&fields=regularMarketPrice,regularMarketPreviousClose,currency'
+          def fetch_stooq(symbol):
+              # stooq.com returns a CSV: Date,Open,High,Low,Close,Volume
+              # last row = most recent trading day
+              url = f'https://stooq.com/q/d/l/?s={symbol}&i=d'
+              req = urllib.request.Request(url, headers=headers)
+              with urllib.request.urlopen(req, timeout=15) as r:
+                  text = r.read().decode('utf-8')
+              rows = list(csv.DictReader(StringIO(text)))
+              # take last two rows for today + yesterday
+              today = rows[-1]
+              prev  = rows[-2] if len(rows) >= 2 else rows[-1]
+              return float(today['Close']), float(prev['Close'])
 
-          req = urllib.request.Request(url, headers=headers)
-          with urllib.request.urlopen(req, timeout=15) as r:
-              yf = json.loads(r.read())
+          # XAU/USD and XAG/USD spot prices in USD per troy ounce
+          gold_now,   gold_prev   = fetch_stooq('xauusd')
+          silver_now, silver_prev = fetch_stooq('xagusd')
 
-          results = yf['quoteResponse']['result']
-          gold   = next(q for q in results if q['symbol'] == 'GC=F')
-          silver = next(q for q in results if q['symbol'] == 'SI=F')
-
-          # Yahoo quotes are in USD per troy ounce
-          # FX: EUR/USD via frankfurter.app (free, no auth needed)
-          req2 = urllib.request.Request(
+          # EUR/USD via frankfurter.app
+          req = urllib.request.Request(
               'https://api.frankfurter.app/latest?from=USD&to=EUR',
               headers=headers
           )
-          with urllib.request.urlopen(req2, timeout=15) as r:
-              fx = json.loads(r.read())
+          with urllib.request.urlopen(req, timeout=15) as r:
+              eur = json.loads(r.read())['rates']['EUR']
 
-          eur = fx['rates']['EUR']
-
-          def build(q):
-              price = q['regularMarketPrice']
-              prev  = q['regularMarketPreviousClose']
-              ch    = price - prev
-              pct   = (ch / prev) * 100 if prev else 0
+          def build(now, prev):
+              ch  = now - prev
+              pct = (ch / prev) * 100 if prev else 0
               return {
-                  'priceKgEur':  round(price * TROY_TO_KG * eur),
-                  'changeKgEur': round(ch    * TROY_TO_KG * eur),
+                  'priceKgEur':  round(now * TROY_TO_KG * eur),
+                  'changeKgEur': round(ch  * TROY_TO_KG * eur),
                   'changePct':   round(pct, 2)
               }
 
           data = {
               'updated': datetime.datetime.utcnow().strftime('%d/%m %H:%M') + ' UTC',
               'eurRate': round(eur, 6),
-              'gold':   build(gold),
-              'silver': build(silver)
+              'gold':   build(gold_now,   gold_prev),
+              'silver': build(silver_now, silver_prev)
           }
 
           with open('prices.json', 'w') as f:
