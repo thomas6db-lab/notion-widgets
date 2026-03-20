@@ -1,5 +1,5 @@
 {
-  "updated": "20/03 21:19 UTC",
+  "updated": "20/03 21:24 UTC",
   "eurRate": 0.86543,
   "assets": {
     "gold": {
@@ -13,14 +13,14 @@
       "changePct": -7.09
     },
     "btc": {
-      "priceEur": 60837,
-      "changeEur": -117.94,
-      "changePct": -0.19
+      "priceEur": 60840,
+      "changeEur": -58.7,
+      "changePct": -0.1
     },
     "ada": {
-      "priceEur": 0.23,
-      "changeEur": -0.0,
-      "changePct": -1.4
+      "priceEur": 0.229,
+      "changeEur": -0.0025,
+      "changePct": -1.08
     },
     "googl": {
       "priceEur": 260.49,
@@ -32,7 +32,15 @@
       "changeEur": -1.86,
       "changePct": -1.67
     },
-    "msci_europe": null,
-    "em": null
+    "msci_europe": {
+      "priceEur": 92.73,
+      "changeEur": -2.36,
+      "changePct": -2.48
+    },
+    "em": {
+      "priceEur": 39.7,
+      "changeEur": -0.84,
+      "changePct": -2.07
+    }
   }
 }
