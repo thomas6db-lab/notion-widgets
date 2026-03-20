@@ -83,8 +83,7 @@ jobs:
                   chp   = d.get('eur_24h_change', 0) or 0
                   prev  = price / (1 + chp / 100) if chp != -100 else price
                   ch    = price - prev
-                  # Use 4 decimals for small-value coins like ADA
-                  dec = 4 if price < 10 else 2
+                  dec   = 4 if price < 10 else 2
                   result[cid] = {
                       'priceEur':  round(price, dec),
                       'changeEur': round(ch,    dec),
@@ -127,16 +126,10 @@ jobs:
               assets['ada'] = None
 
           # Aandelen & ETFs
-          assets['googl'] = build_usd('googl.us')
-
-          # EUNL  → iShares Core MSCI World (Xetra, EUR)
-          assets['eunl']  = build_eur('eunl.de')
-
-          # EUNK  → iShares Core MSCI Europe (Xetra, EUR)  ← gecorrigeerd
-          assets['msci_europe'] = build_eur('eunk.de')
-
-          # EMIM  → iShares Core MSCI EM IMI (Euronext Amsterdam, EUR)  ← gecorrigeerd
-          assets['em'] = build_eur('emim.nl')
+          assets['googl']       = build_usd('googl.us')
+          assets['eunl']        = build_eur('eunl.de')        # iShares MSCI World
+          assets['msci_europe'] = build_eur('slmc.de')        # iShares MSCI Europe Screened (IE00BFNM3D14)
+          assets['em']          = build_eur('wtd8.de')        # WisdomTree EM Equity Income (IE00BDF12W49)
 
           data = {
               'updated': datetime.datetime.utcnow().strftime('%d/%m %H:%M') + ' UTC',
