@@ -37,27 +37,36 @@ jobs:
                       text = r.read().decode('utf-8')
                   rows = list(csv.DictReader(StringIO(text)))
                   if len(rows) < 2:
+                      print(f'  WARN {symbol}: minder dan 2 rijen')
                       return None
                   return float(rows[-1]['Close']), float(rows[-2]['Close'])
               except Exception as e:
                   print(f'  WARN stooq {symbol}: {e}')
                   return None
 
-          def build_usd(symbol):
+          def build_usd(symbol, decimals=2):
               r = fetch_stooq(symbol)
               if not r: return None
               now, prev = r
               ch  = now - prev
               pct = round((ch / prev) * 100, 2) if prev else 0
-              return {'priceEur': round(now * eur, 2), 'changeEur': round(ch * eur, 2), 'changePct': pct}
+              return {
+                  'priceEur':  round(now * eur, decimals),
+                  'changeEur': round(ch  * eur, decimals),
+                  'changePct': pct
+              }
 
-          def build_eur(symbol):
+          def build_eur(symbol, decimals=2):
               r = fetch_stooq(symbol)
               if not r: return None
               now, prev = r
               ch  = now - prev
               pct = round((ch / prev) * 100, 2) if prev else 0
-              return {'priceEur': round(now, 2), 'changeEur': round(ch, 2), 'changePct': pct}
+              return {
+                  'priceEur':  round(now, decimals),
+                  'changeEur': round(ch,  decimals),
+                  'changePct': pct
+              }
 
           # ── CoinGecko (crypto) ────────────────────────────────────────
           def fetch_coingecko(ids):
@@ -74,9 +83,11 @@ jobs:
                   chp   = d.get('eur_24h_change', 0) or 0
                   prev  = price / (1 + chp / 100) if chp != -100 else price
                   ch    = price - prev
+                  # Use 4 decimals for small-value coins like ADA
+                  dec = 4 if price < 10 else 2
                   result[cid] = {
-                      'priceEur':  round(price, 2),
-                      'changeEur': round(ch,    2),
+                      'priceEur':  round(price, dec),
+                      'changeEur': round(ch,    dec),
                       'changePct': round(chp,   2)
                   }
               return result
@@ -84,7 +95,7 @@ jobs:
           # ── Fetch all ─────────────────────────────────────────────────
           assets = {}
 
-          # Edelmetalen
+          # Edelmetalen (USD/troy oz → EUR/kg)
           r = fetch_stooq('xauusd')
           if r:
               now, prev = r
@@ -117,12 +128,15 @@ jobs:
 
           # Aandelen & ETFs
           assets['googl'] = build_usd('googl.us')
-          # EUNL  → iShares Core MSCI World (Xetra)
+
+          # EUNL  → iShares Core MSCI World (Xetra, EUR)
           assets['eunl']  = build_eur('eunl.de')
-          # IMAE  → iShares Core MSCI Europe (Xetra)
-          assets['msci_europe'] = build_eur('imae.de')
-          # EIMI  → iShares Core MSCI Emerging Markets IMI (Xetra)
-          assets['em']    = build_eur('eimi.de')
+
+          # EUNK  → iShares Core MSCI Europe (Xetra, EUR)  ← gecorrigeerd
+          assets['msci_europe'] = build_eur('eunk.de')
+
+          # EMIM  → iShares Core MSCI EM IMI (Euronext Amsterdam, EUR)  ← gecorrigeerd
+          assets['em'] = build_eur('emim.nl')
 
           data = {
               'updated': datetime.datetime.utcnow().strftime('%d/%m %H:%M') + ' UTC',
