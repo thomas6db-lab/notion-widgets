@@ -1,19 +1,19 @@
 {
-  "updated": "20/03 23:53",
+  "updated": "21/03 00:03",
   "timezone": "Europe/Brussels",
-  "todayLabel": "20 march",
-  "tomorrowLabel": "21 march",
-  "today": [
+  "todayLabel": "21 march",
+  "tomorrowLabel": "22 march",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "6606-640980@ufora.ugent.be",
-      "summary": "Special Session 1 - online - Verwacht",
-      "location": "F000892A - Innovation Management",
-      "start": "2026-03-20T17:00:00",
-      "end": "2026-03-20T17:00:00",
+      "uid": "0ds4bv5tdm4eu2hgdnfjnttb1g_R20260322T160000@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "location": "",
+      "start": "2026-03-22T17:00:00",
+      "end": "2026-03-22T18:00:00",
       "allDay": false,
-      "day": "today",
-      "calendar": "ufora"
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
