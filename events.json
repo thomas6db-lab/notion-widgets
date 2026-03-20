@@ -1,8 +1,30 @@
 {
-  "updated": "20/03 23:37",
+  "updated": "20/03 23:43",
   "timezone": "Europe/Brussels",
   "todayLabel": "20 march",
   "tomorrowLabel": "21 march",
-  "today": [],
-  "firstTomorrow": []
+  "today": [
+    {
+      "uid": "00ffb4085e064c4d91f5848637923f21@google.com",
+      "summary": "Belang",
+      "location": "",
+      "start": "2026-03-20T23:30:00",
+      "end": "2026-03-21T00:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "ba7eeafb90644e45b07c2bf0b2f64c29@google.com",
+      "summary": "Ok",
+      "location": "",
+      "start": "2026-03-21T07:00:00",
+      "end": "2026-03-21T10:30:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
+    }
+  ]
 }
