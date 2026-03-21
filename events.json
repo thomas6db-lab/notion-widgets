@@ -1,5 +1,5 @@
 {
-  "updated": "21/03 18:54",
+  "updated": "21/03 20:04",
   "timezone": "Europe/Brussels",
   "todayLabel": "21 march",
   "tomorrowLabel": "22 march",
@@ -17,14 +17,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "0ds4bv5tdm4eu2hgdnfjnttb1g_R20260322T160000@google.com",
-      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "uid": "e9b290c1b7754cb494819e52b7bdcfd5@google.com",
+      "summary": "Thesis",
       "location": "",
-      "start": "2026-03-22T17:00:00",
-      "end": "2026-03-22T18:00:00",
+      "start": "2026-03-22T09:30:00",
+      "end": "2026-03-22T13:00:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     }
   ]
 }
