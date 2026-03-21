@@ -1,5 +1,5 @@
 {
-  "updated": "21/03 10:56 UTC",
+  "updated": "21/03 13:55 UTC",
   "eurRate": 0.86543,
   "assets": {
     "gold": {
@@ -13,14 +13,14 @@
       "changePct": -7.09
     },
     "btc": {
-      "priceEur": 60911,
-      "changeEur": -167.27,
-      "changePct": -0.27
+      "priceEur": 61039,
+      "changeEur": 532.31,
+      "changePct": 0.88
     },
     "ada": {
       "priceEur": 0.228,
-      "changeEur": -0.0049,
-      "changePct": -2.09
+      "changeEur": -0.003,
+      "changePct": -1.3
     },
     "googl": {
       "priceEur": 260.49,
