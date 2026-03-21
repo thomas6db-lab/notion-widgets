@@ -1,9 +1,20 @@
 {
-  "updated": "21/03 00:55",
+  "updated": "21/03 05:55",
   "timezone": "Europe/Brussels",
   "todayLabel": "21 march",
   "tomorrowLabel": "22 march",
-  "today": [],
+  "today": [
+    {
+      "uid": "2b377da6f47d4de785bcdc92d160cb12@google.com",
+      "summary": "Agenda maken upcoming 2w",
+      "location": "",
+      "start": "2026-03-21T22:00:00",
+      "end": "2026-03-21T22:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
   "firstTomorrow": [
     {
       "uid": "0ds4bv5tdm4eu2hgdnfjnttb1g_R20260322T160000@google.com",
