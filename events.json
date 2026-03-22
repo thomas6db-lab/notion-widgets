@@ -1,41 +1,9 @@
 {
-  "updated": "22/03 23:56",
+  "updated": "23/03 00:57",
   "timezone": "Europe/Brussels",
-  "todayLabel": "22 march",
-  "tomorrowLabel": "23 march",
+  "todayLabel": "23 march",
+  "tomorrowLabel": "24 march",
   "today": [
-    {
-      "uid": "e9b290c1b7754cb494819e52b7bdcfd5@google.com",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-03-22T09:30:00",
-      "end": "2026-03-22T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "4f0dg87lushmm5mgo06r80plsj@google.com",
-      "summary": "Merch",
-      "location": "",
-      "start": "2026-03-22T16:15:00",
-      "end": "2026-03-22T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "0ds4bv5tdm4eu2hgdnfjnttb1g_R20260322T160000@google.com",
-      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
-      "location": "",
-      "start": "2026-03-22T17:00:00",
-      "end": "2026-03-22T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "e9094dcc029e4ce6a4a41ae01196307a@google.com",
       "summary": "Mama Lize 🥀",
@@ -43,8 +11,40 @@
       "start": "2026-03-23",
       "end": "2026-03-24",
       "allDay": true,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "1da81ldbajg4c4gep5o0adrp3a@google.com",
+      "summary": "MM",
+      "location": "",
+      "start": "2026-03-23T13:00:00",
+      "end": "2026-03-23T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "24eaa3d2a5704d6e931837883540a1b2@google.com",
+      "summary": "Date my doctor",
+      "location": "",
+      "start": "2026-03-23T20:00:00",
+      "end": "2026-03-23T23:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "fthi9u2v7o8h0voubqntnrgic0@google.com",
+      "summary": "Afspraak: Oplichting met internet - Commissariaat Lievegem",
+      "location": "Commissariaat Lievegem, Sportlaan 1, 9930 Lievegem",
+      "start": "2026-03-24T09:00:00",
+      "end": "2026-03-24T10:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
