@@ -1,26 +1,26 @@
 {
-  "updated": "22/03 22:57 UTC",
+  "updated": "23/03 05:50 UTC",
   "eurRate": 0.86543,
   "assets": {
     "gold": {
-      "priceEur": 125040,
-      "changeEur": -4489,
-      "changePct": -3.47
+      "priceEur": 120230,
+      "changeEur": -4811,
+      "changePct": -3.85
     },
     "silver": {
-      "priceEur": 1890,
-      "changeEur": -144,
-      "changePct": -7.09
+      "priceEur": 1787,
+      "changeEur": -103,
+      "changePct": -5.44
     },
     "btc": {
-      "priceEur": 59096,
-      "changeEur": -1566.66,
-      "changePct": -2.58
+      "priceEur": 59475,
+      "changeEur": -238.62,
+      "changePct": -0.4
     },
     "ada": {
-      "priceEur": 0.2179,
-      "changeEur": -0.0106,
-      "changePct": -4.63
+      "priceEur": 0.2182,
+      "changeEur": -0.0041,
+      "changePct": -1.86
     },
     "googl": {
       "priceEur": 260.49,
