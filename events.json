@@ -1,19 +1,9 @@
 {
-  "updated": "23/03 12:30",
+  "updated": "23/03 15:46",
   "timezone": "Europe/Brussels",
   "todayLabel": "23 march",
   "tomorrowLabel": "24 march",
   "today": [
-    {
-      "uid": "e9094dcc029e4ce6a4a41ae01196307a@google.com",
-      "summary": "Mama Lize 🥀",
-      "location": "",
-      "start": "2026-03-23",
-      "end": "2026-03-24",
-      "allDay": true,
-      "day": "today",
-      "calendar": "tectonic"
-    },
     {
       "uid": "1da81ldbajg4c4gep5o0adrp3a@google.com",
       "summary": "MM",
