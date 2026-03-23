@@ -1,31 +1,9 @@
 {
-  "updated": "23/03 22:51",
+  "updated": "24/03 00:04",
   "timezone": "Europe/Brussels",
-  "todayLabel": "23 march",
-  "tomorrowLabel": "24 march",
+  "todayLabel": "24 march",
+  "tomorrowLabel": "25 march",
   "today": [
-    {
-      "uid": "1da81ldbajg4c4gep5o0adrp3a@google.com",
-      "summary": "MM",
-      "location": "",
-      "start": "2026-03-23T13:00:00",
-      "end": "2026-03-23T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "24eaa3d2a5704d6e931837883540a1b2@google.com",
-      "summary": "Date my doctor",
-      "location": "",
-      "start": "2026-03-23T20:00:00",
-      "end": "2026-03-23T23:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "fthi9u2v7o8h0voubqntnrgic0@google.com",
       "summary": "Afspraak: Oplichting met internet - Commissariaat Lievegem",
@@ -33,8 +11,60 @@
       "start": "2026-03-24T09:00:00",
       "end": "2026-03-24T10:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "ca83a43790e049a48a5e8adcfbb5c886@google.com",
+      "summary": "Bekijken BV Normalisations!",
+      "location": "",
+      "start": "2026-03-24T10:00:00",
+      "end": "2026-03-24T12:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "14449D5C-08A5-4F2E-B157-AAEEE915DBA6",
+      "summary": "Verplichte les",
+      "location": "",
+      "start": "2026-03-24T13:00:00",
+      "end": "2026-03-24T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1535622--1179705713-0@timeedit.com",
+      "summary": "F000898A. Business Valuation, hoorcollege",
+      "location": "Leslokaal 0.1. Dunant 1. Campus Dunant. Henri Dunantlaan 1",
+      "start": "2026-03-24T13:00:00",
+      "end": "2026-03-24T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "954C108D-964F-4A39-B30D-8D2D89E93FD9",
+      "summary": "Fuckup nights - Tectonic",
+      "location": "Wintercircus\nLammerstraat 13, 9000 Gent, België",
+      "start": "2026-03-24T19:00:00",
+      "end": "2026-03-24T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1530297--1179705713-0@timeedit.com",
+      "summary": "F000700B. Managing Service Organisations, hoorcollege",
+      "location": "Leslokaal 1.1 Jans Jacob Berzelius. S3. Campus Sterre. Krijgslaan 289",
+      "start": "2026-03-25T08:30:00",
+      "end": "2026-03-25T11:30:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "timeedit"
     }
   ]
 }
