@@ -1,5 +1,5 @@
 {
-  "updated": "25/03 09:02",
+  "updated": "25/03 11:34",
   "timezone": "Europe/Brussels",
   "todayLabel": "25 march",
   "tomorrowLabel": "26 march",
@@ -13,6 +13,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "timeedit"
+    },
+    {
+      "uid": "9256B690-B89A-4265-80F8-B143EC247801",
+      "summary": "Too Good To Go - AKUMA",
+      "location": "Kon. Astridlaan 207, 9000 Gent, België",
+      "start": "2026-03-25T11:00:00",
+      "end": "2026-03-25T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     },
     {
       "uid": "35aaj9oiugrjosg4tbua7qbn3r@google.com",
