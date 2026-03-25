@@ -1,67 +1,47 @@
 {
-  "updated": "25/03 22:06",
+  "updated": "26/03 00:03",
   "timezone": "Europe/Brussels",
-  "todayLabel": "25 march",
-  "tomorrowLabel": "26 march",
+  "todayLabel": "26 march",
+  "tomorrowLabel": "27 march",
   "today": [
     {
-      "uid": "1530297--1179705713-0@timeedit.com",
-      "summary": "F000700B. Managing Service Organisations, hoorcollege",
-      "location": "Leslokaal 1.1 Jans Jacob Berzelius. S3. Campus Sterre. Krijgslaan 289",
-      "start": "2026-03-25T08:30:00",
-      "end": "2026-03-25T11:30:00",
+      "uid": "6606-633953@ufora.ugent.be",
+      "summary": "Legitimation absence special session 2 - Verwacht",
+      "location": "F000892A - Innovation Management",
+      "start": "2026-03-26T11:30:00",
+      "end": "2026-03-26T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "ufora"
+    },
+    {
+      "uid": "1538037--1179705713-0@timeedit.com",
+      "summary": "F000943A. Advanced Investment Analysis, hoorcollege",
+      "location": "Auditorium A. Sint-Pietersplein 7. Campus Tweekerken. Sint-Pietersplein 7",
+      "start": "2026-03-26T13:00:00",
+      "end": "2026-03-26T16:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "timeedit"
     },
     {
-      "uid": "9256B690-B89A-4265-80F8-B143EC247801",
-      "summary": "Too Good To Go - AKUMA",
-      "location": "Kon. Astridlaan 207, 9000 Gent, België",
-      "start": "2026-03-25T11:00:00",
-      "end": "2026-03-25T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "35aaj9oiugrjosg4tbua7qbn3r@google.com",
-      "summary": "Stickers bestellen",
+      "uid": "0abde2923nqmsnav8dum4btubn@google.com",
+      "summary": "Meeting",
       "location": "",
-      "start": "2026-03-25T16:00:00",
-      "end": "2026-03-25T16:45:00",
+      "start": "2026-03-26T18:00:00",
+      "end": "2026-03-26T19:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
-    },
-    {
-      "uid": "6a72d173cc0145c48aa99648f4122473@google.com",
-      "summary": "Thesiscall",
-      "location": "",
-      "start": "2026-03-25T17:00:00",
-      "end": "2026-03-25T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "8877625a1dde4f2989a81344f251638e@google.com",
-      "summary": "Merch checken!",
-      "location": "",
-      "start": "2026-03-25T20:00:00",
-      "end": "2026-03-25T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
     }
   ],
   "firstTomorrow": [
     {
-      "uid": "a15l7i6c7v9tukgo9mq8det3vg@google.com",
-      "summary": "🚆 Trein GSP → Antwerpen-Centraal + tram naar Waagnatie",
-      "location": "Gent-Sint-Pieters",
-      "start": "2026-03-26T07:27:00",
-      "end": "2026-03-26T08:50:00",
+      "uid": "317AAEEE-07A9-456D-B397-8DEC491ADC4E",
+      "summary": "Verplichte les!",
+      "location": "",
+      "start": "2026-03-27T09:00:00",
+      "end": "2026-03-27T13:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
