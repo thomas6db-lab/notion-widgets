@@ -1,5 +1,5 @@
 {
-  "updated": "25/03 20:30",
+  "updated": "25/03 22:06",
   "timezone": "Europe/Brussels",
   "todayLabel": "25 march",
   "tomorrowLabel": "26 march",
@@ -57,11 +57,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "ctlo9tgitjdrj7bil2fgh5aqm0@google.com",
-      "summary": "🚲 Fiets Lievegem → Gent-Sint-Pieters",
-      "location": "",
-      "start": "2026-03-26T06:45:00",
-      "end": "2026-03-26T07:20:00",
+      "uid": "a15l7i6c7v9tukgo9mq8det3vg@google.com",
+      "summary": "🚆 Trein GSP → Antwerpen-Centraal + tram naar Waagnatie",
+      "location": "Gent-Sint-Pieters",
+      "start": "2026-03-26T07:27:00",
+      "end": "2026-03-26T08:50:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
