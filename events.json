@@ -1,5 +1,5 @@
 {
-  "updated": "26/03 12:37",
+  "updated": "26/03 16:57",
   "timezone": "Europe/Brussels",
   "todayLabel": "26 march",
   "tomorrowLabel": "27 march",
@@ -33,16 +33,6 @@
       "allDay": false,
       "day": "today",
       "calendar": "timeedit"
-    },
-    {
-      "uid": "0abde2923nqmsnav8dum4btubn@google.com",
-      "summary": "Meeting",
-      "location": "",
-      "start": "2026-03-26T18:00:00",
-      "end": "2026-03-26T19:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
     }
   ],
   "firstTomorrow": [
