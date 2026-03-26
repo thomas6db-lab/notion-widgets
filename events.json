@@ -1,5 +1,5 @@
 {
-  "updated": "26/03 09:37",
+  "updated": "26/03 12:37",
   "timezone": "Europe/Brussels",
   "todayLabel": "26 march",
   "tomorrowLabel": "27 march",
@@ -13,6 +13,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "ufora"
+    },
+    {
+      "uid": "cd5793ce09bd4eca84480aec96dd7fc7@google.com",
+      "summary": "Munten ophalen",
+      "location": "",
+      "start": "2026-03-26T12:30:00",
+      "end": "2026-03-26T13:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     },
     {
       "uid": "1538037--1179705713-0@timeedit.com",
