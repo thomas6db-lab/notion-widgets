@@ -1,47 +1,87 @@
 {
-  "updated": "26/03 22:57",
+  "updated": "27/03 00:00",
   "timezone": "Europe/Brussels",
-  "todayLabel": "26 march",
-  "tomorrowLabel": "27 march",
+  "todayLabel": "27 march",
+  "tomorrowLabel": "28 march",
   "today": [
-    {
-      "uid": "6606-633953@ufora.ugent.be",
-      "summary": "Legitimation absence special session 2 - Verwacht",
-      "location": "F000892A - Innovation Management",
-      "start": "2026-03-26T11:30:00",
-      "end": "2026-03-26T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "ufora"
-    },
-    {
-      "uid": "cd5793ce09bd4eca84480aec96dd7fc7@google.com",
-      "summary": "Munten ophalen",
-      "location": "",
-      "start": "2026-03-26T12:30:00",
-      "end": "2026-03-26T13:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1538037--1179705713-0@timeedit.com",
-      "summary": "F000943A. Advanced Investment Analysis, hoorcollege",
-      "location": "Auditorium A. Sint-Pietersplein 7. Campus Tweekerken. Sint-Pietersplein 7",
-      "start": "2026-03-26T13:00:00",
-      "end": "2026-03-26T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "317AAEEE-07A9-456D-B397-8DEC491ADC4E",
       "summary": "Verplichte les!",
       "location": "",
       "start": "2026-03-27T09:00:00",
       "end": "2026-03-27T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1459949--1179705713-0@timeedit.com",
+      "summary": "F000892A. Innovation Management, F000892B. Innovatiemanagement, F000892O. Innovation Management, hoorcollege",
+      "location": "Auditorium D - André Devreker. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
+      "start": "2026-03-27T09:00:00",
+      "end": "2026-03-27T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "3786e3c9f3d34c35b203f91131860f96@google.com",
+      "summary": "Ophalen borstnummer Sofico",
+      "location": "",
+      "start": "2026-03-27T13:00:00",
+      "end": "2026-03-27T13:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "afcf228b26cb489fbb0ce69025925c30@google.com",
+      "summary": "HRM verplichte les",
+      "location": "",
+      "start": "2026-03-27T13:30:00",
+      "end": "2026-03-27T15:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "232a1e55cda041d3a86dd8140e9d2430@google.com",
+      "summary": "Thesiscall",
+      "location": "",
+      "start": "2026-03-27T16:00:00",
+      "end": "2026-03-27T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "ahgn6avvg8ira07o04b7jqn6o4@google.com",
+      "summary": "Tectonic x Elias Jansen",
+      "location": "",
+      "start": "2026-03-27T17:00:00",
+      "end": "2026-03-27T17:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "ff090aa1ffbd40d299e7ff0715e2531f@google.com",
+      "summary": "Event Antwerpen",
+      "location": "",
+      "start": "2026-03-27T17:30:00",
+      "end": "2026-03-28T00:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "ba61a2331e0a4da1b3f59bfd0aab3674@google.com",
+      "summary": "Thesis Methode @ L-E",
+      "location": "",
+      "start": "2026-03-28T09:00:00",
+      "end": "2026-03-28T14:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
