@@ -1,111 +1,9 @@
 {
-  "updated": "27/03 22:52",
+  "updated": "28/03 00:06",
   "timezone": "Europe/Brussels",
-  "todayLabel": "27 march",
-  "tomorrowLabel": "28 march",
+  "todayLabel": "28 march",
+  "tomorrowLabel": "29 march",
   "today": [
-    {
-      "uid": "317AAEEE-07A9-456D-B397-8DEC491ADC4E",
-      "summary": "Verplichte les!",
-      "location": "",
-      "start": "2026-03-27T09:00:00",
-      "end": "2026-03-27T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1459949--1179705713-0@timeedit.com",
-      "summary": "F000892A. Innovation Management, F000892B. Innovatiemanagement, F000892O. Innovation Management, hoorcollege",
-      "location": "Auditorium D - André Devreker. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
-      "start": "2026-03-27T09:00:00",
-      "end": "2026-03-27T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "a96fdfa8d09746afb5352869361f8154@google.com",
-      "summary": "Eten Jens",
-      "location": "",
-      "start": "2026-03-27T13:00:00",
-      "end": "2026-03-27T13:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "afcf228b26cb489fbb0ce69025925c30@google.com",
-      "summary": "HRM verplichte les",
-      "location": "",
-      "start": "2026-03-27T13:30:00",
-      "end": "2026-03-27T15:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "6606-643127@ufora.ugent.be",
-      "summary": "Special Session 2 - on-campus - Verwacht",
-      "location": "F000892A - Innovation Management",
-      "start": "2026-03-27T15:00:00",
-      "end": "2026-03-27T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "ufora"
-    },
-    {
-      "uid": "b7ef982a07bc4afaae12a66e576d2062@google.com",
-      "summary": "Ophalen borstnummer",
-      "location": "",
-      "start": "2026-03-27T15:30:00",
-      "end": "2026-03-27T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "232a1e55cda041d3a86dd8140e9d2430@google.com",
-      "summary": "Thesiscall",
-      "location": "",
-      "start": "2026-03-27T16:00:00",
-      "end": "2026-03-27T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "ahgn6avvg8ira07o04b7jqn6o4@google.com",
-      "summary": "Tectonic x Elias Jansen",
-      "location": "",
-      "start": "2026-03-27T17:00:00",
-      "end": "2026-03-27T17:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "ff090aa1ffbd40d299e7ff0715e2531f@google.com",
-      "summary": "Event Antwerpen",
-      "location": "",
-      "start": "2026-03-27T17:30:00",
-      "end": "2026-03-28T00:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "ada7af8564234c9684ed0bd4ac3b7a52@google.com",
-      "summary": "Call L-E",
-      "location": "",
-      "start": "2026-03-27T18:30:00",
-      "end": "2026-03-27T19:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "ba61a2331e0a4da1b3f59bfd0aab3674@google.com",
       "summary": "Thesis Methode @ L-E",
@@ -113,8 +11,40 @@
       "start": "2026-03-28T09:00:00",
       "end": "2026-03-28T14:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "55EFE791-3B1B-4CA0-BA52-9640C9CDD77B",
+      "summary": "🎩 🚬PEUKENRAAP GENT",
+      "location": "Stadshal",
+      "start": "2026-03-28T14:00:00",
+      "end": "2026-03-28T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "53deb82134cd423ca1a37ca71c45e46d@google.com",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-03-28T15:00:00",
+      "end": "2026-03-28T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "20260329_ontnnkhrpb93tv3jhg7g5i05rk@google.com",
+      "summary": "Begin zomertijd",
+      "location": "",
+      "start": "2026-03-29",
+      "end": "2026-03-30",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "feestdagen"
     }
   ]
 }
