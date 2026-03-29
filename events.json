@@ -1,111 +1,9 @@
 {
-  "updated": "29/03 23:02",
+  "updated": "30/03 00:03",
   "timezone": "Europe/Brussels",
-  "todayLabel": "29 march",
-  "tomorrowLabel": "30 march",
+  "todayLabel": "30 march",
+  "tomorrowLabel": "31 march",
   "today": [
-    {
-      "uid": "20260329_ontnnkhrpb93tv3jhg7g5i05rk@google.com",
-      "summary": "Begin zomertijd",
-      "location": "",
-      "start": "2026-03-29",
-      "end": "2026-03-30",
-      "allDay": true,
-      "day": "today",
-      "calendar": "feestdagen"
-    },
-    {
-      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a@google.com",
-      "summary": "Getting Sh*t Done day [in-person]",
-      "location": "Voka - Kamer van Koophandel Gent (Oost-Vlaanderen), Lammerstraat 18, 9000 Gent, Belgium",
-      "start": "2026-03-29T09:00:00",
-      "end": "2026-03-29T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "3vllobld4ervtod0v7tvisd40t@google.com",
-      "summary": "Tectonic - Marketing x Technology",
-      "location": "",
-      "start": "2026-03-29T09:15:00",
-      "end": "2026-03-29T10:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "95914DD9-4665-4F3E-B38A-BBF4E6CA4051",
-      "summary": "Bday brunch mama",
-      "location": "",
-      "start": "2026-03-29T10:00:00",
-      "end": "2026-03-29T12:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "21smeb10o7h0os76vm0ol8ktct@google.com",
-      "summary": "Marketing x start-ups",
-      "location": "",
-      "start": "2026-03-29T10:00:00",
-      "end": "2026-03-29T10:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "1uob0tap8edd2unqicdf6consj@google.com",
-      "summary": "Tectonic - Figma Crash Course Marketing",
-      "location": "",
-      "start": "2026-03-29T11:00:00",
-      "end": "2026-03-29T11:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "29CF3468-DB4A-44A2-B526-F575398F3D05",
-      "summary": "Start Half Marathon",
-      "location": "",
-      "start": "2026-03-29T13:30:00",
-      "end": "2026-03-29T16:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "06ps4gs589564llmgofv80cof6@google.com",
-      "summary": "Tectonic - Marketing Strategy",
-      "location": "Voka - Kamer van Koophandel Gent (Oost-Vlaanderen), Lammerstraat 18, 9000 Gent, Belgium",
-      "start": "2026-03-29T16:00:00",
-      "end": "2026-03-29T16:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "1e18bjkk19b05l9o4qkpbka4bh_R20260329T150000@google.com",
-      "summary": "Weekly Team Meeting [In-person] - Tectonic",
-      "location": "To Be Announced",
-      "start": "2026-03-29T17:00:00",
-      "end": "2026-03-29T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "3rshv7jqkoqn6efibr1bdtcpv1@google.com",
-      "summary": "Team Dinner + Drinks",
-      "location": "TBA",
-      "start": "2026-03-29T18:00:00",
-      "end": "2026-03-29T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "c09d0da7952649f0a31ce92e783fb16f@google.com",
       "summary": "Call Tectonic Rox",
@@ -113,8 +11,30 @@
       "start": "2026-03-30T10:00:00",
       "end": "2026-03-30T12:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "64sm2o9kc8qj8b9l6kp36b9k6gqjebb261hj6b9n75hjgob26or3ap1icg@google.com",
+      "summary": "Lunch Kaat",
+      "location": "",
+      "start": "2026-03-30T12:30:00",
+      "end": "2026-03-30T14:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1535623--1179705713-0@timeedit.com",
+      "summary": "F000898A. Business Valuation, hoorcollege",
+      "location": "Auditorium A. Sint-Pietersplein 7. Campus Tweekerken. Sint-Pietersplein 7",
+      "start": "2026-03-31T12:00:00",
+      "end": "2026-03-31T16:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "timeedit"
     }
   ]
 }
