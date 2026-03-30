@@ -1,5 +1,5 @@
 {
-  "updated": "30/03 16:53",
+  "updated": "30/03 20:05",
   "timezone": "Europe/Brussels",
   "todayLabel": "30 march",
   "tomorrowLabel": "31 march",
@@ -40,6 +40,16 @@
       "location": "",
       "start": "2026-03-30T16:00:00",
       "end": "2026-03-30T19:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "c5875a739908488bbe9580ca95ee2775@google.com",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-03-30T20:00:00",
+      "end": "2026-03-30T22:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
