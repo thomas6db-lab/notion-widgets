@@ -1,35 +1,85 @@
 {
-  "updated": "31/03 23:57",
+  "updated": "01/04 01:51",
   "timezone": "Europe/Brussels",
-  "todayLabel": "31 march",
-  "tomorrowLabel": "1 april",
+  "todayLabel": "1 april",
+  "tomorrowLabel": "2 april",
   "today": [
     {
-      "uid": "1535623--1179705713-0@timeedit.com",
-      "summary": "F000898A. Business Valuation, hoorcollege",
-      "location": "Auditorium A. Sint-Pietersplein 7. Campus Tweekerken. Sint-Pietersplein 7",
-      "start": "2026-03-31T12:00:00",
-      "end": "2026-03-31T16:00:00",
+      "uid": "732cf9a2b2d44ee6bc036492104c5a5a@google.com",
+      "summary": "Case verdediging",
+      "location": "",
+      "start": "2026-04-01T08:30:00",
+      "end": "2026-04-01T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1530789--1179705713-0@timeedit.com",
+      "summary": "F000700B. Managing Service Organisations, hoorcollege",
+      "location": "Leslokaal 1.1 Jans Jacob Berzelius. S3. Campus Sterre. Krijgslaan 289",
+      "start": "2026-04-01T08:30:00",
+      "end": "2026-04-01T11:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "timeedit"
     },
     {
-      "uid": "8af8a0905e9341b8944c148998b2bb29@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "ITP Studio Leuven-1-Memphis (8)",
-      "start": "2026-03-31T15:30:00",
-      "end": "2026-03-31T16:30:00",
+      "uid": "1538038--1179705713-0@timeedit.com",
+      "summary": "F000943A. Advanced Investment Analysis, hoorcollege",
+      "location": "Auditorium E - Maurice Van Vaerenbergh. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
+      "start": "2026-04-01T13:00:00",
+      "end": "2026-04-01T16:00:00",
       "allDay": false,
       "day": "today",
-      "calendar": "tectonic"
+      "calendar": "timeedit"
     },
     {
-      "uid": "19n89fk3qdkhjp1gl3bmjnugco@google.com",
-      "summary": "De Beursvoyeurs Live 2026",
-      "location": "Universiteit Gent, Campus Tweekerken (auditorium Quetelet), Tweekerkenstraat 2, 9000 Gent",
-      "start": "2026-03-31T19:00:00",
-      "end": "2026-03-31T21:15:00",
+      "uid": "appointment-5637@startium.com",
+      "summary": "Appointment: The Company - Coaching | Gentrepreneur | Organiser: Sien Willaert| Attendees: Thomas De Baerdemaeker",
+      "location": "Miriam Makeba plein Gent",
+      "start": "2026-04-01T13:30:00",
+      "end": "2026-04-01T14:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "040000008200E00074C5B7101A82E008000000004335B08FE7C0DC0100000000000000001000000082E0BB709DE9F2499A7F2435B6E519B3",
+      "summary": "Appointment: The Company - Coaching | Gentrepreneur | Organiser: Jochen De Backer | Attendees: Thomas De Baerdemaeker",
+      "location": "Location: Wintercircus",
+      "start": "2026-04-01T14:45:00",
+      "end": "2026-04-01T15:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "appointment-5638@startium.com",
+      "summary": "Appointment: The Company - Coaching | Gentrepreneur | Organiser: Jochen De Backer| Attendees: Thomas De Baerdemaeker",
+      "location": "Wintercircus",
+      "start": "2026-04-01T14:45:00",
+      "end": "2026-04-01T15:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "3domsqumc6q4821f08m2mt61c8@google.com",
+      "summary": "Afspraak met Jochen De Backer",
+      "location": "",
+      "start": "2026-04-01T14:45:00",
+      "end": "2026-04-01T15:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "60C3962D-9AE3-48D4-9F7A-FD70C996836D",
+      "summary": "Entrepreneurial Talks",
+      "location": "9000 Ghent, Belgium",
+      "start": "2026-04-01T19:00:00",
+      "end": "2026-04-01T23:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -37,11 +87,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "732cf9a2b2d44ee6bc036492104c5a5a@google.com",
-      "summary": "Case verdediging",
-      "location": "",
-      "start": "2026-04-01T08:30:00",
-      "end": "2026-04-01T11:30:00",
+      "uid": "7feacaf6d21e4f52965676a1866642d7@google.com",
+      "summary": "Fietsen Gianni & Co",
+      "location": "Karel van Hulthemstraat, 9000 Gent, België",
+      "start": "2026-04-02T09:00:00",
+      "end": "2026-04-02T12:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
