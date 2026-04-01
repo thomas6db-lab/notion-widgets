@@ -1,5 +1,5 @@
 {
-  "updated": "01/04 12:15",
+  "updated": "01/04 16:51",
   "timezone": "Europe/Brussels",
   "todayLabel": "1 april",
   "tomorrowLabel": "2 april",
@@ -45,16 +45,6 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "040000008200E00074C5B7101A82E008000000004335B08FE7C0DC0100000000000000001000000082E0BB709DE9F2499A7F2435B6E519B3",
-      "summary": "Appointment: The Company - Coaching | Gentrepreneur | Organiser: Jochen De Backer | Attendees: Thomas De Baerdemaeker",
-      "location": "Location: Wintercircus",
-      "start": "2026-04-01T14:45:00",
-      "end": "2026-04-01T15:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
       "uid": "3domsqumc6q4821f08m2mt61c8@google.com",
       "summary": "Afspraak met Jochen De Backer",
       "location": "",
@@ -68,6 +58,16 @@
       "uid": "appointment-5638@startium.com",
       "summary": "Appointment: The Company - Coaching | Gentrepreneur | Organiser: Jochen De Backer| Attendees: Thomas De Baerdemaeker",
       "location": "Wintercircus",
+      "start": "2026-04-01T14:45:00",
+      "end": "2026-04-01T15:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "040000008200E00074C5B7101A82E008000000004335B08FE7C0DC0100000000000000001000000082E0BB709DE9F2499A7F2435B6E519B3",
+      "summary": "Appointment: The Company - Coaching | Gentrepreneur | Organiser: Jochen De Backer | Attendees: Thomas De Baerdemaeker",
+      "location": "Location: Wintercircus",
       "start": "2026-04-01T14:45:00",
       "end": "2026-04-01T15:45:00",
       "allDay": false,
