@@ -1,51 +1,9 @@
 {
-  "updated": "03/04 23:50",
+  "updated": "04/04 01:05",
   "timezone": "Europe/Brussels",
-  "todayLabel": "3 april",
-  "tomorrowLabel": "4 april",
+  "todayLabel": "4 april",
+  "tomorrowLabel": "5 april",
   "today": [
-    {
-      "uid": "20260403_8s75c48unvrh9d7ldicjlnefkk@google.com",
-      "summary": "Goede Vrijdag",
-      "location": "",
-      "start": "2026-04-03",
-      "end": "2026-04-04",
-      "allDay": true,
-      "day": "today",
-      "calendar": "feestdagen"
-    },
-    {
-      "uid": "d4d3f29363c44d44b9203beb59be7c28@google.com",
-      "summary": "Floru thesiscall",
-      "location": "",
-      "start": "2026-04-03T09:00:00",
-      "end": "2026-04-03T10:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1459736--1179705713-0@timeedit.com",
-      "summary": "F000892A. Innovation Management, F000892B. Innovatiemanagement, F000892O. Innovation Management, hoorcollege",
-      "location": "Auditorium D - André Devreker. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
-      "start": "2026-04-03T09:00:00",
-      "end": "2026-04-03T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "31f9c7cc1abb46cbb6898798fc04170e@google.com",
-      "summary": "Spreken WC - Economie SLC",
-      "location": "",
-      "start": "2026-04-03T12:00:00",
-      "end": "2026-04-03T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "bae6405e23844d6a99c143de7eb39ebd@google.com",
       "summary": "Thuis helpen",
@@ -53,8 +11,30 @@
       "start": "2026-04-04T09:00:00",
       "end": "2026-04-04T13:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "29c0290970d44acb8c47047bcaeb295e@google.com",
+      "summary": "Data tracking + brand voice etc",
+      "location": "",
+      "start": "2026-04-04T14:45:00",
+      "end": "2026-04-04T20:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "20260405_nhoq9p18vjj1vfsm7aqp9rmvpo@google.com",
+      "summary": "Pasen",
+      "location": "",
+      "start": "2026-04-05",
+      "end": "2026-04-06",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "feestdagen"
     }
   ]
 }
