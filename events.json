@@ -1,31 +1,9 @@
 {
-  "updated": "02/04 23:55",
+  "updated": "03/04 07:25",
   "timezone": "Europe/Brussels",
-  "todayLabel": "2 april",
-  "tomorrowLabel": "3 april",
+  "todayLabel": "3 april",
+  "tomorrowLabel": "4 april",
   "today": [
-    {
-      "uid": "7feacaf6d21e4f52965676a1866642d7@google.com",
-      "summary": "Fietsen Gianni & Co",
-      "location": "Karel van Hulthemstraat, 9000 Gent, België",
-      "start": "2026-04-02T09:00:00",
-      "end": "2026-04-02T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "c441a985af6c4c469bb9774732f99e1c@google.com",
-      "summary": "Seksquiz",
-      "location": "Universiteit Gent - De Brug, De Brug, Sint-Pietersnieuwstraat 45, 9000 Gent, België",
-      "start": "2026-04-02T19:30:00",
-      "end": "2026-04-02T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "20260403_8s75c48unvrh9d7ldicjlnefkk@google.com",
       "summary": "Goede Vrijdag",
@@ -33,8 +11,50 @@
       "start": "2026-04-03",
       "end": "2026-04-04",
       "allDay": true,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "feestdagen"
+    },
+    {
+      "uid": "d4d3f29363c44d44b9203beb59be7c28@google.com",
+      "summary": "Floru thesiscall",
+      "location": "",
+      "start": "2026-04-03T09:00:00",
+      "end": "2026-04-03T10:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1459736--1179705713-0@timeedit.com",
+      "summary": "F000892A. Innovation Management, F000892B. Innovatiemanagement, F000892O. Innovation Management, hoorcollege",
+      "location": "Auditorium D - André Devreker. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
+      "start": "2026-04-03T09:00:00",
+      "end": "2026-04-03T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "31f9c7cc1abb46cbb6898798fc04170e@google.com",
+      "summary": "Spreken WC - Economie SLC",
+      "location": "",
+      "start": "2026-04-03T12:00:00",
+      "end": "2026-04-03T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "29c0290970d44acb8c47047bcaeb295e@google.com",
+      "summary": "Data tracking + brand voice etc",
+      "location": "",
+      "start": "2026-04-04T09:00:00",
+      "end": "2026-04-04T15:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
