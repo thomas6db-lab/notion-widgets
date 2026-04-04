@@ -1,25 +1,55 @@
 {
-  "updated": "04/04 23:58",
+  "updated": "05/04 01:03",
   "timezone": "Europe/Brussels",
-  "todayLabel": "4 april",
-  "tomorrowLabel": "5 april",
+  "todayLabel": "5 april",
+  "tomorrowLabel": "6 april",
   "today": [
     {
-      "uid": "bae6405e23844d6a99c143de7eb39ebd@google.com",
-      "summary": "Thuis helpen",
+      "uid": "20260405_nhoq9p18vjj1vfsm7aqp9rmvpo@google.com",
+      "summary": "Pasen",
       "location": "",
-      "start": "2026-04-04T09:00:00",
-      "end": "2026-04-04T13:00:00",
+      "start": "2026-04-05",
+      "end": "2026-04-06",
+      "allDay": true,
+      "day": "today",
+      "calendar": "feestdagen"
+    },
+    {
+      "uid": "749E2CA1-D477-4A41-9C2A-8F269AD8D559",
+      "summary": "Brunch Lize familie",
+      "location": "Brugge",
+      "start": "2026-04-05T10:30:00",
+      "end": "2026-04-05T12:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "29c0290970d44acb8c47047bcaeb295e@google.com",
-      "summary": "Data tracking + brand voice etc",
+      "uid": "44d77f2e359647dfafd039553471b484@google.com",
+      "summary": "Pasen KT",
+      "location": "WZC Kanunnik Triest, Kloosterstraat 33, 9090 Merelbeke-Melle, België",
+      "start": "2026-04-05T12:30:00",
+      "end": "2026-04-05T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "0ds4bv5tdm4eu2hgdnfjnttb1g_R20260322T160000@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
       "location": "",
-      "start": "2026-04-04T14:45:00",
-      "end": "2026-04-04T20:45:00",
+      "start": "2026-04-05T17:00:00",
+      "end": "2026-04-05T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "1f3b10086b3f4a4ba3b6d47fb995e415@google.com",
+      "summary": "SV guys",
+      "location": "",
+      "start": "2026-04-05T20:00:00",
+      "end": "2026-04-05T21:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -27,11 +57,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "20260405_nhoq9p18vjj1vfsm7aqp9rmvpo@google.com",
-      "summary": "Pasen",
+      "uid": "20260406_r0mth708tm6dmlum099a2a8tak@google.com",
+      "summary": "Paasmaandag",
       "location": "",
-      "start": "2026-04-05",
-      "end": "2026-04-06",
+      "start": "2026-04-06",
+      "end": "2026-04-07",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "feestdagen"
