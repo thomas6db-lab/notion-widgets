@@ -1,47 +1,37 @@
 {
-  "updated": "06/04 23:51",
+  "updated": "07/04 01:52",
   "timezone": "Europe/Brussels",
-  "todayLabel": "6 april",
-  "tomorrowLabel": "7 april",
+  "todayLabel": "7 april",
+  "tomorrowLabel": "8 april",
   "today": [
-    {
-      "uid": "20260406_r0mth708tm6dmlum099a2a8tak@google.com",
-      "summary": "Paasmaandag",
-      "location": "",
-      "start": "2026-04-06",
-      "end": "2026-04-07",
-      "allDay": true,
-      "day": "today",
-      "calendar": "feestdagen"
-    },
-    {
-      "uid": "fbe5d3c3891c4ecf921e436340b62c8b@google.com",
-      "summary": "Basistekst",
-      "location": "",
-      "start": "2026-04-06T13:00:00",
-      "end": "2026-04-06T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "0d37te4fgeo7cal81k8r56nr7i@google.com",
-      "summary": "MM",
-      "location": "",
-      "start": "2026-04-06T13:00:00",
-      "end": "2026-04-06T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "b13bd1ace5014096b2aa76f382ad9a71@google.com",
       "summary": "De Tijd afzeggen abo",
       "location": "",
       "start": "2026-04-07T09:00:00",
       "end": "2026-04-07T10:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "32s0lcfo29nej04hscbn6763po@google.com",
+      "summary": "🧳 Valies inpakken — NYC Trip",
+      "location": "Lievegem",
+      "start": "2026-04-07T18:00:00",
+      "end": "2026-04-07T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "rbkd9f4pvouka123f2tco4uge4@google.com",
+      "summary": "🚗 Auto Lievegem → Gent-Sint-Pieters",
+      "location": "Gent-Sint-Pieters, Koningin Maria Hendrikaplein, 9000 Gent",
+      "start": "2026-04-08T06:15:00",
+      "end": "2026-04-08T06:45:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
