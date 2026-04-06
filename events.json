@@ -1,5 +1,5 @@
 {
-  "updated": "06/04 18:31",
+  "updated": "06/04 21:42",
   "timezone": "Europe/Brussels",
   "todayLabel": "6 april",
   "tomorrowLabel": "7 april",
@@ -13,16 +13,6 @@
       "allDay": true,
       "day": "today",
       "calendar": "feestdagen"
-    },
-    {
-      "uid": "b13bd1ace5014096b2aa76f382ad9a71@google.com",
-      "summary": "De Tijd afzeggen abo",
-      "location": "",
-      "start": "2026-04-06T09:00:00",
-      "end": "2026-04-06T10:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
     },
     {
       "uid": "fbe5d3c3891c4ecf921e436340b62c8b@google.com",
@@ -47,11 +37,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "32s0lcfo29nej04hscbn6763po@google.com",
-      "summary": "🧳 Valies inpakken — NYC Trip",
-      "location": "Lievegem",
-      "start": "2026-04-07T18:00:00",
-      "end": "2026-04-07T22:00:00",
+      "uid": "b13bd1ace5014096b2aa76f382ad9a71@google.com",
+      "summary": "De Tijd afzeggen abo",
+      "location": "",
+      "start": "2026-04-07T09:00:00",
+      "end": "2026-04-07T10:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
