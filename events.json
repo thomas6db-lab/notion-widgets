@@ -1,15 +1,45 @@
 {
-  "updated": "07/04 21:45",
+  "updated": "08/04 00:01",
   "timezone": "Europe/Brussels",
-  "todayLabel": "7 april",
-  "tomorrowLabel": "8 april",
+  "todayLabel": "8 april",
+  "tomorrowLabel": "9 april",
   "today": [
     {
-      "uid": "32s0lcfo29nej04hscbn6763po@google.com",
-      "summary": "🧳 Valies inpakken — NYC Trip",
-      "location": "Lievegem",
-      "start": "2026-04-07T18:00:00",
-      "end": "2026-04-07T22:00:00",
+      "uid": "rbkd9f4pvouka123f2tco4uge4@google.com",
+      "summary": "🚗 Auto Lievegem → Gent-Sint-Pieters",
+      "location": "Gent-Sint-Pieters, Koningin Maria Hendrikaplein, 9000 Gent",
+      "start": "2026-04-08T06:15:00",
+      "end": "2026-04-08T06:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "51q2en1qphv74pitrj63bj12oo@google.com",
+      "summary": "🚂 IC Gent-SP → Brussels Airport",
+      "location": "Gent-Sint-Pieters",
+      "start": "2026-04-08T06:50:00",
+      "end": "2026-04-08T07:50:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5822f10a420648a6baf29dcb00ad4119@google.com",
+      "summary": "✈️ Verzamelen Brussels Airport → NYC",
+      "location": "Brussels Airport Zaventem",
+      "start": "2026-04-08T08:00:00",
+      "end": "2026-04-08T19:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "vcpmv67jt9k29556htojm3lk18@google.com",
+      "summary": "🎯 Group Activity",
+      "location": "",
+      "start": "2026-04-08T22:00:00",
+      "end": "2026-04-09T00:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -17,11 +47,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "rbkd9f4pvouka123f2tco4uge4@google.com",
-      "summary": "🚗 Auto Lievegem → Gent-Sint-Pieters",
-      "location": "Gent-Sint-Pieters, Koningin Maria Hendrikaplein, 9000 Gent",
-      "start": "2026-04-08T06:15:00",
-      "end": "2026-04-08T06:45:00",
+      "uid": "ilvput3i0mjgfl8un3acuac04c@google.com",
+      "summary": "🤖 MLOps: Building AI Agents That Actually Remember",
+      "location": "G-Gallery, 404 Broadway, 2nd Floor, Manhattan, NY 10013",
+      "start": "2026-04-09T00:00:00",
+      "end": "2026-04-09T04:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
