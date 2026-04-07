@@ -1,19 +1,9 @@
 {
-  "updated": "07/04 11:53",
+  "updated": "07/04 14:08",
   "timezone": "Europe/Brussels",
   "todayLabel": "7 april",
   "tomorrowLabel": "8 april",
   "today": [
-    {
-      "uid": "b13bd1ace5014096b2aa76f382ad9a71@google.com",
-      "summary": "De Tijd afzeggen abo",
-      "location": "",
-      "start": "2026-04-07T09:00:00",
-      "end": "2026-04-07T10:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
     {
       "uid": "32s0lcfo29nej04hscbn6763po@google.com",
       "summary": "🧳 Valies inpakken — NYC Trip",
