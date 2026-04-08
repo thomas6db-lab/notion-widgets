@@ -1,45 +1,65 @@
 {
-  "updated": "08/04 22:01",
+  "updated": "09/04 00:09",
   "timezone": "Europe/Brussels",
-  "todayLabel": "8 april",
-  "tomorrowLabel": "9 april",
+  "todayLabel": "9 april",
+  "tomorrowLabel": "10 april",
   "today": [
     {
-      "uid": "rbkd9f4pvouka123f2tco4uge4@google.com",
-      "summary": "🚗 Auto Lievegem → Gent-Sint-Pieters",
-      "location": "Gent-Sint-Pieters, Koningin Maria Hendrikaplein, 9000 Gent",
-      "start": "2026-04-08T06:15:00",
-      "end": "2026-04-08T06:45:00",
+      "uid": "ilvput3i0mjgfl8un3acuac04c@google.com",
+      "summary": "🤖 MLOps: Building AI Agents That Actually Remember",
+      "location": "G-Gallery, 404 Broadway, 2nd Floor, Manhattan, NY 10013",
+      "start": "2026-04-09T00:00:00",
+      "end": "2026-04-09T04:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "51q2en1qphv74pitrj63bj12oo@google.com",
-      "summary": "🚂 IC Gent-SP → Brussels Airport",
-      "location": "Gent-Sint-Pieters",
-      "start": "2026-04-08T06:50:00",
-      "end": "2026-04-08T07:50:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5822f10a420648a6baf29dcb00ad4119@google.com",
-      "summary": "✈️ Verzamelen Brussels Airport → NYC",
-      "location": "Brussels Airport Zaventem",
-      "start": "2026-04-08T08:00:00",
-      "end": "2026-04-08T19:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "vcpmv67jt9k29556htojm3lk18@google.com",
-      "summary": "🎯 Group Activity",
+      "uid": "ticr64e1caqclofhd053srqrrk@google.com",
+      "summary": "👤 Ginger Dhaliwal — Upflex",
       "location": "",
-      "start": "2026-04-08T22:00:00",
-      "end": "2026-04-09T00:00:00",
+      "start": "2026-04-09T14:00:00",
+      "end": "2026-04-09T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "m6mqnrvulgsuc4dtooc2jf5glk@google.com",
+      "summary": "👤 Kay Li — Silogy (YC W24)",
+      "location": "",
+      "start": "2026-04-09T16:00:00",
+      "end": "2026-04-09T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "b82mai2jcboiqenkpqtaehk0cc@google.com",
+      "summary": "👤 Tristan Kalos — Escape (YC W23)",
+      "location": "",
+      "start": "2026-04-09T20:00:00",
+      "end": "2026-04-09T21:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "rnm8d8mb174434s7cllka4g3f8@google.com",
+      "summary": "👤 Josh Karol — CrowdVolt (YC W24)",
+      "location": "",
+      "start": "2026-04-09T21:30:00",
+      "end": "2026-04-09T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "n5kh0jc0qukc2u3u07pqvac3ss@google.com",
+      "summary": "🔐 Bezoek Escape (YC23) — Student Startup Trip",
+      "location": "New York, NY, USA",
+      "start": "2026-04-09T23:00:00",
+      "end": "2026-04-10T00:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -47,11 +67,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "ilvput3i0mjgfl8un3acuac04c@google.com",
-      "summary": "🤖 MLOps: Building AI Agents That Actually Remember",
-      "location": "G-Gallery, 404 Broadway, 2nd Floor, Manhattan, NY 10013",
-      "start": "2026-04-09T00:00:00",
-      "end": "2026-04-09T04:30:00",
+      "uid": "h1vgaues2rpa9b02npd0gjp2oo@google.com",
+      "summary": "⚙️ n8n NYC Community Meetup",
+      "location": "Courier Health HQ, 135 Madison Ave, Manhattan, NY 10016",
+      "start": "2026-04-10T00:00:00",
+      "end": "2026-04-10T03:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
