@@ -1,71 +1,9 @@
 {
-  "updated": "10/04 23:56",
+  "updated": "11/04 01:54",
   "timezone": "Europe/Brussels",
-  "todayLabel": "10 april",
-  "tomorrowLabel": "11 april",
+  "todayLabel": "11 april",
+  "tomorrowLabel": "12 april",
   "today": [
-    {
-      "uid": "h1vgaues2rpa9b02npd0gjp2oo@google.com",
-      "summary": "⚙️ n8n NYC Community Meetup",
-      "location": "Courier Health HQ, 135 Madison Ave, Manhattan, NY 10016",
-      "start": "2026-04-10T00:00:00",
-      "end": "2026-04-10T03:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "rrstcnotal7bh0heu5gjn5mq08@google.com",
-      "summary": "👤 Jaap Vergote — UpsellPlus",
-      "location": "",
-      "start": "2026-04-10T14:00:00",
-      "end": "2026-04-10T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "7pn1aa8ff2gs2s6vd5r9m2l0is@google.com",
-      "summary": "👤 Maarten Bodewes — Loop Earplugs",
-      "location": "",
-      "start": "2026-04-10T17:00:00",
-      "end": "2026-04-10T19:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "6606-643128@ufora.ugent.be",
-      "summary": "Special Session 2 - online - Verwacht",
-      "location": "F000892A - Innovation Management",
-      "start": "2026-04-10T17:00:00",
-      "end": "2026-04-10T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "ufora"
-    },
-    {
-      "uid": "u2nu35cuog9hgu2c3oiu9qte6g@google.com",
-      "summary": "🎙️ Panel Talk: Willem Schroé & Cord Brown",
-      "location": "Flanders Investment & Trade, New York",
-      "start": "2026-04-10T20:00:00",
-      "end": "2026-04-10T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "pg810hgn287f4it5t3s84tc1v0@google.com",
-      "summary": "🏢 Verci — Tour + Friday Stand-up",
-      "location": "Verci, Flatiron, Manhattan, New York",
-      "start": "2026-04-10T23:00:00",
-      "end": "2026-04-11T01:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "98ot09v3fqtja0bdidkfalqt2s@google.com",
       "summary": "📋 Prep In-house Pitch Competition",
@@ -73,6 +11,28 @@
       "start": "2026-04-11T14:00:00",
       "end": "2026-04-11T18:00:00",
       "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "4hhufniffaqqnqqkboll4ovke0@google.com",
+      "summary": "🏆 In-house Pitch Competition",
+      "location": "",
+      "start": "2026-04-11T18:00:00",
+      "end": "2026-04-11T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "imod8pk63k84pqj8q4ug1dr280@google.com",
+      "summary": "🗽 Vrije dag — NYC Verkennen",
+      "location": "New York City",
+      "start": "2026-04-12",
+      "end": "2026-04-13",
+      "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
     }
