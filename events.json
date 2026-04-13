@@ -1,19 +1,9 @@
 {
-  "updated": "13/04 13:55",
+  "updated": "13/04 18:39",
   "timezone": "Europe/Brussels",
   "todayLabel": "13 april",
   "tomorrowLabel": "14 april",
   "today": [
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-04-13T14:00:00",
-      "end": "2026-04-13T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
     {
       "uid": "m344efbdlcg2h2aqft3noqcbao@google.com",
       "summary": "👤 Maxime De Scheemaeker — JUUNOO",
@@ -23,6 +13,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "ITP Ghent-4-BACK-Alpine (8) [Phone, Zoom Room]",
+      "start": "2026-04-13T14:30:00",
+      "end": "2026-04-13T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
     },
     {
       "uid": "jidpqfouf1mreis9f14sm6fogc@google.com",
@@ -57,11 +57,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "v6kevjei0d6f8sc1h0aie3lvmc@google.com",
-      "summary": "🎉 Events (avond)",
-      "location": "",
-      "start": "2026-04-14T01:00:00",
-      "end": "2026-04-14T02:00:00",
+      "uid": "c9fr9bbra6nn8oilql57hig3ko@google.com",
+      "summary": "🇧🇪 BelCham",
+      "location": "BelCham, New York",
+      "start": "2026-04-14T14:00:00",
+      "end": "2026-04-14T15:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
