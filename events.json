@@ -1,19 +1,9 @@
 {
-  "updated": "13/04 01:53",
+  "updated": "13/04 09:26",
   "timezone": "Europe/Brussels",
   "todayLabel": "13 april",
   "tomorrowLabel": "14 april",
   "today": [
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-04-13T14:00:00",
-      "end": "2026-04-13T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
     {
       "uid": "m344efbdlcg2h2aqft3noqcbao@google.com",
       "summary": "👤 Maxime De Scheemaeker — JUUNOO",
@@ -23,6 +13,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-04-13T14:30:00",
+      "end": "2026-04-13T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
     },
     {
       "uid": "jidpqfouf1mreis9f14sm6fogc@google.com",
