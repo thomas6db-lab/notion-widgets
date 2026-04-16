@@ -1,5 +1,5 @@
 {
-  "updated": "16/04 12:46",
+  "updated": "16/04 18:10",
   "timezone": "Europe/Brussels",
   "todayLabel": "16 april",
   "tomorrowLabel": "17 april",
@@ -58,8 +58,8 @@
       "uid": "7240t0a2iir03upoml73e8gumn@google.com",
       "summary": "MM",
       "location": "",
-      "start": "2026-04-16T15:00:00",
-      "end": "2026-04-16T15:45:00",
+      "start": "2026-04-16T15:45:00",
+      "end": "2026-04-16T16:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
