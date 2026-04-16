@@ -1,47 +1,77 @@
 {
-  "updated": "15/04 23:38",
+  "updated": "16/04 02:02",
   "timezone": "Europe/Brussels",
-  "todayLabel": "15 april",
-  "tomorrowLabel": "16 april",
+  "todayLabel": "16 april",
+  "tomorrowLabel": "17 april",
   "today": [
-    {
-      "uid": "44lmaa3bhj7dd7e1i0ojehtnd0@google.com",
-      "summary": "🥂 Closing Reception",
-      "location": "",
-      "start": "2026-04-15T01:00:00",
-      "end": "2026-04-15T05:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "n1ltarmolqn47qc0vd4th6t6ro@google.com",
-      "summary": "🌳 Group Recap @ Central Park",
-      "location": "Central Park, Manhattan, New York",
-      "start": "2026-04-15T15:00:00",
-      "end": "2026-04-15T17:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "vn05l0ot6em37hnj1hosl72dl0@google.com",
-      "summary": "✈️ Airport Travel + Return Flight",
-      "location": "",
-      "start": "2026-04-15T20:55:00",
-      "end": "2026-04-16T08:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "5q12j0qef0crvaorjcs8ebkdi0@google.com",
       "summary": "Flight to Brussels (UA 994)",
       "location": "Newark EWR",
       "start": "2026-04-16T00:20:00",
       "end": "2026-04-16T07:25:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
+      "summary": "Anniv 3m",
+      "location": "",
+      "start": "2026-04-16T01:00:00",
+      "end": "2026-04-16T02:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "41u1ebbbkn2eoi4vhssru8mgt4@google.com",
+      "summary": "🚂 IC Brussels Airport → Gent-SP",
+      "location": "Brussels Airport-Zaventem",
+      "start": "2026-04-16T08:30:00",
+      "end": "2026-04-16T09:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "s6tbs6pqkbingtolpcl3tqtmbk@google.com",
+      "summary": "🚗 Auto Gent-SP → Lievegem",
+      "location": "Gent-Sint-Pieters, Koningin Maria Hendrikaplein, 9000 Gent",
+      "start": "2026-04-16T09:30:00",
+      "end": "2026-04-16T10:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "b13bd1ace5014096b2aa76f382ad9a71@google.com",
+      "summary": "De Tijd afzeggen abo",
+      "location": "",
+      "start": "2026-04-16T13:00:00",
+      "end": "2026-04-16T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "7240t0a2iir03upoml73e8gumn@google.com",
+      "summary": "MM",
+      "location": "",
+      "start": "2026-04-16T15:00:00",
+      "end": "2026-04-16T15:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1b91e97e4f1a4494bbfc79f0540c1b7a@google.com",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-04-17T08:00:00",
+      "end": "2026-04-17T22:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
