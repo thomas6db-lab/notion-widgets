@@ -1,45 +1,15 @@
 {
-  "updated": "17/04 22:07",
+  "updated": "18/04 00:08",
   "timezone": "Europe/Brussels",
-  "todayLabel": "17 april",
-  "tomorrowLabel": "18 april",
+  "todayLabel": "18 april",
+  "tomorrowLabel": "19 april",
   "today": [
     {
-      "uid": "1b91e97e4f1a4494bbfc79f0540c1b7a@google.com",
+      "uid": "59d5d69bf63f4dba86e6b45c1ed126dd@google.com",
       "summary": "Thesis",
       "location": "",
-      "start": "2026-04-17T08:00:00",
-      "end": "2026-04-17T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "c2db5839e3144c4cba05656993d135d6@google.com",
-      "summary": "Github repo pullen en leren wa hij heeft gedaan",
-      "location": "",
-      "start": "2026-04-17T09:00:00",
-      "end": "2026-04-17T10:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "dbdef5ab77484cd88c384bcd2429b4a7@google.com",
-      "summary": "L-E kot",
-      "location": "",
-      "start": "2026-04-17T17:30:00",
-      "end": "2026-04-17T22:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "611ff456c9ff4cb49c84e1f7edf7d2d9@google.com",
-      "summary": "Sarah Muller call",
-      "location": "",
-      "start": "2026-04-17T18:00:00",
-      "end": "2026-04-17T19:00:00",
+      "start": "2026-04-18T08:00:00",
+      "end": "2026-04-18T22:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -47,11 +17,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "59d5d69bf63f4dba86e6b45c1ed126dd@google.com",
+      "uid": "8913cb521ca34476af879ce0311c3eb0@google.com",
       "summary": "Thesis",
       "location": "",
-      "start": "2026-04-18T08:00:00",
-      "end": "2026-04-18T22:00:00",
+      "start": "2026-04-19T08:00:00",
+      "end": "2026-04-19T22:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
