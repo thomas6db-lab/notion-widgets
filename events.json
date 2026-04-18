@@ -1,21 +1,9 @@
 {
-  "updated": "18/04 23:52",
+  "updated": "19/04 01:53",
   "timezone": "Europe/Brussels",
-  "todayLabel": "18 april",
-  "tomorrowLabel": "19 april",
+  "todayLabel": "19 april",
+  "tomorrowLabel": "20 april",
   "today": [
-    {
-      "uid": "59d5d69bf63f4dba86e6b45c1ed126dd@google.com",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-04-18T08:00:00",
-      "end": "2026-04-18T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "8913cb521ca34476af879ce0311c3eb0@google.com",
       "summary": "Thesis",
@@ -23,8 +11,50 @@
       "start": "2026-04-19T08:00:00",
       "end": "2026-04-19T22:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "614089f150eb4668b72bff586699fb67@google.com",
+      "summary": "Orbis",
+      "location": "",
+      "start": "2026-04-19T09:00:00",
+      "end": "2026-04-19T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "0ds4bv5tdm4eu2hgdnfjnttb1g_R20260322T160000@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "location": "",
+      "start": "2026-04-19T17:00:00",
+      "end": "2026-04-19T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "74sm2cpm75h62b9nclhj0b9k6lhm8bb1c9hm4b9o6ti3gd36c8q3ap1pcg@google.com",
+      "summary": "Blij weerzien",
+      "location": "",
+      "start": "2026-04-19T19:00:00",
+      "end": "2026-04-19T23:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "65h50pe4fihb3fvaom4rd76288@google.com",
+      "summary": "MM",
+      "location": "",
+      "start": "2026-04-20T10:00:00",
+      "end": "2026-04-20T12:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
