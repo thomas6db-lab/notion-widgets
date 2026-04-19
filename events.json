@@ -1,5 +1,5 @@
 {
-  "updated": "19/04 08:16",
+  "updated": "19/04 11:09",
   "timezone": "Europe/Brussels",
   "todayLabel": "19 april",
   "tomorrowLabel": "20 april",
@@ -20,6 +20,16 @@
       "location": "",
       "start": "2026-04-19T09:00:00",
       "end": "2026-04-19T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "9f0d6f59dd2d43f0a416e232f35d1fe7@google.com",
+      "summary": "Agaris afzetten",
+      "location": "",
+      "start": "2026-04-19T09:10:00",
+      "end": "2026-04-19T10:10:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
