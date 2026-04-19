@@ -1,5 +1,5 @@
 {
-  "updated": "19/04 11:09",
+  "updated": "19/04 13:22",
   "timezone": "Europe/Brussels",
   "todayLabel": "19 april",
   "tomorrowLabel": "20 april",
@@ -9,17 +9,7 @@
       "summary": "Thesis",
       "location": "",
       "start": "2026-04-19T08:00:00",
-      "end": "2026-04-19T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "614089f150eb4668b72bff586699fb67@google.com",
-      "summary": "Orbis",
-      "location": "",
-      "start": "2026-04-19T09:00:00",
-      "end": "2026-04-19T11:30:00",
+      "end": "2026-04-19T11:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -28,8 +18,18 @@
       "uid": "9f0d6f59dd2d43f0a416e232f35d1fe7@google.com",
       "summary": "Agaris afzetten",
       "location": "",
-      "start": "2026-04-19T09:10:00",
-      "end": "2026-04-19T10:10:00",
+      "start": "2026-04-19T11:00:00",
+      "end": "2026-04-19T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "614089f150eb4668b72bff586699fb67@google.com",
+      "summary": "Orbis",
+      "location": "",
+      "start": "2026-04-19T13:00:00",
+      "end": "2026-04-19T15:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
