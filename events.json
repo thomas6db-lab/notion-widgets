@@ -1,5 +1,5 @@
 {
-  "updated": "20/04 11:26",
+  "updated": "20/04 13:04",
   "timezone": "Europe/Brussels",
   "todayLabel": "20 april",
   "tomorrowLabel": "21 april",
@@ -30,6 +30,16 @@
       "location": "Wintercircus, Miriam Makebaplein 2, Gent",
       "start": "2026-04-20T13:00:00",
       "end": "2026-04-20T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "86c930e728874dd8b969d750a265a1d0@google.com",
+      "summary": "Update Lize + Gianni",
+      "location": "",
+      "start": "2026-04-20T14:00:00",
+      "end": "2026-04-20T14:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
