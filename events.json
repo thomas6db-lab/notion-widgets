@@ -1,5 +1,5 @@
 {
-  "updated": "20/04 09:30",
+  "updated": "20/04 11:26",
   "timezone": "Europe/Brussels",
   "todayLabel": "20 april",
   "tomorrowLabel": "21 april",
@@ -13,6 +13,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "c05259508dcf4b3a96d8fc2498341ed9@google.com",
+      "summary": "Aanvullen kotjes contentplanning",
+      "location": "",
+      "start": "2026-04-20T12:30:00",
+      "end": "2026-04-20T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     },
     {
       "uid": "appointment-5859@startium.com",
@@ -33,6 +43,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "7453bae99b284a44bd7e01e747ea9ad7@google.com",
+      "summary": "Invullen Tally",
+      "location": "",
+      "start": "2026-04-20T15:00:00",
+      "end": "2026-04-20T15:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     },
     {
       "uid": "42akol305vlrr35vkuug1jm964@google.com",
