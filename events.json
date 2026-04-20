@@ -1,61 +1,9 @@
 {
-  "updated": "19/04 23:53",
+  "updated": "20/04 04:51",
   "timezone": "Europe/Brussels",
-  "todayLabel": "19 april",
-  "tomorrowLabel": "20 april",
+  "todayLabel": "20 april",
+  "tomorrowLabel": "21 april",
   "today": [
-    {
-      "uid": "8913cb521ca34476af879ce0311c3eb0@google.com",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-04-19T08:00:00",
-      "end": "2026-04-19T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "9f0d6f59dd2d43f0a416e232f35d1fe7@google.com",
-      "summary": "Agaris afzetten",
-      "location": "",
-      "start": "2026-04-19T11:00:00",
-      "end": "2026-04-19T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "614089f150eb4668b72bff586699fb67@google.com",
-      "summary": "Orbis",
-      "location": "",
-      "start": "2026-04-19T13:00:00",
-      "end": "2026-04-19T15:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "0ds4bv5tdm4eu2hgdnfjnttb1g_R20260322T160000@google.com",
-      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
-      "location": "",
-      "start": "2026-04-19T17:00:00",
-      "end": "2026-04-19T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "74sm2cpm75h62b9nclhj0b9k6lhm8bb1c9hm4b9o6ti3gd36c8q3ap1pcg@google.com",
-      "summary": "Blij weerzien",
-      "location": "",
-      "start": "2026-04-19T19:00:00",
-      "end": "2026-04-19T23:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "65h50pe4fihb3fvaom4rd76288@google.com",
       "summary": "MM",
@@ -63,8 +11,60 @@
       "start": "2026-04-20T10:00:00",
       "end": "2026-04-20T12:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "appointment-5859@startium.com",
+      "summary": "Appointment: Coaching | Gentrepreneur | Organiser: Edith Renne| Attendees: Thomas De Baerdemaeker",
+      "location": "Wintercircus, Miriam Makebaplein 2, Gent",
+      "start": "2026-04-20T13:00:00",
+      "end": "2026-04-20T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-04-20T14:00:00",
+      "end": "2026-04-20T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "42akol305vlrr35vkuug1jm964@google.com",
+      "summary": "Playing a Different Game - A Fireside Chat with Barend Van Den Brande, Founding Partner at Hummingbird",
+      "location": "Wintercircus, Expo (private), Miriam Makebaplein 2, Gent, 9000, Belgium",
+      "start": "2026-04-20T18:30:00",
+      "end": "2026-04-20T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "6606-643509@ufora.ugent.be",
+      "summary": "Give feedback as group - Peer evaluation 22/04",
+      "location": "F000700B - Managing Service Organisations",
+      "start": "2026-04-20T23:59:00",
+      "end": "2026-04-20T23:59:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "ufora"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1535624--1179705713-0@timeedit.com",
+      "summary": "F000898A. Business Valuation, hoorcollege",
+      "location": "Auditorium A. Sint-Pietersplein 7. Campus Tweekerken. Sint-Pietersplein 7",
+      "start": "2026-04-21T12:00:00",
+      "end": "2026-04-21T16:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "timeedit"
     }
   ]
 }
