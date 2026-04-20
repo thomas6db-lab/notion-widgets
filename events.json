@@ -1,81 +1,9 @@
 {
-  "updated": "20/04 23:28",
+  "updated": "21/04 00:10",
   "timezone": "Europe/Brussels",
-  "todayLabel": "20 april",
-  "tomorrowLabel": "21 april",
+  "todayLabel": "21 april",
+  "tomorrowLabel": "22 april",
   "today": [
-    {
-      "uid": "65h50pe4fihb3fvaom4rd76288@google.com",
-      "summary": "MM",
-      "location": "",
-      "start": "2026-04-20T10:00:00",
-      "end": "2026-04-20T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "c05259508dcf4b3a96d8fc2498341ed9@google.com",
-      "summary": "Aanvullen kotjes contentplanning",
-      "location": "",
-      "start": "2026-04-20T12:30:00",
-      "end": "2026-04-20T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "appointment-5859@startium.com",
-      "summary": "Appointment: Coaching | Gentrepreneur | Organiser: Edith Renne| Attendees: Thomas De Baerdemaeker",
-      "location": "Wintercircus, Miriam Makebaplein 2, Gent",
-      "start": "2026-04-20T13:00:00",
-      "end": "2026-04-20T14:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-04-20T14:00:00",
-      "end": "2026-04-20T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "7453bae99b284a44bd7e01e747ea9ad7@google.com",
-      "summary": "Invullen Tally",
-      "location": "",
-      "start": "2026-04-20T15:00:00",
-      "end": "2026-04-20T15:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "42akol305vlrr35vkuug1jm964@google.com",
-      "summary": "Playing a Different Game - A Fireside Chat with Barend Van Den Brande, Founding Partner at Hummingbird",
-      "location": "Wintercircus, Expo (private), Miriam Makebaplein 2, Gent, 9000, Belgium",
-      "start": "2026-04-20T18:30:00",
-      "end": "2026-04-20T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "6606-643509@ufora.ugent.be",
-      "summary": "Give feedback as group - Peer evaluation 22/04",
-      "location": "F000700B - Managing Service Organisations",
-      "start": "2026-04-20T23:59:00",
-      "end": "2026-04-20T23:59:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "ufora"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "1535624--1179705713-0@timeedit.com",
       "summary": "F000898A. Business Valuation, hoorcollege",
@@ -83,8 +11,80 @@
       "start": "2026-04-21T12:00:00",
       "end": "2026-04-21T16:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "timeedit"
+    },
+    {
+      "uid": "b13bd1ace5014096b2aa76f382ad9a71@google.com",
+      "summary": "De Tijd afzeggen abo",
+      "location": "",
+      "start": "2026-04-21T13:00:00",
+      "end": "2026-04-21T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5677536d1fa94b91b313f851e969b4ad@google.com",
+      "summary": "Contact photographer + Dominique",
+      "location": "",
+      "start": "2026-04-21T16:00:00",
+      "end": "2026-04-21T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "bb709a73b37e42129d164c1ece29f53f@google.com",
+      "summary": "Call MSO",
+      "location": "",
+      "start": "2026-04-21T17:00:00",
+      "end": "2026-04-21T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "df8ff51f7b324339b8079d42456fbb32@google.com",
+      "summary": "Gianni: lakens + honing + zilver",
+      "location": "",
+      "start": "2026-04-21T18:00:00",
+      "end": "2026-04-21T19:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "4l1ok3erlmrnsj4qcctdj785n0@google.com",
+      "summary": "How to repeat success?: The story from mafia operators",
+      "location": "Sint-Pietersabdij, Sint-Pietersplein 9, 9000 Gent, België",
+      "start": "2026-04-21T19:00:00",
+      "end": "2026-04-21T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "jgmv8p6p9u74spamfcboitaats@google.com",
+      "summary": "Personal Finance of Professional Athletes - Capitant Gent",
+      "location": "Tweekerkenstraat 2, 9000 Gent, Belgium",
+      "start": "2026-04-21T19:15:00",
+      "end": "2026-04-21T21:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "BFB6B80A-108E-47E8-810A-D05F4D9DC236",
+      "summary": "Verplichte les MSO",
+      "location": "",
+      "start": "2026-04-22T08:30:00",
+      "end": "2026-04-22T11:30:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
