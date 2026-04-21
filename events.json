@@ -1,5 +1,5 @@
 {
-  "updated": "22/04 00:09",
+  "updated": "22/04 00:58",
   "timezone": "Europe/Brussels",
   "todayLabel": "22 april",
   "tomorrowLabel": "23 april",
@@ -45,6 +45,16 @@
       "calendar": "timeedit"
     },
     {
+      "uid": "454CD1A9-DB6B-4F58-83DB-79139488C013",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-04-22T14:00:00",
+      "end": "2026-04-22T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "1edqk4bt211028odk6df76sb9b@google.com",
       "summary": "Roadmap bespreking",
       "location": "",
@@ -67,11 +77,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "e8190866e2cb49679f1cdcb0aa42f0e4@google.com",
-      "summary": "Hans meet",
+      "uid": "c09de781edc643d396217e0199feb000@google.com",
+      "summary": "Loop Armin",
       "location": "",
-      "start": "2026-04-23T20:00:00",
-      "end": "2026-04-23T23:00:00",
+      "start": "2026-04-23T08:30:00",
+      "end": "2026-04-23T09:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
