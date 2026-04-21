@@ -1,65 +1,65 @@
 {
-  "updated": "21/04 23:26",
+  "updated": "22/04 00:09",
   "timezone": "Europe/Brussels",
-  "todayLabel": "21 april",
-  "tomorrowLabel": "22 april",
+  "todayLabel": "22 april",
+  "tomorrowLabel": "23 april",
   "today": [
     {
-      "uid": "1535624--1179705713-0@timeedit.com",
-      "summary": "F000898A. Business Valuation, hoorcollege",
-      "location": "Auditorium A. Sint-Pietersplein 7. Campus Tweekerken. Sint-Pietersplein 7",
-      "start": "2026-04-21T12:00:00",
-      "end": "2026-04-21T16:00:00",
+      "uid": "BFB6B80A-108E-47E8-810A-D05F4D9DC236",
+      "summary": "Verplichte les MSO",
+      "location": "",
+      "start": "2026-04-22T08:30:00",
+      "end": "2026-04-22T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1530836--1179705713-0@timeedit.com",
+      "summary": "F000700B. Managing Service Organisations, werkcollege",
+      "location": "Leslokaal 1.1 Jans Jacob Berzelius. S3. Campus Sterre. Krijgslaan 289",
+      "start": "2026-04-22T08:30:00",
+      "end": "2026-04-22T11:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "timeedit"
     },
     {
-      "uid": "b13bd1ace5014096b2aa76f382ad9a71@google.com",
-      "summary": "De Tijd afzeggen abo",
+      "uid": "dc6ae2647cc54f63832b64940d0402a5@google.com",
+      "summary": "Roadmap bespreken",
       "location": "",
-      "start": "2026-04-21T13:00:00",
-      "end": "2026-04-21T14:00:00",
+      "start": "2026-04-22T12:00:00",
+      "end": "2026-04-22T14:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "5677536d1fa94b91b313f851e969b4ad@google.com",
-      "summary": "Contact photographer + Dominique",
-      "location": "",
-      "start": "2026-04-21T16:00:00",
-      "end": "2026-04-21T17:00:00",
+      "uid": "1538039--1179705713-0@timeedit.com",
+      "summary": "F000943A. Advanced Investment Analysis, hoorcollege",
+      "location": "Auditorium E - Maurice Van Vaerenbergh. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
+      "start": "2026-04-22T13:00:00",
+      "end": "2026-04-22T16:00:00",
       "allDay": false,
       "day": "today",
-      "calendar": "thomas6db"
+      "calendar": "timeedit"
     },
     {
-      "uid": "bb709a73b37e42129d164c1ece29f53f@google.com",
-      "summary": "Call MSO",
+      "uid": "1edqk4bt211028odk6df76sb9b@google.com",
+      "summary": "Roadmap bespreking",
       "location": "",
-      "start": "2026-04-21T17:00:00",
-      "end": "2026-04-21T18:00:00",
+      "start": "2026-04-22T14:00:00",
+      "end": "2026-04-22T14:45:00",
       "allDay": false,
       "day": "today",
-      "calendar": "thomas6db"
+      "calendar": "tectonic"
     },
     {
-      "uid": "df8ff51f7b324339b8079d42456fbb32@google.com",
-      "summary": "Gianni: lakens + honing + zilver",
+      "uid": "5afa19353dea46a5bed997518f3b3c81@google.com",
+      "summary": "Jens",
       "location": "",
-      "start": "2026-04-21T18:00:00",
-      "end": "2026-04-21T19:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "4l1ok3erlmrnsj4qcctdj785n0@google.com",
-      "summary": "How to repeat success?: The story from mafia operators",
-      "location": "Sint-Pietersabdij, Sint-Pietersplein 9, 9000 Gent, België",
-      "start": "2026-04-21T19:00:00",
-      "end": "2026-04-21T22:00:00",
+      "start": "2026-04-22T20:00:00",
+      "end": "2026-04-22T23:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -67,11 +67,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "BFB6B80A-108E-47E8-810A-D05F4D9DC236",
-      "summary": "Verplichte les MSO",
+      "uid": "e8190866e2cb49679f1cdcb0aa42f0e4@google.com",
+      "summary": "Hans meet",
       "location": "",
-      "start": "2026-04-22T08:30:00",
-      "end": "2026-04-22T11:30:00",
+      "start": "2026-04-23T20:00:00",
+      "end": "2026-04-23T23:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
