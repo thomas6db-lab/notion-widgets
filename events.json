@@ -1,121 +1,9 @@
 {
-  "updated": "22/04 23:59",
+  "updated": "23/04 00:58",
   "timezone": "Europe/Brussels",
-  "todayLabel": "22 april",
-  "tomorrowLabel": "23 april",
+  "todayLabel": "23 april",
+  "tomorrowLabel": "24 april",
   "today": [
-    {
-      "uid": "6005aab5709a46dab4f6491cc4d1c0dd@google.com",
-      "summary": "Taak",
-      "location": "",
-      "start": "2026-04-22T08:00:00",
-      "end": "2026-04-22T08:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "BFB6B80A-108E-47E8-810A-D05F4D9DC236",
-      "summary": "Verplichte les MSO",
-      "location": "",
-      "start": "2026-04-22T08:30:00",
-      "end": "2026-04-22T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1530836--1179705713-0@timeedit.com",
-      "summary": "F000700B. Managing Service Organisations, werkcollege",
-      "location": "Leslokaal 1.1 Jans Jacob Berzelius. S3. Campus Sterre. Krijgslaan 289",
-      "start": "2026-04-22T08:30:00",
-      "end": "2026-04-22T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "dc6ae2647cc54f63832b64940d0402a5@google.com",
-      "summary": "Roadmap bespreken",
-      "location": "",
-      "start": "2026-04-22T12:00:00",
-      "end": "2026-04-22T14:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1538039--1179705713-0@timeedit.com",
-      "summary": "F000943A. Advanced Investment Analysis, hoorcollege",
-      "location": "Auditorium E - Maurice Van Vaerenbergh. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
-      "start": "2026-04-22T13:00:00",
-      "end": "2026-04-22T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "454CD1A9-DB6B-4F58-83DB-79139488C013",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-04-22T14:00:00",
-      "end": "2026-04-22T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1edqk4bt211028odk6df76sb9b@google.com",
-      "summary": "Roadmap bespreking",
-      "location": "",
-      "start": "2026-04-22T14:00:00",
-      "end": "2026-04-22T14:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "342c9e20dc924a8d9293563bbdfb6530@google.com",
-      "summary": "Video editen",
-      "location": "",
-      "start": "2026-04-22T17:00:00",
-      "end": "2026-04-22T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "d5hm2r2v8po6mm39clp3ikph5lfmcian8tbkosjddt0lut38dtmm2sq0ehim6t3fdpkm6orfdpj2spblbsog",
-      "summary": "Crunchbase Predicts: Agentic AI — What VCs Are Betting On In 2026",
-      "location": "https://events.zoom.us/ej/AqdqOAI1nytqcRlEBvoQnLJEDX_RfBYcKtPVVY08DjPn3IqHLKmc~Ay7qWTPUKRZVWlYA-_p5uApldDqro8QKl-uluJ_V5u285w5F1t-O1S4zZzA-mhE5wMy-u0dXVbvyQq-_i1PF-Dc7s8YLtPpQ3EeVn-llCnRog",
-      "start": "2026-04-22T19:00:00",
-      "end": "2026-04-22T19:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "5afa19353dea46a5bed997518f3b3c81@google.com",
-      "summary": "Jens",
-      "location": "",
-      "start": "2026-04-22T20:00:00",
-      "end": "2026-04-22T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "6606-644870@ufora.ugent.be",
-      "summary": "INTERMEDIATE EXERCISE – PART 2 – REFLECT ON THE TEAM DYNAMICS AND ROLES - Verwacht",
-      "location": "F000700B - Managing Service Organisations",
-      "start": "2026-04-22T23:59:59",
-      "end": "2026-04-22T23:59:59",
-      "allDay": false,
-      "day": "today",
-      "calendar": "ufora"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "c09de781edc643d396217e0199feb000@google.com",
       "summary": "Loop Armin",
@@ -123,8 +11,50 @@
       "start": "2026-04-23T08:30:00",
       "end": "2026-04-23T09:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "CBE11D9F-DA2B-482C-BCF6-4E431E992C85",
+      "summary": "thesis",
+      "location": "",
+      "start": "2026-04-23T09:30:00",
+      "end": "2026-04-23T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "edd5139351684448975308a0a5b6ce27@google.com",
+      "summary": "AIA Groepswerk!",
+      "location": "",
+      "start": "2026-04-23T11:30:00",
+      "end": "2026-04-23T13:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "e8190866e2cb49679f1cdcb0aa42f0e4@google.com",
+      "summary": "Hans meet",
+      "location": "",
+      "start": "2026-04-23T20:00:00",
+      "end": "2026-04-23T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "93224c2c603341a4aef7ff14a900c13a@google.com",
+      "summary": "Tectonic: base text + tagline",
+      "location": "ITP Ghent-4-SIDE-Phone Booth 1 (1)",
+      "start": "2026-04-24T09:00:00",
+      "end": "2026-04-24T10:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
