@@ -1,5 +1,5 @@
 {
-  "updated": "22/04 12:58",
+  "updated": "22/04 14:04",
   "timezone": "Europe/Brussels",
   "todayLabel": "22 april",
   "tomorrowLabel": "23 april",
@@ -73,6 +73,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "342c9e20dc924a8d9293563bbdfb6530@google.com",
+      "summary": "Video editen",
+      "location": "",
+      "start": "2026-04-22T17:00:00",
+      "end": "2026-04-22T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     },
     {
       "uid": "5afa19353dea46a5bed997518f3b3c81@google.com",
