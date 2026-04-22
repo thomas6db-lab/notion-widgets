@@ -1,5 +1,5 @@
 {
-  "updated": "22/04 17:37",
+  "updated": "22/04 18:40",
   "timezone": "Europe/Brussels",
   "todayLabel": "22 april",
   "tomorrowLabel": "23 april",
@@ -83,6 +83,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "d5hm2r2v8po6mm39clp3ikph5lfmcian8tbkosjddt0lut38dtmm2sq0ehim6t3fdpkm6orfdpj2spblbsog",
+      "summary": "Crunchbase Predicts: Agentic AI — What VCs Are Betting On In 2026",
+      "location": "https://events.zoom.us/ej/AqdqOAI1nytqcRlEBvoQnLJEDX_RfBYcKtPVVY08DjPn3IqHLKmc~Ay7qWTPUKRZVWlYA-_p5uApldDqro8QKl-uluJ_V5u285w5F1t-O1S4zZzA-mhE5wMy-u0dXVbvyQq-_i1PF-Dc7s8YLtPpQ3EeVn-llCnRog",
+      "start": "2026-04-22T19:00:00",
+      "end": "2026-04-22T19:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
     },
     {
       "uid": "5afa19353dea46a5bed997518f3b3c81@google.com",
