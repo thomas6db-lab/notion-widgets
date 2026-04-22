@@ -1,5 +1,5 @@
 {
-  "updated": "22/04 10:09",
+  "updated": "22/04 11:51",
   "timezone": "Europe/Brussels",
   "todayLabel": "22 april",
   "tomorrowLabel": "23 april",
@@ -83,6 +83,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "6606-644870@ufora.ugent.be",
+      "summary": "INTERMEDIATE EXERCISE – PART 2 – REFLECT ON THE TEAM DYNAMICS AND ROLES - Verwacht",
+      "location": "F000700B - Managing Service Organisations",
+      "start": "2026-04-22T23:59:59",
+      "end": "2026-04-22T23:59:59",
+      "allDay": false,
+      "day": "today",
+      "calendar": "ufora"
     }
   ],
   "firstTomorrow": [
