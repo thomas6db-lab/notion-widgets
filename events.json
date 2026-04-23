@@ -1,5 +1,5 @@
 {
-  "updated": "23/04 20:02",
+  "updated": "23/04 21:37",
   "timezone": "Europe/Brussels",
   "todayLabel": "23 april",
   "tomorrowLabel": "24 april",
@@ -57,14 +57,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "93224c2c603341a4aef7ff14a900c13a@google.com",
-      "summary": "Tectonic: base text + tagline",
-      "location": "ITP Ghent-4-SIDE-Phone Booth 1 (1)",
-      "start": "2026-04-24T09:00:00",
-      "end": "2026-04-24T10:00:00",
+      "uid": "81d1b2e5fcc3443887bdbf6f616bf8ba@google.com",
+      "summary": "-> Gent gaan; Reviewen base text Tectonic",
+      "location": "",
+      "start": "2026-04-24T08:00:00",
+      "end": "2026-04-24T09:00:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     }
   ]
 }
