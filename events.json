@@ -1,55 +1,55 @@
 {
-  "updated": "23/04 23:28",
+  "updated": "24/04 00:10",
   "timezone": "Europe/Brussels",
-  "todayLabel": "23 april",
-  "tomorrowLabel": "24 april",
+  "todayLabel": "24 april",
+  "tomorrowLabel": "25 april",
   "today": [
     {
-      "uid": "b22f24bb3c4d4c2e8d5f361cc99c39fb@google.com",
-      "summary": "Reel checken",
+      "uid": "81d1b2e5fcc3443887bdbf6f616bf8ba@google.com",
+      "summary": "-> Gent gaan; Reviewen base text Tectonic",
       "location": "",
-      "start": "2026-04-23T09:00:00",
-      "end": "2026-04-23T10:00:00",
+      "start": "2026-04-24T08:00:00",
+      "end": "2026-04-24T09:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "CBE11D9F-DA2B-482C-BCF6-4E431E992C85",
-      "summary": "thesis",
+      "uid": "93224c2c603341a4aef7ff14a900c13a@google.com",
+      "summary": "Tectonic: base text + tagline",
+      "location": "ITP Ghent-4-SIDE-Phone Booth 1 (1)",
+      "start": "2026-04-24T09:00:00",
+      "end": "2026-04-24T10:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "1459521--1179705713-0@timeedit.com",
+      "summary": "F000892A. Innovation Management, F000892B. Innovatiemanagement, F000892O. Innovation Management, hoorcollege",
+      "location": "Auditorium D - André Devreker. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
+      "start": "2026-04-24T09:00:00",
+      "end": "2026-04-24T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "1d39sseuinn2ebmfbmcmjr78bk@google.com",
+      "summary": "The Start-Up Club | Tech Tour",
       "location": "",
-      "start": "2026-04-23T09:00:00",
-      "end": "2026-04-23T19:30:00",
+      "start": "2026-04-24T10:00:00",
+      "end": "2026-04-24T11:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "edd5139351684448975308a0a5b6ce27@google.com",
-      "summary": "AIA Groepswerk!",
+      "uid": "ecbe4c20f01b4cc397ae769f7bd26f30@google.com",
+      "summary": "Start-up club",
       "location": "",
-      "start": "2026-04-23T11:30:00",
-      "end": "2026-04-23T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "c09de781edc643d396217e0199feb000@google.com",
-      "summary": "Loop Armin",
-      "location": "",
-      "start": "2026-04-23T13:00:00",
-      "end": "2026-04-23T14:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "e8190866e2cb49679f1cdcb0aa42f0e4@google.com",
-      "summary": "Hans meet",
-      "location": "",
-      "start": "2026-04-23T20:00:00",
-      "end": "2026-04-23T23:00:00",
+      "start": "2026-04-24T11:00:00",
+      "end": "2026-04-24T18:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -57,11 +57,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "81d1b2e5fcc3443887bdbf6f616bf8ba@google.com",
-      "summary": "-> Gent gaan; Reviewen base text Tectonic",
+      "uid": "0e71952c80704c8883234af5749ccbb1@google.com",
+      "summary": "NFC tags fixen",
       "location": "",
-      "start": "2026-04-24T08:00:00",
-      "end": "2026-04-24T09:00:00",
+      "start": "2026-04-25T22:30:00",
+      "end": "2026-04-25T23:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
