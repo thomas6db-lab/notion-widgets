@@ -1,25 +1,25 @@
 {
-  "updated": "23/04 22:37",
+  "updated": "23/04 23:28",
   "timezone": "Europe/Brussels",
   "todayLabel": "23 april",
   "tomorrowLabel": "24 april",
   "today": [
-    {
-      "uid": "CBE11D9F-DA2B-482C-BCF6-4E431E992C85",
-      "summary": "thesis",
-      "location": "",
-      "start": "2026-04-23T09:00:00",
-      "end": "2026-04-23T19:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
     {
       "uid": "b22f24bb3c4d4c2e8d5f361cc99c39fb@google.com",
       "summary": "Reel checken",
       "location": "",
       "start": "2026-04-23T09:00:00",
       "end": "2026-04-23T10:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "CBE11D9F-DA2B-482C-BCF6-4E431E992C85",
+      "summary": "thesis",
+      "location": "",
+      "start": "2026-04-23T09:00:00",
+      "end": "2026-04-23T19:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
