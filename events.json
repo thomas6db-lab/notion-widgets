@@ -1,5 +1,5 @@
 {
-  "updated": "24/04 14:07",
+  "updated": "24/04 16:05",
   "timezone": "Europe/Brussels",
   "todayLabel": "24 april",
   "tomorrowLabel": "25 april",
@@ -89,6 +89,16 @@
       "summary": "Tech Tour: Jurimesh (legal due diligence)",
       "location": "Wintercircus, Miriam Makebaplein 2, 9000 Gent",
       "start": "2026-04-24T15:30:00",
+      "end": "2026-04-24T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "C290FC65-B5A6-448D-91D5-265702E180E0",
+      "summary": "Mats powerbank",
+      "location": "",
+      "start": "2026-04-24T16:45:00",
       "end": "2026-04-24T17:00:00",
       "allDay": false,
       "day": "today",
