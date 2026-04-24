@@ -1,5 +1,5 @@
 {
-  "updated": "24/04 07:59",
+  "updated": "24/04 10:17",
   "timezone": "Europe/Brussels",
   "todayLabel": "24 april",
   "tomorrowLabel": "25 april",
@@ -45,21 +45,81 @@
       "calendar": "timeedit"
     },
     {
-      "uid": "1d39sseuinn2ebmfbmcmjr78bk@google.com",
-      "summary": "The Start-Up Club | Tech Tour",
-      "location": "",
+      "uid": "0rmpnnhg9mgolemkunod5qa4qc@google.com",
+      "summary": "Tech Tour: Donna (AI sales assistant)",
+      "location": "Foreestelaan 82, 9000 Gent",
       "start": "2026-04-24T10:00:00",
-      "end": "2026-04-24T11:00:00",
+      "end": "2026-04-24T11:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "ecbe4c20f01b4cc397ae769f7bd26f30@google.com",
-      "summary": "Start-up club",
-      "location": "",
-      "start": "2026-04-24T11:00:00",
+      "uid": "s1njveu2ljkrekb8efhulg7agg@google.com",
+      "summary": "Tech Tour: Dytto (AI voor accountants)",
+      "location": "Kliniekstraat 27a, 9050 Gent",
+      "start": "2026-04-24T11:30:00",
+      "end": "2026-04-24T12:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "leccp03janu5dpvj7p0q1gk5us@google.com",
+      "summary": "Lunch @ Pureto",
+      "location": "Pureto, Gent",
+      "start": "2026-04-24T12:45:00",
+      "end": "2026-04-24T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "pt9qrvl5ch33lddc9jtc2h1dos@google.com",
+      "summary": "Tech Tour: Spotable (AI roof & facade measurements)",
+      "location": "Franklin Rooseveltlaan 306, 9000 Gent",
+      "start": "2026-04-24T14:00:00",
+      "end": "2026-04-24T15:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1lsh5a88tjb0i4d9cs1q9t6a78@google.com",
+      "summary": "Tech Tour: Jurimesh (legal due diligence)",
+      "location": "Wintercircus, Miriam Makebaplein 2, 9000 Gent",
+      "start": "2026-04-24T15:30:00",
+      "end": "2026-04-24T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "70tpr4r8lb4m0si9iis9kb3kjk@google.com",
+      "summary": "Tech Tour: Drinks @ Rooftop Bar Bassie",
+      "location": "Rooftop Bar Bassie, Gent",
+      "start": "2026-04-24T17:00:00",
       "end": "2026-04-24T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "eaf4d324fe7a4a77886016338cb84ead@google.com",
+      "summary": "Call Jan Huyghelen",
+      "location": "",
+      "start": "2026-04-24T18:00:00",
+      "end": "2026-04-24T19:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "4F005539-575A-496D-B6B1-459390963623",
+      "summary": "Thesiscall",
+      "location": "",
+      "start": "2026-04-24T22:00:00",
+      "end": "2026-04-24T22:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
