@@ -1,151 +1,9 @@
 {
-  "updated": "24/04 23:57",
+  "updated": "25/04 00:50",
   "timezone": "Europe/Brussels",
-  "todayLabel": "24 april",
-  "tomorrowLabel": "25 april",
+  "todayLabel": "25 april",
+  "tomorrowLabel": "26 april",
   "today": [
-    {
-      "uid": "4c5bc3c6bc5345a2b8cd31df2464db3b@google.com",
-      "summary": "Douchen etc",
-      "location": "",
-      "start": "2026-04-24T07:30:00",
-      "end": "2026-04-24T08:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "81d1b2e5fcc3443887bdbf6f616bf8ba@google.com",
-      "summary": "-> Gent gaan; Reviewen base text Tectonic",
-      "location": "",
-      "start": "2026-04-24T08:00:00",
-      "end": "2026-04-24T09:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "93224c2c603341a4aef7ff14a900c13a@google.com",
-      "summary": "Tectonic: base text + tagline",
-      "location": "ITP Ghent-4-SIDE-Phone Booth 1 (1)",
-      "start": "2026-04-24T09:00:00",
-      "end": "2026-04-24T10:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "1459521--1179705713-0@timeedit.com",
-      "summary": "F000892A. Innovation Management, F000892B. Innovatiemanagement, F000892O. Innovation Management, hoorcollege",
-      "location": "Auditorium D - André Devreker. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
-      "start": "2026-04-24T09:00:00",
-      "end": "2026-04-24T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "0rmpnnhg9mgolemkunod5qa4qc@google.com",
-      "summary": "Tech Tour: Donna (AI sales assistant)",
-      "location": "Foreestelaan 82, 9000 Gent",
-      "start": "2026-04-24T10:00:00",
-      "end": "2026-04-24T11:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "s1njveu2ljkrekb8efhulg7agg@google.com",
-      "summary": "Tech Tour: Dytto (AI voor accountants)",
-      "location": "Kliniekstraat 27a, 9050 Gent",
-      "start": "2026-04-24T11:30:00",
-      "end": "2026-04-24T12:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "leccp03janu5dpvj7p0q1gk5us@google.com",
-      "summary": "Lunch @ Pureto",
-      "location": "Pureto, Gent",
-      "start": "2026-04-24T12:45:00",
-      "end": "2026-04-24T14:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "pt9qrvl5ch33lddc9jtc2h1dos@google.com",
-      "summary": "Tech Tour: Spotable (AI roof & facade measurements)",
-      "location": "Franklin Rooseveltlaan 306, 9000 Gent",
-      "start": "2026-04-24T14:00:00",
-      "end": "2026-04-24T15:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1lsh5a88tjb0i4d9cs1q9t6a78@google.com",
-      "summary": "Tech Tour: Jurimesh (legal due diligence)",
-      "location": "Wintercircus, Miriam Makebaplein 2, 9000 Gent",
-      "start": "2026-04-24T15:30:00",
-      "end": "2026-04-24T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "C290FC65-B5A6-448D-91D5-265702E180E0",
-      "summary": "Mats powerbank",
-      "location": "",
-      "start": "2026-04-24T16:45:00",
-      "end": "2026-04-24T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "70tpr4r8lb4m0si9iis9kb3kjk@google.com",
-      "summary": "Tech Tour: Drinks @ Rooftop Bar Bassie",
-      "location": "Rooftop Bar Bassie, Gent",
-      "start": "2026-04-24T17:00:00",
-      "end": "2026-04-24T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "eaf4d324fe7a4a77886016338cb84ead@google.com",
-      "summary": "Call Jan Huyghelen",
-      "location": "",
-      "start": "2026-04-24T18:00:00",
-      "end": "2026-04-24T19:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "e9178cc38832470d8ada63c11dceefbf@google.com",
-      "summary": "Hans Bybit referral",
-      "location": "",
-      "start": "2026-04-24T20:00:00",
-      "end": "2026-04-24T20:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "4F005539-575A-496D-B6B1-459390963623",
-      "summary": "Calll ❤️",
-      "location": "",
-      "start": "2026-04-24T23:00:00",
-      "end": "2026-04-24T23:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "6402484d97de436b8bcad9a64df574c1@google.com",
       "summary": "Post reel",
@@ -153,8 +11,50 @@
       "start": "2026-04-25T10:00:00",
       "end": "2026-04-25T10:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "5e8fb919c5804291a7f20820f82a418d@google.com",
+      "summary": "Rhenan horloges gaan checken",
+      "location": "",
+      "start": "2026-04-25T11:00:00",
+      "end": "2026-04-25T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5677536d1fa94b91b313f851e969b4ad@google.com",
+      "summary": "Contact photographer + Dominique",
+      "location": "",
+      "start": "2026-04-25T16:00:00",
+      "end": "2026-04-25T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "0e71952c80704c8883234af5749ccbb1@google.com",
+      "summary": "NFC tags fixen",
+      "location": "",
+      "start": "2026-04-25T22:30:00",
+      "end": "2026-04-25T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260426T070000@google.com",
+      "summary": "Getting Sh*t Done day [in-person]",
+      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
+      "start": "2026-04-26T09:00:00",
+      "end": "2026-04-26T17:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
