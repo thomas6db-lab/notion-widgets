@@ -1,5 +1,5 @@
 {
-  "updated": "24/04 13:11",
+  "updated": "24/04 14:07",
   "timezone": "Europe/Brussels",
   "todayLabel": "24 april",
   "tomorrowLabel": "25 april",
@@ -110,6 +110,16 @@
       "location": "",
       "start": "2026-04-24T18:00:00",
       "end": "2026-04-24T19:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "9c9ecd4b6db0499bbd376fa9ad8ba045@google.com",
+      "summary": "Thesis vastleggen",
+      "location": "",
+      "start": "2026-04-24T19:00:00",
+      "end": "2026-04-24T20:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
