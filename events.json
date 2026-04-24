@@ -1,5 +1,5 @@
 {
-  "updated": "24/04 18:31",
+  "updated": "24/04 19:32",
   "timezone": "Europe/Brussels",
   "todayLabel": "24 april",
   "tomorrowLabel": "25 april",
@@ -125,11 +125,11 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "9c9ecd4b6db0499bbd376fa9ad8ba045@google.com",
-      "summary": "Thesis vastleggen",
+      "uid": "e9178cc38832470d8ada63c11dceefbf@google.com",
+      "summary": "Hans Bybit referral",
       "location": "",
-      "start": "2026-04-24T19:00:00",
-      "end": "2026-04-24T20:00:00",
+      "start": "2026-04-24T20:00:00",
+      "end": "2026-04-24T20:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -147,11 +147,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "0e71952c80704c8883234af5749ccbb1@google.com",
-      "summary": "NFC tags fixen",
+      "uid": "5e8fb919c5804291a7f20820f82a418d@google.com",
+      "summary": "Rhenan horloges gaan checken",
       "location": "",
-      "start": "2026-04-25T22:30:00",
-      "end": "2026-04-25T23:00:00",
+      "start": "2026-04-25T11:00:00",
+      "end": "2026-04-25T11:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
