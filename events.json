@@ -1,5 +1,5 @@
 {
-  "updated": "25/04 12:03",
+  "updated": "25/04 13:00",
   "timezone": "Europe/Brussels",
   "todayLabel": "25 april",
   "tomorrowLabel": "26 april",
@@ -25,11 +25,31 @@
       "calendar": "thomas6db"
     },
     {
+      "uid": "5276896a52894824b1fc072185043af2@google.com",
+      "summary": "Watches est",
+      "location": "",
+      "start": "2026-04-25T12:30:00",
+      "end": "2026-04-25T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "5677536d1fa94b91b313f851e969b4ad@google.com",
       "summary": "Contact photographer + Dominique",
       "location": "",
       "start": "2026-04-25T16:00:00",
       "end": "2026-04-25T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1b765bb5326a42a79e8d389f83ac8ee7@google.com",
+      "summary": "Lopen Armin",
+      "location": "",
+      "start": "2026-04-25T19:00:00",
+      "end": "2026-04-25T21:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
