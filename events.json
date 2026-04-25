@@ -1,71 +1,9 @@
 {
-  "updated": "25/04 23:39",
+  "updated": "26/04 00:18",
   "timezone": "Europe/Brussels",
-  "todayLabel": "25 april",
-  "tomorrowLabel": "26 april",
+  "todayLabel": "26 april",
+  "tomorrowLabel": "27 april",
   "today": [
-    {
-      "uid": "6402484d97de436b8bcad9a64df574c1@google.com",
-      "summary": "Post reel",
-      "location": "",
-      "start": "2026-04-25T10:00:00",
-      "end": "2026-04-25T10:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5e8fb919c5804291a7f20820f82a418d@google.com",
-      "summary": "Rhenan horloges gaan checken",
-      "location": "",
-      "start": "2026-04-25T11:00:00",
-      "end": "2026-04-25T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5276896a52894824b1fc072185043af2@google.com",
-      "summary": "Watches est",
-      "location": "",
-      "start": "2026-04-25T12:30:00",
-      "end": "2026-04-25T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5677536d1fa94b91b313f851e969b4ad@google.com",
-      "summary": "Contact photographer + Dominique",
-      "location": "",
-      "start": "2026-04-25T16:00:00",
-      "end": "2026-04-25T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1b765bb5326a42a79e8d389f83ac8ee7@google.com",
-      "summary": "Lopen Armin",
-      "location": "",
-      "start": "2026-04-25T19:00:00",
-      "end": "2026-04-25T21:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "0e71952c80704c8883234af5749ccbb1@google.com",
-      "summary": "NFC tags fixen",
-      "location": "",
-      "start": "2026-04-25T22:30:00",
-      "end": "2026-04-25T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260426T070000@google.com",
       "summary": "Getting Sh*t Done day [in-person]",
@@ -73,8 +11,80 @@
       "start": "2026-04-26T09:00:00",
       "end": "2026-04-26T17:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "0m7gt4f3m11nkssnaagafa27se@google.com",
+      "summary": "Team Lunch",
+      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
+      "start": "2026-04-26T12:00:00",
+      "end": "2026-04-26T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "0r0it6san5j037gck3mv8ipc81@google.com",
+      "summary": "Content calender",
+      "location": "",
+      "start": "2026-04-26T13:00:00",
+      "end": "2026-04-26T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "7f91brdu4oho2o9cf4lh0dn2at@google.com",
+      "summary": "Launch Event / Event Update - Tectonic",
+      "location": "",
+      "start": "2026-04-26T13:00:00",
+      "end": "2026-04-26T13:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "1e18bjkk19b05l9o4qkpbka4bh_R20260329T150000@google.com",
+      "summary": "Weekly Team Meeting [In-person] - Tectonic",
+      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
+      "start": "2026-04-26T17:00:00",
+      "end": "2026-04-26T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "3rshv7jqkoqn6efibr1bdtcpv1_R20260426T160000@google.com",
+      "summary": "Team Dinner + Drinks",
+      "location": "TBA",
+      "start": "2026-04-26T18:00:00",
+      "end": "2026-04-26T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "8dfb5839a63445eca055405ce7f6beb0@google.com",
+      "summary": "Datenight ❤️",
+      "location": "",
+      "start": "2026-04-26T20:00:00",
+      "end": "2026-04-27T00:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "e1ee21aedad34bd198a3e06502cd9a9f@google.com",
+      "summary": "Decide on PE Deal - Jan",
+      "location": "",
+      "start": "2026-04-27T10:30:00",
+      "end": "2026-04-27T11:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
