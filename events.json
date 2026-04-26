@@ -1,101 +1,9 @@
 {
-  "updated": "26/04 23:23",
+  "updated": "27/04 00:01",
   "timezone": "Europe/Brussels",
-  "todayLabel": "26 april",
-  "tomorrowLabel": "27 april",
+  "todayLabel": "27 april",
+  "tomorrowLabel": "28 april",
   "today": [
-    {
-      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260426T070000@google.com",
-      "summary": "Getting Sh*t Done day [in-person]",
-      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
-      "start": "2026-04-26T09:00:00",
-      "end": "2026-04-26T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "6so38chhcoo64b9g6th36b9k60s3abb1cgom8bb66li3ic1j6soj8ohkcg@google.com",
-      "summary": "Technology x Marketing",
-      "location": "",
-      "start": "2026-04-26T10:30:00",
-      "end": "2026-04-26T11:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "1u5fsembhf8rbqua7fl79oihdp@google.com",
-      "summary": "launch video",
-      "location": "",
-      "start": "2026-04-26T11:15:00",
-      "end": "2026-04-26T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "0m7gt4f3m11nkssnaagafa27se@google.com",
-      "summary": "Team Lunch",
-      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
-      "start": "2026-04-26T12:00:00",
-      "end": "2026-04-26T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "7f91brdu4oho2o9cf4lh0dn2at@google.com",
-      "summary": "Launch Event / Event Update - Tectonic",
-      "location": "",
-      "start": "2026-04-26T13:00:00",
-      "end": "2026-04-26T13:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "0r0it6san5j037gck3mv8ipc81@google.com",
-      "summary": "Content calender",
-      "location": "",
-      "start": "2026-04-26T14:30:00",
-      "end": "2026-04-26T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "1e18bjkk19b05l9o4qkpbka4bh_R20260329T150000@google.com",
-      "summary": "Weekly Team Meeting [In-person] - Tectonic",
-      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
-      "start": "2026-04-26T17:00:00",
-      "end": "2026-04-26T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "3rshv7jqkoqn6efibr1bdtcpv1_R20260426T160000@google.com",
-      "summary": "Team Dinner + Drinks",
-      "location": "TBA",
-      "start": "2026-04-26T18:00:00",
-      "end": "2026-04-26T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "8dfb5839a63445eca055405ce7f6beb0@google.com",
-      "summary": "Datenight ❤️",
-      "location": "",
-      "start": "2026-04-26T20:00:00",
-      "end": "2026-04-27T00:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "6uquns2q1daeboju8jl95rk0f3@google.com",
       "summary": "Launch video Tectonic",
@@ -103,8 +11,90 @@
       "start": "2026-04-27T10:00:00",
       "end": "2026-04-27T11:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "e1ee21aedad34bd198a3e06502cd9a9f@google.com",
+      "summary": "Decide on PE Deal - Jan",
+      "location": "",
+      "start": "2026-04-27T10:30:00",
+      "end": "2026-04-27T11:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "44counjmbcik2odbgeqt2sikf0@google.com",
+      "summary": "MM",
+      "location": "",
+      "start": "2026-04-27T11:00:00",
+      "end": "2026-04-27T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "4498ba9e88cd44dfb20aa6301fa49730@google.com",
+      "summary": "Eten Mats?",
+      "location": "",
+      "start": "2026-04-27T12:00:00",
+      "end": "2026-04-27T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "69982dbe62f44359b0564aee93cf8164@google.com",
+      "summary": "Afzeggen apify abo",
+      "location": "",
+      "start": "2026-04-27T13:00:00",
+      "end": "2026-04-27T13:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-04-27T14:00:00",
+      "end": "2026-04-27T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "91a417de78754858bfba7924173cb459@google.com",
+      "summary": "GSP -> Leuven",
+      "location": "",
+      "start": "2026-04-27T15:45:00",
+      "end": "2026-04-27T16:35:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "49a3262bf87046cca254c659c99463f6@google.com",
+      "summary": "Cronos workshop NEXT",
+      "location": "",
+      "start": "2026-04-27T17:15:00",
+      "end": "2026-04-27T21:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1535625--1179705713-0@timeedit.com",
+      "summary": "F000898A. Business Valuation, hoorcollege",
+      "location": "Auditorium 8. Ledeganck. Campus Ledeganck. (fietsers) via Kraaistraat K.L. Ledeganckstraat 35",
+      "start": "2026-04-28T13:00:00",
+      "end": "2026-04-28T17:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "timeedit"
     }
   ]
 }
