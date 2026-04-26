@@ -1,5 +1,5 @@
 {
-  "updated": "26/04 08:30",
+  "updated": "26/04 10:06",
   "timezone": "Europe/Brussels",
   "todayLabel": "26 april",
   "tomorrowLabel": "27 april",
@@ -15,6 +15,26 @@
       "calendar": "tectonic"
     },
     {
+      "uid": "6so38chhcoo64b9g6th36b9k60s3abb1cgom8bb66li3ic1j6soj8ohkcg@google.com",
+      "summary": "Technology x Marketing",
+      "location": "",
+      "start": "2026-04-26T10:30:00",
+      "end": "2026-04-26T11:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "1u5fsembhf8rbqua7fl79oihdp@google.com",
+      "summary": "launch video",
+      "location": "",
+      "start": "2026-04-26T11:15:00",
+      "end": "2026-04-26T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
       "uid": "0m7gt4f3m11nkssnaagafa27se@google.com",
       "summary": "Team Lunch",
       "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
@@ -25,21 +45,21 @@
       "calendar": "tectonic"
     },
     {
-      "uid": "0r0it6san5j037gck3mv8ipc81@google.com",
-      "summary": "Content calender",
-      "location": "",
-      "start": "2026-04-26T13:00:00",
-      "end": "2026-04-26T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
       "uid": "7f91brdu4oho2o9cf4lh0dn2at@google.com",
       "summary": "Launch Event / Event Update - Tectonic",
       "location": "",
       "start": "2026-04-26T13:00:00",
       "end": "2026-04-26T13:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "0r0it6san5j037gck3mv8ipc81@google.com",
+      "summary": "Content calender",
+      "location": "",
+      "start": "2026-04-26T14:00:00",
+      "end": "2026-04-26T16:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
