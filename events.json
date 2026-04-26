@@ -1,5 +1,5 @@
 {
-  "updated": "26/04 11:13",
+  "updated": "26/04 12:09",
   "timezone": "Europe/Brussels",
   "todayLabel": "26 april",
   "tomorrowLabel": "27 april",
@@ -97,14 +97,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "e1ee21aedad34bd198a3e06502cd9a9f@google.com",
-      "summary": "Decide on PE Deal - Jan",
+      "uid": "6uquns2q1daeboju8jl95rk0f3@google.com",
+      "summary": "Launch video Tectonic",
       "location": "",
-      "start": "2026-04-27T10:30:00",
+      "start": "2026-04-27T10:00:00",
       "end": "2026-04-27T11:00:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "thomas6db"
+      "calendar": "tectonic"
     }
   ]
 }
