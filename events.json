@@ -1,5 +1,5 @@
 {
-  "updated": "27/04 11:38",
+  "updated": "27/04 13:26",
   "timezone": "Europe/Brussels",
   "todayLabel": "27 april",
   "tomorrowLabel": "28 april",
@@ -97,14 +97,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "1535625--1179705713-0@timeedit.com",
-      "summary": "F000898A. Business Valuation, hoorcollege",
-      "location": "Auditorium 8. Ledeganck. Campus Ledeganck. (fietsers) via Kraaistraat K.L. Ledeganckstraat 35",
-      "start": "2026-04-28T13:00:00",
-      "end": "2026-04-28T17:00:00",
+      "uid": "538fc9093d974b72a7fe8be69c051e69@google.com",
+      "summary": "Programma’s Tectonic checken",
+      "location": "",
+      "start": "2026-04-28T08:30:00",
+      "end": "2026-04-28T11:45:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "timeedit"
+      "calendar": "thomas6db"
     }
   ]
 }
