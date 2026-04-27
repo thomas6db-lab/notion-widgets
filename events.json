@@ -1,5 +1,5 @@
 {
-  "updated": "27/04 15:06",
+  "updated": "27/04 17:17",
   "timezone": "Europe/Brussels",
   "todayLabel": "27 april",
   "tomorrowLabel": "28 april",
@@ -90,6 +90,16 @@
       "location": "",
       "start": "2026-04-27T17:15:00",
       "end": "2026-04-27T21:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "fd906c73a3db490d818674a158549d30@google.com",
+      "summary": "Mama herinneren rugzak",
+      "location": "",
+      "start": "2026-04-27T22:00:00",
+      "end": "2026-04-27T22:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
