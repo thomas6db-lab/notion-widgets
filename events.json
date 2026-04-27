@@ -1,12 +1,12 @@
 {
-  "updated": "27/04 09:26",
+  "updated": "27/04 11:38",
   "timezone": "Europe/Brussels",
   "todayLabel": "27 april",
   "tomorrowLabel": "28 april",
   "today": [
     {
-      "uid": "6uquns2q1daeboju8jl95rk0f3@google.com",
-      "summary": "Launch video Tectonic",
+      "uid": "1lari3j5ea0rpb2s06bt30f8p7@google.com",
+      "summary": "mm",
       "location": "",
       "start": "2026-04-27T10:00:00",
       "end": "2026-04-27T11:00:00",
@@ -25,11 +25,21 @@
       "calendar": "thomas6db"
     },
     {
+      "uid": "6uquns2q1daeboju8jl95rk0f3@google.com",
+      "summary": "Launch video Tectonic",
+      "location": "",
+      "start": "2026-04-27T11:00:00",
+      "end": "2026-04-27T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
       "uid": "44counjmbcik2odbgeqt2sikf0@google.com",
       "summary": "MM",
       "location": "",
-      "start": "2026-04-27T11:00:00",
-      "end": "2026-04-27T13:00:00",
+      "start": "2026-04-27T11:15:00",
+      "end": "2026-04-27T13:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
@@ -53,6 +63,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "eb4gn1rdcietktnsobuufp6hk8@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-04-27T15:00:00",
+      "end": "2026-04-27T15:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
     },
     {
       "uid": "91a417de78754858bfba7924173cb459@google.com",
