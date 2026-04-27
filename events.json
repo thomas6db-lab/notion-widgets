@@ -1,111 +1,9 @@
 {
-  "updated": "27/04 23:41",
+  "updated": "28/04 00:34",
   "timezone": "Europe/Brussels",
-  "todayLabel": "27 april",
-  "tomorrowLabel": "28 april",
+  "todayLabel": "28 april",
+  "tomorrowLabel": "29 april",
   "today": [
-    {
-      "uid": "1lari3j5ea0rpb2s06bt30f8p7@google.com",
-      "summary": "mm",
-      "location": "",
-      "start": "2026-04-27T10:00:00",
-      "end": "2026-04-27T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "e1ee21aedad34bd198a3e06502cd9a9f@google.com",
-      "summary": "Decide on PE Deal - Jan",
-      "location": "",
-      "start": "2026-04-27T10:30:00",
-      "end": "2026-04-27T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "6uquns2q1daeboju8jl95rk0f3@google.com",
-      "summary": "Launch video Tectonic",
-      "location": "",
-      "start": "2026-04-27T11:00:00",
-      "end": "2026-04-27T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "44counjmbcik2odbgeqt2sikf0@google.com",
-      "summary": "MM",
-      "location": "",
-      "start": "2026-04-27T11:15:00",
-      "end": "2026-04-27T13:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "4498ba9e88cd44dfb20aa6301fa49730@google.com",
-      "summary": "Eten Mats?",
-      "location": "",
-      "start": "2026-04-27T12:00:00",
-      "end": "2026-04-27T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "69982dbe62f44359b0564aee93cf8164@google.com",
-      "summary": "Afzeggen apify abo",
-      "location": "",
-      "start": "2026-04-27T13:00:00",
-      "end": "2026-04-27T13:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "eb4gn1rdcietktnsobuufp6hk8@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-04-27T15:00:00",
-      "end": "2026-04-27T15:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "91a417de78754858bfba7924173cb459@google.com",
-      "summary": "GSP -> Leuven",
-      "location": "",
-      "start": "2026-04-27T15:45:00",
-      "end": "2026-04-27T16:35:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "49a3262bf87046cca254c659c99463f6@google.com",
-      "summary": "Cronos workshop NEXT",
-      "location": "",
-      "start": "2026-04-27T17:15:00",
-      "end": "2026-04-27T21:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "fd906c73a3db490d818674a158549d30@google.com",
-      "summary": "Mama herinneren rugzak",
-      "location": "",
-      "start": "2026-04-27T22:00:00",
-      "end": "2026-04-27T22:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "538fc9093d974b72a7fe8be69c051e69@google.com",
       "summary": "Programma’s Tectonic checken",
@@ -113,8 +11,60 @@
       "start": "2026-04-28T08:30:00",
       "end": "2026-04-28T11:45:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "0dd0f4tu66mnhruihm27vvrc1o@google.com",
+      "summary": "MM - Updates",
+      "location": "",
+      "start": "2026-04-28T13:00:00",
+      "end": "2026-04-28T14:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "1535625--1179705713-0@timeedit.com",
+      "summary": "F000898A. Business Valuation, hoorcollege",
+      "location": "Auditorium 8. Ledeganck. Campus Ledeganck. (fietsers) via Kraaistraat K.L. Ledeganckstraat 35",
+      "start": "2026-04-28T13:00:00",
+      "end": "2026-04-28T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "3n1jnmthap4jfo074k9afbqgr3@google.com",
+      "summary": "Branding sync",
+      "location": "",
+      "start": "2026-04-28T16:00:00",
+      "end": "2026-04-28T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "2b57718d0d56499d8ade587fab8318d7@google.com",
+      "summary": "ITP Afterwork: Winning in an AI-first world",
+      "location": "In The Pocket HQ, Gent",
+      "start": "2026-04-28T18:00:00",
+      "end": "2026-04-28T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1530995--1179705713-0@timeedit.com",
+      "summary": "F000700B. Managing Service Organisations, werkcollege",
+      "location": "Online",
+      "start": "2026-04-29T08:30:00",
+      "end": "2026-04-29T11:30:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "timeedit"
     }
   ]
 }
