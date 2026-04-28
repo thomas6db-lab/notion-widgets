@@ -1,5 +1,5 @@
 {
-  "updated": "28/04 11:40",
+  "updated": "28/04 13:27",
   "timezone": "Europe/Brussels",
   "todayLabel": "28 april",
   "tomorrowLabel": "29 april",
@@ -57,14 +57,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "1530995--1179705713-0@timeedit.com",
-      "summary": "F000700B. Managing Service Organisations, werkcollege",
-      "location": "Online",
-      "start": "2026-04-29T08:30:00",
-      "end": "2026-04-29T11:30:00",
+      "uid": "9225e5ba82194afc95857e1712dc5990@google.com",
+      "summary": "Collective",
+      "location": "",
+      "start": "2026-04-29T08:00:00",
+      "end": "2026-04-29T16:00:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "timeedit"
+      "calendar": "thomas6db"
     }
   ]
 }
