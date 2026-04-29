@@ -1,111 +1,9 @@
 {
-  "updated": "29/04 23:12",
+  "updated": "30/04 00:12",
   "timezone": "Europe/Brussels",
-  "todayLabel": "29 april",
-  "tomorrowLabel": "30 april",
+  "todayLabel": "30 april",
+  "tomorrowLabel": "1 may",
   "today": [
-    {
-      "uid": "9225e5ba82194afc95857e1712dc5990@google.com",
-      "summary": "Collective",
-      "location": "",
-      "start": "2026-04-29T08:00:00",
-      "end": "2026-04-29T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1530995--1179705713-0@timeedit.com",
-      "summary": "F000700B. Managing Service Organisations, werkcollege",
-      "location": "Online",
-      "start": "2026-04-29T08:30:00",
-      "end": "2026-04-29T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "1538040--1179705713-0@timeedit.com",
-      "summary": "F000943A. Advanced Investment Analysis, hoorcollege",
-      "location": "Auditorium E - Maurice Van Vaerenbergh. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
-      "start": "2026-04-29T13:00:00",
-      "end": "2026-04-29T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "7ohs0dmj9p85ive5994dogvdu7@google.com",
-      "summary": "MM - update posts, merch, higgsfield scripts",
-      "location": "",
-      "start": "2026-04-29T14:00:00",
-      "end": "2026-04-29T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "7c9u101f9k36gf3765df79ie70@google.com",
-      "summary": "brandig sync 2",
-      "location": "",
-      "start": "2026-04-29T15:00:00",
-      "end": "2026-04-29T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "1d61a0b1f8b44aaa984edf82706f3cc3@google.com",
-      "summary": "-> GSP",
-      "location": "",
-      "start": "2026-04-29T15:45:00",
-      "end": "2026-04-29T16:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "4a22f5bfc9bf4953a146d26858b1b7e6@google.com",
-      "summary": "Trein GSP -> Noord",
-      "location": "",
-      "start": "2026-04-29T16:20:00",
-      "end": "2026-04-29T17:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "671a56f0fea64028ad42d0714d12c532@google.com",
-      "summary": "Arthur x Thomas Pav",
-      "location": "",
-      "start": "2026-04-29T17:30:00",
-      "end": "2026-04-29T18:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "bikg0parpe5otbcmr1ijn5orjo@google.com",
-      "summary": "M&A Monitor 2026 — Vlerick",
-      "location": "Vlerick Business School, Brussels Campus",
-      "start": "2026-04-29T18:30:00",
-      "end": "2026-04-29T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "2c99093e5b994b419a1c0d5a74532baa@google.com",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-04-29T22:00:00",
-      "end": "2026-04-30T00:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "9dbfe23f605940e396777a9d3f22c419@google.com",
       "summary": "AIA",
@@ -113,8 +11,50 @@
       "start": "2026-04-30T08:00:00",
       "end": "2026-04-30T16:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "4FDAD7E7-5E95-43BE-83B3-732F6626CED9",
+      "summary": "Meet AIA",
+      "location": "",
+      "start": "2026-04-30T16:00:00",
+      "end": "2026-04-30T18:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "54c1b1b56acb4a8081a04ed7b4779512@google.com",
+      "summary": "BLP event",
+      "location": "Auditorium Quetelet, Faculteit Economie en Bedrijfskunde, Tweekerkenstraat 2, 9000 Gent, België",
+      "start": "2026-04-30T18:30:00",
+      "end": "2026-04-30T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5ee907f516cf46eb87cd9720c3c3b115@google.com",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-04-30T21:00:00",
+      "end": "2026-05-01T00:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "20260501_v9lddafikfeb384i2hms5mtasc@google.com",
+      "summary": "Dag van de Arbeid",
+      "location": "",
+      "start": "2026-05-01",
+      "end": "2026-05-02",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "feestdagen"
     }
   ]
 }
