@@ -1,5 +1,5 @@
 {
-  "updated": "29/04 09:13",
+  "updated": "29/04 11:27",
   "timezone": "Europe/Brussels",
   "todayLabel": "29 april",
   "tomorrowLabel": "30 april",
@@ -55,6 +55,36 @@
       "calendar": "tectonic"
     },
     {
+      "uid": "1d61a0b1f8b44aaa984edf82706f3cc3@google.com",
+      "summary": "-> GSP",
+      "location": "",
+      "start": "2026-04-29T15:45:00",
+      "end": "2026-04-29T16:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "4a22f5bfc9bf4953a146d26858b1b7e6@google.com",
+      "summary": "Trein GSP -> Noord",
+      "location": "",
+      "start": "2026-04-29T16:20:00",
+      "end": "2026-04-29T17:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "671a56f0fea64028ad42d0714d12c532@google.com",
+      "summary": "Arthur x Thomas Pav",
+      "location": "",
+      "start": "2026-04-29T17:30:00",
+      "end": "2026-04-29T18:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "bikg0parpe5otbcmr1ijn5orjo@google.com",
       "summary": "M&A Monitor 2026 — Vlerick",
       "location": "Vlerick Business School, Brussels Campus",
@@ -63,15 +93,25 @@
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "2c99093e5b994b419a1c0d5a74532baa@google.com",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-04-29T22:00:00",
+      "end": "2026-04-30T00:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     }
   ],
   "firstTomorrow": [
     {
-      "uid": "4FDAD7E7-5E95-43BE-83B3-732F6626CED9",
-      "summary": "Meet AIA",
+      "uid": "9dbfe23f605940e396777a9d3f22c419@google.com",
+      "summary": "AIA",
       "location": "",
-      "start": "2026-04-30T16:00:00",
-      "end": "2026-04-30T18:30:00",
+      "start": "2026-04-30T08:00:00",
+      "end": "2026-04-30T16:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
