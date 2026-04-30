@@ -1,5 +1,5 @@
 {
-  "updated": "30/04 08:37",
+  "updated": "30/04 11:01",
   "timezone": "Europe/Brussels",
   "todayLabel": "30 april",
   "tomorrowLabel": "1 may",
@@ -29,7 +29,7 @@
       "summary": "BLP event",
       "location": "Auditorium Quetelet, Faculteit Economie en Bedrijfskunde, Tweekerkenstraat 2, 9000 Gent, België",
       "start": "2026-04-30T18:30:00",
-      "end": "2026-04-30T23:00:00",
+      "end": "2026-04-30T21:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
