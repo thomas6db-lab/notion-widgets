@@ -1,81 +1,9 @@
 {
-  "updated": "01/05 23:34",
+  "updated": "02/05 00:30",
   "timezone": "Europe/Brussels",
-  "todayLabel": "1 may",
-  "tomorrowLabel": "2 may",
+  "todayLabel": "2 may",
+  "tomorrowLabel": "3 may",
   "today": [
-    {
-      "uid": "20260501_v9lddafikfeb384i2hms5mtasc@google.com",
-      "summary": "Dag van de Arbeid",
-      "location": "",
-      "start": "2026-05-01",
-      "end": "2026-05-02",
-      "allDay": true,
-      "day": "today",
-      "calendar": "feestdagen"
-    },
-    {
-      "uid": "8295d1a6170b4f4eb8209664d204a41e@google.com",
-      "summary": "Lize ga slapen",
-      "location": "",
-      "start": "2026-05-01T00:30:00",
-      "end": "2026-05-01T01:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "22fb6f9124f0427c89fb1f1152d3567a@google.com",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-05-01T08:00:00",
-      "end": "2026-05-01T10:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "471f6b47b4ed4854872425cf8be65a9c@google.com",
-      "summary": "Call muller",
-      "location": "",
-      "start": "2026-05-01T10:00:00",
-      "end": "2026-05-01T10:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "579b0f880bff42d895b11f8ce49d09b6@google.com",
-      "summary": "Tectonic",
-      "location": "",
-      "start": "2026-05-01T11:00:00",
-      "end": "2026-05-01T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "2e4rj6hjhcvcr507e2a6ptesuv@google.com",
-      "summary": "Thomas x Arthur",
-      "location": "",
-      "start": "2026-05-01T15:00:00",
-      "end": "2026-05-01T15:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "5a12c95ac5b14dd5bfcb3c24c80342d9@google.com",
-      "summary": "Thesis - LE",
-      "location": "",
-      "start": "2026-05-01T18:00:00",
-      "end": "2026-05-02T00:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "07d9d4ca6f0b4b55b414d5c340729149@google.com",
       "summary": "Thesis",
@@ -83,8 +11,20 @@
       "start": "2026-05-02T08:00:00",
       "end": "2026-05-02T18:15:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "0ds4bv5tdm4eu2hgdnfjnttb1g_R20260322T160000@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "location": "",
+      "start": "2026-05-03T17:00:00",
+      "end": "2026-05-03T18:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
