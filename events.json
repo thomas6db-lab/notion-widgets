@@ -1,21 +1,9 @@
 {
-  "updated": "03/05 23:54",
+  "updated": "04/05 00:40",
   "timezone": "Europe/Brussels",
-  "todayLabel": "3 may",
-  "tomorrowLabel": "4 may",
+  "todayLabel": "4 may",
+  "tomorrowLabel": "5 may",
   "today": [
-    {
-      "uid": "0ds4bv5tdm4eu2hgdnfjnttb1g_R20260322T160000@google.com",
-      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
-      "location": "",
-      "start": "2026-05-03T17:00:00",
-      "end": "2026-05-03T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "0vrelqjveememug3frj21pm8t1@google.com",
       "summary": "MM",
@@ -23,8 +11,70 @@
       "start": "2026-05-04T10:00:00",
       "end": "2026-05-04T11:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "l5l5f80ufeftprlbv199m3lddc@google.com",
+      "summary": "Techwolf AI Day",
+      "location": "Wintercircus, Gent",
+      "start": "2026-05-04T14:00:00",
+      "end": "2026-05-04T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-05-04T14:00:00",
+      "end": "2026-05-04T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "eb4gn1rdcietktnsobuufp6hk8@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-05-04T16:00:00",
+      "end": "2026-05-04T16:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "23g0eo1vtau719vrb0lesui5ct@google.com",
+      "summary": "Branding sync 3",
+      "location": "",
+      "start": "2026-05-04T16:45:00",
+      "end": "2026-05-04T17:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "abc95b8d871146579499afb0a74abd9c@google.com",
+      "summary": "LE thesis",
+      "location": "",
+      "start": "2026-05-04T20:00:00",
+      "end": "2026-05-05T02:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1535626--1179705713-0@timeedit.com",
+      "summary": "F000898A. Business Valuation, hoorcollege",
+      "location": "Auditorium A. Sint-Pietersplein 7. Campus Tweekerken. Sint-Pietersplein 7",
+      "start": "2026-05-05T12:00:00",
+      "end": "2026-05-05T16:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "timeedit"
     }
   ]
 }
