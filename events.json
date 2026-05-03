@@ -1,5 +1,5 @@
 {
-  "updated": "03/05 17:29",
+  "updated": "03/05 18:24",
   "timezone": "Europe/Brussels",
   "todayLabel": "3 may",
   "tomorrowLabel": "4 may",
@@ -21,7 +21,7 @@
       "summary": "MM",
       "location": "",
       "start": "2026-05-04T10:00:00",
-      "end": "2026-05-04T11:15:00",
+      "end": "2026-05-04T11:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "tectonic"
