@@ -1,5 +1,5 @@
 {
-  "updated": "03/05 16:37",
+  "updated": "03/05 17:29",
   "timezone": "Europe/Brussels",
   "todayLabel": "3 may",
   "tomorrowLabel": "4 may",
@@ -13,28 +13,18 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
-    },
-    {
-      "uid": "906eca7a55b9490794b8fee839fd70de@google.com",
-      "summary": "Thesis - LE",
-      "location": "",
-      "start": "2026-05-03T17:30:00",
-      "end": "2026-05-03T21:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
     }
   ],
   "firstTomorrow": [
     {
-      "uid": "d960681609bc481f9f9eeebd7b0da435@google.com",
-      "summary": "Tectonic headshots",
+      "uid": "0vrelqjveememug3frj21pm8t1@google.com",
+      "summary": "MM",
       "location": "",
-      "start": "2026-05-04T00:00:00",
-      "end": "2026-05-04T01:30:00",
+      "start": "2026-05-04T10:00:00",
+      "end": "2026-05-04T11:15:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "thomas6db"
+      "calendar": "tectonic"
     }
   ]
 }
