@@ -1,5 +1,5 @@
 {
-  "updated": "04/05 14:00",
+  "updated": "04/05 16:25",
   "timezone": "Europe/Brussels",
   "todayLabel": "4 may",
   "tomorrowLabel": "5 may",
@@ -30,16 +30,6 @@
       "location": "",
       "start": "2026-05-04T14:00:00",
       "end": "2026-05-04T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "FDD32ADF-FA8C-49F6-9233-4B2CBE42B539",
-      "summary": "Nieuwe activiteit",
-      "location": "",
-      "start": "2026-05-04T15:45:00",
-      "end": "2026-05-04T16:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
