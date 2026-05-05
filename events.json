@@ -1,9 +1,39 @@
 {
-  "updated": "05/05 02:01",
+  "updated": "05/05 05:47",
   "timezone": "Europe/Brussels",
   "todayLabel": "5 may",
   "tomorrowLabel": "6 may",
   "today": [
+    {
+      "uid": "d62430544e7641fa969f29ba0e9b8f8e@google.com",
+      "summary": "HC variables - Thesis",
+      "location": "",
+      "start": "2026-05-05T09:00:00",
+      "end": "2026-05-05T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "75035c148a89409dbe9fb512331dc3ee@google.com",
+      "summary": "LE move",
+      "location": "",
+      "start": "2026-05-05T11:30:00",
+      "end": "2026-05-05T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "6bc584619d814a51ab42e7298e95ad8d@google.com",
+      "summary": "LE bespreking HC variables",
+      "location": "",
+      "start": "2026-05-05T12:00:00",
+      "end": "2026-05-05T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
     {
       "uid": "1535626--1179705713-0@timeedit.com",
       "summary": "F000898A. Business Valuation, hoorcollege",
@@ -35,6 +65,26 @@
       "calendar": "tectonic"
     },
     {
+      "uid": "a8c80d6403834046ab0ac8036f5fd7e7@google.com",
+      "summary": "MSO presentatie",
+      "location": "",
+      "start": "2026-05-05T17:15:00",
+      "end": "2026-05-05T20:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "23A3D86A-F0E1-419A-9490-8FD725E13E68",
+      "summary": "Date 🥰",
+      "location": "",
+      "start": "2026-05-05T20:30:00",
+      "end": "2026-05-06T01:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "703c69d1bb164b5ebb2a234853f650ba@google.com",
       "summary": "Date 🥰",
       "location": "",
@@ -57,14 +107,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "ef9dad5225c7417183a8c3ece5387b6c@google.com",
-      "summary": "MSO presentations",
-      "location": "",
+      "uid": "1531310--1179705713-0@timeedit.com",
+      "summary": "F000700B. Managing Service Organisations, hoorcollege",
+      "location": "Online",
       "start": "2026-05-06T08:30:00",
-      "end": "2026-05-06T11:00:00",
+      "end": "2026-05-06T11:30:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "thomas6db"
+      "calendar": "timeedit"
     }
   ]
 }
