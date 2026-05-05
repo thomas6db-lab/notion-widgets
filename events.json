@@ -1,121 +1,9 @@
 {
-  "updated": "05/05 23:03",
+  "updated": "06/05 00:09",
   "timezone": "Europe/Brussels",
-  "todayLabel": "5 may",
-  "tomorrowLabel": "6 may",
+  "todayLabel": "6 may",
+  "tomorrowLabel": "7 may",
   "today": [
-    {
-      "uid": "d62430544e7641fa969f29ba0e9b8f8e@google.com",
-      "summary": "HC variables - Thesis",
-      "location": "",
-      "start": "2026-05-05T09:00:00",
-      "end": "2026-05-05T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "75035c148a89409dbe9fb512331dc3ee@google.com",
-      "summary": "LE move",
-      "location": "",
-      "start": "2026-05-05T11:30:00",
-      "end": "2026-05-05T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "6bc584619d814a51ab42e7298e95ad8d@google.com",
-      "summary": "LE bespreking HC variables",
-      "location": "",
-      "start": "2026-05-05T12:00:00",
-      "end": "2026-05-05T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1535626--1179705713-0@timeedit.com",
-      "summary": "F000898A. Business Valuation, hoorcollege",
-      "location": "Auditorium A. Sint-Pietersplein 7. Campus Tweekerken. Sint-Pietersplein 7",
-      "start": "2026-05-05T12:00:00",
-      "end": "2026-05-05T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "0BC177E8-C552-415E-AD0A-669FFC4D8C4D",
-      "summary": "Meet BV",
-      "location": "",
-      "start": "2026-05-05T16:00:00",
-      "end": "2026-05-05T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "2gbmt9mqgmkvjvss6pbj8lv3ih@google.com",
-      "summary": "Branding sync 4",
-      "location": "",
-      "start": "2026-05-05T16:30:00",
-      "end": "2026-05-05T17:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "a8c80d6403834046ab0ac8036f5fd7e7@google.com",
-      "summary": "MSO presentatie",
-      "location": "",
-      "start": "2026-05-05T17:15:00",
-      "end": "2026-05-05T20:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "f97098fc4ab74352820774b9515f6344@google.com",
-      "summary": "Call Ozan",
-      "location": "",
-      "start": "2026-05-05T19:00:00",
-      "end": "2026-05-05T19:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "23A3D86A-F0E1-419A-9490-8FD725E13E68",
-      "summary": "Date 🥰",
-      "location": "",
-      "start": "2026-05-05T20:30:00",
-      "end": "2026-05-06T01:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "703c69d1bb164b5ebb2a234853f650ba@google.com",
-      "summary": "Date 🥰",
-      "location": "",
-      "start": "2026-05-05T20:30:00",
-      "end": "2026-05-06T01:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1e210871cdcd4bd997f5ce713302e046@google.com",
-      "summary": "Graduation Party",
-      "location": "",
-      "start": "2026-05-05T22:45:00",
-      "end": "2026-05-06T00:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "1531310--1179705713-0@timeedit.com",
       "summary": "F000700B. Managing Service Organisations, hoorcollege",
@@ -123,8 +11,90 @@
       "start": "2026-05-06T08:30:00",
       "end": "2026-05-06T11:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "timeedit"
+    },
+    {
+      "uid": "6lo3g3d8u4d516ad0p5evrrdva@google.com",
+      "summary": "Launch video sync",
+      "location": "",
+      "start": "2026-05-06T09:00:00",
+      "end": "2026-05-06T10:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "40952345b3ea4256a5c47a0872a0c61c@google.com",
+      "summary": "MSO prep",
+      "location": "",
+      "start": "2026-05-06T10:00:00",
+      "end": "2026-05-06T10:40:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "ef9dad5225c7417183a8c3ece5387b6c@google.com",
+      "summary": "MSO presentations",
+      "location": "",
+      "start": "2026-05-06T10:40:00",
+      "end": "2026-05-06T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1400457d4b3745d8a73eb2353f809cfd@google.com",
+      "summary": "Business Valuation afw",
+      "location": "",
+      "start": "2026-05-06T13:00:00",
+      "end": "2026-05-06T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1538041--1179705713-0@timeedit.com",
+      "summary": "F000943A. Advanced Investment Analysis, hoorcollege",
+      "location": "Auditorium E - Maurice Van Vaerenbergh. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
+      "start": "2026-05-06T13:00:00",
+      "end": "2026-05-06T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "4r4n3mf6bhkb6vet9qbh0d4c08@google.com",
+      "summary": "Branding sync 5",
+      "location": "",
+      "start": "2026-05-06T17:00:00",
+      "end": "2026-05-06T17:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "dc6f4e7573ab4137a0b9ccfc3ead6569@google.com",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-05-06T18:00:00",
+      "end": "2026-05-06T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "3051b154411940d19a84003cb8dbca9a@google.com",
+      "summary": "Brand book Tectonic",
+      "location": "",
+      "start": "2026-05-07T09:00:00",
+      "end": "2026-05-07T11:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
