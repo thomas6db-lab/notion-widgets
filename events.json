@@ -1,5 +1,5 @@
 {
-  "updated": "06/05 08:39",
+  "updated": "06/05 11:08",
   "timezone": "Europe/Brussels",
   "todayLabel": "6 may",
   "tomorrowLabel": "7 may",
@@ -55,6 +55,16 @@
       "calendar": "thomas6db"
     },
     {
+      "uid": "d96c62f3d1ca4cba876a699bbf1f1767@google.com",
+      "summary": "Tectonic post maken",
+      "location": "",
+      "start": "2026-05-06T11:30:00",
+      "end": "2026-05-06T12:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "1400457d4b3745d8a73eb2353f809cfd@google.com",
       "summary": "Business Valuation afw",
       "location": "",
@@ -98,7 +108,7 @@
   "firstTomorrow": [
     {
       "uid": "3051b154411940d19a84003cb8dbca9a@google.com",
-      "summary": "Brand book Tectonic",
+      "summary": "Press Kit Tectonic",
       "location": "",
       "start": "2026-05-07T09:00:00",
       "end": "2026-05-07T11:00:00",
