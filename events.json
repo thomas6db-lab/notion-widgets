@@ -1,9 +1,19 @@
 {
-  "updated": "06/05 02:04",
+  "updated": "06/05 06:00",
   "timezone": "Europe/Brussels",
   "todayLabel": "6 may",
   "tomorrowLabel": "7 may",
   "today": [
+    {
+      "uid": "462b158b154f4d8eb163c44238e93bc5@google.com",
+      "summary": "MSO text prep",
+      "location": "",
+      "start": "2026-05-06T08:00:00",
+      "end": "2026-05-06T09:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
     {
       "uid": "1531310--1179705713-0@timeedit.com",
       "summary": "F000700B. Managing Service Organisations, hoorcollege",
