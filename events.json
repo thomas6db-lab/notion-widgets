@@ -1,105 +1,75 @@
 {
-  "updated": "06/05 23:45",
+  "updated": "07/05 00:34",
   "timezone": "Europe/Brussels",
-  "todayLabel": "6 may",
-  "tomorrowLabel": "7 may",
+  "todayLabel": "7 may",
+  "tomorrowLabel": "8 may",
   "today": [
     {
-      "uid": "462b158b154f4d8eb163c44238e93bc5@google.com",
-      "summary": "MSO text prep",
+      "uid": "3051b154411940d19a84003cb8dbca9a@google.com",
+      "summary": "Press Kit Tectonic",
       "location": "",
-      "start": "2026-05-06T08:00:00",
-      "end": "2026-05-06T09:00:00",
+      "start": "2026-05-07T09:00:00",
+      "end": "2026-05-07T11:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "1531310--1179705713-0@timeedit.com",
-      "summary": "F000700B. Managing Service Organisations, hoorcollege",
-      "location": "Online",
-      "start": "2026-05-06T08:30:00",
-      "end": "2026-05-06T11:30:00",
+      "uid": "97cf588263a946f9853785da789d7082@google.com",
+      "summary": "Stats socials Tectonic",
+      "location": "",
+      "start": "2026-05-07T11:00:00",
+      "end": "2026-05-07T12:30:00",
       "allDay": false,
       "day": "today",
-      "calendar": "timeedit"
+      "calendar": "thomas6db"
     },
     {
-      "uid": "6lo3g3d8u4d516ad0p5evrrdva@google.com",
-      "summary": "Launch video sync",
+      "uid": "d57339643a2a4abc86cf87d20509af0c@google.com",
+      "summary": "AIA",
       "location": "",
-      "start": "2026-05-06T09:00:00",
-      "end": "2026-05-06T10:00:00",
+      "start": "2026-05-07T13:00:00",
+      "end": "2026-05-07T17:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "bf93a88bcadb4fa88cda9e1984d1d06b@google.com",
+      "summary": "BV",
+      "location": "",
+      "start": "2026-05-07T14:00:00",
+      "end": "2026-05-07T14:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "b81f5ea906184ea592b6c4de371953fa@google.com",
+      "summary": "Branding",
+      "location": "",
+      "start": "2026-05-07T16:30:00",
+      "end": "2026-05-07T17:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "743ip8gr9gt319rt1qdulukmgk@google.com",
+      "summary": "Branding sync 6",
+      "location": "",
+      "start": "2026-05-07T16:30:00",
+      "end": "2026-05-07T17:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
     },
     {
-      "uid": "40952345b3ea4256a5c47a0872a0c61c@google.com",
-      "summary": "MSO prep",
+      "uid": "247e863550d04f719e0c07537728bba4@google.com",
+      "summary": "AIA",
       "location": "",
-      "start": "2026-05-06T10:00:00",
-      "end": "2026-05-06T10:40:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "ef9dad5225c7417183a8c3ece5387b6c@google.com",
-      "summary": "MSO presentations",
-      "location": "",
-      "start": "2026-05-06T10:40:00",
-      "end": "2026-05-06T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "d96c62f3d1ca4cba876a699bbf1f1767@google.com",
-      "summary": "Tectonic post maken",
-      "location": "",
-      "start": "2026-05-06T11:30:00",
-      "end": "2026-05-06T12:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1400457d4b3745d8a73eb2353f809cfd@google.com",
-      "summary": "Business Valuation afw",
-      "location": "",
-      "start": "2026-05-06T13:00:00",
-      "end": "2026-05-06T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1538041--1179705713-0@timeedit.com",
-      "summary": "F000943A. Advanced Investment Analysis, hoorcollege",
-      "location": "Auditorium E - Maurice Van Vaerenbergh. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
-      "start": "2026-05-06T13:00:00",
-      "end": "2026-05-06T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "4r4n3mf6bhkb6vet9qbh0d4c08@google.com",
-      "summary": "Branding sync 5",
-      "location": "",
-      "start": "2026-05-06T17:00:00",
-      "end": "2026-05-06T17:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "dc6f4e7573ab4137a0b9ccfc3ead6569@google.com",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-05-06T18:00:00",
-      "end": "2026-05-06T23:00:00",
+      "start": "2026-05-07T18:00:00",
+      "end": "2026-05-07T23:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -107,11 +77,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "3051b154411940d19a84003cb8dbca9a@google.com",
-      "summary": "Press Kit Tectonic",
+      "uid": "7a780068b8054e6ba9a7b7c392a1dfa5@google.com",
+      "summary": "Business Valuation afw",
       "location": "",
-      "start": "2026-05-07T09:00:00",
-      "end": "2026-05-07T11:00:00",
+      "start": "2026-05-08T09:00:00",
+      "end": "2026-05-08T12:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
