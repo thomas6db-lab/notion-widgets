@@ -1,5 +1,5 @@
 {
-  "updated": "08/05 00:13",
+  "updated": "08/05 01:13",
   "timezone": "Europe/Brussels",
   "todayLabel": "8 may",
   "tomorrowLabel": "9 may",
@@ -35,21 +35,21 @@
       "calendar": "timeedit"
     },
     {
-      "uid": "97d5a6f7712d46dab3de680f5069b969@google.com",
-      "summary": "Emma Legal gesprek",
-      "location": "",
-      "start": "2026-05-08T11:00:00",
-      "end": "2026-05-08T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
       "uid": "040000008200E00074C5B7101A82E00800000000386469C52CDEDC01000000000000000010000000BF426EEBBBCE5D48AF569F8B6DA0C33B",
       "summary": "Thomas De Baerdemaeker and Rick van Esch",
       "location": "https://calendly.com/events/4117481f-8cc6-4b90-91f6-0b1477e7c5ef/microsoft_teams",
       "start": "2026-05-08T11:00:00",
       "end": "2026-05-08T11:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "97d5a6f7712d46dab3de680f5069b969@google.com",
+      "summary": "Emma Legal gesprek",
+      "location": "",
+      "start": "2026-05-08T11:00:00",
+      "end": "2026-05-08T11:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
