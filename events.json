@@ -1,25 +1,25 @@
 {
-  "updated": "08/05 17:10",
+  "updated": "08/05 18:44",
   "timezone": "Europe/Brussels",
   "todayLabel": "8 may",
   "tomorrowLabel": "9 may",
   "today": [
-    {
-      "uid": "7a780068b8054e6ba9a7b7c392a1dfa5@google.com",
-      "summary": "Business Valuation afw",
-      "location": "",
-      "start": "2026-05-08T09:00:00",
-      "end": "2026-05-08T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
     {
       "uid": "f6ffc4b287a946708ea87981cb238f6c@google.com",
       "summary": "Emma Legal voorbereiden",
       "location": "",
       "start": "2026-05-08T09:00:00",
       "end": "2026-05-08T11:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "7a780068b8054e6ba9a7b7c392a1dfa5@google.com",
+      "summary": "Business Valuation afw",
+      "location": "",
+      "start": "2026-05-08T09:00:00",
+      "end": "2026-05-08T12:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -35,21 +35,21 @@
       "calendar": "timeedit"
     },
     {
-      "uid": "97d5a6f7712d46dab3de680f5069b969@google.com",
-      "summary": "Emma Legal gesprek",
-      "location": "",
-      "start": "2026-05-08T11:00:00",
-      "end": "2026-05-08T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
       "uid": "040000008200E00074C5B7101A82E00800000000386469C52CDEDC01000000000000000010000000BF426EEBBBCE5D48AF569F8B6DA0C33B",
       "summary": "Thomas De Baerdemaeker and Rick van Esch",
       "location": "https://calendly.com/events/4117481f-8cc6-4b90-91f6-0b1477e7c5ef/microsoft_teams",
       "start": "2026-05-08T11:00:00",
       "end": "2026-05-08T11:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "97d5a6f7712d46dab3de680f5069b969@google.com",
+      "summary": "Emma Legal gesprek",
+      "location": "",
+      "start": "2026-05-08T11:00:00",
+      "end": "2026-05-08T11:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
