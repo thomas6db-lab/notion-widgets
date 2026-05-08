@@ -1,25 +1,25 @@
 {
-  "updated": "08/05 05:52",
+  "updated": "08/05 07:53",
   "timezone": "Europe/Brussels",
   "todayLabel": "8 may",
   "tomorrowLabel": "9 may",
   "today": [
-    {
-      "uid": "f6ffc4b287a946708ea87981cb238f6c@google.com",
-      "summary": "Emma Legal voorbereiden",
-      "location": "",
-      "start": "2026-05-08T09:00:00",
-      "end": "2026-05-08T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
     {
       "uid": "7a780068b8054e6ba9a7b7c392a1dfa5@google.com",
       "summary": "Business Valuation afw",
       "location": "",
       "start": "2026-05-08T09:00:00",
       "end": "2026-05-08T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "f6ffc4b287a946708ea87981cb238f6c@google.com",
+      "summary": "Emma Legal voorbereiden",
+      "location": "",
+      "start": "2026-05-08T09:00:00",
+      "end": "2026-05-08T11:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
