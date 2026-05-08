@@ -1,5 +1,5 @@
 {
-  "updated": "08/05 20:00",
+  "updated": "08/05 21:41",
   "timezone": "Europe/Brussels",
   "todayLabel": "8 may",
   "tomorrowLabel": "9 may",
@@ -100,7 +100,7 @@
       "uid": "15f426bdbd9847d08b02fa4d792e9b73@google.com",
       "summary": "Tectonic general",
       "location": "",
-      "start": "2026-05-09T10:00:00",
+      "start": "2026-05-09T09:00:00",
       "end": "2026-05-09T12:00:00",
       "allDay": false,
       "day": "tomorrow",
