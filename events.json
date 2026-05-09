@@ -1,51 +1,9 @@
 {
-  "updated": "09/05 23:23",
+  "updated": "10/05 00:05",
   "timezone": "Europe/Brussels",
-  "todayLabel": "9 may",
-  "tomorrowLabel": "10 may",
+  "todayLabel": "10 may",
+  "tomorrowLabel": "11 may",
   "today": [
-    {
-      "uid": "15f426bdbd9847d08b02fa4d792e9b73@google.com",
-      "summary": "Tectonic general",
-      "location": "",
-      "start": "2026-05-09T09:00:00",
-      "end": "2026-05-09T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "82f337f604154bc8bf611b53a375370e@google.com",
-      "summary": "AIA",
-      "location": "",
-      "start": "2026-05-09T13:00:00",
-      "end": "2026-05-09T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "a7cafdc29dc84705af7484e225d94625@google.com",
-      "summary": "BV",
-      "location": "",
-      "start": "2026-05-09T16:00:00",
-      "end": "2026-05-09T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "353779d9beac4341bc9e106113a93801@google.com",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-05-09T20:00:00",
-      "end": "2026-05-09T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "20260510_be7c4ro6usco2d2bsmrb2j2klg@google.com",
       "summary": "Moederdag",
@@ -53,8 +11,90 @@
       "start": "2026-05-10",
       "end": "2026-05-11",
       "allDay": true,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "feestdagen"
+    },
+    {
+      "uid": "042DEA96-C349-4F1D-B191-91ABE2721926",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-05-10T09:00:00",
+      "end": "2026-05-10T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "2151A923-7AE0-4924-814C-63A4B30C2E9B",
+      "summary": "Thuis -> Leuven",
+      "location": "",
+      "start": "2026-05-10T13:00:00",
+      "end": "2026-05-10T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "2n0am5mh01r41au6l8popqer09@google.com",
+      "summary": "Headshots & Group picture Tectonic",
+      "location": "Leuven, Belgium",
+      "start": "2026-05-10T15:00:00",
+      "end": "2026-05-10T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "1e18bjkk19b05l9o4qkpbka4bh_R20260329T150000@google.com",
+      "summary": "Weekly Team Meeting [In-person] - Tectonic",
+      "location": "Leuven, Belgium",
+      "start": "2026-05-10T17:00:00",
+      "end": "2026-05-10T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "3rshv7jqkoqn6efibr1bdtcpv1_R20260426T160000@google.com",
+      "summary": "Team Dinner + Drinks",
+      "location": "TBA",
+      "start": "2026-05-10T18:00:00",
+      "end": "2026-05-10T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "BA0C712B-FA1E-4DDB-9077-B769694B6746",
+      "summary": "Leuven -> Thuis",
+      "location": "",
+      "start": "2026-05-10T20:00:00",
+      "end": "2026-05-10T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "6606-579758@ufora.ugent.be",
+      "summary": "Give feedback as group - Peer assessment Fin. Mod.",
+      "location": "F000890A - Financial Modelling",
+      "start": "2026-05-10T23:59:00",
+      "end": "2026-05-10T23:59:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "ufora"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "68556BE2-B1E9-4105-9975-9E13B2C34FA7",
+      "summary": "Tectonic",
+      "location": "",
+      "start": "2026-05-11T09:00:00",
+      "end": "2026-05-11T11:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
