@@ -1,12 +1,12 @@
 {
-  "updated": "11/05 00:25",
+  "updated": "11/05 01:26",
   "timezone": "Europe/Brussels",
   "todayLabel": "11 may",
   "tomorrowLabel": "12 may",
   "today": [
     {
       "uid": "68556BE2-B1E9-4105-9975-9E13B2C34FA7",
-      "summary": "Tectonic",
+      "summary": "BV!",
       "location": "",
       "start": "2026-05-11T09:00:00",
       "end": "2026-05-11T11:00:00",
@@ -43,6 +43,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "ufora"
+    },
+    {
+      "uid": "29163bcb32a642529da616313a5bc2e0@google.com",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-05-11T13:00:00",
+      "end": "2026-05-11T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     },
     {
       "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
