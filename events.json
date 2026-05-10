@@ -1,97 +1,97 @@
 {
-  "updated": "10/05 23:29",
+  "updated": "11/05 00:25",
   "timezone": "Europe/Brussels",
-  "todayLabel": "10 may",
-  "tomorrowLabel": "11 may",
+  "todayLabel": "11 may",
+  "tomorrowLabel": "12 may",
   "today": [
-    {
-      "uid": "20260510_be7c4ro6usco2d2bsmrb2j2klg@google.com",
-      "summary": "Moederdag",
-      "location": "",
-      "start": "2026-05-10",
-      "end": "2026-05-11",
-      "allDay": true,
-      "day": "today",
-      "calendar": "feestdagen"
-    },
-    {
-      "uid": "042DEA96-C349-4F1D-B191-91ABE2721926",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-05-10T09:00:00",
-      "end": "2026-05-10T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "2151A923-7AE0-4924-814C-63A4B30C2E9B",
-      "summary": "Thuis -> Leuven",
-      "location": "",
-      "start": "2026-05-10T13:00:00",
-      "end": "2026-05-10T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "2n0am5mh01r41au6l8popqer09@google.com",
-      "summary": "Headshots & Group picture Tectonic",
-      "location": "Leuven, Belgium",
-      "start": "2026-05-10T15:00:00",
-      "end": "2026-05-10T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "1e18bjkk19b05l9o4qkpbka4bh_R20260329T150000@google.com",
-      "summary": "Weekly Team Meeting [In-person] - Tectonic",
-      "location": "Leuven, Belgium",
-      "start": "2026-05-10T17:00:00",
-      "end": "2026-05-10T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "3rshv7jqkoqn6efibr1bdtcpv1_R20260426T160000@google.com",
-      "summary": "Team Dinner + Drinks",
-      "location": "TBA",
-      "start": "2026-05-10T18:00:00",
-      "end": "2026-05-10T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "BA0C712B-FA1E-4DDB-9077-B769694B6746",
-      "summary": "Leuven -> Thuis",
-      "location": "",
-      "start": "2026-05-10T20:00:00",
-      "end": "2026-05-10T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "6606-579758@ufora.ugent.be",
-      "summary": "Give feedback as group - Peer assessment Fin. Mod.",
-      "location": "F000890A - Financial Modelling",
-      "start": "2026-05-10T23:59:00",
-      "end": "2026-05-10T23:59:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "ufora"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "68556BE2-B1E9-4105-9975-9E13B2C34FA7",
       "summary": "Tectonic",
       "location": "",
       "start": "2026-05-11T09:00:00",
       "end": "2026-05-11T11:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "a79b2491f5fa466ea537d133979cd3c6@google.com",
+      "summary": "Call Muller",
+      "location": "",
+      "start": "2026-05-11T10:30:00",
+      "end": "2026-05-11T11:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "44BACD15-B98A-4CF7-94EC-47BDDB3C580C",
+      "summary": "AIA af",
+      "location": "",
+      "start": "2026-05-11T11:00:00",
+      "end": "2026-05-11T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "6606-634006@ufora.ugent.be",
+      "summary": "Case 2 - Verwacht",
+      "location": "F000898A - Business Valuation",
+      "start": "2026-05-11T12:00:00",
+      "end": "2026-05-11T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "ufora"
+    },
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-05-11T14:30:00",
+      "end": "2026-05-11T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "5qko8uniqns8a884gn3v0nbkok@google.com",
+      "summary": "Branding sync 7",
+      "location": "",
+      "start": "2026-05-11T17:00:00",
+      "end": "2026-05-11T17:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "294195b1a3b943f2bafcfacff860104e@google.com",
+      "summary": "Thuis -> Lize",
+      "location": "",
+      "start": "2026-05-11T19:00:00",
+      "end": "2026-05-11T19:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "69j3ip9nc4pjgb9j75im8b9kc5hmab9o74qjib9mckp3gdb364o3ec1gcc@google.com",
+      "summary": "Date night",
+      "location": "",
+      "start": "2026-05-11T19:30:00",
+      "end": "2026-05-12T00:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "BF9ED9BD-5DB6-42D6-A172-6E588114A1D1",
+      "summary": "BV case leren",
+      "location": "",
+      "start": "2026-05-12T09:00:00",
+      "end": "2026-05-12T12:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
