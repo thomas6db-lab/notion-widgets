@@ -1,131 +1,9 @@
 {
-  "updated": "11/05 22:52",
+  "updated": "12/05 00:01",
   "timezone": "Europe/Brussels",
-  "todayLabel": "11 may",
-  "tomorrowLabel": "12 may",
+  "todayLabel": "12 may",
+  "tomorrowLabel": "13 may",
   "today": [
-    {
-      "uid": "68556BE2-B1E9-4105-9975-9E13B2C34FA7",
-      "summary": "BV!",
-      "location": "",
-      "start": "2026-05-11T09:00:00",
-      "end": "2026-05-11T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "a79b2491f5fa466ea537d133979cd3c6@google.com",
-      "summary": "Call Muller",
-      "location": "",
-      "start": "2026-05-11T10:30:00",
-      "end": "2026-05-11T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "44BACD15-B98A-4CF7-94EC-47BDDB3C580C",
-      "summary": "AIA af",
-      "location": "",
-      "start": "2026-05-11T11:00:00",
-      "end": "2026-05-11T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "51acgq4frso0h9bu317pm9dkks@google.com",
-      "summary": "MM",
-      "location": "",
-      "start": "2026-05-11T12:00:00",
-      "end": "2026-05-11T13:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "6606-634006@ufora.ugent.be",
-      "summary": "Case 2 - Verwacht",
-      "location": "F000898A - Business Valuation",
-      "start": "2026-05-11T12:00:00",
-      "end": "2026-05-11T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "ufora"
-    },
-    {
-      "uid": "29163bcb32a642529da616313a5bc2e0@google.com",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-05-11T13:00:00",
-      "end": "2026-05-11T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-05-11T14:30:00",
-      "end": "2026-05-11T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "8bfd7925a7b2428cbfd76d4e2c396b66@google.com",
-      "summary": "Stickers",
-      "location": "",
-      "start": "2026-05-11T15:00:00",
-      "end": "2026-05-11T15:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "eb4gn1rdcietktnsobuufp6hk8@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-05-11T16:00:00",
-      "end": "2026-05-11T16:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "5qko8uniqns8a884gn3v0nbkok@google.com",
-      "summary": "Branding sync 7",
-      "location": "",
-      "start": "2026-05-11T17:00:00",
-      "end": "2026-05-11T17:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "294195b1a3b943f2bafcfacff860104e@google.com",
-      "summary": "Thuis -> Lize",
-      "location": "",
-      "start": "2026-05-11T19:00:00",
-      "end": "2026-05-11T19:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "69j3ip9nc4pjgb9j75im8b9kc5hmab9o74qjib9mckp3gdb364o3ec1gcc@google.com",
-      "summary": "Date night",
-      "location": "",
-      "start": "2026-05-11T19:30:00",
-      "end": "2026-05-12T00:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "BF9ED9BD-5DB6-42D6-A172-6E588114A1D1",
       "summary": "BV case leren",
@@ -133,6 +11,128 @@
       "start": "2026-05-12T09:00:00",
       "end": "2026-05-12T12:00:00",
       "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "ceee4679dfe04de1aab661e4fe603bf5@google.com",
+      "summary": "Powernaut voorbereiden",
+      "location": "",
+      "start": "2026-05-12T09:30:00",
+      "end": "2026-05-12T10:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "lvmi4r7snn8qug3cklo5u89c20@google.com",
+      "summary": "Meeting with Serge Morel",
+      "location": "",
+      "start": "2026-05-12T10:30:00",
+      "end": "2026-05-12T10:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "e5b46ee530174544b8fabb9e02490fae@google.com",
+      "summary": "Call Serge Powernaut",
+      "location": "",
+      "start": "2026-05-12T10:30:00",
+      "end": "2026-05-12T11:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1535627--1179705713-0@timeedit.com",
+      "summary": "F000898A. Business Valuation, hoorcollege, Valuation cases",
+      "location": "",
+      "start": "2026-05-12T12:00:00",
+      "end": "2026-05-12T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "3F92452D-8785-4C2E-91E6-D8215BA07343",
+      "summary": "Presentatie BV",
+      "location": "",
+      "start": "2026-05-12T13:30:00",
+      "end": "2026-05-12T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "E6D6AC4B-A4E3-4F44-860B-2D8842D2E53D",
+      "summary": "Thuis -> Gent",
+      "location": "",
+      "start": "2026-05-12T16:00:00",
+      "end": "2026-05-12T16:35:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "84a4c3cee9d5422ebf67a0f232fd833c@google.com",
+      "summary": "BV verdediging",
+      "location": "",
+      "start": "2026-05-12T16:40:00",
+      "end": "2026-05-12T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "565648105a7143c29d56f7c4858ec7d8@google.com",
+      "summary": "Call ITP branding",
+      "location": "",
+      "start": "2026-05-12T17:00:00",
+      "end": "2026-05-12T17:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "2cb8de05j2q5mqgg1le6kfs5pc@google.com",
+      "summary": "Branding sync 8",
+      "location": "",
+      "start": "2026-05-12T17:00:00",
+      "end": "2026-05-12T17:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "F16FB7A3-4965-4319-A5C5-ABA5980CC538",
+      "summary": "Gent -> Thuis",
+      "location": "",
+      "start": "2026-05-12T17:25:00",
+      "end": "2026-05-12T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "212D0359-3364-4E17-88F9-C1532BC567A3",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-05-12T18:00:00",
+      "end": "2026-05-12T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "F10C7A1F-9745-4D30-9A24-7747D8F970C0",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-05-13",
+      "end": "2026-05-14",
+      "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
     }
