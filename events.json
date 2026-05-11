@@ -1,5 +1,5 @@
 {
-  "updated": "12/05 00:01",
+  "updated": "12/05 01:06",
   "timezone": "Europe/Brussels",
   "todayLabel": "12 may",
   "tomorrowLabel": "13 may",
@@ -25,21 +25,21 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "lvmi4r7snn8qug3cklo5u89c20@google.com",
-      "summary": "Meeting with Serge Morel",
-      "location": "",
-      "start": "2026-05-12T10:30:00",
-      "end": "2026-05-12T10:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
       "uid": "e5b46ee530174544b8fabb9e02490fae@google.com",
       "summary": "Call Serge Powernaut",
       "location": "",
       "start": "2026-05-12T10:30:00",
       "end": "2026-05-12T11:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "lvmi4r7snn8qug3cklo5u89c20@google.com",
+      "summary": "Meeting with Serge Morel",
+      "location": "",
+      "start": "2026-05-12T10:30:00",
+      "end": "2026-05-12T10:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
