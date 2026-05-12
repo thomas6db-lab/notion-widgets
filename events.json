@@ -1,131 +1,9 @@
 {
-  "updated": "12/05 23:37",
+  "updated": "13/05 00:43",
   "timezone": "Europe/Brussels",
-  "todayLabel": "12 may",
-  "tomorrowLabel": "13 may",
+  "todayLabel": "13 may",
+  "tomorrowLabel": "14 may",
   "today": [
-    {
-      "uid": "BF9ED9BD-5DB6-42D6-A172-6E588114A1D1",
-      "summary": "BV case leren",
-      "location": "",
-      "start": "2026-05-12T09:00:00",
-      "end": "2026-05-12T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "ceee4679dfe04de1aab661e4fe603bf5@google.com",
-      "summary": "Powernaut voorbereiden",
-      "location": "",
-      "start": "2026-05-12T09:30:00",
-      "end": "2026-05-12T10:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "lvmi4r7snn8qug3cklo5u89c20@google.com",
-      "summary": "Meeting with Serge Morel",
-      "location": "",
-      "start": "2026-05-12T10:30:00",
-      "end": "2026-05-12T10:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "e5b46ee530174544b8fabb9e02490fae@google.com",
-      "summary": "Call Serge Powernaut",
-      "location": "",
-      "start": "2026-05-12T10:30:00",
-      "end": "2026-05-12T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1535627--1179705713-0@timeedit.com",
-      "summary": "F000898A. Business Valuation, hoorcollege, Valuation cases",
-      "location": "",
-      "start": "2026-05-12T12:00:00",
-      "end": "2026-05-12T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "3F92452D-8785-4C2E-91E6-D8215BA07343",
-      "summary": "Presentatie BV",
-      "location": "",
-      "start": "2026-05-12T13:30:00",
-      "end": "2026-05-12T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "E6D6AC4B-A4E3-4F44-860B-2D8842D2E53D",
-      "summary": "Thuis -> Gent",
-      "location": "",
-      "start": "2026-05-12T16:00:00",
-      "end": "2026-05-12T16:35:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "84a4c3cee9d5422ebf67a0f232fd833c@google.com",
-      "summary": "BV verdediging",
-      "location": "",
-      "start": "2026-05-12T16:40:00",
-      "end": "2026-05-12T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "565648105a7143c29d56f7c4858ec7d8@google.com",
-      "summary": "Call ITP branding",
-      "location": "",
-      "start": "2026-05-12T17:00:00",
-      "end": "2026-05-12T17:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "2cb8de05j2q5mqgg1le6kfs5pc@google.com",
-      "summary": "Branding sync 8",
-      "location": "",
-      "start": "2026-05-12T17:00:00",
-      "end": "2026-05-12T17:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "F16FB7A3-4965-4319-A5C5-ABA5980CC538",
-      "summary": "Gent -> Thuis",
-      "location": "",
-      "start": "2026-05-12T17:25:00",
-      "end": "2026-05-12T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "212D0359-3364-4E17-88F9-C1532BC567A3",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-05-12T18:00:00",
-      "end": "2026-05-12T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "F10C7A1F-9745-4D30-9A24-7747D8F970C0",
       "summary": "Thesis",
@@ -133,8 +11,130 @@
       "start": "2026-05-13",
       "end": "2026-05-14",
       "allDay": true,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "100B3156-5CB0-4325-B0CE-E3A2B6324E49",
+      "summary": "Prep interview Conveo",
+      "location": "",
+      "start": "2026-05-13T09:00:00",
+      "end": "2026-05-13T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1531779--1179705713-0@timeedit.com",
+      "summary": "F000700B. Managing Service Organisations, hoorcollege",
+      "location": "Auditorium A - Adolphe Quetelet. Tweekerken. Campus Tweekerken. Tweekerkenstraat 2",
+      "start": "2026-05-13T10:00:00",
+      "end": "2026-05-13T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "1538042--1179705713-0@timeedit.com",
+      "summary": "F000943A. Advanced Investment Analysis, hoorcollege",
+      "location": "Auditorium E - Maurice Van Vaerenbergh. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
+      "start": "2026-05-13T13:00:00",
+      "end": "2026-05-13T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "ftud7h4je9qs10nvou029s50o0@google.com",
+      "summary": "Invitation to Interview at Conveo",
+      "location": "See attached Google Meet link",
+      "start": "2026-05-13T13:30:00",
+      "end": "2026-05-13T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "13afacc1bcb84e33a9f36967862e1d3b@google.com",
+      "summary": "Branding",
+      "location": "",
+      "start": "2026-05-13T14:30:00",
+      "end": "2026-05-13T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "6mqbc3560ej0n1b7qcufjhqsbq@google.com",
+      "summary": "Branding sync 9",
+      "location": "",
+      "start": "2026-05-13T14:30:00",
+      "end": "2026-05-13T15:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "d641a8c988034a06a5bccf55e516dffa@google.com",
+      "summary": "Research Spotable",
+      "location": "",
+      "start": "2026-05-13T15:00:00",
+      "end": "2026-05-13T16:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "f5nqrhrps4ad6f4t5uhgetqeuo@google.com",
+      "summary": "Sebastien (Spotable) -- Thomas6db",
+      "location": "",
+      "start": "2026-05-13T16:00:00",
+      "end": "2026-05-13T16:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "2917e358f31643c08a28e056c1743898@google.com",
+      "summary": "Tectonic",
+      "location": "",
+      "start": "2026-05-13T17:00:00",
+      "end": "2026-05-13T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "4idi9u5f221524paptjsfjcrql@google.com",
+      "summary": "Launch video",
+      "location": "",
+      "start": "2026-05-13T17:00:00",
+      "end": "2026-05-13T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "9f988bbeb827465d8e5d10fe1164c1be@google.com",
+      "summary": "Tectonic",
+      "location": "",
+      "start": "2026-05-13T18:00:00",
+      "end": "2026-05-13T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "20260514_qhkn70a7d03d9hqmahest0fdi8@google.com",
+      "summary": "O.L.H. Hemelvaart",
+      "location": "",
+      "start": "2026-05-14",
+      "end": "2026-05-15",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "feestdagen"
     }
   ]
 }
