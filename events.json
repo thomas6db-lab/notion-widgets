@@ -1,41 +1,9 @@
 {
-  "updated": "14/05 23:43",
+  "updated": "15/05 00:43",
   "timezone": "Europe/Brussels",
-  "todayLabel": "14 may",
-  "tomorrowLabel": "15 may",
+  "todayLabel": "15 may",
+  "tomorrowLabel": "16 may",
   "today": [
-    {
-      "uid": "20260514_qhkn70a7d03d9hqmahest0fdi8@google.com",
-      "summary": "O.L.H. Hemelvaart",
-      "location": "",
-      "start": "2026-05-14",
-      "end": "2026-05-15",
-      "allDay": true,
-      "day": "today",
-      "calendar": "feestdagen"
-    },
-    {
-      "uid": "44ECF0A5-F388-4F94-B037-49BBF3966BFC",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-05-14",
-      "end": "2026-05-15",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "69lu5l48cdbjrvs1mj2ls1fjb0@google.com",
-      "summary": "Feedback Launch video",
-      "location": "",
-      "start": "2026-05-14T10:00:00",
-      "end": "2026-05-14T10:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "20260515_obs67uf132gluo25jcms8lb7e0@google.com",
       "summary": "Dag na Hemelvaartsdag",
@@ -43,8 +11,80 @@
       "start": "2026-05-15",
       "end": "2026-05-16",
       "allDay": true,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "feestdagen"
+    },
+    {
+      "uid": "1837FD76-D025-4714-8F1F-AD77A2220639",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-05-15",
+      "end": "2026-05-16",
+      "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "366BED8F-398B-49D6-90F2-D0E380152241",
+      "summary": "Tectonic Launch vid",
+      "location": "",
+      "start": "2026-05-15T09:00:00",
+      "end": "2026-05-15T09:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "451mfqi8u32gaqja7lt2u59at7@google.com",
+      "summary": "Update Launch Video x FD Productions",
+      "location": "",
+      "start": "2026-05-15T09:00:00",
+      "end": "2026-05-15T09:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "4ab3e15dfcd2444da4988b7f35ec38d3@google.com",
+      "summary": "Renan watches",
+      "location": "",
+      "start": "2026-05-15T11:00:00",
+      "end": "2026-05-15T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5eae6fc662d8469da58c6467d3c149c4@google.com",
+      "summary": "Branding call",
+      "location": "",
+      "start": "2026-05-15T16:30:00",
+      "end": "2026-05-15T17:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "3furc24kakbeti3gvcn5fqikqn@google.com",
+      "summary": "Branding sync 9",
+      "location": "",
+      "start": "2026-05-15T16:30:00",
+      "end": "2026-05-15T17:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "8B9C276C-383B-4805-9184-E13969853885",
+      "summary": "Thesis",
+      "location": "",
+      "start": "2026-05-16",
+      "end": "2026-05-17",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
