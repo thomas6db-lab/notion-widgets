@@ -1,5 +1,5 @@
 {
-  "updated": "18/05 00:35",
+  "updated": "18/05 01:37",
   "timezone": "Europe/Brussels",
   "todayLabel": "18 may",
   "tomorrowLabel": "19 may",
@@ -25,21 +25,21 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "eb4gn1rdcietktnsobuufp6hk8@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-05-18T16:00:00",
-      "end": "2026-05-18T16:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
       "uid": "qu3gb6vodt083lpfql73cgrqp0@google.com",
       "summary": "Launch event - availabilities",
       "location": "",
       "start": "2026-05-18T16:00:00",
       "end": "2026-05-18T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "eb4gn1rdcietktnsobuufp6hk8@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-05-18T16:00:00",
+      "end": "2026-05-18T16:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
@@ -85,9 +85,9 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "evt-zBXaeGtzqbXjQID@events.lu.ma",
-      "summary": "Launch Event",
-      "location": "La Bellone, Rue de Flandre 46, 1000 Bruxelles, Belgium",
+      "uid": "kvrpdprjhnklut0krr2kgvfef8@google.com",
+      "summary": "Launch event - Tectonic",
+      "location": "Bellonahuis, Vlaamsesteenweg 46, 1000 Brussel, België",
       "start": "2026-05-18T18:00:00",
       "end": "2026-05-18T22:00:00",
       "allDay": false,
@@ -95,9 +95,9 @@
       "calendar": "tectonic"
     },
     {
-      "uid": "kvrpdprjhnklut0krr2kgvfef8@google.com",
-      "summary": "Launch event - Tectonic",
-      "location": "Bellonahuis, Vlaamsesteenweg 46, 1000 Brussel, België",
+      "uid": "evt-zBXaeGtzqbXjQID@events.lu.ma",
+      "summary": "Launch Event",
+      "location": "La Bellone, Rue de Flandre 46, 1000 Bruxelles, Belgium",
       "start": "2026-05-18T18:00:00",
       "end": "2026-05-18T22:00:00",
       "allDay": false,
