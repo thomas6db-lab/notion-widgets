@@ -1,145 +1,35 @@
 {
-  "updated": "18/05 23:38",
+  "updated": "19/05 00:38",
   "timezone": "Europe/Brussels",
-  "todayLabel": "18 may",
-  "tomorrowLabel": "19 may",
+  "todayLabel": "19 may",
+  "tomorrowLabel": "20 may",
   "today": [
     {
-      "uid": "0t9vik31sda36n3lqm21jelqiq@google.com",
-      "summary": "Thomas / Roxanne",
+      "uid": "175B8227-4EB9-4E04-BFC7-502AE3D979FE",
+      "summary": "Thesis",
       "location": "",
-      "start": "2026-05-18T12:00:00",
-      "end": "2026-05-18T13:00:00",
-      "allDay": false,
+      "start": "2026-05-19",
+      "end": "2026-05-20",
+      "allDay": true,
       "day": "today",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     },
     {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
-      "summary": "Tectonic x marketing",
+      "uid": "d641a8c988034a06a5bccf55e516dffa@google.com",
+      "summary": "Research Spotable",
       "location": "",
-      "start": "2026-05-18T14:00:00",
-      "end": "2026-05-18T14:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "d2borkteel4j70vapgtffgaejs@google.com",
-      "summary": "🚲 Fiets thuis → Gent-Sint-Pieters",
-      "location": "Meirestraat 5, 9921 Lievegem → Gent-Sint-Pieters",
-      "start": "2026-05-18T15:30:00",
-      "end": "2026-05-18T16:10:00",
+      "start": "2026-05-19T08:30:00",
+      "end": "2026-05-19T10:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "eb4gn1rdcietktnsobuufp6hk8@google.com",
-      "summary": "Marketing Sync",
+      "uid": "8k1hege0noh10lpkd398o6p138@google.com",
+      "summary": "Sebastien (Spotable) -- Thomas6db",
       "location": "",
-      "start": "2026-05-18T16:00:00",
-      "end": "2026-05-18T16:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "qu3gb6vodt083lpfql73cgrqp0@google.com",
-      "summary": "Launch event - availabilities",
-      "location": "",
-      "start": "2026-05-18T16:00:00",
-      "end": "2026-05-18T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "hp606t1aflo28hago5a80ugvj0@google.com",
-      "summary": "🚆 Trein Gent → Brussel",
-      "location": "Gent-Sint-Pieters",
-      "start": "2026-05-18T16:15:00",
-      "end": "2026-05-18T16:47:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "bg7shehe0pvsptr26qiliqlego@google.com",
-      "summary": "🚶 Brussel-Centraal → La Bellone",
-      "location": "Brussel-Centraal → La Bellone, Rue de Flandre 46",
-      "start": "2026-05-18T16:45:00",
-      "end": "2026-05-18T17:03:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "ra40gvv6cvbccbamftikpr9g2c@google.com",
-      "summary": "Launch event - availablilities",
-      "location": "",
-      "start": "2026-05-18T17:00:00",
-      "end": "2026-05-18T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "fodas764g7i2mje3d3fipbf7o8@google.com",
-      "summary": "Tectonic Launch Event",
-      "location": "La Bellone, Rue de Flandre 46, 1000 Bruxelles, België",
-      "start": "2026-05-18T18:00:00",
-      "end": "2026-05-18T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "evt-zBXaeGtzqbXjQID@events.lu.ma",
-      "summary": "Launch Event",
-      "location": "La Bellone, Rue de Flandre 46, 1000 Bruxelles, Belgium",
-      "start": "2026-05-18T18:00:00",
-      "end": "2026-05-18T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "kvrpdprjhnklut0krr2kgvfef8@google.com",
-      "summary": "Launch event - Tectonic",
-      "location": "Bellonahuis, Vlaamsesteenweg 46, 1000 Brussel, België",
-      "start": "2026-05-18T18:00:00",
-      "end": "2026-05-18T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "pdopm1dsl4ms19mhuo4v7itdf8@google.com",
-      "summary": "🚶 La Bellone → Brussel-Centraal",
-      "location": "La Bellone → Brussel-Centraal",
-      "start": "2026-05-18T22:00:00",
-      "end": "2026-05-18T22:25:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "999s14avd306f8lrt46ti5qlq4@google.com",
-      "summary": "🚆 Trein Brussel → Gent",
-      "location": "Brussel-Centraal",
-      "start": "2026-05-18T22:35:00",
-      "end": "2026-05-18T23:08:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "9diouu3nug94orkvhshvsu8sc8@google.com",
-      "summary": "🚲 Fiets Gent-Sint-Pieters → thuis",
-      "location": "Gent-Sint-Pieters → Meirestraat 5, 9921 Lievegem",
-      "start": "2026-05-18T23:08:00",
-      "end": "2026-05-18T23:48:00",
+      "start": "2026-05-19T10:00:00",
+      "end": "2026-05-19T10:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -147,11 +37,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "175B8227-4EB9-4E04-BFC7-502AE3D979FE",
+      "uid": "79BC12A8-6CFF-4F0A-9D79-B265D1B026E6",
       "summary": "Thesis",
       "location": "",
-      "start": "2026-05-19",
-      "end": "2026-05-20",
+      "start": "2026-05-20",
+      "end": "2026-05-21",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
