@@ -1,5 +1,5 @@
 {
-  "updated": "19/05 07:57",
+  "updated": "19/05 12:00",
   "timezone": "Europe/Brussels",
   "todayLabel": "19 may",
   "tomorrowLabel": "20 may",
@@ -33,6 +33,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "2q3qhp5f2h8556dkcehaktbh0p@google.com",
+      "summary": "Newsletter",
+      "location": "",
+      "start": "2026-05-19T15:30:00",
+      "end": "2026-05-19T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
     }
   ],
   "firstTomorrow": [
