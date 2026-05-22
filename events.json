@@ -1,41 +1,9 @@
 {
-  "updated": "22/05 23:21",
+  "updated": "23/05 00:32",
   "timezone": "Europe/Brussels",
-  "todayLabel": "22 may",
-  "tomorrowLabel": "23 may",
+  "todayLabel": "23 may",
+  "tomorrowLabel": "24 may",
   "today": [
-    {
-      "uid": "7D51CBFC-28E2-4C38-A1BE-BB873AD8834D",
-      "summary": "BV",
-      "location": "",
-      "start": "2026-05-22",
-      "end": "2026-05-23",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "56fcece3f1eb4d7498b5b4eec3a97664@google.com",
-      "summary": "Call Luypaert",
-      "location": "",
-      "start": "2026-05-22T11:00:00",
-      "end": "2026-05-22T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "8hf9dh4g0mt9qkomjoji8ae9h4@google.com",
-      "summary": "Feedback Meeting (Thomas De Baerdemaeker)",
-      "location": "",
-      "start": "2026-05-22T13:00:00",
-      "end": "2026-05-22T13:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "ACFC6C01-91D7-423B-94E8-7A284D241D57",
       "summary": "MSO",
@@ -43,8 +11,20 @@
       "start": "2026-05-23",
       "end": "2026-05-24",
       "allDay": true,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "20260524_bcptgm4bb9k2ghpd48ml77lf1c@google.com",
+      "summary": "Pinksteren",
+      "location": "",
+      "start": "2026-05-24",
+      "end": "2026-05-25",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "feestdagen"
     }
   ]
 }
