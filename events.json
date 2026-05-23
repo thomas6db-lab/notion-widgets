@@ -1,27 +1,57 @@
 {
-  "updated": "23/05 23:31",
+  "updated": "24/05 00:31",
   "timezone": "Europe/Brussels",
-  "todayLabel": "23 may",
-  "tomorrowLabel": "24 may",
+  "todayLabel": "24 may",
+  "tomorrowLabel": "25 may",
   "today": [
-    {
-      "uid": "ACFC6C01-91D7-423B-94E8-7A284D241D57",
-      "summary": "MSO",
-      "location": "",
-      "start": "2026-05-23",
-      "end": "2026-05-24",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "20260524_bcptgm4bb9k2ghpd48ml77lf1c@google.com",
       "summary": "Pinksteren",
       "location": "",
       "start": "2026-05-24",
       "end": "2026-05-25",
+      "allDay": true,
+      "day": "today",
+      "calendar": "feestdagen"
+    },
+    {
+      "uid": "42CF7E4E-50A3-4BA4-9F89-184901CA7F3E",
+      "summary": "MSO",
+      "location": "",
+      "start": "2026-05-24",
+      "end": "2026-05-25",
+      "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260524T070000@google.com",
+      "summary": "Getting Sh*t Done day [in-person]",
+      "location": "To Be Announced",
+      "start": "2026-05-24T09:00:00",
+      "end": "2026-05-24T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "662g3jvlnkajnv3runt43uvmmb@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "location": "",
+      "start": "2026-05-24T17:00:00",
+      "end": "2026-05-24T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "20260525_7pj2n2dj86f30vl1ulcbdq0m1c@google.com",
+      "summary": "pinkstermaandag",
+      "location": "",
+      "start": "2026-05-25",
+      "end": "2026-05-26",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "feestdagen"
