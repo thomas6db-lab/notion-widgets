@@ -1,47 +1,27 @@
 {
-  "updated": "25/05 23:45",
+  "updated": "26/05 00:45",
   "timezone": "Europe/Brussels",
-  "todayLabel": "25 may",
-  "tomorrowLabel": "26 may",
+  "todayLabel": "26 may",
+  "tomorrowLabel": "27 may",
   "today": [
-    {
-      "uid": "20260525_7pj2n2dj86f30vl1ulcbdq0m1c@google.com",
-      "summary": "pinkstermaandag",
-      "location": "",
-      "start": "2026-05-25",
-      "end": "2026-05-26",
-      "allDay": true,
-      "day": "today",
-      "calendar": "feestdagen"
-    },
-    {
-      "uid": "947A5C2B-B48C-4F07-B482-00E4BB13A1D2",
-      "summary": "MSO",
-      "location": "",
-      "start": "2026-05-25",
-      "end": "2026-05-26",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-05-25T14:00:00",
-      "end": "2026-05-25T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "A67CAEB2-1BD2-4CFD-8D65-5934A1C4D33C",
       "summary": "MSO",
       "location": "",
       "start": "2026-05-26",
       "end": "2026-05-27",
+      "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "396529AC-EB35-44D8-B21D-A8DA82CA3996",
+      "summary": "MSO",
+      "location": "",
+      "start": "2026-05-27",
+      "end": "2026-05-28",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
