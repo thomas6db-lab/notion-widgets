@@ -1,15 +1,15 @@
 {
-  "updated": "26/05 23:09",
+  "updated": "27/05 00:39",
   "timezone": "Europe/Brussels",
-  "todayLabel": "26 may",
-  "tomorrowLabel": "27 may",
+  "todayLabel": "27 may",
+  "tomorrowLabel": "28 may",
   "today": [
     {
-      "uid": "A67CAEB2-1BD2-4CFD-8D65-5934A1C4D33C",
+      "uid": "396529AC-EB35-44D8-B21D-A8DA82CA3996",
       "summary": "MSO",
       "location": "",
-      "start": "2026-05-26",
-      "end": "2026-05-27",
+      "start": "2026-05-27",
+      "end": "2026-05-28",
       "allDay": true,
       "day": "today",
       "calendar": "thomas6db"
@@ -17,11 +17,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "396529AC-EB35-44D8-B21D-A8DA82CA3996",
+      "uid": "3C2C76C6-A2AA-401A-A4F9-AB24DCC2BEEC",
       "summary": "MSO",
       "location": "",
-      "start": "2026-05-27",
-      "end": "2026-05-28",
+      "start": "2026-05-28",
+      "end": "2026-05-29",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
