@@ -1,5 +1,5 @@
 {
-  "updated": "28/05 18:21",
+  "updated": "28/05 21:07",
   "timezone": "Europe/Brussels",
   "todayLabel": "28 may",
   "tomorrowLabel": "29 may",
@@ -11,6 +11,16 @@
       "start": "2026-05-28",
       "end": "2026-05-29",
       "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "8fd19046ddda452ebef8405df6be643d@google.com",
+      "summary": "Post Tectonic maken",
+      "location": "",
+      "start": "2026-05-28T22:30:00",
+      "end": "2026-05-29T22:55:00",
+      "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     }
