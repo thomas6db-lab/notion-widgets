@@ -1,31 +1,9 @@
 {
-  "updated": "28/05 23:18",
+  "updated": "29/05 00:48",
   "timezone": "Europe/Brussels",
-  "todayLabel": "28 may",
-  "tomorrowLabel": "29 may",
+  "todayLabel": "29 may",
+  "tomorrowLabel": "30 may",
   "today": [
-    {
-      "uid": "3C2C76C6-A2AA-401A-A4F9-AB24DCC2BEEC",
-      "summary": "MSO",
-      "location": "",
-      "start": "2026-05-28",
-      "end": "2026-05-29",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "8fd19046ddda452ebef8405df6be643d@google.com",
-      "summary": "Post Tectonic maken",
-      "location": "",
-      "start": "2026-05-28T22:30:00",
-      "end": "2026-05-29T22:55:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "4c67dbe55e1d42739e61e6f9264a2402@google.com",
       "summary": "Managing Service Organisations",
@@ -33,6 +11,58 @@
       "start": "2026-05-29T13:00:00",
       "end": "2026-05-29T16:00:00",
       "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1610590--1179705713-0@timeedit.com",
+      "summary": "F000700B. Managing Service Organisations GR01, schriftelijke evaluatie met meerkeuzevragen",
+      "location": "Auditorium A - Adolphe Quetelet. Tweekerken. Campus Tweekerken. Tweekerkenstraat 2",
+      "start": "2026-05-29T13:00:00",
+      "end": "2026-05-29T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "1ob2e31kb3h9melcet3hl0k3qr@google.com",
+      "summary": "Tootje wandelingetje",
+      "location": "",
+      "start": "2026-05-29T16:00:00",
+      "end": "2026-05-29T17:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "d59e36528da248bcae712e690142032b@google.com",
+      "summary": "Kot A’pen, 6DC apply",
+      "location": "",
+      "start": "2026-05-29T17:30:00",
+      "end": "2026-05-29T19:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "32DBCFC5-FBD3-40AB-B9CC-1AD8768F30F7",
+      "summary": "Bday Andres",
+      "location": "",
+      "start": "2026-05-29T19:00:00",
+      "end": "2026-05-29T22:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "E843F0E6-2884-4C03-B692-F3E7663D726F",
+      "summary": "BV",
+      "location": "",
+      "start": "2026-05-30",
+      "end": "2026-05-31",
+      "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
     }
