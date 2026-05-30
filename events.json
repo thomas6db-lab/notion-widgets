@@ -1,37 +1,47 @@
 {
-  "updated": "30/05 23:14",
+  "updated": "31/05 00:15",
   "timezone": "Europe/Brussels",
-  "todayLabel": "30 may",
-  "tomorrowLabel": "31 may",
+  "todayLabel": "31 may",
+  "tomorrowLabel": "1 june",
   "today": [
-    {
-      "uid": "E843F0E6-2884-4C03-B692-F3E7663D726F",
-      "summary": "BV",
-      "location": "",
-      "start": "2026-05-30",
-      "end": "2026-05-31",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "af572cf04e63494f8daafc36c3f77664@google.com",
-      "summary": "Kot A’pen, 6DC, thesis af, Tectonic",
-      "location": "",
-      "start": "2026-05-30T09:00:00",
-      "end": "2026-05-30T10:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "AD8F864F-45C5-4F0D-A293-5394E10FA677",
       "summary": "BV",
       "location": "",
       "start": "2026-05-31",
       "end": "2026-06-01",
+      "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "krjsb08vajc8a22dula0g61jft@google.com",
+      "summary": "Weekly Team Meeting [In-person] - Tectonic",
+      "location": "To Be Announced",
+      "start": "2026-05-31T17:00:00",
+      "end": "2026-05-31T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
+      "summary": "Team Dinner + Drinks",
+      "location": "TBA",
+      "start": "2026-05-31T18:00:00",
+      "end": "2026-05-31T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "D1AECCB9-99C6-48A9-9D83-E647E120F6CB",
+      "summary": "BV",
+      "location": "",
+      "start": "2026-06-01",
+      "end": "2026-06-02",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
