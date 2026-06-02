@@ -1,5 +1,5 @@
 {
-  "updated": "02/06 08:50",
+  "updated": "02/06 13:10",
   "timezone": "Europe/Brussels",
   "todayLabel": "2 june",
   "tomorrowLabel": "3 june",
@@ -11,6 +11,16 @@
       "start": "2026-06-02",
       "end": "2026-06-03",
       "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "4b13ea7b389e466cbe9d70d9f9880f3a@google.com",
+      "summary": "Indienen thesis",
+      "location": "",
+      "start": "2026-06-02T15:00:00",
+      "end": "2026-06-02T15:30:00",
+      "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     }
