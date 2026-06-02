@@ -1,31 +1,9 @@
 {
-  "updated": "02/06 23:48",
+  "updated": "03/06 01:23",
   "timezone": "Europe/Brussels",
-  "todayLabel": "2 june",
-  "tomorrowLabel": "3 june",
+  "todayLabel": "3 june",
+  "tomorrowLabel": "4 june",
   "today": [
-    {
-      "uid": "F25FB5C0-284A-42D3-852A-CD81D9216274",
-      "summary": "BV",
-      "location": "",
-      "start": "2026-06-02",
-      "end": "2026-06-03",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "4b13ea7b389e466cbe9d70d9f9880f3a@google.com",
-      "summary": "Indienen thesis",
-      "location": "",
-      "start": "2026-06-02T15:00:00",
-      "end": "2026-06-02T15:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "0519bi30kqkbjm7ah2lnvelj73@google.com",
       "summary": "Branding sync",
@@ -33,8 +11,90 @@
       "start": "2026-06-03T09:00:00",
       "end": "2026-06-03T09:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "b7c593ce6b1745618e7198bfcdade556@google.com",
+      "summary": "Business Valuation",
+      "location": "",
+      "start": "2026-06-03T13:00:00",
+      "end": "2026-06-03T15:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1610652--1179705713-0@timeedit.com",
+      "summary": "F000898A. Business Valuation GR01, schriftelijke evaluatie met meerkeuzevragen, schriftelijke evaluatie met open vragen",
+      "location": "Auditorium N. Plateau - Rozier. Campus Boekentoren. Rozier 44",
+      "start": "2026-06-03T13:00:00",
+      "end": "2026-06-03T15:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "1CB6FE7F-6FB8-45EC-B0BF-24A265FF17B9",
+      "summary": "Hoofdstuk Seppe nalezen",
+      "location": "",
+      "start": "2026-06-03T16:00:00",
+      "end": "2026-06-03T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "12b4158855224e68a09b129d6adda619@google.com",
+      "summary": "Call Seppe",
+      "location": "",
+      "start": "2026-06-03T17:00:00",
+      "end": "2026-06-03T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "0A5CF56D-3DE4-4306-AFDC-B9701A231B65",
+      "summary": "Verkopen online",
+      "location": "",
+      "start": "2026-06-03T18:00:00",
+      "end": "2026-06-03T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "350f98fbd4b549108b84bcf8718f89e5@google.com",
+      "summary": "Spott",
+      "location": "",
+      "start": "2026-06-03T21:00:00",
+      "end": "2026-06-03T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "530195d0116a46e2aeba8cc4c2a9d6e4@google.com",
+      "summary": "Bond (personal outreach)",
+      "location": "",
+      "start": "2026-06-03T23:00:00",
+      "end": "2026-06-04T00:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "783f58daabe9438484d80022cc125adb@google.com",
+      "summary": "Unpause Supabase",
+      "location": "",
+      "start": "2026-06-04T08:00:00",
+      "end": "2026-06-04T09:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
