@@ -1,5 +1,5 @@
 {
-  "updated": "03/06 19:13",
+  "updated": "03/06 22:29",
   "timezone": "Europe/Brussels",
   "todayLabel": "3 june",
   "tomorrowLabel": "4 june",
@@ -50,26 +50,6 @@
       "location": "",
       "start": "2026-06-03T17:00:00",
       "end": "2026-06-03T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "0A5CF56D-3DE4-4306-AFDC-B9701A231B65",
-      "summary": "Verkopen online",
-      "location": "",
-      "start": "2026-06-03T18:00:00",
-      "end": "2026-06-03T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "929c6dc2f6bc4b3f847262f467b012ae@google.com",
-      "summary": "B",
-      "location": "",
-      "start": "2026-06-03T20:00:00",
-      "end": "2026-06-03T20:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
