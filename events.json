@@ -1,5 +1,5 @@
 {
-  "updated": "03/06 14:06",
+  "updated": "03/06 19:13",
   "timezone": "Europe/Brussels",
   "todayLabel": "3 june",
   "tomorrowLabel": "4 june",
@@ -65,6 +65,16 @@
       "calendar": "thomas6db"
     },
     {
+      "uid": "929c6dc2f6bc4b3f847262f467b012ae@google.com",
+      "summary": "B",
+      "location": "",
+      "start": "2026-06-03T20:00:00",
+      "end": "2026-06-03T20:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "350f98fbd4b549108b84bcf8718f89e5@google.com",
       "summary": "Spott",
       "location": "",
@@ -87,11 +97,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "783f58daabe9438484d80022cc125adb@google.com",
-      "summary": "Unpause Supabase",
+      "uid": "a0851ae08f894165889ae84a6fc7e46f@google.com",
+      "summary": "Hoofdstuk nalezen",
       "location": "",
-      "start": "2026-06-04T08:00:00",
-      "end": "2026-06-04T09:00:00",
+      "start": "2026-06-04T07:30:00",
+      "end": "2026-06-04T12:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
