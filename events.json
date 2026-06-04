@@ -1,101 +1,9 @@
 {
-  "updated": "04/06 23:57",
+  "updated": "05/06 01:15",
   "timezone": "Europe/Brussels",
-  "todayLabel": "4 june",
-  "tomorrowLabel": "5 june",
+  "todayLabel": "5 june",
+  "tomorrowLabel": "6 june",
   "today": [
-    {
-      "uid": "a0851ae08f894165889ae84a6fc7e46f@google.com",
-      "summary": "Hoofdstuk nalezen",
-      "location": "",
-      "start": "2026-06-04T07:30:00",
-      "end": "2026-06-04T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "9bd55d0c81904e2c8ad8bbb237822130@google.com",
-      "summary": "Afspreken iedereen",
-      "location": "",
-      "start": "2026-06-04T09:30:00",
-      "end": "2026-06-04T10:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "2031a3c672fe425ca3459936d0674793@google.com",
-      "summary": "Afspreken Stan",
-      "location": "",
-      "start": "2026-06-04T10:30:00",
-      "end": "2026-06-04T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "d7d1bbb0cea6405ca40bf4cd0be9352d@google.com",
-      "summary": "Vragen Christiaens kot",
-      "location": "",
-      "start": "2026-06-04T11:00:00",
-      "end": "2026-06-04T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "0A5CF56D-3DE4-4306-AFDC-B9701A231B65",
-      "summary": "Verkopen online",
-      "location": "",
-      "start": "2026-06-04T12:15:00",
-      "end": "2026-06-04T15:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1F4C44E2-F04F-4519-B96C-DCFDF43DFBAA",
-      "summary": "Feedback LE",
-      "location": "",
-      "start": "2026-06-04T15:30:00",
-      "end": "2026-06-04T15:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "31580615ca4940bea0fdcb961a09d28d@google.com",
-      "summary": "Thuis -> Brugge: les 1 IM",
-      "location": "",
-      "start": "2026-06-04T16:00:00",
-      "end": "2026-06-04T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "e2dbf33c48354301a4c52b56a46c4d7f@google.com",
-      "summary": "Lize Brugge",
-      "location": "",
-      "start": "2026-06-04T18:00:00",
-      "end": "2026-06-05T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "4350ec4a305540ddb2631abce0bb942b@google.com",
-      "summary": "Les 2 IM",
-      "location": "",
-      "start": "2026-06-04T21:00:00",
-      "end": "2026-06-04T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "84000aca32284d6c9818be3b41c0588d@google.com",
       "summary": "Site L maken",
@@ -103,6 +11,78 @@
       "start": "2026-06-05T09:00:00",
       "end": "2026-06-05T12:00:00",
       "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5DB01A46-9C95-4D96-9E95-D212DD033F55",
+      "summary": "Les 3 IM",
+      "location": "",
+      "start": "2026-06-05T13:00:00",
+      "end": "2026-06-05T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "F3F3D31F-C302-46EA-9AE4-CA91C595DCAD",
+      "summary": "Brugge -> Thuis: Les 4 IM",
+      "location": "",
+      "start": "2026-06-05T16:00:00",
+      "end": "2026-06-05T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "C3C7844C-33A1-4B7B-AC7A-2FDE20DAEF96",
+      "summary": "Site Emma Legal analyseren",
+      "location": "",
+      "start": "2026-06-05T18:00:00",
+      "end": "2026-06-05T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "BEAF2656-0CE1-4954-B15A-741B0AFE73C9",
+      "summary": "Spotify + Chatgpt -> Bybit",
+      "location": "",
+      "start": "2026-06-05T21:00:00",
+      "end": "2026-06-05T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "584E0E61-7361-43C8-852E-33002F88F16A",
+      "summary": "SEO/GEO Tectonic",
+      "location": "",
+      "start": "2026-06-05T22:00:00",
+      "end": "2026-06-05T23:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "3183E40C-5DCE-4E84-97F5-32A44C638789",
+      "summary": "Plannen komende weken",
+      "location": "",
+      "start": "2026-06-05T23:30:00",
+      "end": "2026-06-06T00:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "4F06A44B-A6A8-4E6B-BD99-80B62CDAC854",
+      "summary": "IM",
+      "location": "",
+      "start": "2026-06-06",
+      "end": "2026-06-07",
+      "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
     }
