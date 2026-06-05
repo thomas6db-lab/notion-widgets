@@ -1,65 +1,45 @@
 {
-  "updated": "05/06 23:48",
+  "updated": "06/06 00:52",
   "timezone": "Europe/Brussels",
-  "todayLabel": "5 june",
-  "tomorrowLabel": "6 june",
+  "todayLabel": "6 june",
+  "tomorrowLabel": "7 june",
   "today": [
     {
-      "uid": "5DB01A46-9C95-4D96-9E95-D212DD033F55",
-      "summary": "Les 3 IM",
+      "uid": "4F06A44B-A6A8-4E6B-BD99-80B62CDAC854",
+      "summary": "IM",
       "location": "",
-      "start": "2026-06-05T13:00:00",
-      "end": "2026-06-05T15:00:00",
+      "start": "2026-06-06",
+      "end": "2026-06-07",
+      "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "A6D5FA76-B110-4037-A200-30A830DA5FE9",
+      "summary": "2 lessen IM (5 & 6) + wandeling",
+      "location": "",
+      "start": "2026-06-06T08:00:00",
+      "end": "2026-06-06T12:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "F3F3D31F-C302-46EA-9AE4-CA91C595DCAD",
-      "summary": "Brugge -> Thuis: Les 4 IM",
+      "uid": "28A9997C-519E-4DDD-B687-291DDF60C672",
+      "summary": "Gitoo gerief regelen",
       "location": "",
-      "start": "2026-06-05T16:00:00",
-      "end": "2026-06-05T18:00:00",
+      "start": "2026-06-06T13:00:00",
+      "end": "2026-06-06T15:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "C3C7844C-33A1-4B7B-AC7A-2FDE20DAEF96",
-      "summary": "Site Emma Legal analyseren",
+      "uid": "453189AE-74F0-4E29-BEE9-15BAAA476CC0",
+      "summary": "Thesis lezen: notities maken",
       "location": "",
-      "start": "2026-06-05T18:00:00",
-      "end": "2026-06-05T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "BEAF2656-0CE1-4954-B15A-741B0AFE73C9",
-      "summary": "Spotify + Chatgpt -> Bybit",
-      "location": "",
-      "start": "2026-06-05T21:00:00",
-      "end": "2026-06-05T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "584E0E61-7361-43C8-852E-33002F88F16A",
-      "summary": "SEO/GEO Tectonic",
-      "location": "",
-      "start": "2026-06-05T22:00:00",
-      "end": "2026-06-05T23:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "3183E40C-5DCE-4E84-97F5-32A44C638789",
-      "summary": "Plannen komende weken",
-      "location": "",
-      "start": "2026-06-05T23:30:00",
-      "end": "2026-06-06T00:30:00",
+      "start": "2026-06-06T16:00:00",
+      "end": "2026-06-06T23:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -67,11 +47,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "4F06A44B-A6A8-4E6B-BD99-80B62CDAC854",
+      "uid": "328E2BDB-8BF4-4FB5-A3CC-5ED323D9C9D9",
       "summary": "IM",
       "location": "",
-      "start": "2026-06-06",
-      "end": "2026-06-07",
+      "start": "2026-06-07",
+      "end": "2026-06-08",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
