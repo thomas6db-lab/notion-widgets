@@ -1,19 +1,9 @@
 {
-  "updated": "05/06 08:04",
+  "updated": "05/06 12:12",
   "timezone": "Europe/Brussels",
   "todayLabel": "5 june",
   "tomorrowLabel": "6 june",
   "today": [
-    {
-      "uid": "84000aca32284d6c9818be3b41c0588d@google.com",
-      "summary": "Site L maken",
-      "location": "",
-      "start": "2026-06-05T09:00:00",
-      "end": "2026-06-05T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
     {
       "uid": "5DB01A46-9C95-4D96-9E95-D212DD033F55",
       "summary": "Les 3 IM",
