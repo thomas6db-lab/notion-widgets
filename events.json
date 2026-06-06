@@ -1,57 +1,77 @@
 {
-  "updated": "06/06 23:45",
+  "updated": "07/06 00:46",
   "timezone": "Europe/Brussels",
-  "todayLabel": "6 june",
-  "tomorrowLabel": "7 june",
+  "todayLabel": "7 june",
+  "tomorrowLabel": "8 june",
   "today": [
-    {
-      "uid": "4F06A44B-A6A8-4E6B-BD99-80B62CDAC854",
-      "summary": "IM",
-      "location": "",
-      "start": "2026-06-06",
-      "end": "2026-06-07",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "A6D5FA76-B110-4037-A200-30A830DA5FE9",
-      "summary": "2 lessen IM (5 & 6) + wandeling",
-      "location": "",
-      "start": "2026-06-06T08:00:00",
-      "end": "2026-06-06T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "28A9997C-519E-4DDD-B687-291DDF60C672",
-      "summary": "Gitoo gerief regelen",
-      "location": "",
-      "start": "2026-06-06T13:00:00",
-      "end": "2026-06-06T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "453189AE-74F0-4E29-BEE9-15BAAA476CC0",
-      "summary": "Thesis lezen: notities maken",
-      "location": "",
-      "start": "2026-06-06T16:00:00",
-      "end": "2026-06-06T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "328E2BDB-8BF4-4FB5-A3CC-5ED323D9C9D9",
       "summary": "IM",
       "location": "",
       "start": "2026-06-07",
       "end": "2026-06-08",
+      "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "183CF519-5EF0-4AA9-8D0F-27485C8C54A2",
+      "summary": "Lezen thesis: notities maken",
+      "location": "",
+      "start": "2026-06-07T08:00:00",
+      "end": "2026-06-07T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "77146BFB-F781-4C6F-97C1-551061250E5D",
+      "summary": "Tectonic",
+      "location": "",
+      "start": "2026-06-07T16:00:00",
+      "end": "2026-06-07T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "662g3jvlnkajnv3runt43uvmmb@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "location": "",
+      "start": "2026-06-07T17:00:00",
+      "end": "2026-06-07T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "7F0B7332-0D55-44EA-ACDD-177C36A2397A",
+      "summary": "Alles lezen IM",
+      "location": "",
+      "start": "2026-06-07T18:00:00",
+      "end": "2026-06-07T23:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
+      "summary": "Team Dinner + Drinks",
+      "location": "TBA",
+      "start": "2026-06-07T18:00:00",
+      "end": "2026-06-07T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "65460C04-1644-4FE9-8279-67957E3FCAA1",
+      "summary": "IM",
+      "location": "",
+      "start": "2026-06-08",
+      "end": "2026-06-09",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
