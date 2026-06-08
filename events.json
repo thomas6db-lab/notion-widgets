@@ -1,47 +1,27 @@
 {
-  "updated": "08/06 23:24",
+  "updated": "09/06 00:55",
   "timezone": "Europe/Brussels",
-  "todayLabel": "8 june",
-  "tomorrowLabel": "9 june",
+  "todayLabel": "9 june",
+  "tomorrowLabel": "10 june",
   "today": [
-    {
-      "uid": "65460C04-1644-4FE9-8279-67957E3FCAA1",
-      "summary": "IM",
-      "location": "",
-      "start": "2026-06-08",
-      "end": "2026-06-09",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "23k73b4kf4ng6908q8k0r1bt30@google.com",
-      "summary": "MM",
-      "location": "",
-      "start": "2026-06-08T15:00:00",
-      "end": "2026-06-08T15:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "eb4gn1rdcietktnsobuufp6hk8@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-06-08T16:00:00",
-      "end": "2026-06-08T16:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "BDBBE64F-B833-40D0-B803-0E2D7EAF57ED",
       "summary": "IM",
       "location": "",
       "start": "2026-06-09",
       "end": "2026-06-10",
+      "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "78B16FF1-8316-4B94-ACDB-7A99D5F78F90",
+      "summary": "IM",
+      "location": "",
+      "start": "2026-06-10",
+      "end": "2026-06-11",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
