@@ -1,5 +1,5 @@
 {
-  "updated": "08/06 11:23",
+  "updated": "08/06 15:49",
   "timezone": "Europe/Brussels",
   "todayLabel": "8 june",
   "tomorrowLabel": "9 june",
@@ -15,11 +15,11 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
-      "summary": "Tectonic x marketing",
+      "uid": "23k73b4kf4ng6908q8k0r1bt30@google.com",
+      "summary": "MM",
       "location": "",
-      "start": "2026-06-08T14:30:00",
-      "end": "2026-06-08T15:00:00",
+      "start": "2026-06-08T15:00:00",
+      "end": "2026-06-08T15:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
