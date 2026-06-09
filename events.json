@@ -1,21 +1,9 @@
 {
-  "updated": "09/06 23:03",
+  "updated": "10/06 00:45",
   "timezone": "Europe/Brussels",
-  "todayLabel": "9 june",
-  "tomorrowLabel": "10 june",
+  "todayLabel": "10 june",
+  "tomorrowLabel": "11 june",
   "today": [
-    {
-      "uid": "BDBBE64F-B833-40D0-B803-0E2D7EAF57ED",
-      "summary": "IM",
-      "location": "",
-      "start": "2026-06-09",
-      "end": "2026-06-10",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "78B16FF1-8316-4B94-ACDB-7A99D5F78F90",
       "summary": "IM",
@@ -23,6 +11,48 @@
       "start": "2026-06-10",
       "end": "2026-06-11",
       "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "8pg8r47v42a5e914d055740d3c@google.com",
+      "summary": "Kennismaking Thomas x Beam",
+      "location": "",
+      "start": "2026-06-10T10:30:00",
+      "end": "2026-06-10T11:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1cdd646b8f244e47964812d79108547a@google.com",
+      "summary": "Call Spotable Prep",
+      "location": "",
+      "start": "2026-06-10T11:00:00",
+      "end": "2026-06-10T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "4j3c3fac20vvijvo8n8qc0rhj5@google.com",
+      "summary": "internship - kennismaking",
+      "location": "Spotable, Franklin Rooseveltlaan 306, 9000 Gent, België",
+      "start": "2026-06-10T12:00:00",
+      "end": "2026-06-10T12:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "fdb92f2e8afb41ff81657e141c84c56e@google.com",
+      "summary": "Innovation Management",
+      "location": "",
+      "start": "2026-06-11T08:30:00",
+      "end": "2026-06-11T11:30:00",
+      "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
     }
