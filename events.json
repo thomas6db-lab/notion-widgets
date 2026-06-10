@@ -1,35 +1,105 @@
 {
-  "updated": "10/06 23:09",
+  "updated": "11/06 00:56",
   "timezone": "Europe/Brussels",
-  "todayLabel": "10 june",
-  "tomorrowLabel": "11 june",
+  "todayLabel": "11 june",
+  "tomorrowLabel": "12 june",
   "today": [
     {
-      "uid": "78B16FF1-8316-4B94-ACDB-7A99D5F78F90",
-      "summary": "IM",
+      "uid": "fdb92f2e8afb41ff81657e141c84c56e@google.com",
+      "summary": "Innovation Management",
       "location": "",
-      "start": "2026-06-10",
-      "end": "2026-06-11",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "8pg8r47v42a5e914d055740d3c@google.com",
-      "summary": "Kennismaking Thomas x Beam",
-      "location": "",
-      "start": "2026-06-10T10:30:00",
-      "end": "2026-06-10T11:00:00",
+      "start": "2026-06-11T08:30:00",
+      "end": "2026-06-11T11:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "4j3c3fac20vvijvo8n8qc0rhj5@google.com",
-      "summary": "internship - kennismaking",
-      "location": "Spotable, Franklin Rooseveltlaan 306, 9000 Gent, België",
-      "start": "2026-06-10T12:00:00",
-      "end": "2026-06-10T12:45:00",
+      "uid": "1623661--1179705713-0@timeedit.com",
+      "summary": "F000892A. Innovation Management GR01, F000892B. Innovatiemanagement GR01, F000892O. Innovation Management, schriftelijke evaluatie met open vragen",
+      "location": "Auditorium A - Adolphe Quetelet. Tweekerken. Campus Tweekerken. Tweekerkenstraat 2",
+      "start": "2026-06-11T08:30:00",
+      "end": "2026-06-11T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "b6458e6d26844b09ac32749e1395352e@google.com",
+      "summary": "Renan meet",
+      "location": "",
+      "start": "2026-06-11T12:00:00",
+      "end": "2026-06-11T12:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "94a3cbd7e2734caf8f7ec598b44740df@google.com",
+      "summary": "Fixen Tectonic t-shirts, Renan visit",
+      "location": "",
+      "start": "2026-06-11T12:45:00",
+      "end": "2026-06-11T16:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "d9a1729b72b94a51aa774f7d166e7e77@google.com",
+      "summary": "Thuis -> Brugge fietsen",
+      "location": "",
+      "start": "2026-06-11T16:30:00",
+      "end": "2026-06-11T18:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5fkdlbvanhhhnnhocnd9pojvgg@google.com",
+      "summary": "Branding sync",
+      "location": "",
+      "start": "2026-06-11T17:00:00",
+      "end": "2026-06-11T17:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "4fb80cf88edb4ebc8f75a947df85f3c0@google.com",
+      "summary": "Avondeten",
+      "location": "",
+      "start": "2026-06-11T18:30:00",
+      "end": "2026-06-11T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "350f98fbd4b549108b84bcf8718f89e5@google.com",
+      "summary": "Spott",
+      "location": "",
+      "start": "2026-06-11T20:00:00",
+      "end": "2026-06-11T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "530195d0116a46e2aeba8cc4c2a9d6e4@google.com",
+      "summary": "Bond (personal outreach)",
+      "location": "",
+      "start": "2026-06-11T21:00:00",
+      "end": "2026-06-11T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5f66ad5d176d4ae1aab9681447095ad7@google.com",
+      "summary": "NY/SF/LDN stages bekijken!",
+      "location": "",
+      "start": "2026-06-11T22:00:00",
+      "end": "2026-06-12T00:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -37,11 +107,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "fdb92f2e8afb41ff81657e141c84c56e@google.com",
-      "summary": "Innovation Management",
+      "uid": "f2e9a9b632714ccc8c5b4fe8876d4d55@google.com",
+      "summary": "Brugge -> thuis",
       "location": "",
-      "start": "2026-06-11T08:30:00",
-      "end": "2026-06-11T11:30:00",
+      "start": "2026-06-12T07:30:00",
+      "end": "2026-06-12T09:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
