@@ -1,5 +1,5 @@
 {
-  "updated": "12/06 03:39",
+  "updated": "12/06 08:19",
   "timezone": "Europe/Brussels",
   "todayLabel": "12 june",
   "tomorrowLabel": "13 june",
@@ -50,6 +50,16 @@
       "location": "",
       "start": "2026-06-12T14:00:00",
       "end": "2026-06-12T23:25:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "735c563e24564d6bbc3b302e3374113a@google.com",
+      "summary": "Bellen Otto",
+      "location": "",
+      "start": "2026-06-12T14:00:00",
+      "end": "2026-06-12T14:50:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
