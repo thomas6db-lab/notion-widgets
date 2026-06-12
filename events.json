@@ -1,5 +1,5 @@
 {
-  "updated": "12/06 12:44",
+  "updated": "12/06 15:53",
   "timezone": "Europe/Brussels",
   "todayLabel": "12 june",
   "tomorrowLabel": "13 june",
@@ -70,6 +70,16 @@
       "location": "",
       "start": "2026-06-12T15:15:00",
       "end": "2026-06-12T17:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "f4a96353c9664c169f8e2dc190177317@google.com",
+      "summary": "Deadline Dominique",
+      "location": "",
+      "start": "2026-06-12T15:30:00",
+      "end": "2026-06-12T16:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
