@@ -1,19 +1,9 @@
 {
-  "updated": "13/06 09:34",
+  "updated": "13/06 12:15",
   "timezone": "Europe/Brussels",
   "todayLabel": "13 june",
   "tomorrowLabel": "14 june",
   "today": [
-    {
-      "uid": "3118b4d1c2354716a4c520d83d361544@google.com",
-      "summary": "De Panne -> Cadzand: podcasts",
-      "location": "",
-      "start": "2026-06-13T05:30:00",
-      "end": "2026-06-13T19:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
     {
       "uid": "f4dd5485ed0a42d2a3c4d4b651b68787@google.com",
       "summary": "Gesprek Roxanne",
