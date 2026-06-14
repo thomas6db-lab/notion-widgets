@@ -1,57 +1,77 @@
 {
-  "updated": "14/06 23:56",
+  "updated": "15/06 01:14",
   "timezone": "Europe/Brussels",
-  "todayLabel": "14 june",
-  "tomorrowLabel": "15 june",
+  "todayLabel": "15 june",
+  "tomorrowLabel": "16 june",
   "today": [
-    {
-      "uid": "20260614_qljn9c5erk1o7cr76360gd9apk@google.com",
-      "summary": "Vaderdag",
-      "location": "",
-      "start": "2026-06-14",
-      "end": "2026-06-15",
-      "allDay": true,
-      "day": "today",
-      "calendar": "feestdagen"
-    },
-    {
-      "uid": "fd99c8773f174b4c8b8700072bdf6883@google.com",
-      "summary": "Tectonic data run",
-      "location": "",
-      "start": "2026-06-14T08:00:00",
-      "end": "2026-06-14T20:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1reiav81pcgf7auflvl9p6pi3a@google.com",
-      "summary": "Weekly Team Meeting [Online] - Tectonic",
-      "location": "",
-      "start": "2026-06-14T17:00:00",
-      "end": "2026-06-14T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "ba0774583f4e44f698a2e084e69c671b@google.com",
-      "summary": "Verkoop Mac + Thinkbook",
-      "location": "",
-      "start": "2026-06-14T21:00:00",
-      "end": "2026-06-14T23:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "1ac1c0ca5a0d43c0af7e60843588a428@google.com",
       "summary": "Thesis deedive",
       "location": "",
       "start": "2026-06-15T08:00:00",
       "end": "2026-06-15T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "270cce18b51b4df68be62a7946683311@google.com",
+      "summary": "Sync marketing",
+      "location": "",
+      "start": "2026-06-15T10:00:00",
+      "end": "2026-06-15T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-06-15T14:00:00",
+      "end": "2026-06-15T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "eb4gn1rdcietktnsobuufp6hk8@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-06-15T16:00:00",
+      "end": "2026-06-15T16:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "20ae223217274a80ba94f6e2a78bb783@google.com",
+      "summary": "Thesis deepdive",
+      "location": "",
+      "start": "2026-06-15T17:00:00",
+      "end": "2026-06-15T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "0n2logqb6l89l7nra1u0mfni5c@google.com",
+      "summary": "CLA marketing sync",
+      "location": "",
+      "start": "2026-06-15T17:00:00",
+      "end": "2026-06-15T17:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
+      "summary": "Anniv 5m",
+      "location": "",
+      "start": "2026-06-16T01:00:00",
+      "end": "2026-06-16T02:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
