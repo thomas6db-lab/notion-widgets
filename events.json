@@ -1,5 +1,5 @@
 {
-  "updated": "15/06 09:00",
+  "updated": "15/06 15:23",
   "timezone": "Europe/Brussels",
   "todayLabel": "15 june",
   "tomorrowLabel": "16 june",
@@ -15,8 +15,8 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "270cce18b51b4df68be62a7946683311@google.com",
-      "summary": "Sync marketing",
+      "uid": "2jeek0jd7miv93p0em63e4daks@google.com",
+      "summary": "MM 15/6",
       "location": "",
       "start": "2026-06-15T10:00:00",
       "end": "2026-06-15T12:00:00",
@@ -25,11 +25,11 @@
       "calendar": "tectonic"
     },
     {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
-      "summary": "Tectonic x marketing",
+      "uid": "0n2logqb6l89l7nra1u0mfni5c@google.com",
+      "summary": "CLA marketing sync",
       "location": "",
-      "start": "2026-06-15T14:00:00",
-      "end": "2026-06-15T15:00:00",
+      "start": "2026-06-15T13:30:00",
+      "end": "2026-06-15T14:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
@@ -46,7 +46,7 @@
     },
     {
       "uid": "20ae223217274a80ba94f6e2a78bb783@google.com",
-      "summary": "Thesis deepdive",
+      "summary": "Renan aanbod doen",
       "location": "",
       "start": "2026-06-15T17:00:00",
       "end": "2026-06-15T22:00:00",
@@ -55,14 +55,14 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "0n2logqb6l89l7nra1u0mfni5c@google.com",
-      "summary": "CLA marketing sync",
+      "uid": "ba0774583f4e44f698a2e084e69c671b@google.com",
+      "summary": "Verkoop Mac + Thinkbook",
       "location": "",
-      "start": "2026-06-15T17:00:00",
-      "end": "2026-06-15T17:30:00",
+      "start": "2026-06-15T22:00:00",
+      "end": "2026-06-16T00:15:00",
       "allDay": false,
       "day": "today",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     }
   ],
   "firstTomorrow": [
