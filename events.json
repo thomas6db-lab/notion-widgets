@@ -1,125 +1,45 @@
 {
-  "updated": "16/06 22:26",
+  "updated": "17/06 00:30",
   "timezone": "Europe/Brussels",
-  "todayLabel": "16 june",
-  "tomorrowLabel": "17 june",
+  "todayLabel": "17 june",
+  "tomorrowLabel": "18 june",
   "today": [
     {
-      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
-      "summary": "Anniv 5m",
-      "location": "",
-      "start": "2026-06-16T01:00:00",
-      "end": "2026-06-16T02:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "d1a5ad58ecd94da0abb6101b56310803@google.com",
-      "summary": "Meet fysiek Hendrik Franck",
-      "location": "",
-      "start": "2026-06-16T10:00:00",
-      "end": "2026-06-16T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "3r6922pjvvu7ufvhvue91c5uuo@google.com",
-      "summary": "Koffie Thomas x Hendrik",
-      "location": "Bar Bougie, Sint-Pietersnieuwstraat 11, 9000 Gent, Belgium",
-      "start": "2026-06-16T10:00:00",
-      "end": "2026-06-16T10:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "ae6faa0a0aec4a03871b88cd4061f180@google.com",
-      "summary": "Meet spotable",
-      "location": "",
-      "start": "2026-06-16T11:00:00",
-      "end": "2026-06-16T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "cd70603a361547e8b2c3d3a617942486@google.com",
-      "summary": "Meet Spotable",
-      "location": "",
-      "start": "2026-06-16T12:00:00",
-      "end": "2026-06-16T12:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "0uelu90u2cgi8a8uv1tbub9uso@google.com",
-      "summary": "stage",
-      "location": "",
-      "start": "2026-06-16T12:00:00",
-      "end": "2026-06-16T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "4af5af18712b4b8ca731c282bea9b28f@google.com",
-      "summary": "Meet",
-      "location": "",
-      "start": "2026-06-16T13:00:00",
-      "end": "2026-06-16T14:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "29aiagi2lrjcrqhsf4vn07e7p0@google.com",
-      "summary": "Meeting Thomas (Andy Gijbels)",
-      "location": "",
-      "start": "2026-06-16T14:00:00",
-      "end": "2026-06-16T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "F7E3C5ED-F0AB-4FD0-B21D-90D7C5D894FE",
-      "summary": "Meeting Thomas (Andy Gijbels)",
-      "location": "",
-      "start": "2026-06-16T14:00:00",
-      "end": "2026-06-16T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "ff104482388c4731bd3a01f54e1ca01b@google.com",
-      "summary": "Voorstel maken Renan",
-      "location": "",
-      "start": "2026-06-16T15:00:00",
-      "end": "2026-06-16T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1b004vo37d435chf9s16b0te8m@google.com",
-      "summary": "Branding sync",
-      "location": "",
-      "start": "2026-06-16T17:15:00",
-      "end": "2026-06-16T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "9f3291e76f8c461f85d9f311ae63eca0@google.com",
+      "uid": "b2966f07316a40b1932dad57222352a9@google.com",
       "summary": "Thesis deepdive",
       "location": "",
-      "start": "2026-06-16T18:45:00",
-      "end": "2026-06-16T23:00:00",
+      "start": "2026-06-17T08:00:00",
+      "end": "2026-06-17T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "079c29617f4f4997a17cf3cd7d15badb@google.com",
+      "summary": "Boetje",
+      "location": "",
+      "start": "2026-06-17T11:30:00",
+      "end": "2026-06-17T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "2pu1kt1clqkl0b3scjfidkma50@google.com",
+      "summary": "marketing sync",
+      "location": "",
+      "start": "2026-06-17T16:00:00",
+      "end": "2026-06-17T16:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "1ec96a5046ae4203a909fd237c0e75e0@google.com",
+      "summary": "Boetje",
+      "location": "",
+      "start": "2026-06-17T17:00:00",
+      "end": "2026-06-17T20:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -127,11 +47,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "b2966f07316a40b1932dad57222352a9@google.com",
+      "uid": "bb62e29839004dcea692e7de53b57706@google.com",
       "summary": "Thesis deepdive",
       "location": "",
-      "start": "2026-06-17T08:00:00",
-      "end": "2026-06-17T22:00:00",
+      "start": "2026-06-18T08:00:00",
+      "end": "2026-06-18T22:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
