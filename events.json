@@ -1,5 +1,5 @@
 {
-  "updated": "17/06 02:00",
+  "updated": "17/06 07:04",
   "timezone": "Europe/Brussels",
   "todayLabel": "17 june",
   "tomorrowLabel": "18 june",
@@ -15,11 +15,41 @@
       "calendar": "thomas6db"
     },
     {
+      "uid": "ff104482388c4731bd3a01f54e1ca01b@google.com",
+      "summary": "Voorstel maken Renan",
+      "location": "",
+      "start": "2026-06-17T09:30:00",
+      "end": "2026-06-17T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "079c29617f4f4997a17cf3cd7d15badb@google.com",
       "summary": "Boetje",
       "location": "",
       "start": "2026-06-17T11:30:00",
       "end": "2026-06-17T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "a2296ac358a94fdf934af67a0e6ae02c@google.com",
+      "summary": "Voorstel maken Renan",
+      "location": "",
+      "start": "2026-06-17T14:00:00",
+      "end": "2026-06-17T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "dbaff218ebdf4118b95720d7102351a8@google.com",
+      "summary": "Renan",
+      "location": "",
+      "start": "2026-06-17T16:00:00",
+      "end": "2026-06-17T17:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
