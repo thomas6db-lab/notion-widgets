@@ -1,5 +1,5 @@
 {
-  "updated": "17/06 11:59",
+  "updated": "17/06 15:51",
   "timezone": "Europe/Brussels",
   "todayLabel": "17 june",
   "tomorrowLabel": "18 june",
@@ -76,10 +76,10 @@
     },
     {
       "uid": "1ec96a5046ae4203a909fd237c0e75e0@google.com",
-      "summary": "Boetje",
+      "summary": "Eten boetje (Kaas)",
       "location": "",
-      "start": "2026-06-17T17:00:00",
-      "end": "2026-06-17T20:00:00",
+      "start": "2026-06-17T18:30:00",
+      "end": "2026-06-17T19:50:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
