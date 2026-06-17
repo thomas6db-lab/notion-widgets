@@ -1,5 +1,5 @@
 {
-  "updated": "17/06 07:04",
+  "updated": "17/06 11:59",
   "timezone": "Europe/Brussels",
   "todayLabel": "17 june",
   "tomorrowLabel": "18 june",
@@ -20,6 +20,16 @@
       "location": "",
       "start": "2026-06-17T09:30:00",
       "end": "2026-06-17T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "9AA6AE2B-1ABC-48D7-B1CE-A15CEDF2956B",
+      "summary": "Aku",
+      "location": "",
+      "start": "2026-06-17T11:00:00",
+      "end": "2026-06-17T12:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
