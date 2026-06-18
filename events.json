@@ -1,15 +1,65 @@
 {
-  "updated": "18/06 23:12",
+  "updated": "19/06 01:10",
   "timezone": "Europe/Brussels",
-  "todayLabel": "18 june",
-  "tomorrowLabel": "19 june",
+  "todayLabel": "19 june",
+  "tomorrowLabel": "20 june",
   "today": [
     {
-      "uid": "bb62e29839004dcea692e7de53b57706@google.com",
+      "uid": "fb8eae46705643ac9e699cd3016b4d4c@google.com",
       "summary": "Thesis deepdive",
       "location": "",
-      "start": "2026-06-18T08:00:00",
-      "end": "2026-06-18T22:00:00",
+      "start": "2026-06-19T08:00:00",
+      "end": "2026-06-19T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "0009330D-167F-4DDB-80CF-AA593424E4F9",
+      "summary": "Tandarts Johan",
+      "location": "",
+      "start": "2026-06-19T11:15:00",
+      "end": "2026-06-19T11:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "16b53a1635a94395bc6bcc5a0ab1a357@google.com",
+      "summary": "Renan ophalen",
+      "location": "",
+      "start": "2026-06-19T13:00:00",
+      "end": "2026-06-19T14:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1b3p7fhel2j3cctf766lj06rls@google.com",
+      "summary": "GSD prep",
+      "location": "",
+      "start": "2026-06-19T15:00:00",
+      "end": "2026-06-19T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "1htf8rpuj8793pvs545a9ljt57@google.com",
+      "summary": "Branding sync",
+      "location": "",
+      "start": "2026-06-19T16:00:00",
+      "end": "2026-06-19T16:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "8EA2107A-0925-4453-87F4-E86F45F9095F",
+      "summary": "VOKA Centraal Station event",
+      "location": "",
+      "start": "2026-06-19T18:00:00",
+      "end": "2026-06-19T23:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -17,11 +67,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "fb8eae46705643ac9e699cd3016b4d4c@google.com",
+      "uid": "78bd47acf42745e28ff86a3591a4351d@google.com",
       "summary": "Thesis deepdive",
       "location": "",
-      "start": "2026-06-19T08:00:00",
-      "end": "2026-06-19T22:00:00",
+      "start": "2026-06-20T08:00:00",
+      "end": "2026-06-20T22:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
