@@ -1,5 +1,5 @@
 {
-  "updated": "18/06 11:45",
+  "updated": "18/06 14:42",
   "timezone": "Europe/Brussels",
   "todayLabel": "18 june",
   "tomorrowLabel": "19 june",
@@ -10,16 +10,6 @@
       "location": "",
       "start": "2026-06-18T08:00:00",
       "end": "2026-06-18T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1A3E2A31-159D-4065-A286-07B74357D43C",
-      "summary": "Auberge du Pecheur - Vlerick BBQ",
-      "location": "",
-      "start": "2026-06-18T18:00:00",
-      "end": "2026-06-18T23:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
