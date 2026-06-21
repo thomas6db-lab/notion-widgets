@@ -1,5 +1,5 @@
 {
-  "updated": "21/06 22:19",
+  "updated": "21/06 23:47",
   "timezone": "Europe/Brussels",
   "todayLabel": "21 june",
   "tomorrowLabel": "22 june",
@@ -97,14 +97,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "c44eda120a8f4420a9eccdac57bdd2c5@google.com",
-      "summary": "Call SK PC",
+      "uid": "6lmr086v71jeul3c4jsoqp7bfv@google.com",
+      "summary": "Update marketing strategy PC",
       "location": "",
       "start": "2026-06-22T10:30:00",
       "end": "2026-06-22T11:00:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "thomas6db"
+      "calendar": "tectonic"
     }
   ]
 }
