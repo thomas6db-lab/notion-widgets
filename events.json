@@ -1,5 +1,5 @@
 {
-  "updated": "21/06 11:03",
+  "updated": "21/06 13:50",
   "timezone": "Europe/Brussels",
   "todayLabel": "21 june",
   "tomorrowLabel": "22 june",
@@ -28,8 +28,8 @@
       "uid": "h5p7i2gjt8pcj1616k7p3f4kgh@google.com",
       "summary": "Weekly Team Meeting [In-person] - Tectonic",
       "location": "To Be Announced",
-      "start": "2026-06-21T17:00:00",
-      "end": "2026-06-21T18:00:00",
+      "start": "2026-06-21T16:30:00",
+      "end": "2026-06-21T17:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
@@ -45,21 +45,21 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
-      "summary": "Team Dinner + Drinks",
-      "location": "TBA",
-      "start": "2026-06-21T18:00:00",
-      "end": "2026-06-21T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
       "uid": "2vbiricijutaitcjtg0e6knc16@google.com",
       "summary": "Dinner + Drinks WITH YOUR +1!!!",
       "location": "TBA",
       "start": "2026-06-21T18:00:00",
       "end": "2026-06-21T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
+      "summary": "Team Dinner + Drinks",
+      "location": "TBA",
+      "start": "2026-06-21T18:00:00",
+      "end": "2026-06-21T20:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
