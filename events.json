@@ -1,101 +1,9 @@
 {
-  "updated": "21/06 23:47",
+  "updated": "22/06 00:54",
   "timezone": "Europe/Brussels",
-  "todayLabel": "21 june",
-  "tomorrowLabel": "22 june",
+  "todayLabel": "22 june",
+  "tomorrowLabel": "23 june",
   "today": [
-    {
-      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260524T070000@google.com",
-      "summary": "Getting Sh*t Done day [in-person]",
-      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
-      "start": "2026-06-21T09:00:00",
-      "end": "2026-06-21T16:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "1mcjuv8i7q7cmm1r9895j3i35e@google.com",
-      "summary": "Pitching Competition - Marketing Gameplan",
-      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
-      "start": "2026-06-21T13:00:00",
-      "end": "2026-06-21T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "1gdovc6cadsi4dqpvapjpbe5rv@google.com",
-      "summary": "Update marketing strategy",
-      "location": "",
-      "start": "2026-06-21T15:00:00",
-      "end": "2026-06-21T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "h5p7i2gjt8pcj1616k7p3f4kgh@google.com",
-      "summary": "Weekly Team Meeting [In-person] - Tectonic",
-      "location": "To Be Announced",
-      "start": "2026-06-21T17:00:00",
-      "end": "2026-06-21T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "F5E66EB0-8C9A-43AE-AAD0-6B3D752A9112",
-      "summary": "Dinner + Drinks WITH YOUR +1!!!",
-      "location": "TBA",
-      "start": "2026-06-21T18:00:00",
-      "end": "2026-06-21T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
-      "summary": "Team Dinner + Drinks",
-      "location": "TBA",
-      "start": "2026-06-21T18:00:00",
-      "end": "2026-06-21T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "2vbiricijutaitcjtg0e6knc16@google.com",
-      "summary": "Dinner + Drinks WITH YOUR +1!!!",
-      "location": "TBA",
-      "start": "2026-06-21T18:00:00",
-      "end": "2026-06-21T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "9cd6ef3c8a914ad58b96d8264bb1171e@google.com",
-      "summary": "GSD -> Thuis",
-      "location": "",
-      "start": "2026-06-21T20:30:00",
-      "end": "2026-06-21T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "b7482fa91b634664a2e55614de878233@google.com",
-      "summary": "Slides",
-      "location": "",
-      "start": "2026-06-21T21:00:00",
-      "end": "2026-06-21T22:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "6lmr086v71jeul3c4jsoqp7bfv@google.com",
       "summary": "Update marketing strategy PC",
@@ -103,8 +11,20 @@
       "start": "2026-06-22T10:30:00",
       "end": "2026-06-22T11:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1844ce23d4b84849b28d621451a65114@google.com",
+      "summary": "Thesisverdediging",
+      "location": "",
+      "start": "2026-06-23T10:30:00",
+      "end": "2026-06-23T11:45:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
