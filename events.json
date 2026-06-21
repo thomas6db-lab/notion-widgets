@@ -1,5 +1,5 @@
 {
-  "updated": "21/06 07:12",
+  "updated": "21/06 11:03",
   "timezone": "Europe/Brussels",
   "todayLabel": "21 june",
   "tomorrowLabel": "22 june",
@@ -9,7 +9,7 @@
       "summary": "Getting Sh*t Done day [in-person]",
       "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
       "start": "2026-06-21T09:00:00",
-      "end": "2026-06-21T17:00:00",
+      "end": "2026-06-21T16:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
@@ -18,8 +18,8 @@
       "uid": "1mcjuv8i7q7cmm1r9895j3i35e@google.com",
       "summary": "Pitching Competition - Marketing Gameplan",
       "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
-      "start": "2026-06-21T10:00:00",
-      "end": "2026-06-21T12:00:00",
+      "start": "2026-06-21T13:00:00",
+      "end": "2026-06-21T15:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
