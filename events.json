@@ -1,37 +1,57 @@
 {
-  "updated": "22/06 23:48",
+  "updated": "23/06 01:08",
   "timezone": "Europe/Brussels",
-  "todayLabel": "22 june",
-  "tomorrowLabel": "23 june",
+  "todayLabel": "23 june",
+  "tomorrowLabel": "24 june",
   "today": [
-    {
-      "uid": "6lmr086v71jeul3c4jsoqp7bfv@google.com",
-      "summary": "Update marketing strategy PC",
-      "location": "",
-      "start": "2026-06-22T10:30:00",
-      "end": "2026-06-22T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-06-22T16:45:00",
-      "end": "2026-06-22T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "1844ce23d4b84849b28d621451a65114@google.com",
       "summary": "Thesisverdediging",
       "location": "",
       "start": "2026-06-23T10:30:00",
       "end": "2026-06-23T11:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "7DC4ECD9-095A-45C1-9A1B-324616C8AF43",
+      "summary": "posten event partners",
+      "location": "",
+      "start": "2026-06-23T12:15:00",
+      "end": "2026-06-23T13:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "040000008200E00074C5B7101A82E00800000000289CF7C326FBDC010000000000000000100000009731EE119B502D4BAF69F5D0D8BEC4D1",
+      "summary": "Confirmed: Thomas x Rick",
+      "location": "Microsoft Teams-vergadering",
+      "start": "2026-06-23T15:00:00",
+      "end": "2026-06-23T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "c8d36f9e03c74fb49899a49f5e472c99@google.com",
+      "summary": "Fintech Brussel",
+      "location": "",
+      "start": "2026-06-23T16:30:00",
+      "end": "2026-06-23T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1e5194fe072b46298adef24826528d4b@google.com",
+      "summary": "Tuin",
+      "location": "",
+      "start": "2026-06-24T07:30:00",
+      "end": "2026-06-24T12:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
