@@ -1,35 +1,45 @@
 {
-  "updated": "23/06 22:35",
+  "updated": "24/06 00:02",
   "timezone": "Europe/Brussels",
-  "todayLabel": "23 june",
-  "tomorrowLabel": "24 june",
+  "todayLabel": "24 june",
+  "tomorrowLabel": "25 june",
   "today": [
     {
-      "uid": "1844ce23d4b84849b28d621451a65114@google.com",
-      "summary": "Thesisverdediging",
+      "uid": "1e5194fe072b46298adef24826528d4b@google.com",
+      "summary": "Tuin",
       "location": "",
-      "start": "2026-06-23T10:30:00",
-      "end": "2026-06-23T11:45:00",
+      "start": "2026-06-24T07:30:00",
+      "end": "2026-06-24T12:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "7DC4ECD9-095A-45C1-9A1B-324616C8AF43",
-      "summary": "posten event partners",
+      "uid": "7kuh370vqrapaqp9stkfqts4q8@google.com",
+      "summary": "MM",
       "location": "",
-      "start": "2026-06-23T13:15:00",
-      "end": "2026-06-23T14:15:00",
+      "start": "2026-06-24T12:30:00",
+      "end": "2026-06-24T13:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "a99fbda3cc7e4cceb1952ee7cbd298bf@google.com",
+      "summary": "Ophalen Montblanc €245",
+      "location": "",
+      "start": "2026-06-24T16:50:00",
+      "end": "2026-06-24T17:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "040000008200E00074C5B7101A82E00800000000289CF7C326FBDC010000000000000000100000009731EE119B502D4BAF69F5D0D8BEC4D1",
-      "summary": "Confirmed: Thomas x Rick",
-      "location": "Microsoft Teams-vergadering",
-      "start": "2026-06-23T15:00:00",
-      "end": "2026-06-23T16:00:00",
+      "uid": "f026028d1340491183d18630e747bf58@google.com",
+      "summary": "Anton",
+      "location": "",
+      "start": "2026-06-24T19:00:00",
+      "end": "2026-06-24T22:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -37,11 +47,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "1e5194fe072b46298adef24826528d4b@google.com",
-      "summary": "Tuin",
+      "uid": "5C56ACE9-3293-4858-994F-016844993E81",
+      "summary": "Citytrip Gent 🥰",
       "location": "",
-      "start": "2026-06-24T07:30:00",
-      "end": "2026-06-24T12:30:00",
+      "start": "2026-06-25T09:00:00",
+      "end": "2026-06-25T22:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
