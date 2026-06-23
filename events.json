@@ -1,5 +1,5 @@
 {
-  "updated": "23/06 16:02",
+  "updated": "23/06 18:35",
   "timezone": "Europe/Brussels",
   "todayLabel": "23 june",
   "tomorrowLabel": "24 june",
@@ -30,16 +30,6 @@
       "location": "Microsoft Teams-vergadering",
       "start": "2026-06-23T15:00:00",
       "end": "2026-06-23T16:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "c8d36f9e03c74fb49899a49f5e472c99@google.com",
-      "summary": "Fintech Brussel",
-      "location": "",
-      "start": "2026-06-23T16:00:00",
-      "end": "2026-06-23T21:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
