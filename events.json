@@ -1,5 +1,5 @@
 {
-  "updated": "26/06 10:06",
+  "updated": "26/06 13:13",
   "timezone": "Europe/Brussels",
   "todayLabel": "26 june",
   "tomorrowLabel": "27 june",
@@ -13,6 +13,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "b9d0d25257d84ebd9291f4fac8dfc666@google.com",
+      "summary": "Aanpassen press release",
+      "location": "",
+      "start": "2026-06-26T12:30:00",
+      "end": "2026-06-26T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     },
     {
       "uid": "ad62287a3d334b75b5f1b4885714b233",
