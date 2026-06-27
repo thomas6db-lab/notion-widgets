@@ -1,5 +1,5 @@
 {
-  "updated": "28/06 00:31",
+  "updated": "28/06 01:37",
   "timezone": "Europe/Brussels",
   "todayLabel": "28 june",
   "tomorrowLabel": "29 june",
@@ -15,21 +15,21 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "9c052d51c59a458aae7b34ec208aee50@google.com",
-      "summary": "Tectonic",
-      "location": "",
-      "start": "2026-06-28T13:00:00",
-      "end": "2026-06-28T15:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
       "uid": "cb1f58aa8bf54adf99a14d4906cff55d@google.com",
       "summary": "Foto OD sturen",
       "location": "",
       "start": "2026-06-28T13:00:00",
       "end": "2026-06-28T13:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "9c052d51c59a458aae7b34ec208aee50@google.com",
+      "summary": "Tectonic",
+      "location": "",
+      "start": "2026-06-28T13:00:00",
+      "end": "2026-06-28T15:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
