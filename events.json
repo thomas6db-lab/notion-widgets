@@ -1,5 +1,5 @@
 {
-  "updated": "27/06 01:38",
+  "updated": "27/06 03:33",
   "timezone": "Europe/Brussels",
   "todayLabel": "27 june",
   "tomorrowLabel": "28 june",
@@ -41,7 +41,7 @@
       "summary": "Trouw",
       "location": "",
       "start": "2026-06-28T08:00:00",
-      "end": "2026-06-28T14:15:00",
+      "end": "2026-06-28T12:15:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
