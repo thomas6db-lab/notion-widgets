@@ -1,41 +1,9 @@
 {
-  "updated": "27/06 23:15",
+  "updated": "28/06 00:31",
   "timezone": "Europe/Brussels",
-  "todayLabel": "27 june",
-  "tomorrowLabel": "28 june",
+  "todayLabel": "28 june",
+  "tomorrowLabel": "29 june",
   "today": [
-    {
-      "uid": "18cbc1f128ef4b879bd79a9a0c2e3ac0@google.com",
-      "summary": "Trouwfeest",
-      "location": "",
-      "start": "2026-06-27T08:00:00",
-      "end": "2026-06-27T23:55:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "3rfkj12k70tp7fgvd7uvgf3v57@google.com",
-      "summary": "Stadhuis Brugge",
-      "location": "",
-      "start": "2026-06-27T12:00:00",
-      "end": "2026-06-27T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1c46bverg99p3496nshuau0t8u@google.com",
-      "summary": "Huwelijksfeest",
-      "location": "De Grote Wateringe | ODAS, Waterhoek 2, 8340 Damme, België",
-      "start": "2026-06-27T16:30:00",
-      "end": "2026-06-27T22:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "aea0e559533349e6be0db366d68fd5e2@google.com",
       "summary": "Trouw",
@@ -43,8 +11,80 @@
       "start": "2026-06-28T08:00:00",
       "end": "2026-06-28T12:15:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "9c052d51c59a458aae7b34ec208aee50@google.com",
+      "summary": "Tectonic",
+      "location": "",
+      "start": "2026-06-28T13:00:00",
+      "end": "2026-06-28T15:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "cb1f58aa8bf54adf99a14d4906cff55d@google.com",
+      "summary": "Foto OD sturen",
+      "location": "",
+      "start": "2026-06-28T13:00:00",
+      "end": "2026-06-28T13:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "b5ed4deb8abf4389b35afcea9e2809be@google.com",
+      "summary": "Meeting Marketing leiden",
+      "location": "",
+      "start": "2026-06-28T15:30:00",
+      "end": "2026-06-28T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "location": "",
+      "start": "2026-06-28T17:00:00",
+      "end": "2026-06-28T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "e0e8bf008ff14be692ec9fc4e89e7064@google.com",
+      "summary": "Tectonic marketing",
+      "location": "",
+      "start": "2026-06-28T18:30:00",
+      "end": "2026-06-28T22:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "cbd651e1a3334a38b576b889db56f563@google.com",
+      "summary": "Tectonic publishen posts voor maandag + publishen press release",
+      "location": "",
+      "start": "2026-06-28T21:00:00",
+      "end": "2026-06-28T21:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-06-29T14:00:00",
+      "end": "2026-06-29T15:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
