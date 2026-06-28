@@ -1,61 +1,9 @@
 {
-  "updated": "28/06 23:12",
+  "updated": "29/06 00:16",
   "timezone": "Europe/Brussels",
-  "todayLabel": "28 june",
-  "tomorrowLabel": "29 june",
+  "todayLabel": "29 june",
+  "tomorrowLabel": "30 june",
   "today": [
-    {
-      "uid": "aea0e559533349e6be0db366d68fd5e2@google.com",
-      "summary": "Trouw",
-      "location": "",
-      "start": "2026-06-28T08:00:00",
-      "end": "2026-06-28T12:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "b5ed4deb8abf4389b35afcea9e2809be@google.com",
-      "summary": "Meeting Marketing leiden",
-      "location": "",
-      "start": "2026-06-28T15:30:00",
-      "end": "2026-06-28T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
-      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
-      "location": "",
-      "start": "2026-06-28T17:00:00",
-      "end": "2026-06-28T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "e0e8bf008ff14be692ec9fc4e89e7064@google.com",
-      "summary": "Tectonic marketing",
-      "location": "",
-      "start": "2026-06-28T18:30:00",
-      "end": "2026-06-28T22:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "cbd651e1a3334a38b576b889db56f563@google.com",
-      "summary": "Tectonic publishen posts voor maandag + publishen press release",
-      "location": "",
-      "start": "2026-06-28T21:00:00",
-      "end": "2026-06-28T21:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "eb4gn1rdcietktnsobuufp6hk8@google.com",
       "summary": "Marketing Sync",
@@ -63,8 +11,9 @@
       "start": "2026-06-29T16:00:00",
       "end": "2026-06-29T16:45:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
     }
-  ]
+  ],
+  "firstTomorrow": []
 }
