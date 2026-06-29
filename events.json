@@ -1,5 +1,5 @@
 {
-  "updated": "29/06 13:34",
+  "updated": "29/06 17:02",
   "timezone": "Europe/Brussels",
   "todayLabel": "29 june",
   "tomorrowLabel": "30 june",
@@ -10,6 +10,16 @@
       "location": "",
       "start": "2026-06-29T16:00:00",
       "end": "2026-06-29T16:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "6grpcqa46mnupuqa0f9r3bdkal@google.com",
+      "summary": "branding sync",
+      "location": "",
+      "start": "2026-06-29T17:30:00",
+      "end": "2026-06-29T18:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
