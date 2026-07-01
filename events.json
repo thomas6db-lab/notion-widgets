@@ -1,31 +1,9 @@
 {
-  "updated": "01/07 22:51",
+  "updated": "02/07 00:12",
   "timezone": "Europe/Brussels",
-  "todayLabel": "1 july",
-  "tomorrowLabel": "2 july",
+  "todayLabel": "2 july",
+  "tomorrowLabel": "3 july",
   "today": [
-    {
-      "uid": "0d5ffc82a00a47e0a6e547ea482e81ba@google.com",
-      "summary": "Thesis",
-      "location": "",
-      "start": "2026-07-01T13:30:00",
-      "end": "2026-07-01T14:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "600en2rc92q03fj2nrslkh8vnn@google.com",
-      "summary": "MM",
-      "location": "",
-      "start": "2026-07-01T19:00:00",
-      "end": "2026-07-01T20:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "evt-RIohV5W9adyj6AV@events.lu.ma",
       "summary": "Newschool Live · AI Ops 101",
@@ -33,8 +11,30 @@
       "start": "2026-07-02T18:00:00",
       "end": "2026-07-02T19:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "6ss3id3561i30b9mchh66b9k64p66b9p6gpm6bb5clj6acj570q34dhlck@google.com",
+      "summary": "Datenight",
+      "location": "",
+      "start": "2026-07-02T19:00:00",
+      "end": "2026-07-02T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "54ebtd92c2l9mg8a0b6l6j6hso@google.com",
+      "summary": "Branding sync",
+      "location": "",
+      "start": "2026-07-03T15:30:00",
+      "end": "2026-07-03T16:15:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
