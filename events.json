@@ -1,5 +1,5 @@
 {
-  "updated": "03/07 10:25",
+  "updated": "03/07 13:10",
   "timezone": "Europe/Brussels",
   "todayLabel": "3 july",
   "tomorrowLabel": "4 july",
@@ -13,12 +13,22 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "0fe031a0b24b4d0091c737fd9d12788a@google.com",
+      "summary": "Snoei af + gras?",
+      "location": "",
+      "start": "2026-07-03T17:00:00",
+      "end": "2026-07-03T21:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     }
   ],
   "firstTomorrow": [
     {
       "uid": "3cb32ec7d2434ce681a610759be520c7@google.com",
-      "summary": "Tuin",
+      "summary": "Emma",
       "location": "",
       "start": "2026-07-04T08:00:00",
       "end": "2026-07-04T13:00:00",
