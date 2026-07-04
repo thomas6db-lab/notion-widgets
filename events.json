@@ -1,61 +1,9 @@
 {
-  "updated": "04/07 23:43",
+  "updated": "05/07 00:41",
   "timezone": "Europe/Brussels",
-  "todayLabel": "4 july",
-  "tomorrowLabel": "5 july",
+  "todayLabel": "5 july",
+  "tomorrowLabel": "6 july",
   "today": [
-    {
-      "uid": "3cb32ec7d2434ce681a610759be520c7@google.com",
-      "summary": "Emma",
-      "location": "",
-      "start": "2026-07-04T08:00:00",
-      "end": "2026-07-04T13:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1590c31741514f55a1aab934ea20c821@google.com",
-      "summary": "Snoei",
-      "location": "",
-      "start": "2026-07-04T14:45:00",
-      "end": "2026-07-04T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "0F00BFEE-1F9C-4DF3-8088-0BC4B26D1153",
-      "summary": "Examens plannen",
-      "location": "",
-      "start": "2026-07-04T17:00:00",
-      "end": "2026-07-04T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "a65ac2fc79e44f75b9fe74c28b71da41@google.com",
-      "summary": "Tectonic",
-      "location": "",
-      "start": "2026-07-04T18:00:00",
-      "end": "2026-07-04T20:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1afefdfb50e64bb680ce97882c3dd898@google.com",
-      "summary": "Emma",
-      "location": "",
-      "start": "2026-07-04T20:15:00",
-      "end": "2026-07-04T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "3ijkm1c73t4pvb09o3u2h45nku@google.com",
       "summary": "Video's sync",
@@ -63,8 +11,39 @@
       "start": "2026-07-05T09:30:00",
       "end": "2026-07-05T10:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "b14b67b89b7e4096897ed145dc3bca6a@google.com",
+      "summary": "BBQ Arthur",
+      "location": "",
+      "start": "2026-07-05T13:00:00",
+      "end": "2026-07-05T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "h5p7i2gjt8pcj1616k7p3f4kgh@google.com",
+      "summary": "Weekly Team Meeting [In-person] - Tectonic",
+      "location": "To Be Announced",
+      "start": "2026-07-05T17:00:00",
+      "end": "2026-07-05T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
+      "summary": "Team Dinner + Drinks",
+      "location": "TBA",
+      "start": "2026-07-05T18:00:00",
+      "end": "2026-07-05T20:00:00",
+      "allDay": false,
+      "day": "today",
       "calendar": "tectonic"
     }
-  ]
+  ],
+  "firstTomorrow": []
 }
