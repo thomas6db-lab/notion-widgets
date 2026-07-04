@@ -1,5 +1,5 @@
 {
-  "updated": "04/07 13:07",
+  "updated": "04/07 14:16",
   "timezone": "Europe/Brussels",
   "todayLabel": "4 july",
   "tomorrowLabel": "5 july",
@@ -18,18 +18,38 @@
       "uid": "1590c31741514f55a1aab934ea20c821@google.com",
       "summary": "Snoei",
       "location": "",
-      "start": "2026-07-04T11:00:00",
-      "end": "2026-07-04T13:15:00",
+      "start": "2026-07-04T14:45:00",
+      "end": "2026-07-04T17:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
       "uid": "0F00BFEE-1F9C-4DF3-8088-0BC4B26D1153",
-      "summary": "Tectonic/Examens plannen",
+      "summary": "Examens plannen",
       "location": "",
-      "start": "2026-07-04T14:00:00",
-      "end": "2026-07-04T21:00:00",
+      "start": "2026-07-04T17:00:00",
+      "end": "2026-07-04T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "a65ac2fc79e44f75b9fe74c28b71da41@google.com",
+      "summary": "Tectonic",
+      "location": "",
+      "start": "2026-07-04T18:00:00",
+      "end": "2026-07-04T20:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1afefdfb50e64bb680ce97882c3dd898@google.com",
+      "summary": "Emma",
+      "location": "",
+      "start": "2026-07-04T20:15:00",
+      "end": "2026-07-04T23:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
