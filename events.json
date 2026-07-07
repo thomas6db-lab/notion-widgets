@@ -1,5 +1,5 @@
 {
-  "updated": "07/07 18:11",
+  "updated": "07/07 20:20",
   "timezone": "Europe/Brussels",
   "todayLabel": "7 july",
   "tomorrowLabel": "8 july",
@@ -13,6 +13,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "5d42cbbbbb2f42f3a0e59897432becf5@google.com",
+      "summary": "Claude Fable mama",
+      "location": "",
+      "start": "2026-07-07T22:30:00",
+      "end": "2026-07-07T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     }
   ],
   "firstTomorrow": []
