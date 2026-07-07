@@ -1,29 +1,19 @@
 {
-  "updated": "07/07 23:48",
+  "updated": "08/07 00:46",
   "timezone": "Europe/Brussels",
-  "todayLabel": "7 july",
-  "tomorrowLabel": "8 july",
-  "today": [
+  "todayLabel": "8 july",
+  "tomorrowLabel": "9 july",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "4hltr7b2a65r21s221uodobhrb@google.com",
-      "summary": "MM",
+      "uid": "0b1c083e5eea42518d0ec288d8b6b59f@google.com",
+      "summary": "Beacon",
       "location": "",
-      "start": "2026-07-07T19:00:00",
-      "end": "2026-07-07T20:00:00",
+      "start": "2026-07-09T06:00:00",
+      "end": "2026-07-09T21:45:00",
       "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "5d42cbbbbb2f42f3a0e59897432becf5@google.com",
-      "summary": "Claude Fable mama",
-      "location": "",
-      "start": "2026-07-07T22:30:00",
-      "end": "2026-07-07T23:00:00",
-      "allDay": false,
-      "day": "today",
+      "day": "tomorrow",
       "calendar": "thomas6db"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
