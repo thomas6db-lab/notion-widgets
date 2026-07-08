@@ -1,15 +1,15 @@
 {
-  "updated": "08/07 23:30",
+  "updated": "09/07 00:36",
   "timezone": "Europe/Brussels",
-  "todayLabel": "8 july",
-  "tomorrowLabel": "9 july",
+  "todayLabel": "9 july",
+  "tomorrowLabel": "10 july",
   "today": [
     {
-      "uid": "BBB2B04A-B5F8-4B8F-83A0-C30AE4250367",
-      "summary": "Too Good To Go - Bavet - Gent Hooiaard",
-      "location": "Hooiaard 7, 9000 Gent, België",
-      "start": "2026-07-08T16:00:00",
-      "end": "2026-07-08T18:30:00",
+      "uid": "0b1c083e5eea42518d0ec288d8b6b59f@google.com",
+      "summary": "Beacon",
+      "location": "",
+      "start": "2026-07-09T06:00:00",
+      "end": "2026-07-09T21:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -17,11 +17,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "0b1c083e5eea42518d0ec288d8b6b59f@google.com",
-      "summary": "Beacon",
+      "uid": "4b2bda5b57204d728130a7c367a0036f@google.com",
+      "summary": "Bar Bassie Gauthier",
       "location": "",
-      "start": "2026-07-09T06:00:00",
-      "end": "2026-07-09T21:45:00",
+      "start": "2026-07-10T17:00:00",
+      "end": "2026-07-10T19:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
