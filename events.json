@@ -1,20 +1,9 @@
 {
-  "updated": "09/07 07:14",
+  "updated": "09/07 10:57",
   "timezone": "Europe/Brussels",
   "todayLabel": "9 july",
   "tomorrowLabel": "10 july",
-  "today": [
-    {
-      "uid": "0b1c083e5eea42518d0ec288d8b6b59f@google.com",
-      "summary": "Beacon",
-      "location": "",
-      "start": "2026-07-09T06:00:00",
-      "end": "2026-07-09T21:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
+  "today": [],
   "firstTomorrow": [
     {
       "uid": "4b2bda5b57204d728130a7c367a0036f@google.com",
