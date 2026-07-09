@@ -1,16 +1,37 @@
 {
-  "updated": "09/07 23:57",
+  "updated": "10/07 01:19",
   "timezone": "Europe/Brussels",
-  "todayLabel": "9 july",
-  "tomorrowLabel": "10 july",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "10 july",
+  "tomorrowLabel": "11 july",
+  "today": [
     {
       "uid": "4b2bda5b57204d728130a7c367a0036f@google.com",
       "summary": "Bar Bassie Gauthier",
       "location": "",
       "start": "2026-07-10T17:00:00",
       "end": "2026-07-10T19:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "454a3bd6a51847f39865492fb2c693a8@google.com",
+      "summary": "Agape",
+      "location": "",
+      "start": "2026-07-10T19:30:00",
+      "end": "2026-07-10T23:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "6cr30p1k6kpj8b9kccpjcb9kc8r68bb268o64bb4c8omae1icoq3iob66o@google.com",
+      "summary": "DATE NIGHT ❤️",
+      "location": "",
+      "start": "2026-07-11T19:00:00",
+      "end": "2026-07-11T23:50:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
