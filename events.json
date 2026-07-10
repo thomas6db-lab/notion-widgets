@@ -1,41 +1,9 @@
 {
-  "updated": "10/07 23:45",
+  "updated": "11/07 00:43",
   "timezone": "Europe/Brussels",
-  "todayLabel": "10 july",
-  "tomorrowLabel": "11 july",
+  "todayLabel": "11 july",
+  "tomorrowLabel": "12 july",
   "today": [
-    {
-      "uid": "9486373E-F321-4EE8-ADBA-2E43B9956F58",
-      "summary": "Too Good To Go - AKUMA",
-      "location": "Kon. Astridlaan 207, 9000 Gent, België",
-      "start": "2026-07-10T11:00:00",
-      "end": "2026-07-10T12:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "4b2bda5b57204d728130a7c367a0036f@google.com",
-      "summary": "Bar Bassie Gauthier",
-      "location": "",
-      "start": "2026-07-10T17:00:00",
-      "end": "2026-07-10T19:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "454a3bd6a51847f39865492fb2c693a8@google.com",
-      "summary": "Agape",
-      "location": "",
-      "start": "2026-07-10T19:30:00",
-      "end": "2026-07-10T23:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "fad94adab65148f5ab4d5244f2a1f468@google.com",
       "summary": "Lize",
@@ -43,8 +11,30 @@
       "start": "2026-07-11T15:00:00",
       "end": "2026-07-11T19:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "6cr30p1k6kpj8b9kccpjcb9kc8r68bb268o64bb4c8omae1icoq3iob66o@google.com",
+      "summary": "DATE NIGHT ❤️",
+      "location": "",
+      "start": "2026-07-11T19:00:00",
+      "end": "2026-07-11T23:50:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
+      "summary": "Weekly Heads of Teams Meeting [In-person] - Tectonic",
+      "location": "",
+      "start": "2026-07-12T17:00:00",
+      "end": "2026-07-12T18:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
