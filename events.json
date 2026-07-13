@@ -1,5 +1,5 @@
 {
-  "updated": "13/07 18:05",
+  "updated": "13/07 20:04",
   "timezone": "Europe/Brussels",
   "todayLabel": "13 july",
   "tomorrowLabel": "14 july",
@@ -17,14 +17,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "2unf255tlpi6av09icqaa2cgeo@google.com",
-      "summary": "MM",
+      "uid": "29c94de3772c48afba63e1386fdf2280@google.com",
+      "summary": "Eten Armin",
       "location": "",
-      "start": "2026-07-14T18:00:00",
-      "end": "2026-07-14T19:00:00",
+      "start": "2026-07-14T12:00:00",
+      "end": "2026-07-14T13:15:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     }
   ]
 }
