@@ -1,5 +1,5 @@
 {
-  "updated": "14/07 18:23",
+  "updated": "14/07 19:39",
   "timezone": "Europe/Brussels",
   "todayLabel": "14 july",
   "tomorrowLabel": "15 july",
@@ -20,26 +20,6 @@
       "location": "",
       "start": "2026-07-14T18:00:00",
       "end": "2026-07-14T19:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "elemiq6ejta26t0gat65fmfgas@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-07-14T19:00:00",
-      "end": "2026-07-14T19:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "0m3okribe9e53qogkcqaqdtbi2@google.com",
-      "summary": "MM",
-      "location": "",
-      "start": "2026-07-14T19:45:00",
-      "end": "2026-07-14T20:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
