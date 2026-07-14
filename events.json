@@ -1,41 +1,9 @@
 {
-  "updated": "14/07 23:09",
+  "updated": "15/07 00:12",
   "timezone": "Europe/Brussels",
-  "todayLabel": "14 july",
-  "tomorrowLabel": "15 july",
+  "todayLabel": "15 july",
+  "tomorrowLabel": "16 july",
   "today": [
-    {
-      "uid": "29c94de3772c48afba63e1386fdf2280@google.com",
-      "summary": "Eten Armin",
-      "location": "",
-      "start": "2026-07-14T12:00:00",
-      "end": "2026-07-14T13:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "2unf255tlpi6av09icqaa2cgeo@google.com",
-      "summary": "MM",
-      "location": "",
-      "start": "2026-07-14T18:00:00",
-      "end": "2026-07-14T19:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "elemiq6ejta26t0gat65fmfgas@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-07-14T19:00:00",
-      "end": "2026-07-14T19:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "5127ea5902384e6b85b7aa3647f12cdd@google.com",
       "summary": "Eten Stan",
@@ -43,6 +11,28 @@
       "start": "2026-07-15T12:00:00",
       "end": "2026-07-15T13:15:00",
       "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "elemiq6ejta26t0gat65fmfgas@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-07-15T19:00:00",
+      "end": "2026-07-15T19:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
+      "summary": "Anniv 6m",
+      "location": "",
+      "start": "2026-07-16",
+      "end": "2026-07-17",
+      "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
     }
