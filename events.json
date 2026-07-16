@@ -1,5 +1,5 @@
 {
-  "updated": "16/07 18:06",
+  "updated": "16/07 19:38",
   "timezone": "Europe/Brussels",
   "todayLabel": "16 july",
   "tomorrowLabel": "17 july",
@@ -25,6 +25,16 @@
       "calendar": "tectonic"
     },
     {
+      "uid": "3a0642ae98134810bd7fb67ec8c78bf2@google.com",
+      "summary": "Gianni meet",
+      "location": "",
+      "start": "2026-07-16T20:30:00",
+      "end": "2026-07-16T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "2cea58327a634e1187ff503f8a7ecd0d@google.com",
       "summary": "Call LE AI",
       "location": "",
@@ -37,11 +47,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "457ca286c60e40eca9277bfea301b217@google.com",
-      "summary": "Armin, Leo, PJ GF",
+      "uid": "9234cc3a50424ebcb432474b451e6b92@google.com",
+      "summary": "Renan horlogefoto’s",
       "location": "",
-      "start": "2026-07-17T19:00:00",
-      "end": "2026-07-18T03:00:00",
+      "start": "2026-07-17T07:30:00",
+      "end": "2026-07-17T08:45:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
