@@ -1,5 +1,5 @@
 {
-  "updated": "16/07 14:48",
+  "updated": "16/07 16:49",
   "timezone": "Europe/Brussels",
   "todayLabel": "16 july",
   "tomorrowLabel": "17 july",
@@ -23,6 +23,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "2cea58327a634e1187ff503f8a7ecd0d@google.com",
+      "summary": "Call LE AI",
+      "location": "",
+      "start": "2026-07-16T22:30:00",
+      "end": "2026-07-16T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     }
   ],
   "firstTomorrow": [
