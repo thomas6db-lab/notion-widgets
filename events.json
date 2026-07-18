@@ -1,16 +1,77 @@
 {
-  "updated": "18/07 23:21",
+  "updated": "19/07 00:11",
   "timezone": "Europe/Brussels",
-  "todayLabel": "18 july",
-  "tomorrowLabel": "19 july",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "19 july",
+  "tomorrowLabel": "20 july",
+  "today": [
     {
       "uid": "18298fa7a43e4f589ee36febf7a257ff@google.com",
       "summary": "Drone, gimball, statief, micros",
       "location": "",
       "start": "2026-07-19T08:00:00",
       "end": "2026-07-19T09:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260524T070000@google.com",
+      "summary": "Getting Sh*t Done day [in-person]",
+      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
+      "start": "2026-07-19T09:00:00",
+      "end": "2026-07-19T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "4fi1sd6hkv7md8hv1igup4gc26@google.com",
+      "summary": "Short MM sync (shooting day)",
+      "location": "",
+      "start": "2026-07-19T10:00:00",
+      "end": "2026-07-19T10:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "hv9osd5ra424pqbbv5330fflbc@google.com",
+      "summary": "Hackathon z marketing",
+      "location": "",
+      "start": "2026-07-19T13:00:00",
+      "end": "2026-07-19T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "h5p7i2gjt8pcj1616k7p3f4kgh@google.com",
+      "summary": "Weekly Team Meeting [In-person] - Tectonic",
+      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
+      "start": "2026-07-19T17:00:00",
+      "end": "2026-07-19T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
+      "summary": "Team Dinner + Drinks",
+      "location": "TBA",
+      "start": "2026-07-19T18:00:00",
+      "end": "2026-07-19T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "ddde5208540b420c82fa33703ae63d7b@google.com",
+      "summary": "Zomerbar Lize",
+      "location": "",
+      "start": "2026-07-20T19:00:00",
+      "end": "2026-07-20T23:15:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
