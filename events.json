@@ -1,5 +1,5 @@
 {
-  "updated": "21/07 09:11",
+  "updated": "21/07 11:40",
   "timezone": "Europe/Brussels",
   "todayLabel": "21 july",
   "tomorrowLabel": "22 july",
@@ -15,5 +15,16 @@
       "calendar": "feestdagen"
     }
   ],
-  "firstTomorrow": []
+  "firstTomorrow": [
+    {
+      "uid": "2nmt7on0vsdp39vkpal7plp60n@google.com",
+      "summary": "Marketing sync",
+      "location": "",
+      "start": "2026-07-22T18:00:00",
+      "end": "2026-07-22T19:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
+    }
+  ]
 }
