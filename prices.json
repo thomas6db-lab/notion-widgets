@@ -1,16 +1,16 @@
 {
-  "updated": "21/07 13:55 UTC",
-  "eurRate": 0.8752,
+  "updated": "21/07 15:45 UTC",
+  "eurRate": 0.87581,
   "assets": {
     "btc": {
-      "priceEur": 58412,
-      "changeEur": 2153.44,
-      "changePct": 3.83
+      "priceEur": 58389,
+      "changeEur": 1314.31,
+      "changePct": 2.3
     },
     "ada": {
-      "priceEur": 0.1538,
-      "changeEur": 0.0107,
-      "changePct": 7.46
+      "priceEur": 0.1534,
+      "changeEur": 0.0094,
+      "changePct": 6.53
     },
     "googl": null,
     "eunl": null,
