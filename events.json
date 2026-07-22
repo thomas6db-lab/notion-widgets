@@ -1,25 +1,15 @@
 {
-  "updated": "22/07 23:10",
+  "updated": "23/07 00:15",
   "timezone": "Europe/Brussels",
-  "todayLabel": "22 july",
-  "tomorrowLabel": "23 july",
+  "todayLabel": "23 july",
+  "tomorrowLabel": "24 july",
   "today": [
     {
-      "uid": "2nmt7on0vsdp39vkpal7plp60n@google.com",
-      "summary": "Marketing sync",
-      "location": "",
-      "start": "2026-07-22T18:00:00",
-      "end": "2026-07-22T19:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "3BC0EC5D-B669-462B-875F-B9BBEDC99AF9",
-      "summary": "Tectonic data",
-      "location": "",
-      "start": "2026-07-22T19:00:00",
-      "end": "2026-07-22T22:00:00",
+      "uid": "61498F26-F36B-4D37-8531-AF6F4A3863CA",
+      "summary": "BEAM Love Tomorrow",
+      "location": "Boom\nBelgië",
+      "start": "2026-07-23T13:00:00",
+      "end": "2026-07-23T18:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -27,11 +17,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "61498F26-F36B-4D37-8531-AF6F4A3863CA",
-      "summary": "BEAM Love Tomorrow",
-      "location": "Boom\nBelgië",
-      "start": "2026-07-23T13:00:00",
-      "end": "2026-07-23T18:00:00",
+      "uid": "154908AF-BECF-4C5F-93B1-430B02B8961D",
+      "summary": "Afspraak stomatologie",
+      "location": "",
+      "start": "2026-07-24T09:45:00",
+      "end": "2026-07-24T10:45:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
