@@ -1,5 +1,5 @@
 {
-  "updated": "23/07 11:33",
+  "updated": "23/07 13:28",
   "timezone": "Europe/Brussels",
   "todayLabel": "23 july",
   "tomorrowLabel": "24 july",
@@ -10,6 +10,26 @@
       "location": "Boom\nBelgië",
       "start": "2026-07-23T13:00:00",
       "end": "2026-07-23T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "80a18b370bc84934a70ce668a14add9d@google.com",
+      "summary": "Boom -> GSP",
+      "location": "",
+      "start": "2026-07-23T21:00:00",
+      "end": "2026-07-23T22:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "cba9387cb16149e38ad74e85879e8f36@google.com",
+      "summary": "GSP -> thuis",
+      "location": "",
+      "start": "2026-07-23T22:30:00",
+      "end": "2026-07-23T23:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
