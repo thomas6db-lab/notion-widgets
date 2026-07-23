@@ -1,35 +1,25 @@
 {
-  "updated": "23/07 23:46",
+  "updated": "24/07 00:41",
   "timezone": "Europe/Brussels",
-  "todayLabel": "23 july",
-  "tomorrowLabel": "24 july",
+  "todayLabel": "24 july",
+  "tomorrowLabel": "25 july",
   "today": [
     {
-      "uid": "61498F26-F36B-4D37-8531-AF6F4A3863CA",
-      "summary": "BEAM Love Tomorrow",
-      "location": "Boom\nBelgië",
-      "start": "2026-07-23T13:00:00",
-      "end": "2026-07-23T18:00:00",
+      "uid": "154908AF-BECF-4C5F-93B1-430B02B8961D",
+      "summary": "Afspraak stomatologie",
+      "location": "",
+      "start": "2026-07-24T09:45:00",
+      "end": "2026-07-24T10:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "80a18b370bc84934a70ce668a14add9d@google.com",
-      "summary": "Boom -> GSP",
+      "uid": "47a4fe9ef5724fc4bad689214eeda443@google.com",
+      "summary": "Data Tectonic",
       "location": "",
-      "start": "2026-07-23T21:00:00",
-      "end": "2026-07-23T22:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "cba9387cb16149e38ad74e85879e8f36@google.com",
-      "summary": "GSP -> thuis",
-      "location": "",
-      "start": "2026-07-23T22:30:00",
-      "end": "2026-07-23T23:00:00",
+      "start": "2026-07-24T19:00:00",
+      "end": "2026-07-24T22:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -37,11 +27,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "154908AF-BECF-4C5F-93B1-430B02B8961D",
-      "summary": "Afspraak stomatologie",
+      "uid": "6dbf29e98b5e402799bf3c6d44fd0e92@google.com",
+      "summary": "Boetje x Tootje @ Brussel",
       "location": "",
-      "start": "2026-07-24T09:45:00",
-      "end": "2026-07-24T10:45:00",
+      "start": "2026-07-25T12:00:00",
+      "end": "2026-07-25T19:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
