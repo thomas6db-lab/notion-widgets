@@ -1,9 +1,19 @@
 {
-  "updated": "24/07 06:32",
+  "updated": "24/07 09:13",
   "timezone": "Europe/Brussels",
   "todayLabel": "24 july",
   "tomorrowLabel": "25 july",
   "today": [
+    {
+      "uid": "37od0p8r4h7tj6lk33gn9cskd5@google.com",
+      "summary": "Branding sync",
+      "location": "",
+      "start": "2026-07-24T09:00:00",
+      "end": "2026-07-24T09:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
     {
       "uid": "154908AF-BECF-4C5F-93B1-430B02B8961D",
       "summary": "Afspraak stomatologie",
