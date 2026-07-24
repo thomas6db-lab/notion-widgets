@@ -1,41 +1,9 @@
 {
-  "updated": "24/07 23:50",
+  "updated": "25/07 00:49",
   "timezone": "Europe/Brussels",
-  "todayLabel": "24 july",
-  "tomorrowLabel": "25 july",
+  "todayLabel": "25 july",
+  "tomorrowLabel": "26 july",
   "today": [
-    {
-      "uid": "37od0p8r4h7tj6lk33gn9cskd5@google.com",
-      "summary": "Branding sync",
-      "location": "",
-      "start": "2026-07-24T09:00:00",
-      "end": "2026-07-24T09:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "154908AF-BECF-4C5F-93B1-430B02B8961D",
-      "summary": "Afspraak stomatologie",
-      "location": "",
-      "start": "2026-07-24T09:45:00",
-      "end": "2026-07-24T10:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "47a4fe9ef5724fc4bad689214eeda443@google.com",
-      "summary": "Data Tectonic",
-      "location": "",
-      "start": "2026-07-24T19:00:00",
-      "end": "2026-07-24T22:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "02b86b4b050a485ebf58e614a886a158@google.com",
       "summary": "Renan",
@@ -43,8 +11,30 @@
       "start": "2026-07-25T11:00:00",
       "end": "2026-07-25T11:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "6dbf29e98b5e402799bf3c6d44fd0e92@google.com",
+      "summary": "Boetje x Tootje @ Brussel",
+      "location": "",
+      "start": "2026-07-25T12:00:00",
+      "end": "2026-07-25T19:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "7i136hmmqjvj2rde4hjkdm6it2@google.com",
+      "summary": "MM sync summer",
+      "location": "",
+      "start": "2026-07-26T16:00:00",
+      "end": "2026-07-26T17:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
