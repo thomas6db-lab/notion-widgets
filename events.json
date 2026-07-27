@@ -1,31 +1,9 @@
 {
-  "updated": "27/07 23:51",
+  "updated": "28/07 00:52",
   "timezone": "Europe/Brussels",
-  "todayLabel": "27 july",
-  "tomorrowLabel": "28 july",
+  "todayLabel": "28 july",
+  "tomorrowLabel": "29 july",
   "today": [
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-07-27T14:00:00",
-      "end": "2026-07-27T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "81836a39f256486888ec97d5acfc0ff5@google.com",
-      "summary": "Komen checken Breitling",
-      "location": "",
-      "start": "2026-07-27T20:00:00",
-      "end": "2026-07-27T20:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "7bpsgdtn6ljtm9i7aao38fvptb@google.com",
       "summary": "MM",
@@ -33,8 +11,29 @@
       "start": "2026-07-28T19:00:00",
       "end": "2026-07-28T20:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "01focqh6mrjk4jhinok4srgjtd@google.com",
+      "summary": "Hackaton sync",
+      "location": "",
+      "start": "2026-07-28T20:00:00",
+      "end": "2026-07-28T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "elemiq6ejta26t0gat65fmfgas@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-07-28T21:00:00",
+      "end": "2026-07-28T21:45:00",
+      "allDay": false,
+      "day": "today",
       "calendar": "tectonic"
     }
-  ]
+  ],
+  "firstTomorrow": []
 }
