@@ -1,39 +1,8 @@
 {
-  "updated": "28/07 23:16",
+  "updated": "29/07 00:27",
   "timezone": "Europe/Brussels",
-  "todayLabel": "28 july",
-  "tomorrowLabel": "29 july",
-  "today": [
-    {
-      "uid": "7bpsgdtn6ljtm9i7aao38fvptb@google.com",
-      "summary": "MM",
-      "location": "",
-      "start": "2026-07-28T19:00:00",
-      "end": "2026-07-28T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "01focqh6mrjk4jhinok4srgjtd@google.com",
-      "summary": "Hackaton sync",
-      "location": "",
-      "start": "2026-07-28T20:00:00",
-      "end": "2026-07-28T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "elemiq6ejta26t0gat65fmfgas@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-07-28T21:00:00",
-      "end": "2026-07-28T21:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
+  "todayLabel": "29 july",
+  "tomorrowLabel": "30 july",
+  "today": [],
   "firstTomorrow": []
 }
