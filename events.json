@@ -1,19 +1,19 @@
 {
-  "updated": "30/07 14:27",
+  "updated": "30/07 16:50",
   "timezone": "Europe/Brussels",
   "todayLabel": "30 july",
   "tomorrowLabel": "31 july",
-  "today": [],
-  "firstTomorrow": [
+  "today": [
     {
       "uid": "e4d0e36856d1464a8b4b748dcc09252d@google.com",
       "summary": "Renan - Tag Heuer",
       "location": "",
-      "start": "2026-07-31T18:00:00",
-      "end": "2026-07-31T18:30:00",
+      "start": "2026-07-30T18:00:00",
+      "end": "2026-07-30T18:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
     }
-  ]
+  ],
+  "firstTomorrow": []
 }
