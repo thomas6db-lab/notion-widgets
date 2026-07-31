@@ -1,25 +1,15 @@
 {
-  "updated": "31/07 23:29",
+  "updated": "01/08 00:34",
   "timezone": "Europe/Brussels",
-  "todayLabel": "31 july",
-  "tomorrowLabel": "1 august",
+  "todayLabel": "1 august",
+  "tomorrowLabel": "2 august",
   "today": [
     {
-      "uid": "26797c0c72824c4dbbd6de8ea9cf9dd0@google.com",
-      "summary": "Pakje",
+      "uid": "4BD02369-CC6B-4195-B7EC-6C097030F98C",
+      "summary": "Studeren",
       "location": "",
-      "start": "2026-07-31T17:00:00",
-      "end": "2026-07-31T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "201a75d86ef8427ba369ca376ea70184@google.com",
-      "summary": "Watering can reel",
-      "location": "",
-      "start": "2026-07-31T18:00:00",
-      "end": "2026-07-31T20:00:00",
+      "start": "2026-08-01T08:00:00",
+      "end": "2026-08-01T20:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -27,11 +17,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "4BD02369-CC6B-4195-B7EC-6C097030F98C",
-      "summary": "Studeren",
+      "uid": "f1ef6eac6f4b468f83e3f26bde42765e@google.com",
+      "summary": "Spenden €50 cashback (Chatgpt, 2%)",
       "location": "",
-      "start": "2026-08-01T08:00:00",
-      "end": "2026-08-01T20:30:00",
+      "start": "2026-08-02T07:30:00",
+      "end": "2026-08-02T10:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
