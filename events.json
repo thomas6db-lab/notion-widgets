@@ -1,5 +1,5 @@
 {
-  "updated": "02/08 22:50",
+  "updated": "02/08 23:42",
   "timezone": "Europe/Brussels",
   "todayLabel": "2 august",
   "tomorrowLabel": "3 august",
@@ -45,16 +45,5 @@
       "calendar": "tectonic"
     }
   ],
-  "firstTomorrow": [
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-08-03T14:00:00",
-      "end": "2026-08-03T15:00:00",
-      "allDay": false,
-      "day": "tomorrow",
-      "calendar": "tectonic"
-    }
-  ]
+  "firstTomorrow": []
 }
