@@ -1,49 +1,19 @@
 {
-  "updated": "02/08 23:42",
+  "updated": "03/08 00:39",
   "timezone": "Europe/Brussels",
-  "todayLabel": "2 august",
-  "tomorrowLabel": "3 august",
-  "today": [
+  "todayLabel": "3 august",
+  "tomorrowLabel": "4 august",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "f1ef6eac6f4b468f83e3f26bde42765e@google.com",
-      "summary": "Spenden €50 cashback (Chatgpt, 2%)",
+      "uid": "369ujvcv1abj64am3bltpsu2ju@google.com",
+      "summary": "Marketing budget",
       "location": "",
-      "start": "2026-08-02T07:30:00",
-      "end": "2026-08-02T10:30:00",
+      "start": "2026-08-04T20:00:00",
+      "end": "2026-08-04T20:45:00",
       "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "4E249F5B-0F68-4600-BC2B-323D23ADFD5D",
-      "summary": "Feest Tante Lieve & nonkel Gerd",
-      "location": "",
-      "start": "2026-08-02T12:00:00",
-      "end": "2026-08-02T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "h5p7i2gjt8pcj1616k7p3f4kgh@google.com",
-      "summary": "Weekly Team Meeting [In-person] - Tectonic",
-      "location": "Leuven, Belgium",
-      "start": "2026-08-02T17:00:00",
-      "end": "2026-08-02T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
-      "summary": "Team Dinner + Drinks",
-      "location": "TBA",
-      "start": "2026-08-02T18:00:00",
-      "end": "2026-08-02T20:00:00",
-      "allDay": false,
-      "day": "today",
+      "day": "tomorrow",
       "calendar": "tectonic"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
