@@ -1,16 +1,16 @@
 {
-  "updated": "03/08 06:51",
+  "updated": "03/08 10:20",
   "timezone": "Europe/Brussels",
   "todayLabel": "3 august",
   "tomorrowLabel": "4 august",
   "today": [],
   "firstTomorrow": [
     {
-      "uid": "369ujvcv1abj64am3bltpsu2ju@google.com",
-      "summary": "Marketing budget",
+      "uid": "elemiq6ejta26t0gat65fmfgas@google.com",
+      "summary": "Marketing Sync",
       "location": "",
-      "start": "2026-08-04T20:00:00",
-      "end": "2026-08-04T20:45:00",
+      "start": "2026-08-04T19:00:00",
+      "end": "2026-08-04T19:45:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "tectonic"
