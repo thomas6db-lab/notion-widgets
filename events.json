@@ -1,47 +1,27 @@
 {
-  "updated": "04/08 23:21",
+  "updated": "05/08 00:33",
   "timezone": "Europe/Brussels",
-  "todayLabel": "4 august",
-  "tomorrowLabel": "5 august",
+  "todayLabel": "5 august",
+  "tomorrowLabel": "6 august",
   "today": [
-    {
-      "uid": "0tumafs2kbaqjq2sdjuh01fcvk@google.com",
-      "summary": "Marketing sync",
-      "location": "",
-      "start": "2026-08-04T18:00:00",
-      "end": "2026-08-04T19:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "369ujvcv1abj64am3bltpsu2ju@google.com",
-      "summary": "Marketing budget",
-      "location": "",
-      "start": "2026-08-04T20:00:00",
-      "end": "2026-08-04T20:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "elemiq6ejta26t0gat65fmfgas@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-08-04T21:00:00",
-      "end": "2026-08-04T21:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "60fb5ba5ffbb4a1d81ff0d1c7b66a6d7@google.com",
       "summary": "Lunchen Jens",
       "location": "",
       "start": "2026-08-05T12:00:00",
       "end": "2026-08-05T13:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "a8cbd69c3549444abb4d83f9bb9d6848@google.com",
+      "summary": "Meet Gianni",
+      "location": "",
+      "start": "2026-08-06T17:00:00",
+      "end": "2026-08-06T23:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
