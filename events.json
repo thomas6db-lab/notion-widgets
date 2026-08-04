@@ -1,9 +1,19 @@
 {
-  "updated": "04/08 14:13",
+  "updated": "04/08 16:41",
   "timezone": "Europe/Brussels",
   "todayLabel": "4 august",
   "tomorrowLabel": "5 august",
   "today": [
+    {
+      "uid": "0tumafs2kbaqjq2sdjuh01fcvk@google.com",
+      "summary": "Marketing sync",
+      "location": "",
+      "start": "2026-08-04T18:00:00",
+      "end": "2026-08-04T19:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
     {
       "uid": "elemiq6ejta26t0gat65fmfgas@google.com",
       "summary": "Marketing Sync",
