@@ -1,5 +1,5 @@
 {
-  "updated": "06/08 09:17",
+  "updated": "06/08 12:02",
   "timezone": "Europe/Brussels",
   "todayLabel": "6 august",
   "tomorrowLabel": "7 august",
@@ -13,7 +13,28 @@
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "cc2tjbmhi5baon2cf1ol8hlpls@google.com",
+      "summary": "Sync - startups x marketing",
+      "location": "",
+      "start": "2026-08-06T18:00:00",
+      "end": "2026-08-06T18:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
     }
   ],
-  "firstTomorrow": []
+  "firstTomorrow": [
+    {
+      "uid": "7cif8nu79un2a5juue54qpeg7q@google.com",
+      "summary": "Partnerships x marketing",
+      "location": "",
+      "start": "2026-08-07T19:00:00",
+      "end": "2026-08-07T19:45:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
+    }
+  ]
 }
