@@ -1,21 +1,9 @@
 {
-  "updated": "07/08 23:46",
+  "updated": "08/08 00:20",
   "timezone": "Europe/Brussels",
-  "todayLabel": "7 august",
-  "tomorrowLabel": "8 august",
+  "todayLabel": "8 august",
+  "tomorrowLabel": "9 august",
   "today": [
-    {
-      "uid": "7cif8nu79un2a5juue54qpeg7q@google.com",
-      "summary": "Partnerships x marketing",
-      "location": "",
-      "start": "2026-08-07T19:00:00",
-      "end": "2026-08-07T19:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "1452936b373d487fba1a8a167578249c@google.com",
       "summary": "Start execution code Selly (prompts)",
@@ -23,8 +11,30 @@
       "start": "2026-08-08T08:00:00",
       "end": "2026-08-08T08:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "BA63B1C4-D402-4594-BEC1-C44D4A3C3F1B",
+      "summary": "Start BLOK",
+      "location": "",
+      "start": "2026-08-08T09:00:00",
+      "end": "2026-08-08T10:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "location": "",
+      "start": "2026-08-09T17:00:00",
+      "end": "2026-08-09T18:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
