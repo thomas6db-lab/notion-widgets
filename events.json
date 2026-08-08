@@ -1,31 +1,9 @@
 {
-  "updated": "08/08 23:47",
+  "updated": "09/08 00:12",
   "timezone": "Europe/Brussels",
-  "todayLabel": "8 august",
-  "tomorrowLabel": "9 august",
+  "todayLabel": "9 august",
+  "tomorrowLabel": "10 august",
   "today": [
-    {
-      "uid": "1452936b373d487fba1a8a167578249c@google.com",
-      "summary": "Start execution code Selly (prompts)",
-      "location": "",
-      "start": "2026-08-08T08:00:00",
-      "end": "2026-08-08T08:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "BA63B1C4-D402-4594-BEC1-C44D4A3C3F1B",
-      "summary": "Start BLOK",
-      "location": "",
-      "start": "2026-08-08T09:00:00",
-      "end": "2026-08-08T10:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
       "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
@@ -33,8 +11,9 @@
       "start": "2026-08-09T17:00:00",
       "end": "2026-08-09T18:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
     }
-  ]
+  ],
+  "firstTomorrow": []
 }
