@@ -1,19 +1,19 @@
 {
-  "updated": "09/08 23:52",
+  "updated": "10/08 00:23",
   "timezone": "Europe/Brussels",
-  "todayLabel": "9 august",
-  "tomorrowLabel": "10 august",
-  "today": [
+  "todayLabel": "10 august",
+  "tomorrowLabel": "11 august",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
-      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "uid": "1c0e8c960f1c43d2b6bc8534cd7f1d7d@google.com",
+      "summary": "Fiets -> azmm",
       "location": "",
-      "start": "2026-08-09T17:00:00",
-      "end": "2026-08-09T18:00:00",
+      "start": "2026-08-11T08:45:00",
+      "end": "2026-08-11T09:30:00",
       "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
