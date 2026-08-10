@@ -1,9 +1,20 @@
 {
-  "updated": "10/08 15:37",
+  "updated": "10/08 16:41",
   "timezone": "Europe/Brussels",
   "todayLabel": "10 august",
   "tomorrowLabel": "11 august",
-  "today": [],
+  "today": [
+    {
+      "uid": "5cgfodogq4tgjsb8genrr5dvu3@google.com",
+      "summary": "Sync",
+      "location": "",
+      "start": "2026-08-10T18:30:00",
+      "end": "2026-08-10T19:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
   "firstTomorrow": [
     {
       "uid": "1c0e8c960f1c43d2b6bc8534cd7f1d7d@google.com",
