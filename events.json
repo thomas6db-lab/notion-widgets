@@ -1,69 +1,19 @@
 {
-  "updated": "11/08 23:57",
+  "updated": "12/08 00:52",
   "timezone": "Europe/Brussels",
-  "todayLabel": "11 august",
-  "tomorrowLabel": "12 august",
-  "today": [
+  "todayLabel": "12 august",
+  "tomorrowLabel": "13 august",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "1c0e8c960f1c43d2b6bc8534cd7f1d7d@google.com",
-      "summary": "Fiets -> azmm",
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260420T120000@google.com",
+      "summary": "Tectonic x marketing",
       "location": "",
-      "start": "2026-08-11T08:45:00",
-      "end": "2026-08-11T09:30:00",
+      "start": "2026-08-13T13:00:00",
+      "end": "2026-08-13T14:00:00",
       "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "6d8f798c20e14db4a8c42683ed1b3f2a@google.com",
-      "summary": "Christophe VS",
-      "location": "",
-      "start": "2026-08-11T09:30:00",
-      "end": "2026-08-11T10:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "60873f7b748a422cab103335c17cf6f3@google.com",
-      "summary": "Azmm -> Renan",
-      "location": "",
-      "start": "2026-08-11T10:45:00",
-      "end": "2026-08-11T11:10:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "2a1aacb35629428eadba11ad2c494f1a@google.com",
-      "summary": "Renan ophalen Bulgari",
-      "location": "",
-      "start": "2026-08-11T11:15:00",
-      "end": "2026-08-11T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "9e36c707dc114961925f59ff2955ba8b@google.com",
-      "summary": "Bulgari -> Jossip Le Petit Suisse",
-      "location": "",
-      "start": "2026-08-11T11:30:00",
-      "end": "2026-08-11T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "elemiq6ejta26t0gat65fmfgas_R20260811T170000@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-08-11T19:00:00",
-      "end": "2026-08-11T19:45:00",
-      "allDay": false,
-      "day": "today",
+      "day": "tomorrow",
       "calendar": "tectonic"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
