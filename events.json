@@ -1,29 +1,19 @@
 {
-  "updated": "13/08 23:48",
+  "updated": "14/08 00:26",
   "timezone": "Europe/Brussels",
-  "todayLabel": "13 august",
-  "tomorrowLabel": "14 august",
-  "today": [
+  "todayLabel": "14 august",
+  "tomorrowLabel": "15 august",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260810T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "ITP Ghent-4-FRONT-Opportunity (10) [Zoom Room]",
-      "start": "2026-08-13T13:00:00",
-      "end": "2026-08-13T14:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "03c125a476c04c30bd8b3943dc4d5efc@google.com",
-      "summary": "Bestellen petten!!!",
+      "uid": "20260815_bfn94vk31gijkst54g28kn5dsg@google.com",
+      "summary": "O.L.V. Hemelvaart",
       "location": "",
-      "start": "2026-08-13T18:00:00",
-      "end": "2026-08-13T18:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
+      "start": "2026-08-15",
+      "end": "2026-08-16",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "feestdagen"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
