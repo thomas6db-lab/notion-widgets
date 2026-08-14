@@ -1,10 +1,9 @@
 {
-  "updated": "14/08 23:56",
+  "updated": "15/08 00:26",
   "timezone": "Europe/Brussels",
-  "todayLabel": "14 august",
-  "tomorrowLabel": "15 august",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "15 august",
+  "tomorrowLabel": "16 august",
+  "today": [
     {
       "uid": "20260815_bfn94vk31gijkst54g28kn5dsg@google.com",
       "summary": "O.L.V. Hemelvaart",
@@ -12,8 +11,20 @@
       "start": "2026-08-15",
       "end": "2026-08-16",
       "allDay": true,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "feestdagen"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
+      "summary": "Anniv 7m",
+      "location": "",
+      "start": "2026-08-16",
+      "end": "2026-08-17",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
