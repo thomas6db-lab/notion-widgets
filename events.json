@@ -1,21 +1,9 @@
 {
-  "updated": "15/08 23:56",
+  "updated": "16/08 00:27",
   "timezone": "Europe/Brussels",
-  "todayLabel": "15 august",
-  "tomorrowLabel": "16 august",
+  "todayLabel": "16 august",
+  "tomorrowLabel": "17 august",
   "today": [
-    {
-      "uid": "20260815_bfn94vk31gijkst54g28kn5dsg@google.com",
-      "summary": "O.L.V. Hemelvaart",
-      "location": "",
-      "start": "2026-08-15",
-      "end": "2026-08-16",
-      "allDay": true,
-      "day": "today",
-      "calendar": "feestdagen"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
       "summary": "Anniv 7m",
@@ -23,6 +11,48 @@
       "start": "2026-08-16",
       "end": "2026-08-17",
       "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260524T070000@google.com",
+      "summary": "Getting Sh*t Done day [in-person]",
+      "location": "To Be Announced",
+      "start": "2026-08-16T09:00:00",
+      "end": "2026-08-16T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "h5p7i2gjt8pcj1616k7p3f4kgh@google.com",
+      "summary": "Weekly Team Meeting [In-person] - Tectonic",
+      "location": "To Be Announced",
+      "start": "2026-08-16T17:00:00",
+      "end": "2026-08-16T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
+      "summary": "Team Dinner + Drinks",
+      "location": "TBA",
+      "start": "2026-08-16T18:00:00",
+      "end": "2026-08-16T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "9f9abf6fe77e4e96b26b8321387bf8f8@google.com",
+      "summary": "EA exam",
+      "location": "Auditorium A, Sint-Pietersplein",
+      "start": "2026-08-17T08:30:00",
+      "end": "2026-08-17T11:30:00",
+      "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
     }
