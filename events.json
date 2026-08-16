@@ -1,51 +1,9 @@
 {
-  "updated": "16/08 23:54",
+  "updated": "17/08 00:18",
   "timezone": "Europe/Brussels",
-  "todayLabel": "16 august",
-  "tomorrowLabel": "17 august",
+  "todayLabel": "17 august",
+  "tomorrowLabel": "18 august",
   "today": [
-    {
-      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
-      "summary": "Anniv 7m",
-      "location": "",
-      "start": "2026-08-16",
-      "end": "2026-08-17",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260524T070000@google.com",
-      "summary": "Getting Sh*t Done day [in-person]",
-      "location": "To Be Announced",
-      "start": "2026-08-16T09:00:00",
-      "end": "2026-08-16T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "h5p7i2gjt8pcj1616k7p3f4kgh@google.com",
-      "summary": "Weekly Team Meeting [In-person] - Tectonic",
-      "location": "To Be Announced",
-      "start": "2026-08-16T17:00:00",
-      "end": "2026-08-16T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
-      "summary": "Team Dinner + Drinks",
-      "location": "TBA",
-      "start": "2026-08-16T18:00:00",
-      "end": "2026-08-16T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "9f9abf6fe77e4e96b26b8321387bf8f8@google.com",
       "summary": "EA exam",
@@ -53,8 +11,50 @@
       "start": "2026-08-17T08:30:00",
       "end": "2026-08-17T11:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "1782320--1179705713-0@timeedit.com",
+      "summary": "F000897A. Enterprise Architecture GR01, schriftelijke evaluatie",
+      "location": "Auditorium A. Sint-Pietersplein 7. Campus Tweekerken. Sint-Pietersplein 7",
+      "start": "2026-08-17T08:30:00",
+      "end": "2026-08-17T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "09DA44BE-ADE6-4D33-BAA8-996221DF0358",
+      "summary": "ADB AP - G",
+      "location": "",
+      "start": "2026-08-17T10:00:00",
+      "end": "2026-08-17T11:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260810T120000@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-08-17T14:00:00",
+      "end": "2026-08-17T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "29p8paonbfnt2gt55blm2vpouj@google.com",
+      "summary": "Sync ITP",
+      "location": "",
+      "start": "2026-08-18T13:00:00",
+      "end": "2026-08-18T14:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
