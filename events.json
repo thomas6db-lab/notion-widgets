@@ -1,41 +1,9 @@
 {
-  "updated": "17/08 23:57",
+  "updated": "18/08 00:30",
   "timezone": "Europe/Brussels",
-  "todayLabel": "17 august",
-  "tomorrowLabel": "18 august",
+  "todayLabel": "18 august",
+  "tomorrowLabel": "19 august",
   "today": [
-    {
-      "uid": "9f9abf6fe77e4e96b26b8321387bf8f8@google.com",
-      "summary": "EA exam",
-      "location": "Auditorium A, Sint-Pietersplein",
-      "start": "2026-08-17T08:30:00",
-      "end": "2026-08-17T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1782320--1179705713-0@timeedit.com",
-      "summary": "F000897A. Enterprise Architecture GR01, schriftelijke evaluatie",
-      "location": "Auditorium A. Sint-Pietersplein 7. Campus Tweekerken. Sint-Pietersplein 7",
-      "start": "2026-08-17T08:30:00",
-      "end": "2026-08-17T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "09DA44BE-ADE6-4D33-BAA8-996221DF0358",
-      "summary": "ADB AP - G",
-      "location": "",
-      "start": "2026-08-17T10:00:00",
-      "end": "2026-08-17T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "29p8paonbfnt2gt55blm2vpouj@google.com",
       "summary": "Sync ITP",
@@ -43,8 +11,19 @@
       "start": "2026-08-18T13:00:00",
       "end": "2026-08-18T14:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "elemiq6ejta26t0gat65fmfgas_R20260811T170000@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-08-18T16:00:00",
+      "end": "2026-08-18T16:45:00",
+      "allDay": false,
+      "day": "today",
       "calendar": "tectonic"
     }
-  ]
+  ],
+  "firstTomorrow": []
 }
