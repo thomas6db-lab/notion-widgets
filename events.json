@@ -1,5 +1,5 @@
 {
-  "updated": "17/08 12:23",
+  "updated": "17/08 12:56",
   "timezone": "Europe/Brussels",
   "todayLabel": "17 august",
   "tomorrowLabel": "18 august",
@@ -30,16 +30,6 @@
       "location": "",
       "start": "2026-08-17T10:00:00",
       "end": "2026-08-17T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260810T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-08-17T14:00:00",
-      "end": "2026-08-17T15:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
