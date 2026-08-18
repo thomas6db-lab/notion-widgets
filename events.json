@@ -1,5 +1,5 @@
 {
-  "updated": "18/08 12:21",
+  "updated": "18/08 12:52",
   "timezone": "Europe/Brussels",
   "todayLabel": "18 august",
   "tomorrowLabel": "19 august",
@@ -7,7 +7,7 @@
     {
       "uid": "29p8paonbfnt2gt55blm2vpouj@google.com",
       "summary": "Sync ITP",
-      "location": "",
+      "location": "ITP Ghent-4-SIDE-Phone Booth 1 (1)",
       "start": "2026-08-18T13:00:00",
       "end": "2026-08-18T14:00:00",
       "allDay": false,
