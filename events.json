@@ -1,29 +1,8 @@
 {
-  "updated": "18/08 23:53",
+  "updated": "19/08 00:20",
   "timezone": "Europe/Brussels",
-  "todayLabel": "18 august",
-  "tomorrowLabel": "19 august",
-  "today": [
-    {
-      "uid": "29p8paonbfnt2gt55blm2vpouj@google.com",
-      "summary": "Sync ITP",
-      "location": "ITP Ghent-4-SIDE-Phone Booth 1 (1)",
-      "start": "2026-08-18T13:00:00",
-      "end": "2026-08-18T14:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "elemiq6ejta26t0gat65fmfgas_R20260811T170000@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-08-18T16:00:00",
-      "end": "2026-08-18T16:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
+  "todayLabel": "19 august",
+  "tomorrowLabel": "20 august",
+  "today": [],
   "firstTomorrow": []
 }
