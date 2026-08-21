@@ -1,8 +1,19 @@
 {
-  "updated": "21/08 23:50",
+  "updated": "22/08 00:10",
   "timezone": "Europe/Brussels",
-  "todayLabel": "21 august",
-  "tomorrowLabel": "22 august",
+  "todayLabel": "22 august",
+  "tomorrowLabel": "23 august",
   "today": [],
-  "firstTomorrow": []
+  "firstTomorrow": [
+    {
+      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "location": "",
+      "start": "2026-08-23T17:00:00",
+      "end": "2026-08-23T18:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
+    }
+  ]
 }
