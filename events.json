@@ -1,10 +1,9 @@
 {
-  "updated": "22/08 23:50",
+  "updated": "23/08 00:08",
   "timezone": "Europe/Brussels",
-  "todayLabel": "22 august",
-  "tomorrowLabel": "23 august",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "23 august",
+  "tomorrowLabel": "24 august",
+  "today": [
     {
       "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
       "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
@@ -12,8 +11,20 @@
       "start": "2026-08-23T17:00:00",
       "end": "2026-08-23T18:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "b856b9c636c5484b96d265cca16c5a3e@google.com",
+      "summary": "FRM exam",
+      "location": "Auditorium E, Hoveniersberg",
+      "start": "2026-08-24T08:30:00",
+      "end": "2026-08-24T11:30:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
