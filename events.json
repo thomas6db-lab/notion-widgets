@@ -1,27 +1,57 @@
 {
-  "updated": "23/08 23:49",
+  "updated": "24/08 00:06",
   "timezone": "Europe/Brussels",
-  "todayLabel": "23 august",
-  "tomorrowLabel": "24 august",
+  "todayLabel": "24 august",
+  "tomorrowLabel": "25 august",
   "today": [
-    {
-      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
-      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
-      "location": "",
-      "start": "2026-08-23T17:00:00",
-      "end": "2026-08-23T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "b856b9c636c5484b96d265cca16c5a3e@google.com",
       "summary": "FRM exam",
       "location": "Auditorium E, Hoveniersberg",
       "start": "2026-08-24T08:30:00",
       "end": "2026-08-24T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1782347--1179705713-0@timeedit.com",
+      "summary": "F000717A. Financial Risk Management GR01, F000735A. Financial Risk Management GR01, schriftelijke evaluatie",
+      "location": "Auditorium E - Maurice Van Vaerenbergh. Hoveniersberg. Campus Tweekerken. Hoveniersberg 24",
+      "start": "2026-08-24T08:30:00",
+      "end": "2026-08-24T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260810T120000@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-08-24T16:00:00",
+      "end": "2026-08-24T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "c62b19239f3e45f59e219235d48783e4@google.com",
+      "summary": "Lize",
+      "location": "",
+      "start": "2026-08-24T19:00:00",
+      "end": "2026-08-24T22:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "af6f5dbb58394da3ac9c70bfdde6a9a7@google.com",
+      "summary": "Reno ophalen Zenith",
+      "location": "",
+      "start": "2026-08-25T12:00:00",
+      "end": "2026-08-25T14:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
