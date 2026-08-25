@@ -1,41 +1,9 @@
 {
-  "updated": "25/08 23:44",
+  "updated": "26/08 00:02",
   "timezone": "Europe/Brussels",
-  "todayLabel": "25 august",
-  "tomorrowLabel": "26 august",
+  "todayLabel": "26 august",
+  "tomorrowLabel": "27 august",
   "today": [
-    {
-      "uid": "af6f5dbb58394da3ac9c70bfdde6a9a7@google.com",
-      "summary": "Reno ophalen Zenith",
-      "location": "",
-      "start": "2026-08-25T12:00:00",
-      "end": "2026-08-25T14:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "elemiq6ejta26t0gat65fmfgas_R20260811T170000@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-08-25T18:00:00",
-      "end": "2026-08-25T18:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "ecc943d5aace4054b02a5e49f5c2550a@google.com",
-      "summary": "Gianni",
-      "location": "",
-      "start": "2026-08-25T20:00:00",
-      "end": "2026-08-25T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "51d72f8575b340fb8a4a5979eadbf3cd@google.com",
       "summary": "3D scan tanden",
@@ -43,8 +11,39 @@
       "start": "2026-08-26T14:00:00",
       "end": "2026-08-26T15:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "f46717a3d58642f1b1784c40fa0a67cd@google.com",
+      "summary": "Call Rox",
+      "location": "",
+      "start": "2026-08-26T16:00:00",
+      "end": "2026-08-26T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "086n45frs573p3h71k9r3rm94n@google.com",
+      "summary": "Overdracht",
+      "location": "",
+      "start": "2026-08-26T16:00:00",
+      "end": "2026-08-26T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "3de4704add634731ad69d53fa1b18a25@google.com",
+      "summary": "Guillaume",
+      "location": "",
+      "start": "2026-08-26T19:00:00",
+      "end": "2026-08-26T23:00:00",
+      "allDay": false,
+      "day": "today",
       "calendar": "thomas6db"
     }
-  ]
+  ],
+  "firstTomorrow": []
 }
