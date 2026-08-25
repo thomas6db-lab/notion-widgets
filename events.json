@@ -1,5 +1,5 @@
 {
-  "updated": "25/08 16:23",
+  "updated": "25/08 17:13",
   "timezone": "Europe/Brussels",
   "todayLabel": "25 august",
   "tomorrowLabel": "26 august",
@@ -13,6 +13,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "elemiq6ejta26t0gat65fmfgas_R20260811T170000@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-08-25T18:00:00",
+      "end": "2026-08-25T18:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
     },
     {
       "uid": "ecc943d5aace4054b02a5e49f5c2550a@google.com",
