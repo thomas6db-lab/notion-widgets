@@ -1,65 +1,15 @@
 {
-  "updated": "26/08 22:04",
+  "updated": "27/08 01:26",
   "timezone": "Europe/Brussels",
-  "todayLabel": "26 august",
-  "tomorrowLabel": "27 august",
+  "todayLabel": "27 august",
+  "tomorrowLabel": "28 august",
   "today": [
     {
-      "uid": "0e1d15ce44f1450eb9c0f8d71d520964@google.com",
-      "summary": "Jens & Stan eten",
+      "uid": "109e806db21040579ff6ac63d583c154@google.com",
+      "summary": "Gianni",
       "location": "",
-      "start": "2026-08-26T12:30:00",
-      "end": "2026-08-26T14:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "51d72f8575b340fb8a4a5979eadbf3cd@google.com",
-      "summary": "3D scan tanden",
-      "location": "",
-      "start": "2026-08-26T14:00:00",
-      "end": "2026-08-26T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "cb425f0461f346aa980ff33487ac4d22@google.com",
-      "summary": "Renan",
-      "location": "",
-      "start": "2026-08-26T15:00:00",
-      "end": "2026-08-26T15:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "f46717a3d58642f1b1784c40fa0a67cd@google.com",
-      "summary": "Call Rox",
-      "location": "",
-      "start": "2026-08-26T16:00:00",
-      "end": "2026-08-26T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "086n45frs573p3h71k9r3rm94n@google.com",
-      "summary": "Overdracht",
-      "location": "",
-      "start": "2026-08-26T16:00:00",
-      "end": "2026-08-26T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "3de4704add634731ad69d53fa1b18a25@google.com",
-      "summary": "Guillaume",
-      "location": "",
-      "start": "2026-08-26T20:00:00",
-      "end": "2026-08-27T00:00:00",
+      "start": "2026-08-27T19:00:00",
+      "end": "2026-08-27T22:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -67,11 +17,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "109e806db21040579ff6ac63d583c154@google.com",
-      "summary": "Gianni",
+      "uid": "f398890f476a47539e92efac21e24ddc@google.com",
+      "summary": "Bonen kuisen",
       "location": "",
-      "start": "2026-08-27T19:00:00",
-      "end": "2026-08-27T22:00:00",
+      "start": "2026-08-28T07:00:00",
+      "end": "2026-08-28T09:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
