@@ -1,5 +1,5 @@
 {
-  "updated": "26/08 16:57",
+  "updated": "26/08 18:23",
   "timezone": "Europe/Brussels",
   "todayLabel": "26 august",
   "tomorrowLabel": "27 august",
@@ -53,16 +53,6 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
-    },
-    {
-      "uid": "3327c80c0c1047ccb5f40e8259ed4a67@google.com",
-      "summary": "Collective",
-      "location": "",
-      "start": "2026-08-26T17:00:00",
-      "end": "2026-08-26T19:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
     },
     {
       "uid": "3de4704add634731ad69d53fa1b18a25@google.com",
