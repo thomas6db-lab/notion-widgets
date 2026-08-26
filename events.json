@@ -1,15 +1,35 @@
 {
-  "updated": "26/08 11:51",
+  "updated": "26/08 12:24",
   "timezone": "Europe/Brussels",
   "todayLabel": "26 august",
   "tomorrowLabel": "27 august",
   "today": [
+    {
+      "uid": "0e1d15ce44f1450eb9c0f8d71d520964@google.com",
+      "summary": "Jens & Stan eten",
+      "location": "",
+      "start": "2026-08-26T12:30:00",
+      "end": "2026-08-26T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
     {
       "uid": "51d72f8575b340fb8a4a5979eadbf3cd@google.com",
       "summary": "3D scan tanden",
       "location": "",
       "start": "2026-08-26T14:00:00",
       "end": "2026-08-26T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "cb425f0461f346aa980ff33487ac4d22@google.com",
+      "summary": "Renan",
+      "location": "",
+      "start": "2026-08-26T15:00:00",
+      "end": "2026-08-26T15:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -35,15 +55,36 @@
       "calendar": "tectonic"
     },
     {
+      "uid": "3327c80c0c1047ccb5f40e8259ed4a67@google.com",
+      "summary": "Collective",
+      "location": "",
+      "start": "2026-08-26T17:00:00",
+      "end": "2026-08-26T19:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "3de4704add634731ad69d53fa1b18a25@google.com",
       "summary": "Guillaume",
       "location": "",
-      "start": "2026-08-26T19:00:00",
-      "end": "2026-08-26T23:00:00",
+      "start": "2026-08-26T20:00:00",
+      "end": "2026-08-27T00:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     }
   ],
-  "firstTomorrow": []
+  "firstTomorrow": [
+    {
+      "uid": "109e806db21040579ff6ac63d583c154@google.com",
+      "summary": "Gianni",
+      "location": "",
+      "start": "2026-08-27T19:00:00",
+      "end": "2026-08-27T22:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
+    }
+  ]
 }
