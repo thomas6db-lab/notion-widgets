@@ -1,39 +1,19 @@
 {
-  "updated": "28/08 14:11",
+  "updated": "29/08 00:22",
   "timezone": "Europe/Brussels",
-  "todayLabel": "28 august",
-  "tomorrowLabel": "29 august",
-  "today": [
+  "todayLabel": "29 august",
+  "tomorrowLabel": "30 august",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "f398890f476a47539e92efac21e24ddc@google.com",
-      "summary": "Bonen kuisen",
-      "location": "",
-      "start": "2026-08-28T07:00:00",
-      "end": "2026-08-28T09:00:00",
+      "uid": "h5p7i2gjt8pcj1616k7p3f4kgh@google.com",
+      "summary": "Weekly Team Meeting [In-person] - Tectonic",
+      "location": "To Be Announced",
+      "start": "2026-08-30T17:00:00",
+      "end": "2026-08-30T18:00:00",
       "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "478598b479bb43c7a35b0aea2ea86b0e@google.com",
-      "summary": "Feest Rox",
-      "location": "",
-      "start": "2026-08-28T14:00:00",
-      "end": "2026-08-28T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5rkvdln9gpqpf07bchm38vvfg2@google.com",
-      "summary": "Team Weekend",
-      "location": "Chau. de Dinant 1455, 5100 Namur, Belgium",
-      "start": "2026-08-28T17:00:00",
-      "end": "2026-08-30T16:00:00",
-      "allDay": false,
-      "day": "today",
+      "day": "tomorrow",
       "calendar": "tectonic"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
