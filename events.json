@@ -1,10 +1,9 @@
 {
-  "updated": "29/08 23:13",
+  "updated": "30/08 01:22",
   "timezone": "Europe/Brussels",
-  "todayLabel": "29 august",
-  "tomorrowLabel": "30 august",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "30 august",
+  "tomorrowLabel": "31 august",
+  "today": [
     {
       "uid": "h5p7i2gjt8pcj1616k7p3f4kgh@google.com",
       "summary": "Weekly Team Meeting [In-person] - Tectonic",
@@ -12,8 +11,30 @@
       "start": "2026-08-30T17:00:00",
       "end": "2026-08-30T18:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
+      "summary": "Team Dinner + Drinks",
+      "location": "TBA",
+      "start": "2026-08-30T18:00:00",
+      "end": "2026-08-30T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "skm91kvjt15ni6novb7rrudeq4@google.com",
+      "summary": "Flight to Tallinn (BT 852)",
+      "location": "Brussels BRU",
+      "start": "2026-08-31T09:40:00",
+      "end": "2026-08-31T12:05:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
