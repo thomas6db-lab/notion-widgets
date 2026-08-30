@@ -1,51 +1,9 @@
 {
-  "updated": "30/08 21:48",
+  "updated": "31/08 00:08",
   "timezone": "Europe/Brussels",
-  "todayLabel": "30 august",
-  "tomorrowLabel": "31 august",
+  "todayLabel": "31 august",
+  "tomorrowLabel": "1 september",
   "today": [
-    {
-      "uid": "ad27cbd58e06459fb36d08d9010644fe@google.com",
-      "summary": "Update Rox",
-      "location": "",
-      "start": "2026-08-30T12:00:00",
-      "end": "2026-08-30T13:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "0dc0ce52fb8249b2819b341e4aa1d849@google.com",
-      "summary": "Posts",
-      "location": "",
-      "start": "2026-08-30T14:00:00",
-      "end": "2026-08-30T16:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5fb1a0881a2746d1a325b638dd51807a@google.com",
-      "summary": "Doorsturen banners hackathon",
-      "location": "",
-      "start": "2026-08-30T16:00:00",
-      "end": "2026-08-30T16:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "c3a67369249d40f0be2e6b8816eb91e7@google.com",
-      "summary": "Tallinn",
-      "location": "",
-      "start": "2026-08-30T20:30:00",
-      "end": "2026-08-30T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "skm91kvjt15ni6novb7rrudeq4@google.com",
       "summary": "Flight to Tallinn (BT 852)",
@@ -53,8 +11,40 @@
       "start": "2026-08-31T09:40:00",
       "end": "2026-08-31T12:05:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "4cbc99516d034cafaf94db968fd4f83f@google.com",
+      "summary": "Newsletter",
+      "location": "",
+      "start": "2026-08-31T10:00:00",
+      "end": "2026-08-31T11:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1376162c69864ccdba1a38f916a2dc76@google.com",
+      "summary": "Werk Vincent & Gilles + volunteers sturen + Chrome -> Safari",
+      "location": "",
+      "start": "2026-08-31T20:00:00",
+      "end": "2026-08-31T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "elemiq6ejta26t0gat65fmfgas_R20260901T170000@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-09-01T17:00:00",
+      "end": "2026-09-01T17:45:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
