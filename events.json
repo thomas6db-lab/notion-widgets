@@ -1,50 +1,29 @@
 {
-  "updated": "31/08 21:42",
+  "updated": "01/09 01:25",
   "timezone": "Europe/Brussels",
-  "todayLabel": "31 august",
-  "tomorrowLabel": "1 september",
+  "todayLabel": "1 september",
+  "tomorrowLabel": "2 september",
   "today": [
     {
-      "uid": "skm91kvjt15ni6novb7rrudeq4@google.com",
-      "summary": "Flight to Tallinn (BT 852)",
-      "location": "Brussels BRU",
-      "start": "2026-08-31T09:40:00",
-      "end": "2026-08-31T12:05:00",
+      "uid": "elemiq6ejta26t0gat65fmfgas_R20260901T170000@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-09-01T19:00:00",
+      "end": "2026-09-01T19:45:00",
       "allDay": false,
       "day": "today",
-      "calendar": "thomas6db"
+      "calendar": "tectonic"
     },
     {
-      "uid": "4cbc99516d034cafaf94db968fd4f83f@google.com",
-      "summary": "Newsletter",
+      "uid": "9ac0ff4ac9d84c79947c7c1baddca9ff@google.com",
+      "summary": "Paid ads",
       "location": "",
-      "start": "2026-08-31T10:00:00",
-      "end": "2026-08-31T11:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1376162c69864ccdba1a38f916a2dc76@google.com",
-      "summary": "Werk Vincent & Gilles + volunteers sturen + Chrome -> Safari",
-      "location": "",
-      "start": "2026-08-31T20:00:00",
-      "end": "2026-08-31T21:00:00",
+      "start": "2026-09-01T20:00:00",
+      "end": "2026-09-01T21:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     }
   ],
-  "firstTomorrow": [
-    {
-      "uid": "elemiq6ejta26t0gat65fmfgas_R20260901T170000@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-09-01T17:00:00",
-      "end": "2026-09-01T17:45:00",
-      "allDay": false,
-      "day": "tomorrow",
-      "calendar": "tectonic"
-    }
-  ]
+  "firstTomorrow": []
 }
