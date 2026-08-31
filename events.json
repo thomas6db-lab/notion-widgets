@@ -1,5 +1,5 @@
 {
-  "updated": "31/08 02:36",
+  "updated": "31/08 08:08",
   "timezone": "Europe/Brussels",
   "todayLabel": "31 august",
   "tomorrowLabel": "1 september",
@@ -40,8 +40,8 @@
       "uid": "elemiq6ejta26t0gat65fmfgas_R20260901T170000@google.com",
       "summary": "Marketing Sync",
       "location": "",
-      "start": "2026-09-01T19:00:00",
-      "end": "2026-09-01T19:45:00",
+      "start": "2026-09-01T17:00:00",
+      "end": "2026-09-01T17:45:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "tectonic"
