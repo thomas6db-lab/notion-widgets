@@ -1,39 +1,8 @@
 {
-  "updated": "01/09 21:50",
+  "updated": "02/09 00:08",
   "timezone": "Europe/Brussels",
-  "todayLabel": "1 september",
-  "tomorrowLabel": "2 september",
-  "today": [
-    {
-      "uid": "elemiq6ejta26t0gat65fmfgas_R20260901T170000@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-09-01T19:00:00",
-      "end": "2026-09-01T19:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "9ac0ff4ac9d84c79947c7c1baddca9ff@google.com",
-      "summary": "Paid ads",
-      "location": "",
-      "start": "2026-09-01T20:00:00",
-      "end": "2026-09-01T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "71b1cfb4733849e7823c8a6196c877ad@google.com",
-      "summary": "Call Lindert",
-      "location": "",
-      "start": "2026-09-01T22:00:00",
-      "end": "2026-09-01T22:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
+  "todayLabel": "2 september",
+  "tomorrowLabel": "3 september",
+  "today": [],
   "firstTomorrow": []
 }
