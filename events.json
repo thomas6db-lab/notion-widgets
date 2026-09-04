@@ -1,19 +1,19 @@
 {
-  "updated": "04/09 23:36",
+  "updated": "05/09 01:18",
   "timezone": "Europe/Brussels",
-  "todayLabel": "4 september",
-  "tomorrowLabel": "5 september",
-  "today": [
+  "todayLabel": "5 september",
+  "tomorrowLabel": "6 september",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "050926fb6eb24e4888910354318dd6ea@google.com",
-      "summary": "E-mail campaign",
+      "uid": "d1b6387588584b4fb3187d83d209aa2a@google.com",
+      "summary": "Milan VN - Tectonic Volunteer",
       "location": "",
-      "start": "2026-09-04T18:00:00",
-      "end": "2026-09-04T22:15:00",
+      "start": "2026-09-06T09:00:00",
+      "end": "2026-09-06T09:30:00",
       "allDay": false,
-      "day": "today",
+      "day": "tomorrow",
       "calendar": "thomas6db"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
