@@ -1,8 +1,19 @@
 {
-  "updated": "04/09 11:00",
+  "updated": "04/09 15:25",
   "timezone": "Europe/Brussels",
   "todayLabel": "4 september",
   "tomorrowLabel": "5 september",
-  "today": [],
+  "today": [
+    {
+      "uid": "050926fb6eb24e4888910354318dd6ea@google.com",
+      "summary": "E-mail campaign",
+      "location": "",
+      "start": "2026-09-04T18:00:00",
+      "end": "2026-09-04T22:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
   "firstTomorrow": []
 }
