@@ -1,10 +1,9 @@
 {
-  "updated": "05/09 23:40",
+  "updated": "06/09 01:20",
   "timezone": "Europe/Brussels",
-  "todayLabel": "5 september",
-  "tomorrowLabel": "6 september",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "6 september",
+  "tomorrowLabel": "7 september",
+  "today": [
     {
       "uid": "d1b6387588584b4fb3187d83d209aa2a@google.com",
       "summary": "Milan VN - Tectonic Volunteer",
@@ -12,8 +11,40 @@
       "start": "2026-09-06T09:00:00",
       "end": "2026-09-06T09:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "location": "",
+      "start": "2026-09-06T17:00:00",
+      "end": "2026-09-06T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "fenep4hgc6bjka6j8j3gfu5ipg@google.com",
+      "summary": "Flight to Brussels (BT 853)",
+      "location": "Tallinn TLL",
+      "start": "2026-09-06T17:25:00",
+      "end": "2026-09-06T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260907T120000@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-09-07T14:00:00",
+      "end": "2026-09-07T15:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
