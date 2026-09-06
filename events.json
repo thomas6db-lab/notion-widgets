@@ -1,19 +1,9 @@
 {
-  "updated": "06/09 07:55",
+  "updated": "06/09 12:31",
   "timezone": "Europe/Brussels",
   "todayLabel": "6 september",
   "tomorrowLabel": "7 september",
   "today": [
-    {
-      "uid": "d1b6387588584b4fb3187d83d209aa2a@google.com",
-      "summary": "Milan VN - Tectonic Volunteer",
-      "location": "",
-      "start": "2026-09-06T09:00:00",
-      "end": "2026-09-06T09:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
     {
       "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
       "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
