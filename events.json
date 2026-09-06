@@ -1,25 +1,35 @@
 {
-  "updated": "06/09 22:47",
+  "updated": "07/09 00:27",
   "timezone": "Europe/Brussels",
-  "todayLabel": "6 september",
-  "tomorrowLabel": "7 september",
+  "todayLabel": "7 september",
+  "tomorrowLabel": "8 september",
   "today": [
     {
-      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
-      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260907T120000@google.com",
+      "summary": "Tectonic x marketing",
       "location": "",
-      "start": "2026-09-06T17:00:00",
-      "end": "2026-09-06T18:00:00",
+      "start": "2026-09-07T14:00:00",
+      "end": "2026-09-07T15:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
     },
     {
-      "uid": "fenep4hgc6bjka6j8j3gfu5ipg@google.com",
-      "summary": "Flight to Brussels (BT 853)",
-      "location": "Tallinn TLL",
-      "start": "2026-09-06T17:25:00",
-      "end": "2026-09-06T20:00:00",
+      "uid": "2tqG2egS66t5dv5oETPRSi@Cal.com",
+      "summary": "Coffee chat w/ Lucas (Parahelp) between Lucas Marinus and Thomas De Baerdemaeker",
+      "location": "https://meet.google.com/yxh-ziuy-nqe",
+      "start": "2026-09-07T21:00:00",
+      "end": "2026-09-07T21:20:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "54dbq8ab1duhqbg7aeqtcvjcbm@google.com",
+      "summary": "Coffee chat w/ Lucas (Parahelp) tussen Lucas Marinus en Thomas De Baerdemaeker",
+      "location": "https://meet.google.com/yxh-ziuy-nqe",
+      "start": "2026-09-07T21:00:00",
+      "end": "2026-09-07T21:20:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -27,11 +37,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260907T120000@google.com",
-      "summary": "Tectonic x marketing",
+      "uid": "5vejcl7f6m5rgnrlv87rtkvq37@google.com",
+      "summary": "Marketing Sync",
       "location": "",
-      "start": "2026-09-07T14:00:00",
-      "end": "2026-09-07T15:00:00",
+      "start": "2026-09-08T18:00:00",
+      "end": "2026-09-08T18:45:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "tectonic"
