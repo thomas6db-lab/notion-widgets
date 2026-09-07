@@ -1,5 +1,5 @@
 {
-  "updated": "07/09 06:53",
+  "updated": "07/09 11:54",
   "timezone": "Europe/Brussels",
   "todayLabel": "7 september",
   "tomorrowLabel": "8 september",
@@ -13,6 +13,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "4b0a52139358451eba3af85d2dc565ca@google.com",
+      "summary": "Call marketing",
+      "location": "",
+      "start": "2026-09-07T19:00:00",
+      "end": "2026-09-07T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     },
     {
       "uid": "2tqG2egS66t5dv5oETPRSi@Cal.com",
@@ -30,6 +40,16 @@
       "location": "https://meet.google.com/yxh-ziuy-nqe",
       "start": "2026-09-07T21:00:00",
       "end": "2026-09-07T21:20:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "456e168d3a754e9d97115c55ee612892@google.com",
+      "summary": "Laten weten Lindert",
+      "location": "",
+      "start": "2026-09-07T21:30:00",
+      "end": "2026-09-07T22:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
