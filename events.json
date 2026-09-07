@@ -1,71 +1,9 @@
 {
-  "updated": "07/09 21:21",
+  "updated": "08/09 00:08",
   "timezone": "Europe/Brussels",
-  "todayLabel": "7 september",
-  "tomorrowLabel": "8 september",
+  "todayLabel": "8 september",
+  "tomorrowLabel": "9 september",
   "today": [
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260907T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-09-07T14:00:00",
-      "end": "2026-09-07T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "4b0a52139358451eba3af85d2dc565ca@google.com",
-      "summary": "Call marketing",
-      "location": "",
-      "start": "2026-09-07T19:00:00",
-      "end": "2026-09-07T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1d0e0psvu8ais0h6u4e23h5j45@google.com",
-      "summary": "MM 07/09",
-      "location": "",
-      "start": "2026-09-07T19:00:00",
-      "end": "2026-09-07T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "54dbq8ab1duhqbg7aeqtcvjcbm@google.com",
-      "summary": "Coffee chat w/ Lucas (Parahelp) tussen Lucas Marinus en Thomas De Baerdemaeker",
-      "location": "",
-      "start": "2026-09-07T21:00:00",
-      "end": "2026-09-07T21:20:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "456e168d3a754e9d97115c55ee612892@google.com",
-      "summary": "Laten weten Lindert",
-      "location": "",
-      "start": "2026-09-07T21:30:00",
-      "end": "2026-09-07T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "2tqG2egS66t5dv5oETPRSi@Cal.com",
-      "summary": "Coffee chat w/ Lucas (Parahelp) between Lucas Marinus and Thomas De Baerdemaeker",
-      "location": "",
-      "start": "2026-09-07T21:45:00",
-      "end": "2026-09-07T22:05:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "5vejcl7f6m5rgnrlv87rtkvq37@google.com",
       "summary": "Marketing Sync",
@@ -73,8 +11,30 @@
       "start": "2026-09-08T18:00:00",
       "end": "2026-09-08T18:45:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "d5f8b07299c145a8bd1c3837ce6e7d65@google.com",
+      "summary": "Bellen Jan Devos",
+      "location": "",
+      "start": "2026-09-08T20:30:00",
+      "end": "2026-09-08T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "61c44948e7aa470fa64207b3a6a8a44e@google.com",
+      "summary": "Punten",
+      "location": "",
+      "start": "2026-09-09T13:30:00",
+      "end": "2026-09-09T14:45:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
