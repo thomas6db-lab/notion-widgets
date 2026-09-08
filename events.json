@@ -1,5 +1,5 @@
 {
-  "updated": "08/09 00:08",
+  "updated": "08/09 02:24",
   "timezone": "Europe/Brussels",
   "todayLabel": "8 september",
   "tomorrowLabel": "9 september",
@@ -13,16 +13,6 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
-    },
-    {
-      "uid": "d5f8b07299c145a8bd1c3837ce6e7d65@google.com",
-      "summary": "Bellen Jan Devos",
-      "location": "",
-      "start": "2026-09-08T20:30:00",
-      "end": "2026-09-08T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
     }
   ],
   "firstTomorrow": [
