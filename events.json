@@ -1,9 +1,19 @@
 {
-  "updated": "09/09 11:55",
+  "updated": "09/09 16:12",
   "timezone": "Europe/Brussels",
   "todayLabel": "9 september",
   "tomorrowLabel": "10 september",
   "today": [
+    {
+      "uid": "DBF90707-B83F-43C3-A10E-BED97448E4D5",
+      "summary": "Update VSC",
+      "location": "",
+      "start": "2026-09-09T13:15:00",
+      "end": "2026-09-09T14:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
     {
       "uid": "61c44948e7aa470fa64207b3a6a8a44e@google.com",
       "summary": "Punten",
