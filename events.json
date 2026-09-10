@@ -1,5 +1,5 @@
 {
-  "updated": "10/09 15:52",
+  "updated": "10/09 19:26",
   "timezone": "Europe/Brussels",
   "todayLabel": "10 september",
   "tomorrowLabel": "11 september",
@@ -35,9 +35,9 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260907T120000@google.com",
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260914T120000@google.com",
       "summary": "Tectonic x marketing",
-      "location": "",
+      "location": "ITP Ghent-4-BACK-Bender (12) [Zoom Room]",
       "start": "2026-09-10T17:00:00",
       "end": "2026-09-10T17:30:00",
       "allDay": false,
