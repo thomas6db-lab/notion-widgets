@@ -1,9 +1,19 @@
 {
-  "updated": "10/09 07:11",
+  "updated": "10/09 11:47",
   "timezone": "Europe/Brussels",
   "todayLabel": "10 september",
   "tomorrowLabel": "11 september",
   "today": [
+    {
+      "uid": "A7BB2D55-AA5B-4B17-BA58-C44F19EE17D1",
+      "summary": "Terugbellen beller",
+      "location": "",
+      "start": "2026-09-10T12:00:00",
+      "end": "2026-09-10T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
     {
       "uid": "6deeecc9cc53468da899624ec9e5891c@google.com",
       "summary": "Gentrepreneur volunteers sturen",
@@ -35,5 +45,16 @@
       "calendar": "tectonic"
     }
   ],
-  "firstTomorrow": []
+  "firstTomorrow": [
+    {
+      "uid": "479DF6BD-BF6C-4230-B47C-0BFC7E506441",
+      "summary": "Ophalen polos Creapress",
+      "location": "",
+      "start": "2026-09-11T11:45:00",
+      "end": "2026-09-11T12:15:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
+    }
+  ]
 }
