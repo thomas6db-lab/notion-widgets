@@ -1,25 +1,15 @@
 {
-  "updated": "11/09 21:51",
+  "updated": "12/09 00:06",
   "timezone": "Europe/Brussels",
-  "todayLabel": "11 september",
-  "tomorrowLabel": "12 september",
+  "todayLabel": "12 september",
+  "tomorrowLabel": "13 september",
   "today": [
     {
-      "uid": "1526107c039b4eb98a8620204a729fbc@google.com",
-      "summary": "Make post",
+      "uid": "b0121fb7b0324580936eba9b25741b2d@google.com",
+      "summary": "Bekijken deal Renan!",
       "location": "",
-      "start": "2026-09-11T11:00:00",
-      "end": "2026-09-11T11:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "479DF6BD-BF6C-4230-B47C-0BFC7E506441",
-      "summary": "Ophalen polos Creapress",
-      "location": "",
-      "start": "2026-09-11T11:45:00",
-      "end": "2026-09-11T12:15:00",
+      "start": "2026-09-12T09:00:00",
+      "end": "2026-09-12T12:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -28,8 +18,28 @@
       "uid": "a6b1f0d2c460414a8f83e3317530186e@google.com",
       "summary": "Mail De Tijd",
       "location": "",
-      "start": "2026-09-11T19:15:00",
-      "end": "2026-09-11T21:00:00",
+      "start": "2026-09-12T12:15:00",
+      "end": "2026-09-12T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "2ef6b6ae6b4c4745b5dde0aa87879586@google.com",
+      "summary": "Lize",
+      "location": "",
+      "start": "2026-09-12T15:00:00",
+      "end": "2026-09-12T19:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1a726f687a4c4a68b106436e6b0fce46@google.com",
+      "summary": "Feest Marie",
+      "location": "",
+      "start": "2026-09-12T21:00:00",
+      "end": "2026-09-12T23:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -37,11 +47,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "b0121fb7b0324580936eba9b25741b2d@google.com",
-      "summary": "Bekijken deal Renan!",
+      "uid": "1d54d5736e7b44329c660b745d02f67d@google.com",
+      "summary": "GSD day: petten, polos",
       "location": "",
-      "start": "2026-09-12T09:00:00",
-      "end": "2026-09-12T12:00:00",
+      "start": "2026-09-13T08:00:00",
+      "end": "2026-09-13T08:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
