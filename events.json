@@ -1,25 +1,25 @@
 {
-  "updated": "11/09 06:57",
+  "updated": "11/09 11:30",
   "timezone": "Europe/Brussels",
   "todayLabel": "11 september",
   "tomorrowLabel": "12 september",
   "today": [
+    {
+      "uid": "1526107c039b4eb98a8620204a729fbc@google.com",
+      "summary": "Make post",
+      "location": "",
+      "start": "2026-09-11T11:00:00",
+      "end": "2026-09-11T11:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
     {
       "uid": "479DF6BD-BF6C-4230-B47C-0BFC7E506441",
       "summary": "Ophalen polos Creapress",
       "location": "",
       "start": "2026-09-11T11:45:00",
       "end": "2026-09-11T12:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "97399b43c0dd46ea88aa6dac97f1c8e6@google.com",
-      "summary": "Bloedafname",
-      "location": "",
-      "start": "2026-09-11T12:30:00",
-      "end": "2026-09-11T14:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
