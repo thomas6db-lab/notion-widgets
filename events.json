@@ -1,5 +1,5 @@
 {
-  "updated": "11/09 11:30",
+  "updated": "11/09 15:46",
   "timezone": "Europe/Brussels",
   "todayLabel": "11 september",
   "tomorrowLabel": "12 september",
@@ -20,6 +20,16 @@
       "location": "",
       "start": "2026-09-11T11:45:00",
       "end": "2026-09-11T12:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "a6b1f0d2c460414a8f83e3317530186e@google.com",
+      "summary": "Mail De Tijd",
+      "location": "",
+      "start": "2026-09-11T17:30:00",
+      "end": "2026-09-11T19:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
