@@ -1,31 +1,9 @@
 {
-  "updated": "14/09 21:04",
+  "updated": "15/09 00:26",
   "timezone": "Europe/Brussels",
-  "todayLabel": "14 september",
-  "tomorrowLabel": "15 september",
+  "todayLabel": "15 september",
+  "tomorrowLabel": "16 september",
   "today": [
-    {
-      "uid": "9586d3a56de04380b05eb33f7ffbffa4@google.com",
-      "summary": "L-E GSP",
-      "location": "",
-      "start": "2026-09-14T08:00:00",
-      "end": "2026-09-14T08:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260914T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-09-14T14:00:00",
-      "end": "2026-09-14T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "97399b43c0dd46ea88aa6dac97f1c8e6@google.com",
       "summary": "Bloedafname",
@@ -33,6 +11,28 @@
       "start": "2026-09-15T12:00:00",
       "end": "2026-09-15T13:30:00",
       "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5vejcl7f6m5rgnrlv87rtkvq37_R20260915T160000@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-09-15T18:00:00",
+      "end": "2026-09-15T18:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
+      "summary": "Anniv 8m",
+      "location": "",
+      "start": "2026-09-16",
+      "end": "2026-09-17",
+      "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
     }
