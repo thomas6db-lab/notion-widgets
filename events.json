@@ -1,75 +1,35 @@
 {
-  "updated": "15/09 20:59",
+  "updated": "16/09 00:06",
   "timezone": "Europe/Brussels",
-  "todayLabel": "15 september",
-  "tomorrowLabel": "16 september",
+  "todayLabel": "16 september",
+  "tomorrowLabel": "17 september",
   "today": [
     {
-      "uid": "D9A1546D-266D-4F24-B667-B84286795C94",
-      "summary": "Naar huis",
+      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
+      "summary": "Anniv 8m",
       "location": "",
-      "start": "2026-09-15T16:00:00",
-      "end": "2026-09-15T16:30:00",
+      "start": "2026-09-16",
+      "end": "2026-09-17",
+      "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "97399b43c0dd46ea88aa6dac97f1c8e6@google.com",
+      "summary": "Bloedafname",
+      "location": "",
+      "start": "2026-09-16T12:00:00",
+      "end": "2026-09-16T13:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "9882FE0B-AB39-427A-9F2D-EA1C4EA832C8",
-      "summary": "Prepare meeting, make vids",
+      "uid": "4CE2279E-EFEA-4091-A6B8-1C3A71754A42",
+      "summary": "Renan meet",
       "location": "",
-      "start": "2026-09-15T17:00:00",
-      "end": "2026-09-15T18:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5vejcl7f6m5rgnrlv87rtkvq37_R20260915T160000@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-09-15T18:00:00",
-      "end": "2026-09-15T18:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "556FA816-D592-4A95-9F78-DF5DFC66C7CD",
-      "summary": "Emma tasks ordenen",
-      "location": "",
-      "start": "2026-09-15T21:00:00",
-      "end": "2026-09-15T21:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5gbque4t37mrvuc5s9blfb66b9@google.com",
-      "summary": "Debora x Marketing",
-      "location": "",
-      "start": "2026-09-15T22:00:00",
-      "end": "2026-09-15T22:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "56FDC48D-6C94-4F7F-B6C9-38D369427128",
-      "summary": "Tectonic deep work",
-      "location": "",
-      "start": "2026-09-15T22:30:00",
-      "end": "2026-09-15T23:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "59ff654003064f9bb49ef09e60336c24@google.com",
-      "summary": "Remind Kato ride",
-      "location": "",
-      "start": "2026-09-15T23:30:00",
-      "end": "2026-09-16T00:00:00",
+      "start": "2026-09-16T17:30:00",
+      "end": "2026-09-16T18:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -77,11 +37,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
-      "summary": "Anniv 8m",
+      "uid": "a0fb479558ae4ff4857fd96a354b4490@google.com",
+      "summary": "Rijexamen Boetje",
       "location": "",
-      "start": "2026-09-16",
-      "end": "2026-09-17",
+      "start": "2026-09-17",
+      "end": "2026-09-18",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "thomas6db"
