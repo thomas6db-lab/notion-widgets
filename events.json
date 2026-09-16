@@ -1,5 +1,5 @@
 {
-  "updated": "16/09 06:56",
+  "updated": "16/09 11:46",
   "timezone": "Europe/Brussels",
   "todayLabel": "16 september",
   "tomorrowLabel": "17 september",
@@ -29,7 +29,57 @@
       "summary": "Bloedafname",
       "location": "",
       "start": "2026-09-16T12:00:00",
-      "end": "2026-09-16T13:30:00",
+      "end": "2026-09-16T12:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "C5E3D6D8-4F4C-45DC-B014-1B9F8DC4E1D3",
+      "summary": "Eat",
+      "location": "",
+      "start": "2026-09-16T12:30:00",
+      "end": "2026-09-16T13:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5BF6B4BD-CC33-46AB-8E68-99C358EA38DC",
+      "summary": "Model Excel",
+      "location": "",
+      "start": "2026-09-16T13:15:00",
+      "end": "2026-09-16T14:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "A27D4672-5A14-4ACD-B3F6-C5FDFA71CF4E",
+      "summary": "Slides",
+      "location": "",
+      "start": "2026-09-16T14:15:00",
+      "end": "2026-09-16T15:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "EBECD6B7-794A-4759-8A63-866A78F5D295",
+      "summary": "Plan rest of the week",
+      "location": "",
+      "start": "2026-09-16T16:30:00",
+      "end": "2026-09-16T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "D4F309E4-C006-4D3E-974E-E4DBFE336029",
+      "summary": "Research Renan",
+      "location": "",
+      "start": "2026-09-16T17:00:00",
+      "end": "2026-09-16T17:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
