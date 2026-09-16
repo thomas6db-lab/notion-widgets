@@ -1,5 +1,5 @@
 {
-  "updated": "16/09 00:06",
+  "updated": "16/09 02:15",
   "timezone": "Europe/Brussels",
   "todayLabel": "16 september",
   "tomorrowLabel": "17 september",
@@ -11,6 +11,16 @@
       "start": "2026-09-16",
       "end": "2026-09-17",
       "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "556FA816-D592-4A95-9F78-DF5DFC66C7CD",
+      "summary": "Emma tasks ordenen",
+      "location": "",
+      "start": "2026-09-16T08:00:00",
+      "end": "2026-09-16T08:30:00",
+      "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
