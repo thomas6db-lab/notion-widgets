@@ -1,91 +1,9 @@
 {
-  "updated": "17/09 22:12",
+  "updated": "18/09 00:51",
   "timezone": "Europe/Brussels",
-  "todayLabel": "17 september",
-  "tomorrowLabel": "18 september",
+  "todayLabel": "18 september",
+  "tomorrowLabel": "19 september",
   "today": [
-    {
-      "uid": "a0fb479558ae4ff4857fd96a354b4490@google.com",
-      "summary": "Rijexamen Boetje",
-      "location": "",
-      "start": "2026-09-17",
-      "end": "2026-09-18",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "a7d8bfd439444c089cf7ea0f28fc9ecf@google.com",
-      "summary": "Brievenbus Omega gooien",
-      "location": "",
-      "start": "2026-09-17T07:00:00",
-      "end": "2026-09-17T07:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "C49E4FF2-0E63-400F-B8F0-45755547A39D",
-      "summary": "Office @ The Beacon",
-      "location": "",
-      "start": "2026-09-17T07:30:00",
-      "end": "2026-09-17T08:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "EBECD6B7-794A-4759-8A63-866A78F5D295",
-      "summary": "Plan rest of the week",
-      "location": "",
-      "start": "2026-09-17T08:00:00",
-      "end": "2026-09-17T08:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5BF6B4BD-CC33-46AB-8E68-99C358EA38DC",
-      "summary": "Model Excel",
-      "location": "",
-      "start": "2026-09-17T09:00:00",
-      "end": "2026-09-17T10:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "7DCF9A0E-717C-4519-8BA9-C234D02DD178",
-      "summary": "Prepare Claude session",
-      "location": "",
-      "start": "2026-09-17T10:00:00",
-      "end": "2026-09-17T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "05215cf9fb3c4e0c900a84aa40b7ba19@google.com",
-      "summary": "Meet ADB",
-      "location": "",
-      "start": "2026-09-17T19:00:00",
-      "end": "2026-09-17T19:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "59ff654003064f9bb49ef09e60336c24@google.com",
-      "summary": "Remind Kato ride",
-      "location": "",
-      "start": "2026-09-17T23:30:00",
-      "end": "2026-09-18T00:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "3638fccab55c4bd482ddf2bc60802140@google.com",
       "summary": "Momentum Weekend",
@@ -93,8 +11,49 @@
       "start": "2026-09-18",
       "end": "2026-09-21",
       "allDay": true,
-      "day": "tomorrow",
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "9AC4F752-4C60-4714-A595-395CE7857890",
+      "summary": "Kleren Rotterdam",
+      "location": "",
+      "start": "2026-09-18T07:00:00",
+      "end": "2026-09-18T08:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "F79EFF76-CF0A-4974-A8EE-1272101FA3F0",
+      "summary": "Afwerken alles",
+      "location": "",
+      "start": "2026-09-18T08:00:00",
+      "end": "2026-09-18T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1f1mkgvv4qb7j24mk0kf3kct4f@google.com",
+      "summary": "Tectonic x Feedelity Pitching Competition Reel",
+      "location": "Wintercircus, Lammerstraat 13, 9000 Gent, Belgium",
+      "start": "2026-09-18T13:00:00",
+      "end": "2026-09-18T13:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "7ED1F8CE-1985-45BB-949C-690E9FB3AA7C",
+      "summary": "Alles de-installeren",
+      "location": "",
+      "start": "2026-09-18T15:00:00",
+      "end": "2026-09-18T17:00:00",
+      "allDay": false,
+      "day": "today",
       "calendar": "thomas6db"
     }
-  ]
+  ],
+  "firstTomorrow": []
 }
