@@ -1,59 +1,19 @@
 {
-  "updated": "18/09 22:00",
+  "updated": "19/09 00:31",
   "timezone": "Europe/Brussels",
-  "todayLabel": "18 september",
-  "tomorrowLabel": "19 september",
-  "today": [
+  "todayLabel": "19 september",
+  "tomorrowLabel": "20 september",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "3638fccab55c4bd482ddf2bc60802140@google.com",
-      "summary": "Momentum Weekend",
+      "uid": "5babff8f8dbc42caa381310c22078a01@google.com",
+      "summary": "Momentum weekend",
       "location": "",
-      "start": "2026-09-18",
-      "end": "2026-09-21",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "9AC4F752-4C60-4714-A595-395CE7857890",
-      "summary": "Kleren Rotterdam",
-      "location": "",
-      "start": "2026-09-18T07:00:00",
-      "end": "2026-09-18T08:00:00",
+      "start": "2026-09-20T12:30:00",
+      "end": "2026-09-20T13:00:00",
       "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "F79EFF76-CF0A-4974-A8EE-1272101FA3F0",
-      "summary": "Afwerken alles",
-      "location": "",
-      "start": "2026-09-18T08:00:00",
-      "end": "2026-09-18T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1f1mkgvv4qb7j24mk0kf3kct4f@google.com",
-      "summary": "Tectonic x Feedelity Pitching Competition Reel",
-      "location": "Wintercircus, Lammerstraat 13, 9000 Gent, Belgium",
-      "start": "2026-09-18T13:00:00",
-      "end": "2026-09-18T13:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "7ED1F8CE-1985-45BB-949C-690E9FB3AA7C",
-      "summary": "Alles de-installeren",
-      "location": "",
-      "start": "2026-09-18T15:00:00",
-      "end": "2026-09-18T17:00:00",
-      "allDay": false,
-      "day": "today",
+      "day": "tomorrow",
       "calendar": "thomas6db"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
