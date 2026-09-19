@@ -1,16 +1,47 @@
 {
-  "updated": "19/09 23:09",
+  "updated": "20/09 01:04",
   "timezone": "Europe/Brussels",
-  "todayLabel": "19 september",
-  "tomorrowLabel": "20 september",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "20 september",
+  "tomorrowLabel": "21 september",
+  "today": [
     {
       "uid": "5babff8f8dbc42caa381310c22078a01@google.com",
       "summary": "Momentum weekend",
       "location": "",
       "start": "2026-09-20T12:30:00",
       "end": "2026-09-20T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "f7e2aae70e4343509b55ff9b53ac026a@google.com",
+      "summary": "Mini GSD",
+      "location": "",
+      "start": "2026-09-20T14:00:00",
+      "end": "2026-09-20T19:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
+      "summary": "Weekly Heads of Teams Meeting [Online] - Tectonic",
+      "location": "",
+      "start": "2026-09-20T17:00:00",
+      "end": "2026-09-20T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "abf1237374454d1f96f482f73b2fc28c@google.com",
+      "summary": "Renan groot lot - 25%",
+      "location": "",
+      "start": "2026-09-21T11:30:00",
+      "end": "2026-09-21T13:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
