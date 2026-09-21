@@ -1,5 +1,5 @@
 {
-  "updated": "21/09 05:45",
+  "updated": "21/09 11:18",
   "timezone": "Europe/Brussels",
   "todayLabel": "21 september",
   "tomorrowLabel": "22 september",
@@ -19,7 +19,7 @@
       "summary": "Tectonic x marketing",
       "location": "",
       "start": "2026-09-21T14:00:00",
-      "end": "2026-09-21T15:00:00",
+      "end": "2026-09-21T14:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
