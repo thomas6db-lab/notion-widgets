@@ -1,5 +1,5 @@
 {
-  "updated": "22/09 14:06",
+  "updated": "22/09 18:54",
   "timezone": "Europe/Brussels",
   "todayLabel": "22 september",
   "tomorrowLabel": "23 september",
@@ -23,6 +23,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "ACC93C23-E6ED-44C8-B75A-D1CC7C493E69",
+      "summary": "Renan Omega",
+      "location": "",
+      "start": "2026-09-22T16:00:00",
+      "end": "2026-09-22T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     },
     {
       "uid": "0edvqmr0cj5bs7vus8tsvoorqo@google.com",
