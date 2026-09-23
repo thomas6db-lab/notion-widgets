@@ -1,21 +1,9 @@
 {
-  "updated": "23/09 21:10",
+  "updated": "24/09 00:18",
   "timezone": "Europe/Brussels",
-  "todayLabel": "23 september",
-  "tomorrowLabel": "24 september",
+  "todayLabel": "24 september",
+  "tomorrowLabel": "25 september",
   "today": [
-    {
-      "uid": "2bms2ef0jejpket6cm56bvonud@google.com",
-      "summary": "Aerora x Tectonic",
-      "location": "",
-      "start": "2026-09-23T11:30:00",
-      "end": "2026-09-23T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "3206aaeced38420d845ebfdff7dd7e6e@google.com",
       "summary": "Wijsheidstanden trekken",
@@ -23,8 +11,40 @@
       "start": "2026-09-24T08:30:00",
       "end": "2026-09-24T22:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "067e119c9315408780068f4dfb236b65",
+      "summary": "Set up your ChatGPT Ads for success: five best practices for creating campaigns designed to perform",
+      "location": "https://events.goldcast.io/auth/link/ccbadb71-df5b-4827-9e99-7eaf9fe08f7a/dt5X9a9ZEmc?eventID=067e119c-9315-4087-8006-8f4dfb236b65&shortId=209897",
+      "start": "2026-09-24T18:30:00",
+      "end": "2026-09-24T19:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "15cc12adb8044110a851ae9577f1ea8e@google.com",
+      "summary": "Luka Goossens reel online?",
+      "location": "",
+      "start": "2026-09-24T19:15:00",
+      "end": "2026-09-24T19:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1721597--1179705713-0@timeedit.com",
+      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, hoorcollege",
+      "location": "Auditorium 1 Jan Broeckx. Blandijn. Campus Boekentoren. Blandijnberg 2",
+      "start": "2026-09-25T14:00:00",
+      "end": "2026-09-25T17:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "timeedit"
     }
   ]
 }
