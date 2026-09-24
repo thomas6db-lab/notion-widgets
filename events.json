@@ -1,5 +1,5 @@
 {
-  "updated": "24/09 17:15",
+  "updated": "24/09 21:16",
   "timezone": "Europe/Brussels",
   "todayLabel": "24 september",
   "tomorrowLabel": "25 september",
@@ -27,14 +27,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "1721597--1179705713-0@timeedit.com",
-      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, hoorcollege",
-      "location": "Auditorium 1 Jan Broeckx. Blandijn. Campus Boekentoren. Blandijnberg 2",
-      "start": "2026-09-25T14:00:00",
-      "end": "2026-09-25T17:00:00",
+      "uid": "7CF73906-1ECD-4A7E-9146-44A4F6DA0DDA",
+      "summary": "People desings",
+      "location": "",
+      "start": "2026-09-25T11:00:00",
+      "end": "2026-09-25T12:30:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "timeedit"
+      "calendar": "thomas6db"
     }
   ]
 }
