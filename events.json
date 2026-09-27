@@ -1,5 +1,5 @@
 {
-  "updated": "27/09 15:02",
+  "updated": "27/09 19:41",
   "timezone": "Europe/Brussels",
   "todayLabel": "27 september",
   "tomorrowLabel": "28 september",
@@ -53,6 +53,26 @@
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "bcea7dcb21724b02b367c1c87a6c7da2@google.com",
+      "summary": "Post Sandbox",
+      "location": "",
+      "start": "2026-09-27T20:30:00",
+      "end": "2026-09-27T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "538b9ddbf0ec4e21b5eaba46a518487d@google.com",
+      "summary": "Samuel back-ups talk",
+      "location": "",
+      "start": "2026-09-27T21:00:00",
+      "end": "2026-09-27T22:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     }
   ],
   "firstTomorrow": []
