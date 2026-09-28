@@ -1,5 +1,5 @@
 {
-  "updated": "28/09 18:03",
+  "updated": "28/09 23:53",
   "timezone": "Europe/Brussels",
   "todayLabel": "28 september",
   "tomorrowLabel": "29 september",
@@ -27,14 +27,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "27iktnfep098aliqliqlrftimr@google.com",
-      "summary": "Ads Marketing x Tijl",
+      "uid": "f5784ccfb770440ca8db6c71a176a2b3@google.com",
+      "summary": "Gilles Apollo uitleggen",
       "location": "",
-      "start": "2026-09-29T17:00:00",
-      "end": "2026-09-29T17:45:00",
+      "start": "2026-09-29T10:00:00",
+      "end": "2026-09-29T10:30:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     }
   ]
 }
