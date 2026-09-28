@@ -1,5 +1,5 @@
 {
-  "updated": "28/09 09:44",
+  "updated": "28/09 18:03",
   "timezone": "Europe/Brussels",
   "todayLabel": "28 september",
   "tomorrowLabel": "29 september",
@@ -25,5 +25,16 @@
       "calendar": "thomas6db"
     }
   ],
-  "firstTomorrow": []
+  "firstTomorrow": [
+    {
+      "uid": "27iktnfep098aliqliqlrftimr@google.com",
+      "summary": "Ads Marketing x Tijl",
+      "location": "",
+      "start": "2026-09-29T17:00:00",
+      "end": "2026-09-29T17:45:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
+    }
+  ]
 }
