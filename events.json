@@ -1,18 +1,18 @@
 {
-  "updated": "28/09 03:45",
+  "updated": "28/09 09:44",
   "timezone": "Europe/Brussels",
   "todayLabel": "28 september",
   "tomorrowLabel": "29 september",
   "today": [
     {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20260921T120000@google.com",
-      "summary": "Tectonic x marketing",
+      "uid": "5df12a1848384e23bf01bcb042737c55@google.com",
+      "summary": "Tijl meet + LinkedIn access",
       "location": "",
-      "start": "2026-09-28T14:00:00",
-      "end": "2026-09-28T15:00:00",
+      "start": "2026-09-28T10:00:00",
+      "end": "2026-09-28T10:30:00",
       "allDay": false,
       "day": "today",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     },
     {
       "uid": "46abd78da86c4e7a93ebd6324b70a641@google.com",
