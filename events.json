@@ -1,71 +1,19 @@
 {
-  "updated": "29/09 21:25",
+  "updated": "30/09 01:06",
   "timezone": "Europe/Brussels",
-  "todayLabel": "29 september",
-  "tomorrowLabel": "30 september",
+  "todayLabel": "30 september",
+  "tomorrowLabel": "1 october",
   "today": [
     {
       "uid": "6f3407fc353747e8b1efa2a5c9e33434@google.com",
       "summary": "Lanyards alternatives",
       "location": "",
-      "start": "2026-09-29T13:00:00",
-      "end": "2026-09-29T13:30:00",
+      "start": "2026-09-30T08:00:00",
+      "end": "2026-09-30T08:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
-    {
-      "uid": "f5784ccfb770440ca8db6c71a176a2b3@google.com",
-      "summary": "Gilles Apollo uitleggen",
-      "location": "",
-      "start": "2026-09-29T16:00:00",
-      "end": "2026-09-29T16:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "7u838scupss94i4rcp5rcq6voi@google.com",
-      "summary": "Thomas x Gilles",
-      "location": "",
-      "start": "2026-09-29T16:00:00",
-      "end": "2026-09-29T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "27iktnfep098aliqliqlrftimr@google.com",
-      "summary": "Ads Marketing x Tijl",
-      "location": "",
-      "start": "2026-09-29T17:00:00",
-      "end": "2026-09-29T17:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "5vejcl7f6m5rgnrlv87rtkvq37_R20260915T160000@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-09-29T18:00:00",
-      "end": "2026-09-29T18:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "39d9ed314c38423ba6a8a0913a7ea6f3@google.com",
-      "summary": "Sebastien bellen",
-      "location": "",
-      "start": "2026-09-29T19:00:00",
-      "end": "2026-09-29T19:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "65e593e33b4f4b19a053a551b71a7777@google.com",
       "summary": "Hackathon backup mail audience per city",
@@ -73,8 +21,70 @@
       "start": "2026-09-30T09:00:00",
       "end": "2026-09-30T10:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "799f7595f91f4be6b04724b316ca1014@google.com",
+      "summary": "Leveren goodies BeCentral",
+      "location": "",
+      "start": "2026-09-30T11:00:00",
+      "end": "2026-09-30T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "51c03d43141a406ca63f09965d091869@google.com",
+      "summary": "Journalist Veto!",
+      "location": "",
+      "start": "2026-09-30T13:30:00",
+      "end": "2026-09-30T16:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "6ca0a80cd5284d2aaaa527a2a43732f5@google.com",
+      "summary": "Hackathon drone",
+      "location": "Eastech Park Leuven, Diestsesteenweg 692, 3010 Leuven, Belgium",
+      "start": "2026-09-30T14:00:00",
+      "end": "2026-09-30T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5cdkmdiut3r6n08dcg9e8ocmgs@google.com",
+      "summary": "Hackathon First Round",
+      "location": "",
+      "start": "2026-09-30T17:00:00",
+      "end": "2026-09-30T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "10259540addd425c811f8a7ada9166fe@google.com",
+      "summary": "Johan Lambrechts mailen",
+      "location": "",
+      "start": "2026-09-30T22:00:00",
+      "end": "2026-09-30T22:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "6606-654452@ufora.ugent.be",
+      "summary": "Stuveco AV 1",
+      "location": "Faculteitsraadzaal - Campus Tweekerken (Stuveco – Studentenraad Faculteit Economie & Bedrijfskunde)",
+      "start": "2026-10-01T18:00:00",
+      "end": "2026-10-01T20:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "ufora"
     }
   ]
 }
