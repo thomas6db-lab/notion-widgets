@@ -1,81 +1,19 @@
 {
-  "updated": "30/09 22:01",
+  "updated": "01/10 01:41",
   "timezone": "Europe/Brussels",
-  "todayLabel": "30 september",
-  "tomorrowLabel": "1 october",
+  "todayLabel": "1 october",
+  "tomorrowLabel": "2 october",
   "today": [
     {
-      "uid": "6f3407fc353747e8b1efa2a5c9e33434@google.com",
-      "summary": "Lanyards alternatives",
+      "uid": "186be2cb395b4faaae59f635cfc463fe@google.com",
+      "summary": "Pitch",
       "location": "",
-      "start": "2026-09-30T08:00:00",
-      "end": "2026-09-30T08:30:00",
+      "start": "2026-10-01T08:15:00",
+      "end": "2026-10-01T09:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
-    {
-      "uid": "65e593e33b4f4b19a053a551b71a7777@google.com",
-      "summary": "Hackathon backup mail audience per city",
-      "location": "",
-      "start": "2026-09-30T09:00:00",
-      "end": "2026-09-30T10:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "799f7595f91f4be6b04724b316ca1014@google.com",
-      "summary": "Leveren goodies BeCentral",
-      "location": "",
-      "start": "2026-09-30T11:00:00",
-      "end": "2026-09-30T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "51c03d43141a406ca63f09965d091869@google.com",
-      "summary": "Journalist Veto!",
-      "location": "",
-      "start": "2026-09-30T13:30:00",
-      "end": "2026-09-30T16:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "6ca0a80cd5284d2aaaa527a2a43732f5@google.com",
-      "summary": "Hackathon drone",
-      "location": "Eastech Park Leuven, Diestsesteenweg 692, 3010 Leuven, Belgium",
-      "start": "2026-09-30T14:00:00",
-      "end": "2026-09-30T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5cdkmdiut3r6n08dcg9e8ocmgs@google.com",
-      "summary": "Hackathon First Round",
-      "location": "",
-      "start": "2026-09-30T17:00:00",
-      "end": "2026-09-30T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "10259540addd425c811f8a7ada9166fe@google.com",
-      "summary": "Johan Lambrechts mailen",
-      "location": "",
-      "start": "2026-09-30T22:00:00",
-      "end": "2026-09-30T22:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "4f3qaili0hcen0k8scapjkvar9@google.com",
       "summary": "tectonic marketing sync",
@@ -83,8 +21,60 @@
       "start": "2026-10-01T12:00:00",
       "end": "2026-10-01T12:15:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "1d4b2a8bfbe64cdbab4b2b5d74087d29@google.com",
+      "summary": "Renan Juwelen brengen",
+      "location": "",
+      "start": "2026-10-01T14:00:00",
+      "end": "2026-10-01T15:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "6606-654452@ufora.ugent.be",
+      "summary": "Stuveco AV 1",
+      "location": "Faculteitsraadzaal - Campus Tweekerken (Stuveco – Studentenraad Faculteit Economie & Bedrijfskunde)",
+      "start": "2026-10-01T18:00:00",
+      "end": "2026-10-01T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "ufora"
+    },
+    {
+      "uid": "2f744eb679df4577a6c802adf96bc245@google.com",
+      "summary": "Momentum",
+      "location": "",
+      "start": "2026-10-01T20:00:00",
+      "end": "2026-10-01T23:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5056F567-049B-4169-A052-8075241EA12C",
+      "summary": "Cake Defi: Freezer assets lopen af",
+      "location": "",
+      "start": "2026-10-01T22:00:00",
+      "end": "2026-10-01T23:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1721598--1179705713-0@timeedit.com",
+      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, hoorcollege, REMOTE",
+      "location": "Online",
+      "start": "2026-10-02T14:00:00",
+      "end": "2026-10-02T17:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "timeedit"
     }
   ]
 }
