@@ -1,5 +1,5 @@
 {
-  "updated": "30/09 10:26",
+  "updated": "30/09 17:10",
   "timezone": "Europe/Brussels",
   "todayLabel": "30 september",
   "tomorrowLabel": "1 october",
@@ -77,14 +77,14 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "6606-654452@ufora.ugent.be",
-      "summary": "Stuveco AV 1",
-      "location": "Faculteitsraadzaal - Campus Tweekerken (Stuveco – Studentenraad Faculteit Economie & Bedrijfskunde)",
-      "start": "2026-10-01T18:00:00",
-      "end": "2026-10-01T20:00:00",
+      "uid": "4f3qaili0hcen0k8scapjkvar9@google.com",
+      "summary": "tectonic marketing sync",
+      "location": "",
+      "start": "2026-10-01T12:00:00",
+      "end": "2026-10-01T12:15:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "ufora"
+      "calendar": "tectonic"
     }
   ]
 }
