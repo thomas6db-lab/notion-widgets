@@ -1,5 +1,5 @@
 {
-  "updated": "01/10 01:41",
+  "updated": "01/10 04:27",
   "timezone": "Europe/Brussels",
   "todayLabel": "1 october",
   "tomorrowLabel": "2 october",
@@ -43,26 +43,6 @@
       "allDay": false,
       "day": "today",
       "calendar": "ufora"
-    },
-    {
-      "uid": "2f744eb679df4577a6c802adf96bc245@google.com",
-      "summary": "Momentum",
-      "location": "",
-      "start": "2026-10-01T20:00:00",
-      "end": "2026-10-01T23:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5056F567-049B-4169-A052-8075241EA12C",
-      "summary": "Cake Defi: Freezer assets lopen af",
-      "location": "",
-      "start": "2026-10-01T22:00:00",
-      "end": "2026-10-01T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
     }
   ],
   "firstTomorrow": [
