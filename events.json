@@ -1,9 +1,19 @@
 {
-  "updated": "03/10 08:44",
+  "updated": "03/10 14:04",
   "timezone": "Europe/Brussels",
   "todayLabel": "3 october",
   "tomorrowLabel": "4 october",
   "today": [
+    {
+      "uid": "29lq5e7g7u935pb2oc0tfiri28@google.com",
+      "summary": "Ads",
+      "location": "",
+      "start": "2026-10-03T14:01:49",
+      "end": "2026-10-03T14:16:49",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
     {
       "uid": "umppcj1h2skpi1hppkgdt209ik@google.com",
       "summary": "Verjaardag Lize",
