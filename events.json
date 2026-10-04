@@ -1,5 +1,5 @@
 {
-  "updated": "04/10 08:21",
+  "updated": "04/10 14:39",
   "timezone": "Europe/Brussels",
   "todayLabel": "4 october",
   "tomorrowLabel": "5 october",
@@ -30,6 +30,16 @@
       "location": "",
       "start": "2026-10-04T20:00:00",
       "end": "2026-10-04T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "64p1nvnkdl8r32vg7d39dlfpmm@google.com",
+      "summary": "Sude x Thomas",
+      "location": "",
+      "start": "2026-10-04T21:00:00",
+      "end": "2026-10-04T22:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
