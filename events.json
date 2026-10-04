@@ -1,60 +1,39 @@
 {
-  "updated": "04/10 22:05",
+  "updated": "05/10 01:03",
   "timezone": "Europe/Brussels",
-  "todayLabel": "4 october",
-  "tomorrowLabel": "5 october",
+  "todayLabel": "5 october",
+  "tomorrowLabel": "6 october",
   "today": [
     {
-      "uid": "492e70777be6493c8498bffcf92e3034@google.com",
-      "summary": "GSD",
+      "uid": "3892a19198474da296eb539e3c1a79b0@google.com",
+      "summary": "GSP + Buy ticket",
       "location": "",
-      "start": "2026-10-04T09:00:00",
-      "end": "2026-10-04T19:00:00",
+      "start": "2026-10-05T06:15:00",
+      "end": "2026-10-05T07:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
     },
     {
-      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
-      "summary": "Playbook Tectonic 2026",
+      "uid": "118cad4b005d4ecd90797029f54077d2@google.com",
+      "summary": "Trein",
       "location": "",
-      "start": "2026-10-04T16:30:00",
-      "end": "2026-10-04T19:00:00",
+      "start": "2026-10-05T07:15:00",
+      "end": "2026-10-05T08:30:00",
       "allDay": false,
       "day": "today",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     },
     {
-      "uid": "2g8uv0r28gcl2bq0odhbocr45r@google.com",
-      "summary": "Marketing Sync",
+      "uid": "1857294260db471eb669080b3d7d7332@google.com",
+      "summary": "Centraal -> Conveo",
       "location": "",
-      "start": "2026-10-04T20:00:00",
-      "end": "2026-10-04T21:00:00",
+      "start": "2026-10-05T08:30:00",
+      "end": "2026-10-05T09:00:00",
       "allDay": false,
       "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "64p1nvnkdl8r32vg7d39dlfpmm@google.com",
-      "summary": "Sude x Thomas",
-      "location": "",
-      "start": "2026-10-04T21:00:00",
-      "end": "2026-10-04T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     }
   ],
-  "firstTomorrow": [
-    {
-      "uid": "rmqtssmjiqa4n813t3hikcrp7o@google.com",
-      "summary": "Masterclass: How to Secure Your Company in the Age of AI",
-      "location": "Miriam Makebaplein 2, Gent, 9000, Belgium",
-      "start": "2026-10-05T19:30:00",
-      "end": "2026-10-05T20:30:00",
-      "allDay": false,
-      "day": "tomorrow",
-      "calendar": "thomas6db"
-    }
-  ]
+  "firstTomorrow": []
 }
