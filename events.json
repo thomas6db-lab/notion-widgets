@@ -1,49 +1,8 @@
 {
-  "updated": "05/10 19:17",
+  "updated": "06/10 01:12",
   "timezone": "Europe/Brussels",
-  "todayLabel": "5 october",
-  "tomorrowLabel": "6 october",
-  "today": [
-    {
-      "uid": "3892a19198474da296eb539e3c1a79b0@google.com",
-      "summary": "GSP + Buy ticket",
-      "location": "",
-      "start": "2026-10-05T06:15:00",
-      "end": "2026-10-05T07:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "118cad4b005d4ecd90797029f54077d2@google.com",
-      "summary": "Trein",
-      "location": "",
-      "start": "2026-10-05T07:15:00",
-      "end": "2026-10-05T08:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1857294260db471eb669080b3d7d7332@google.com",
-      "summary": "Centraal -> Conveo",
-      "location": "",
-      "start": "2026-10-05T08:30:00",
-      "end": "2026-10-05T09:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "aad1c8cdb1174312b4135453d7e6d701@google.com",
-      "summary": "Nelson x Ads",
-      "location": "",
-      "start": "2026-10-05T21:30:00",
-      "end": "2026-10-05T22:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
+  "todayLabel": "6 october",
+  "tomorrowLabel": "7 october",
+  "today": [],
   "firstTomorrow": []
 }
