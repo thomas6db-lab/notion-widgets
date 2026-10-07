@@ -1,8 +1,19 @@
 {
-  "updated": "07/10 21:45",
+  "updated": "08/10 01:52",
   "timezone": "Europe/Brussels",
-  "todayLabel": "7 october",
-  "tomorrowLabel": "8 october",
+  "todayLabel": "8 october",
+  "tomorrowLabel": "9 october",
   "today": [],
-  "firstTomorrow": []
+  "firstTomorrow": [
+    {
+      "uid": "34o194jntg7ioa46s137isuvpb@google.com",
+      "summary": "Tectonic Photography - Vincent & Sharon",
+      "location": "",
+      "start": "2026-10-09T09:00:00",
+      "end": "2026-10-09T09:30:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
+    }
+  ]
 }
