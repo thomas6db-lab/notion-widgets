@@ -1,47 +1,27 @@
 {
-  "updated": "09/10 23:17",
+  "updated": "10/10 03:00",
   "timezone": "Europe/Brussels",
-  "todayLabel": "9 october",
-  "tomorrowLabel": "10 october",
+  "todayLabel": "10 october",
+  "tomorrowLabel": "11 october",
   "today": [
-    {
-      "uid": "34o194jntg7ioa46s137isuvpb@google.com",
-      "summary": "Tectonic Photography - Vincent & Sharon",
-      "location": "",
-      "start": "2026-10-09T09:00:00",
-      "end": "2026-10-09T09:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "2487e1b2d5ec45318d1dda60eda8a1c0@google.com",
-      "summary": "Update ITP ticket sales",
-      "location": "",
-      "start": "2026-10-09T12:00:00",
-      "end": "2026-10-09T12:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1721599--1179705713-0@timeedit.com",
-      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, hoorcollege",
-      "location": "Auditorium 1 Jan Broeckx. Blandijn. Campus Boekentoren. Blandijnberg 2",
-      "start": "2026-10-09T14:00:00",
-      "end": "2026-10-09T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "0kanhln945ehqnd4doka86g4f7@google.com",
       "summary": "Drinks @Ghent",
       "location": "",
       "start": "2026-10-10T20:30:00",
       "end": "2026-10-10T23:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260524T070000@google.com",
+      "summary": "Getting Sh*t Done day + Shoot [in-person]",
+      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgique",
+      "start": "2026-10-11T08:30:00",
+      "end": "2026-10-11T22:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "tectonic"
