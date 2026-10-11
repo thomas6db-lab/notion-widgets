@@ -1,15 +1,65 @@
 {
-  "updated": "10/10 23:31",
+  "updated": "11/10 02:25",
   "timezone": "Europe/Brussels",
-  "todayLabel": "10 october",
-  "tomorrowLabel": "11 october",
+  "todayLabel": "11 october",
+  "tomorrowLabel": "12 october",
   "today": [
     {
-      "uid": "0kanhln945ehqnd4doka86g4f7@google.com",
-      "summary": "Drinks @Ghent",
+      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260524T070000@google.com",
+      "summary": "Getting Sh*t Done day + Shoot [in-person]",
+      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgique",
+      "start": "2026-10-11T08:30:00",
+      "end": "2026-10-11T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "f9d4e92cebb5430298e4464f29bbe8dc@google.com",
+      "summary": "Speak with Sude",
       "location": "",
-      "start": "2026-10-10T20:30:00",
-      "end": "2026-10-10T23:30:00",
+      "start": "2026-10-11T09:00:00",
+      "end": "2026-10-11T09:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "02hulq69v7htpgnmrggq7scrvb@google.com",
+      "summary": "Video shoot with Fien (everyone present!!)",
+      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgium",
+      "start": "2026-10-11T13:00:00",
+      "end": "2026-10-11T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "0oscrmrf6u7i54711jqn2n6qvd@google.com",
+      "summary": "Quiz - How well do you know the Tectonic 2026 playbook?",
+      "location": "TBA",
+      "start": "2026-10-11T16:30:00",
+      "end": "2026-10-11T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "h5p7i2gjt8pcj1616k7p3f4kgh@google.com",
+      "summary": "Weekly Team Meeting [In-person] - Tectonic",
+      "location": "To Be Announced",
+      "start": "2026-10-11T17:00:00",
+      "end": "2026-10-11T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "k6er6efhqn76ib4i588erh6u9e@google.com",
+      "summary": "Team Dinner + Drinks",
+      "location": "TBA",
+      "start": "2026-10-11T18:00:00",
+      "end": "2026-10-11T20:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
@@ -17,11 +67,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260524T070000@google.com",
-      "summary": "Getting Sh*t Done day + Shoot [in-person]",
-      "location": "In The Pocket, Sassevaartstraat 46/401, 9000 Gent, Belgique",
-      "start": "2026-10-11T08:30:00",
-      "end": "2026-10-11T22:00:00",
+      "uid": "2m6nheb9ng13gi7fm3bpf2qf8j@google.com",
+      "summary": "EHBO training",
+      "location": "",
+      "start": "2026-10-12T19:00:00",
+      "end": "2026-10-12T23:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "tectonic"
