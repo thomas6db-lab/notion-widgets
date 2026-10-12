@@ -1,5 +1,5 @@
 {
-  "updated": "12/10 08:35",
+  "updated": "12/10 18:04",
   "timezone": "Europe/Brussels",
   "todayLabel": "12 october",
   "tomorrowLabel": "13 october",
@@ -7,7 +7,7 @@
     {
       "uid": "2m6nheb9ng13gi7fm3bpf2qf8j@google.com",
       "summary": "EHBO training",
-      "location": "",
+      "location": "Rode Kruis-Gent, Emile Clauslaan 5, 9000 Gent, Belgique",
       "start": "2026-10-12T19:00:00",
       "end": "2026-10-12T23:00:00",
       "allDay": false,
