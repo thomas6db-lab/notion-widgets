@@ -1,30 +1,19 @@
 {
-  "updated": "12/10 18:04",
+  "updated": "13/10 00:54",
   "timezone": "Europe/Brussels",
-  "todayLabel": "12 october",
-  "tomorrowLabel": "13 october",
-  "today": [
-    {
-      "uid": "2m6nheb9ng13gi7fm3bpf2qf8j@google.com",
-      "summary": "EHBO training",
-      "location": "Rode Kruis-Gent, Emile Clauslaan 5, 9000 Gent, Belgique",
-      "start": "2026-10-12T19:00:00",
-      "end": "2026-10-12T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
+  "todayLabel": "13 october",
+  "tomorrowLabel": "14 october",
+  "today": [],
   "firstTomorrow": [
     {
-      "uid": "5vejcl7f6m5rgnrlv87rtkvq37_R20260915T160000@google.com",
-      "summary": "Marketing Sync",
+      "uid": "205293351f6643a1a24f6a70a97bc8fc@google.com",
+      "summary": "Brief Ellani (PhD influencer)",
       "location": "",
-      "start": "2026-10-13T18:00:00",
-      "end": "2026-10-13T18:45:00",
+      "start": "2026-10-14T19:00:00",
+      "end": "2026-10-14T19:30:00",
       "allDay": false,
       "day": "tomorrow",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     }
   ]
 }
