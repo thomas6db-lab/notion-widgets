@@ -1,10 +1,9 @@
 {
-  "updated": "13/10 19:50",
+  "updated": "14/10 00:00",
   "timezone": "Europe/Brussels",
-  "todayLabel": "13 october",
-  "tomorrowLabel": "14 october",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "14 october",
+  "tomorrowLabel": "15 october",
+  "today": [
     {
       "uid": "205293351f6643a1a24f6a70a97bc8fc@google.com",
       "summary": "Brief Ellani (PhD influencer)",
@@ -12,8 +11,30 @@
       "start": "2026-10-14T19:00:00",
       "end": "2026-10-14T19:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "5vejcl7f6m5rgnrlv87rtkvq37_R20260915T160000@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-10-14T21:30:00",
+      "end": "2026-10-14T22:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "65h6copg69hjib9i64qm8b9kchgjgbb2ccr66b9kc8sj0pj174pjgcr6cg@google.com",
+      "summary": "Marketing deepdive | On-site & post",
+      "location": "",
+      "start": "2026-10-15T18:00:00",
+      "end": "2026-10-15T18:40:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
