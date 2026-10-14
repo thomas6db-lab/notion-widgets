@@ -1,41 +1,9 @@
 {
-  "updated": "14/10 22:08",
+  "updated": "15/10 01:12",
   "timezone": "Europe/Brussels",
-  "todayLabel": "14 october",
-  "tomorrowLabel": "15 october",
+  "todayLabel": "15 october",
+  "tomorrowLabel": "16 october",
   "today": [
-    {
-      "uid": "3183e2c9ecb14614814c0a553739449c@google.com",
-      "summary": "Arthur Stockman reageren",
-      "location": "",
-      "start": "2026-10-14T14:00:00",
-      "end": "2026-10-14T14:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "205293351f6643a1a24f6a70a97bc8fc@google.com",
-      "summary": "Brief Ellani (PhD influencer)",
-      "location": "",
-      "start": "2026-10-14T19:00:00",
-      "end": "2026-10-14T19:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5vejcl7f6m5rgnrlv87rtkvq37_R20261013T160000@google.com",
-      "summary": "Marketing Sync",
-      "location": "",
-      "start": "2026-10-14T21:30:00",
-      "end": "2026-10-14T22:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "65h6copg69hjib9i64qm8b9kchgjgbb2ccr66b9kc8sj0pj174pjgcr6cg@google.com",
       "summary": "Marketing deepdive | On-site & post",
@@ -43,8 +11,30 @@
       "start": "2026-10-15T18:00:00",
       "end": "2026-10-15T18:40:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "304ujbi1h6kk4h90cbl5ahba4p@google.com",
+      "summary": "Sude / Thomas Photographers",
+      "location": "",
+      "start": "2026-10-15T22:00:00",
+      "end": "2026-10-15T22:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
+      "summary": "Anniv 9m",
+      "location": "",
+      "start": "2026-10-16",
+      "end": "2026-10-17",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
