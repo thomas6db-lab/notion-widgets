@@ -1,9 +1,19 @@
 {
-  "updated": "14/10 08:07",
+  "updated": "14/10 13:46",
   "timezone": "Europe/Brussels",
   "todayLabel": "14 october",
   "tomorrowLabel": "15 october",
   "today": [
+    {
+      "uid": "3183e2c9ecb14614814c0a553739449c@google.com",
+      "summary": "Arthur Stockman reageren",
+      "location": "",
+      "start": "2026-10-14T14:00:00",
+      "end": "2026-10-14T14:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
     {
       "uid": "205293351f6643a1a24f6a70a97bc8fc@google.com",
       "summary": "Brief Ellani (PhD influencer)",
