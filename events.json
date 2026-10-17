@@ -1,25 +1,25 @@
 {
-  "updated": "17/10 23:22",
+  "updated": "18/10 01:16",
   "timezone": "Europe/Brussels",
-  "todayLabel": "17 october",
-  "tomorrowLabel": "18 october",
+  "todayLabel": "18 october",
+  "tomorrowLabel": "19 october",
   "today": [
     {
-      "uid": "ria3r0gqqpvk6pttsr4qkvvdl8@google.com",
-      "summary": "GSDD (optional) [in-person]",
+      "uid": "jh6rp3dn0r81b9esmsrpel7nvc@google.com",
+      "summary": "Last GSDD [in-person]",
       "location": "Location TBA",
-      "start": "2026-10-17T09:00:00",
-      "end": "2026-10-17T17:00:00",
+      "start": "2026-10-18T09:00:00",
+      "end": "2026-10-18T17:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
     },
     {
-      "uid": "10p6f0u8r85ot6l0pvi17n02kg@google.com",
-      "summary": "Marketing - Tectonic",
+      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
+      "summary": "Weekly Meeting: The Big Overview",
       "location": "",
-      "start": "2026-10-17T14:00:00",
-      "end": "2026-10-17T14:15:00",
+      "start": "2026-10-18T17:00:00",
+      "end": "2026-10-18T18:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
@@ -27,11 +27,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "jh6rp3dn0r81b9esmsrpel7nvc@google.com",
-      "summary": "Last GSDD [in-person]",
-      "location": "Location TBA",
-      "start": "2026-10-18T09:00:00",
-      "end": "2026-10-18T17:00:00",
+      "uid": "3ivu179hvto3j27vclkao01qa8@google.com",
+      "summary": "Fabl x Tectonic - Stavaza",
+      "location": "",
+      "start": "2026-10-19T10:00:00",
+      "end": "2026-10-19T11:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "tectonic"
