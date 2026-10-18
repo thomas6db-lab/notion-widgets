@@ -1,21 +1,9 @@
 {
-  "updated": "18/10 23:46",
+  "updated": "19/10 01:43",
   "timezone": "Europe/Brussels",
-  "todayLabel": "18 october",
-  "tomorrowLabel": "19 october",
+  "todayLabel": "19 october",
+  "tomorrowLabel": "20 october",
   "today": [
-    {
-      "uid": "jh6rp3dn0r81b9esmsrpel7nvc@google.com",
-      "summary": "Last GSDD [in-person]",
-      "location": "Location TBA",
-      "start": "2026-10-18T09:00:00",
-      "end": "2026-10-18T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "3ivu179hvto3j27vclkao01qa8@google.com",
       "summary": "Fabl x Tectonic - Stavaza",
@@ -23,6 +11,38 @@
       "start": "2026-10-19T10:00:00",
       "end": "2026-10-19T11:00:00",
       "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "34a52f87564c472896b6926aa1ff1d30@google.com",
+      "summary": "Hackathon Buildup day",
+      "location": "",
+      "start": "2026-10-19T13:00:00",
+      "end": "2026-10-19T18:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "632c16efe7ed4c69beb0e2199519f680_R20261019T120000@google.com",
+      "summary": "Tectonic x marketing",
+      "location": "",
+      "start": "2026-10-19T14:00:00",
+      "end": "2026-10-19T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "7j4un8vohgm72pn8cssroe1gvk@google.com",
+      "summary": "Final run-through Tectonic (time TBA)",
+      "location": "Wintercircus & De Vooruit, Ghent",
+      "start": "2026-10-20",
+      "end": "2026-10-21",
+      "allDay": true,
       "day": "tomorrow",
       "calendar": "tectonic"
     }
