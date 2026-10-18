@@ -1,5 +1,5 @@
 {
-  "updated": "18/10 16:09",
+  "updated": "18/10 19:22",
   "timezone": "Europe/Brussels",
   "todayLabel": "18 october",
   "tomorrowLabel": "19 october",
@@ -10,16 +10,6 @@
       "location": "Location TBA",
       "start": "2026-10-18T09:00:00",
       "end": "2026-10-18T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "q1m8053ck6nt25teijrq17b4t6@google.com",
-      "summary": "Weekly Meeting: The Big Overview",
-      "location": "",
-      "start": "2026-10-18T17:00:00",
-      "end": "2026-10-18T18:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
