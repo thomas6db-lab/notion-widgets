@@ -1,41 +1,9 @@
 {
-  "updated": "19/10 22:09",
+  "updated": "20/10 01:40",
   "timezone": "Europe/Brussels",
-  "todayLabel": "19 october",
-  "tomorrowLabel": "20 october",
+  "todayLabel": "20 october",
+  "tomorrowLabel": "21 october",
   "today": [
-    {
-      "uid": "3ivu179hvto3j27vclkao01qa8@google.com",
-      "summary": "Fabl x Tectonic - Stavaza",
-      "location": "",
-      "start": "2026-10-19T10:00:00",
-      "end": "2026-10-19T11:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "34a52f87564c472896b6926aa1ff1d30@google.com",
-      "summary": "Hackathon Buildup day",
-      "location": "",
-      "start": "2026-10-19T13:00:00",
-      "end": "2026-10-19T18:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "632c16efe7ed4c69beb0e2199519f680_R20261019T120000@google.com",
-      "summary": "Tectonic x marketing",
-      "location": "",
-      "start": "2026-10-19T14:00:00",
-      "end": "2026-10-19T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "7j4un8vohgm72pn8cssroe1gvk@google.com",
       "summary": "Final run-through Tectonic (time TBA)",
@@ -43,6 +11,58 @@
       "start": "2026-10-20",
       "end": "2026-10-21",
       "allDay": true,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "6f707oiuhve57peqcsf25pm4vb@google.com",
+      "summary": "Hackathon Final",
+      "location": "VIERNULVIER, Sint-Pietersnieuwstraat 23, 9000 Gent, Belgium",
+      "start": "2026-10-20T09:00:00",
+      "end": "2026-10-20T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "7oae43bapb2b5gko31ti5rqmk2@google.com",
+      "summary": "Marketing Sync",
+      "location": "",
+      "start": "2026-10-20T18:00:00",
+      "end": "2026-10-20T18:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "5auucigkq20k5t36vqs00938g2@google.com",
+      "summary": "Tecnotonic",
+      "location": "Club Wintercircus, Platteberg 24, 9000 Gent, Belgium",
+      "start": "2026-10-20T21:00:00",
+      "end": "2026-10-21T01:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "evt-5PayIaFawrHUIvn@events.lu.ma",
+      "summary": "Tecnotonic by Tectonic",
+      "location": "Club Wintercircus, Platteberg 24, 9000 Gent, Belgium",
+      "start": "2026-10-20T21:00:00",
+      "end": "2026-10-21T01:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "4mnsvc097nqqvou2dagio58shh@google.com",
+      "summary": "Tectonic - Main event",
+      "location": "Wintercircus, Lammerstraat 13, 9000 Gent, Belgium",
+      "start": "2026-10-21T09:30:00",
+      "end": "2026-10-21T18:00:00",
+      "allDay": false,
       "day": "tomorrow",
       "calendar": "tectonic"
     }
