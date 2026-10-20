@@ -1,5 +1,5 @@
 {
-  "updated": "20/10 09:28",
+  "updated": "20/10 14:54",
   "timezone": "Europe/Brussels",
   "todayLabel": "20 october",
   "tomorrowLabel": "21 october",
@@ -35,8 +35,8 @@
       "calendar": "tectonic"
     },
     {
-      "uid": "evt-5PayIaFawrHUIvn@events.lu.ma",
-      "summary": "Tecnotonic by Tectonic",
+      "uid": "5auucigkq20k5t36vqs00938g2@google.com",
+      "summary": "Tecnotonic",
       "location": "Club Wintercircus, Platteberg 24, 9000 Gent, Belgium",
       "start": "2026-10-20T21:00:00",
       "end": "2026-10-21T01:00:00",
@@ -45,8 +45,8 @@
       "calendar": "tectonic"
     },
     {
-      "uid": "5auucigkq20k5t36vqs00938g2@google.com",
-      "summary": "Tecnotonic",
+      "uid": "evt-5PayIaFawrHUIvn@events.lu.ma",
+      "summary": "Tecnotonic by Tectonic",
       "location": "Club Wintercircus, Platteberg 24, 9000 Gent, Belgium",
       "start": "2026-10-20T21:00:00",
       "end": "2026-10-21T01:00:00",
