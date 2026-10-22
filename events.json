@@ -1,29 +1,19 @@
 {
-  "updated": "21/10 23:34",
+  "updated": "22/10 02:10",
   "timezone": "Europe/Brussels",
-  "todayLabel": "21 october",
-  "tomorrowLabel": "22 october",
-  "today": [
+  "todayLabel": "22 october",
+  "tomorrowLabel": "23 october",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "4mnsvc097nqqvou2dagio58shh@google.com",
-      "summary": "Tectonic - Main event",
-      "location": "Wintercircus, Lammerstraat 13, 9000 Gent, Belgium",
-      "start": "2026-10-21T09:30:00",
-      "end": "2026-10-21T18:00:00",
+      "uid": "ffdc2e05be2f461ab5a067926e12ff3f@google.com",
+      "summary": "Lunch Veerle & Joost",
+      "location": "",
+      "start": "2026-10-23T12:00:00",
+      "end": "2026-10-23T13:30:00",
       "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "qfdurkab37618s4trd5egmckgk@google.com",
-      "summary": "The Tectonic Boat – crew party- 🐢",
-      "location": "L'Esceau, Kuiperskaai 24, 9000 Gent, Belgium",
-      "start": "2026-10-21T18:00:00",
-      "end": "2026-10-21T22:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
