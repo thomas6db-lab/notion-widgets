@@ -1,10 +1,9 @@
 {
-  "updated": "22/10 23:58",
+  "updated": "23/10 02:32",
   "timezone": "Europe/Brussels",
-  "todayLabel": "22 october",
-  "tomorrowLabel": "23 october",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "23 october",
+  "tomorrowLabel": "24 october",
+  "today": [
     {
       "uid": "1721601--1179705713-0@timeedit.com",
       "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, werkcollege",
@@ -12,8 +11,40 @@
       "start": "2026-10-23T14:00:00",
       "end": "2026-10-23T17:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "timeedit"
+    },
+    {
+      "uid": "c701197ce1094b8a8cf835d770b711a6@google.com",
+      "summary": "Call Gianni",
+      "location": "",
+      "start": "2026-10-23T19:00:00",
+      "end": "2026-10-23T20:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "dbec81d5f1d74ba491ded14f35e8771e@google.com",
+      "summary": "Lize catch up",
+      "location": "",
+      "start": "2026-10-23T20:00:00",
+      "end": "2026-10-24T10:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "7A70C6F5-1446-43DA-A967-4FBB2C542343",
+      "summary": "Green Card Lottery",
+      "location": "",
+      "start": "2026-10-24T11:00:00",
+      "end": "2026-10-24T12:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
