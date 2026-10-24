@@ -1,10 +1,9 @@
 {
-  "updated": "24/10 23:39",
+  "updated": "25/10 01:44",
   "timezone": "Europe/Brussels",
-  "todayLabel": "24 october",
-  "tomorrowLabel": "25 october",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "25 october",
+  "tomorrowLabel": "26 october",
+  "today": [
     {
       "uid": "20261025_2pv4u0keortid7g6s71dm2k7h0@google.com",
       "summary": "Einde zomertijd",
@@ -12,8 +11,49 @@
       "start": "2026-10-25",
       "end": "2026-10-26",
       "allDay": true,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "feestdagen"
+    },
+    {
+      "uid": "36A18B83-0215-4048-87C3-819EFA3BF87B",
+      "summary": "Conveo",
+      "location": "",
+      "start": "2026-10-25T09:00:00",
+      "end": "2026-10-25T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "f45c8629dec0496aa46f5d83de588703@google.com",
+      "summary": "Emmanuel",
+      "location": "",
+      "start": "2026-10-25T14:00:00",
+      "end": "2026-10-25T16:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "A80E656D-0277-4D60-9A00-9CA892D4D8A9",
+      "summary": "Thuis",
+      "location": "",
+      "start": "2026-10-25T16:30:00",
+      "end": "2026-10-25T22:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "612d918545834ae5a670c39df495053d@google.com",
+      "summary": "Fiets Emiel verkoop",
+      "location": "",
+      "start": "2026-10-25T17:00:00",
+      "end": "2026-10-25T17:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     }
-  ]
+  ],
+  "firstTomorrow": []
 }
