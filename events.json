@@ -1,59 +1,19 @@
 {
-  "updated": "25/10 22:53",
+  "updated": "26/10 00:47",
   "timezone": "Europe/Brussels",
-  "todayLabel": "25 october",
-  "tomorrowLabel": "26 october",
-  "today": [
+  "todayLabel": "26 october",
+  "tomorrowLabel": "27 october",
+  "today": [],
+  "firstTomorrow": [
     {
-      "uid": "20261025_2pv4u0keortid7g6s71dm2k7h0@google.com",
-      "summary": "Einde zomertijd",
+      "uid": "23e96c6adb634cb2a0ba2887ccc5ebc1@google.com",
+      "summary": "Jens catchup",
       "location": "",
-      "start": "2026-10-25",
-      "end": "2026-10-26",
-      "allDay": true,
-      "day": "today",
-      "calendar": "feestdagen"
-    },
-    {
-      "uid": "36A18B83-0215-4048-87C3-819EFA3BF87B",
-      "summary": "Conveo",
-      "location": "",
-      "start": "2026-10-25T09:00:00",
-      "end": "2026-10-25T12:00:00",
+      "start": "2026-10-27T20:00:00",
+      "end": "2026-10-27T22:00:00",
       "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "f45c8629dec0496aa46f5d83de588703@google.com",
-      "summary": "Emmanuel",
-      "location": "",
-      "start": "2026-10-25T14:00:00",
-      "end": "2026-10-25T16:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "shgt53frvg0jbet8a0bajkn8g4@google.com",
-      "summary": "AI Masterclass",
-      "location": "Lievegem, Belgium",
-      "start": "2026-10-25T14:00:00",
-      "end": "2026-10-25T15:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "A80E656D-0277-4D60-9A00-9CA892D4D8A9",
-      "summary": "Thuis",
-      "location": "",
-      "start": "2026-10-25T16:30:00",
-      "end": "2026-10-25T22:30:00",
-      "allDay": false,
-      "day": "today",
+      "day": "tomorrow",
       "calendar": "thomas6db"
     }
-  ],
-  "firstTomorrow": []
+  ]
 }
