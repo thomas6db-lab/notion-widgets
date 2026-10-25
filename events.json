@@ -1,5 +1,5 @@
 {
-  "updated": "25/10 07:57",
+  "updated": "25/10 13:27",
   "timezone": "Europe/Brussels",
   "todayLabel": "25 october",
   "tomorrowLabel": "26 october",
@@ -33,6 +33,16 @@
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "shgt53frvg0jbet8a0bajkn8g4@google.com",
+      "summary": "AI Masterclass",
+      "location": "Lievegem, Belgium",
+      "start": "2026-10-25T14:00:00",
+      "end": "2026-10-25T15:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
     },
     {
       "uid": "A80E656D-0277-4D60-9A00-9CA892D4D8A9",
