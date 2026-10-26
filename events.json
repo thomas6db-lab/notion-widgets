@@ -1,10 +1,9 @@
 {
-  "updated": "26/10 20:57",
+  "updated": "27/10 00:43",
   "timezone": "Europe/Brussels",
-  "todayLabel": "26 october",
-  "tomorrowLabel": "27 october",
-  "today": [],
-  "firstTomorrow": [
+  "todayLabel": "27 october",
+  "tomorrowLabel": "28 october",
+  "today": [
     {
       "uid": "23e96c6adb634cb2a0ba2887ccc5ebc1@google.com",
       "summary": "Jens catchup",
@@ -12,8 +11,20 @@
       "start": "2026-10-27T20:00:00",
       "end": "2026-10-27T22:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "60s6cdj6chh30b9g6oo62b9k6ph3gb9p6sp32b9jccq3gc1oclh3cc9hco@google.com",
+      "summary": "Thomas x Tijl",
+      "location": "Caffenation BLUE, Mechelsesteenweg 127, 2018 Antwerpen, Belgium",
+      "start": "2026-10-28T16:00:00",
+      "end": "2026-10-28T16:45:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "tectonic"
     }
   ]
 }
