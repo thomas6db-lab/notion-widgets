@@ -1,35 +1,25 @@
 {
-  "updated": "28/10 21:30",
+  "updated": "29/10 01:19",
   "timezone": "Europe/Brussels",
-  "todayLabel": "28 october",
-  "tomorrowLabel": "29 october",
+  "todayLabel": "29 october",
+  "tomorrowLabel": "30 october",
   "today": [
     {
-      "uid": "60s6cdj6chh30b9g6oo62b9k6ph3gb9p6sp32b9jccq3gc1oclh3cc9hco@google.com",
-      "summary": "Thomas x Tijl",
-      "location": "Caffenation BLUE, Mechelsesteenweg 127, 2018 Antwerpen, Belgium",
-      "start": "2026-10-28T16:00:00",
-      "end": "2026-10-28T16:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "6t1gn0blbkldm1h240ppea3cfc@google.com",
-      "summary": "Drinks in Gent",
+      "uid": "040000008200E00074C5B7101A82E0080000000061244ADA7847DD01000000000000000010000000F2A2B0ACB0D12445A96FC69361ED8BC3",
+      "summary": "Lunch: Rick x Thomas",
       "location": "",
-      "start": "2026-10-28T19:30:00",
-      "end": "2026-10-28T22:30:00",
+      "start": "2026-10-29T12:00:00",
+      "end": "2026-10-29T13:30:00",
       "allDay": false,
       "day": "today",
-      "calendar": "tectonic"
+      "calendar": "thomas6db"
     },
     {
-      "uid": "c17bc9fd93b64ab1aa2c9639e769d9b9@google.com",
-      "summary": "Capitant Wealth Across Generations",
-      "location": "Auditorium D, Devreker, Hoveniersberg",
-      "start": "2026-10-28T20:30:00",
-      "end": "2026-10-28T23:00:00",
+      "uid": "bbc243c1225e494584ca030205c4f607@google.com",
+      "summary": "Call Bram Van Daele",
+      "location": "",
+      "start": "2026-10-29T19:00:00",
+      "end": "2026-10-29T19:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -37,11 +27,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "040000008200E00074C5B7101A82E0080000000061244ADA7847DD01000000000000000010000000F2A2B0ACB0D12445A96FC69361ED8BC3",
-      "summary": "Lunch: Rick x Thomas",
+      "uid": "ffdc2e05be2f461ab5a067926e12ff3f@google.com",
+      "summary": "Lunch Veerle & Joost",
       "location": "",
-      "start": "2026-10-29T12:00:00",
-      "end": "2026-10-29T13:30:00",
+      "start": "2026-10-30T12:00:00",
+      "end": "2026-10-30T13:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
