@@ -1,21 +1,9 @@
 {
-  "updated": "29/10 19:44",
+  "updated": "30/10 00:00",
   "timezone": "Europe/Brussels",
-  "todayLabel": "29 october",
-  "tomorrowLabel": "30 october",
+  "todayLabel": "30 october",
+  "tomorrowLabel": "31 october",
   "today": [
-    {
-      "uid": "bbc243c1225e494584ca030205c4f607@google.com",
-      "summary": "Call Bram Van Daele",
-      "location": "",
-      "start": "2026-10-29T19:00:00",
-      "end": "2026-10-29T19:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "ffdc2e05be2f461ab5a067926e12ff3f@google.com",
       "summary": "Lunch Veerle & Joost",
@@ -23,8 +11,40 @@
       "start": "2026-10-30T12:00:00",
       "end": "2026-10-30T13:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "1721602--1179705713-0@timeedit.com",
+      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, hoorcollege",
+      "location": "Auditorium 1 Jan Broeckx. Blandijn. Campus Boekentoren. Blandijnberg 2",
+      "start": "2026-10-30T14:00:00",
+      "end": "2026-10-30T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    },
+    {
+      "uid": "648865d46ea142f49cc33638c80bb5be@google.com",
+      "summary": "Gianni sleutel + Speedy",
+      "location": "",
+      "start": "2026-10-30T17:30:00",
+      "end": "2026-10-30T18:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "20261031_59mqiq4uand6e1hhe9vhtc9a5k@google.com",
+      "summary": "Halloween",
+      "location": "",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "feestdagen"
     }
   ]
 }
