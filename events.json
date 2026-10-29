@@ -1,19 +1,9 @@
 {
-  "updated": "29/10 07:03",
+  "updated": "29/10 13:51",
   "timezone": "Europe/Brussels",
   "todayLabel": "29 october",
   "tomorrowLabel": "30 october",
   "today": [
-    {
-      "uid": "040000008200E00074C5B7101A82E0080000000061244ADA7847DD01000000000000000010000000F2A2B0ACB0D12445A96FC69361ED8BC3",
-      "summary": "Lunch: Rick x Thomas",
-      "location": "",
-      "start": "2026-10-29T12:00:00",
-      "end": "2026-10-29T13:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
     {
       "uid": "bbc243c1225e494584ca030205c4f607@google.com",
       "summary": "Call Bram Van Daele",
