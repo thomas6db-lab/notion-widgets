@@ -1,25 +1,65 @@
 {
-  "updated": "30/10 21:08",
+  "updated": "31/10 00:45",
   "timezone": "Europe/Brussels",
-  "todayLabel": "30 october",
-  "tomorrowLabel": "31 october",
+  "todayLabel": "31 october",
+  "tomorrowLabel": "1 november",
   "today": [
     {
-      "uid": "1721602--1179705713-0@timeedit.com",
-      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, hoorcollege",
-      "location": "Auditorium 1 Jan Broeckx. Blandijn. Campus Boekentoren. Blandijnberg 2",
-      "start": "2026-10-30T14:00:00",
-      "end": "2026-10-30T17:00:00",
-      "allDay": false,
+      "uid": "20261031_59mqiq4uand6e1hhe9vhtc9a5k@google.com",
+      "summary": "Halloween",
+      "location": "",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "allDay": true,
       "day": "today",
-      "calendar": "timeedit"
+      "calendar": "feestdagen"
     },
     {
-      "uid": "648865d46ea142f49cc33638c80bb5be@google.com",
-      "summary": "Gianni sleutel + Speedy",
+      "uid": "41807e54dea449788eeab741d5b4655f@google.com",
+      "summary": "Pieter auto",
       "location": "",
-      "start": "2026-10-30T17:30:00",
-      "end": "2026-10-30T18:00:00",
+      "start": "2026-10-31T09:00:00",
+      "end": "2026-10-31T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "015DBBA4-AB5A-4C8A-B8B6-A3FA7E95E018",
+      "summary": "Evelina Conveo intro",
+      "location": "",
+      "start": "2026-10-31T15:00:00",
+      "end": "2026-10-31T16:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "2j1mpb03iub8ofvaf9alr5t0u5@google.com",
+      "summary": "Thomas / Evelina Conveo Intro",
+      "location": "",
+      "start": "2026-10-31T15:00:00",
+      "end": "2026-10-31T15:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "1nqogra28hrjhdnfep61nsvqrh@google.com",
+      "summary": "Website updates",
+      "location": "",
+      "start": "2026-10-31T16:00:00",
+      "end": "2026-10-31T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "50bcde14582147a1a9f14b5bc0123d1d@google.com",
+      "summary": "Pieter vda meet",
+      "location": "",
+      "start": "2026-10-31T19:00:00",
+      "end": "2026-10-31T21:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -27,11 +67,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "20261031_59mqiq4uand6e1hhe9vhtc9a5k@google.com",
-      "summary": "Halloween",
+      "uid": "20261101_40hv8rjgd6tu92pqu32gejdiv8@google.com",
+      "summary": "Allerheiligen",
       "location": "",
-      "start": "2026-10-31",
-      "end": "2026-11-01",
+      "start": "2026-11-01",
+      "end": "2026-11-02",
       "allDay": true,
       "day": "tomorrow",
       "calendar": "feestdagen"
