@@ -1,5 +1,5 @@
 {
-  "updated": "31/10 09:57",
+  "updated": "31/10 16:14",
   "timezone": "Europe/Brussels",
   "todayLabel": "31 october",
   "tomorrowLabel": "1 november",
@@ -40,16 +40,6 @@
       "location": "",
       "start": "2026-10-31T15:00:00",
       "end": "2026-10-31T15:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    },
-    {
-      "uid": "1nqogra28hrjhdnfep61nsvqrh@google.com",
-      "summary": "Website updates",
-      "location": "",
-      "start": "2026-10-31T16:00:00",
-      "end": "2026-10-31T17:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "tectonic"
