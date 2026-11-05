@@ -1,15 +1,15 @@
 {
-  "updated": "04/11 23:46",
+  "updated": "05/11 03:52",
   "timezone": "Europe/Brussels",
-  "todayLabel": "4 november",
-  "tomorrowLabel": "5 november",
+  "todayLabel": "5 november",
+  "tomorrowLabel": "6 november",
   "today": [
     {
-      "uid": "DF0C6138-8925-4BF2-9CA9-7B7ABEC62817",
-      "summary": "Stan meetup",
+      "uid": "e84f55b6c58f42caafd007f384b5ed20@google.com",
+      "summary": "Momentum",
       "location": "",
-      "start": "2026-11-04T20:00:00",
-      "end": "2026-11-04T23:00:00",
+      "start": "2026-11-05T19:15:00",
+      "end": "2026-11-06T00:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -17,11 +17,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "e84f55b6c58f42caafd007f384b5ed20@google.com",
-      "summary": "Momentum",
+      "uid": "ffdc2e05be2f461ab5a067926e12ff3f@google.com",
+      "summary": "Lunch Veerle & Joost",
       "location": "",
-      "start": "2026-11-05T19:15:00",
-      "end": "2026-11-06T00:00:00",
+      "start": "2026-11-06T11:45:00",
+      "end": "2026-11-06T13:15:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
