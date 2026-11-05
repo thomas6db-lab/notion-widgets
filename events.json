@@ -1,20 +1,9 @@
 {
-  "updated": "05/11 11:13",
+  "updated": "05/11 19:04",
   "timezone": "Europe/Brussels",
   "todayLabel": "5 november",
   "tomorrowLabel": "6 november",
-  "today": [
-    {
-      "uid": "e84f55b6c58f42caafd007f384b5ed20@google.com",
-      "summary": "Momentum",
-      "location": "",
-      "start": "2026-11-05T19:15:00",
-      "end": "2026-11-06T00:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
+  "today": [],
   "firstTomorrow": [
     {
       "uid": "ffdc2e05be2f461ab5a067926e12ff3f@google.com",
