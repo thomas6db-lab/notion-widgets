@@ -1,27 +1,27 @@
 {
-  "updated": "06/11 19:20",
+  "updated": "07/11 00:18",
   "timezone": "Europe/Brussels",
-  "todayLabel": "6 november",
-  "tomorrowLabel": "7 november",
+  "todayLabel": "7 november",
+  "tomorrowLabel": "8 november",
   "today": [
-    {
-      "uid": "1721603--1179705713-0@timeedit.com",
-      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, hoorcollege, REMOTE",
-      "location": "Online",
-      "start": "2026-11-06T14:00:00",
-      "end": "2026-11-06T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "a2ab3f82566a4f379cda805464be69c5@google.com",
       "summary": "Snoeien thuis",
       "location": "",
       "start": "2026-11-07T09:00:00",
-      "end": "2026-11-07T11:00:00",
+      "end": "2026-11-07T12:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "6ad8ab2ef486425a85d0ee87713d1e60@google.com",
+      "summary": "Leveren juwelen Brussel",
+      "location": "",
+      "start": "2026-11-08T12:00:00",
+      "end": "2026-11-08T13:15:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
