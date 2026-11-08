@@ -1,37 +1,37 @@
 {
-  "updated": "08/11 21:34",
+  "updated": "09/11 00:59",
   "timezone": "Europe/Brussels",
-  "todayLabel": "8 november",
-  "tomorrowLabel": "9 november",
+  "todayLabel": "9 november",
+  "tomorrowLabel": "10 november",
   "today": [
-    {
-      "uid": "6ad8ab2ef486425a85d0ee87713d1e60@google.com",
-      "summary": "Leveren juwelen Brussel",
-      "location": "",
-      "start": "2026-11-08T12:00:00",
-      "end": "2026-11-08T13:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "3o3qlbeoiglo98ulrvgv8i9o6a_R20260524T070000@google.com",
-      "summary": "Tectonic - Feedback moment, in group",
-      "location": "WAT, Rue Volta 6A, 1050 Ixelles, Belgium",
-      "start": "2026-11-08T14:00:00",
-      "end": "2026-11-08T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "tectonic"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "ffdc2e05be2f461ab5a067926e12ff3f@google.com",
       "summary": "Lunch Veerle & Joost",
       "location": "",
       "start": "2026-11-09T11:45:00",
       "end": "2026-11-09T13:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "f85d59b795fb4d51ab56c5635b42b853@google.com",
+      "summary": "Centraal uurwerk fixen",
+      "location": "",
+      "start": "2026-11-09T19:15:00",
+      "end": "2026-11-09T19:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "040000008200E00074C5B7101A82E00800000000E0F09AA47F67DD0100000000000000001000000091B1CAC97AB74243A5AFE724C0BEFF74",
+      "summary": "Lunch: Thomas x Rick",
+      "location": "Microsoft Teams Meeting",
+      "start": "2026-11-10T11:45:00",
+      "end": "2026-11-10T13:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
