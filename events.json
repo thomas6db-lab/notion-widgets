@@ -1,51 +1,9 @@
 {
-  "updated": "09/11 17:00",
+  "updated": "10/11 01:09",
   "timezone": "Europe/Brussels",
-  "todayLabel": "9 november",
-  "tomorrowLabel": "10 november",
+  "todayLabel": "10 november",
+  "tomorrowLabel": "11 november",
   "today": [
-    {
-      "uid": "f85d59b795fb4d51ab56c5635b42b853@google.com",
-      "summary": "Centraal uurwerk fixen",
-      "location": "",
-      "start": "2026-11-09T19:15:00",
-      "end": "2026-11-09T19:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "341581b2a5e34106a0b89d188fa45935@google.com",
-      "summary": "Trein",
-      "location": "",
-      "start": "2026-11-09T19:45:00",
-      "end": "2026-11-09T20:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "eee0f7d749aa4e6a833aacb8420feee7@google.com",
-      "summary": "Fietsen",
-      "location": "",
-      "start": "2026-11-09T20:45:00",
-      "end": "2026-11-09T21:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "ac59a11ef8a04f1ca84cfc0f9598cee2@google.com",
-      "summary": "Eten",
-      "location": "",
-      "start": "2026-11-09T21:15:00",
-      "end": "2026-11-09T21:45:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "6e5e2b4c681e464e93339e98c4722644@google.com",
       "summary": "Fietsen",
@@ -53,8 +11,50 @@
       "start": "2026-11-10T06:00:00",
       "end": "2026-11-10T06:30:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "cc53915a004b4d198c25f13a5b2803a5@google.com",
+      "summary": "Trein",
+      "location": "",
+      "start": "2026-11-10T06:30:00",
+      "end": "2026-11-10T07:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "040000008200E00074C5B7101A82E00800000000E0F09AA47F67DD0100000000000000001000000091B1CAC97AB74243A5AFE724C0BEFF74",
+      "summary": "Lunch: Thomas x Rick",
+      "location": "Microsoft Teams Meeting",
+      "start": "2026-11-10T11:45:00",
+      "end": "2026-11-10T13:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "1870029--1179705713-0@timeedit.com",
+      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, werkcollege",
+      "location": "Leslokaal 1.1 Jans Jacob Berzelius. S3. Campus Sterre. Krijgslaan 289",
+      "start": "2026-11-10T14:00:00",
+      "end": "2026-11-10T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "timeedit"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "20261111_buvdi4jd1bsl8c8dp5u7k7n12g@google.com",
+      "summary": "wapenstilstand",
+      "location": "",
+      "start": "2026-11-11",
+      "end": "2026-11-12",
+      "allDay": true,
+      "day": "tomorrow",
+      "calendar": "feestdagen"
     }
   ]
 }
