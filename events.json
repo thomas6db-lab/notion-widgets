@@ -1,5 +1,5 @@
 {
-  "updated": "11/11 08:58",
+  "updated": "11/11 17:02",
   "timezone": "Europe/Brussels",
   "todayLabel": "11 november",
   "tomorrowLabel": "12 november",
@@ -17,7 +17,7 @@
     {
       "uid": "t27yzAJgDmYGrRE9v7e6fo@Cal.com",
       "summary": "Quick Chat between Jan-Peter Schatten and Thomas De Baerdemaeker",
-      "location": "https://meet.google.com/pym-ctsa-jyo",
+      "location": "",
       "start": "2026-11-11T12:00:00",
       "end": "2026-11-11T12:15:00",
       "allDay": false,
