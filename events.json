@@ -1,51 +1,9 @@
 {
-  "updated": "10/11 22:25",
+  "updated": "11/11 02:23",
   "timezone": "Europe/Brussels",
-  "todayLabel": "10 november",
-  "tomorrowLabel": "11 november",
+  "todayLabel": "11 november",
+  "tomorrowLabel": "12 november",
   "today": [
-    {
-      "uid": "6e5e2b4c681e464e93339e98c4722644@google.com",
-      "summary": "Fietsen",
-      "location": "",
-      "start": "2026-11-10T06:00:00",
-      "end": "2026-11-10T06:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "cc53915a004b4d198c25f13a5b2803a5@google.com",
-      "summary": "Trein",
-      "location": "",
-      "start": "2026-11-10T06:30:00",
-      "end": "2026-11-10T07:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "040000008200E00074C5B7101A82E00800000000E0F09AA47F67DD0100000000000000001000000091B1CAC97AB74243A5AFE724C0BEFF74",
-      "summary": "Lunch: Thomas x Rick",
-      "location": "Microsoft Teams Meeting",
-      "start": "2026-11-10T11:45:00",
-      "end": "2026-11-10T13:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "1870029--1179705713-0@timeedit.com",
-      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, werkcollege",
-      "location": "Leslokaal 1.1 Jans Jacob Berzelius. S3. Campus Sterre. Krijgslaan 289",
-      "start": "2026-11-10T14:00:00",
-      "end": "2026-11-10T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "20261111_buvdi4jd1bsl8c8dp5u7k7n12g@google.com",
       "summary": "wapenstilstand",
@@ -53,8 +11,29 @@
       "start": "2026-11-11",
       "end": "2026-11-12",
       "allDay": true,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "feestdagen"
+    },
+    {
+      "uid": "t27yzAJgDmYGrRE9v7e6fo@Cal.com",
+      "summary": "Quick Chat between Jan-Peter Schatten and Thomas De Baerdemaeker",
+      "location": "https://meet.google.com/pym-ctsa-jyo",
+      "start": "2026-11-11T12:00:00",
+      "end": "2026-11-11T12:15:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "t0pff02khb0vg0sibsvo605r0k@google.com",
+      "summary": "Datenight!",
+      "location": "",
+      "start": "2026-11-11T19:00:00",
+      "end": "2026-11-11T23:50:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
     }
-  ]
+  ],
+  "firstTomorrow": []
 }
