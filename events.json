@@ -1,25 +1,35 @@
 {
-  "updated": "13/11 22:25",
+  "updated": "14/11 02:37",
   "timezone": "Europe/Brussels",
-  "todayLabel": "13 november",
-  "tomorrowLabel": "14 november",
+  "todayLabel": "14 november",
+  "tomorrowLabel": "15 november",
   "today": [
     {
-      "uid": "1721604--1179705713-0@timeedit.com",
-      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, hoorcollege",
-      "location": "Auditorium 1 Jan Broeckx. Blandijn. Campus Boekentoren. Blandijnberg 2",
-      "start": "2026-11-13T14:00:00",
-      "end": "2026-11-13T17:00:00",
+      "uid": "9f57e0b0fbcf4377b389b4abcf49b335@google.com",
+      "summary": "Conveo",
+      "location": "",
+      "start": "2026-11-14T09:00:00",
+      "end": "2026-11-14T12:30:00",
       "allDay": false,
       "day": "today",
-      "calendar": "timeedit"
+      "calendar": "thomas6db"
     },
     {
-      "uid": "5bdb7c2ce1b34ecebf4c0fd4a575b79f@google.com",
-      "summary": "Andres meet",
+      "uid": "0BCD4634-9812-4C88-A94B-461A27194FF3",
+      "summary": "Opzeggen Google AI",
       "location": "",
-      "start": "2026-11-13T18:00:00",
-      "end": "2026-11-13T22:00:00",
+      "start": "2026-11-14T12:00:00",
+      "end": "2026-11-14T13:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5543d2ca5fb643c0a183ca997ec246c5@google.com",
+      "summary": "Reünie Capi board",
+      "location": "Rue des Chandeliers 18, 1000 Brussel",
+      "start": "2026-11-14T15:00:00",
+      "end": "2026-11-14T15:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -27,11 +37,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "9f57e0b0fbcf4377b389b4abcf49b335@google.com",
-      "summary": "Conveo",
+      "uid": "3a63efcd79ce42b9ba81ca8f38262b35@google.com",
+      "summary": "-> Brugge",
       "location": "",
-      "start": "2026-11-14T09:00:00",
-      "end": "2026-11-14T12:30:00",
+      "start": "2026-11-15T08:15:00",
+      "end": "2026-11-15T09:15:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
