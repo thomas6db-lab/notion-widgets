@@ -1,61 +1,9 @@
 {
-  "updated": "15/11 22:58",
+  "updated": "16/11 02:49",
   "timezone": "Europe/Brussels",
-  "todayLabel": "15 november",
-  "tomorrowLabel": "16 november",
+  "todayLabel": "16 november",
+  "tomorrowLabel": "17 november",
   "today": [
-    {
-      "uid": "3a63efcd79ce42b9ba81ca8f38262b35@google.com",
-      "summary": "-> Brugge",
-      "location": "",
-      "start": "2026-11-15T08:15:00",
-      "end": "2026-11-15T09:15:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "aa5os73vuap7s82phb5bjr74sk@google.com",
-      "summary": "Shoppen deleye",
-      "location": "",
-      "start": "2026-11-15T10:00:00",
-      "end": "2026-11-15T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "v7vup49kubmetevfmu26gomhbs@google.com",
-      "summary": "Etentje verjaardag Gilberte (Steve, Hilde, kids en Thomas mag ook mee)",
-      "location": "",
-      "start": "2026-11-15T12:30:00",
-      "end": "2026-11-15T14:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "4vf2atr1h4ntn12ko0giooqf8s@google.com",
-      "summary": "Brugge centrum",
-      "location": "",
-      "start": "2026-11-15T14:30:00",
-      "end": "2026-11-15T17:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "nc0194in2d913tav0ehl8jcsd0@google.com",
-      "summary": "Samen naar Gent",
-      "location": "",
-      "start": "2026-11-15T18:00:00",
-      "end": "2026-11-15T19:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
       "summary": "Anniv 10m",
@@ -63,6 +11,48 @@
       "start": "2026-11-16",
       "end": "2026-11-17",
       "allDay": true,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "a766389297cd460bbae4338d5f6d8be3@google.com",
+      "summary": "Stockholm x Valencia regelen",
+      "location": "",
+      "start": "2026-11-16T20:00:00",
+      "end": "2026-11-16T20:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "f0a7b0c604d342d7839bb52fb526a85d@google.com",
+      "summary": "Call Nelson",
+      "location": "",
+      "start": "2026-11-16T20:30:00",
+      "end": "2026-11-16T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "44294b28a469416fa1e95d621eb51774@google.com",
+      "summary": "Verkoop kettingen",
+      "location": "",
+      "start": "2026-11-16T21:00:00",
+      "end": "2026-11-16T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "7165d47368bd4a95bb6518522cff183b@google.com",
+      "summary": "Project Durf",
+      "location": "Handelsbeurs",
+      "start": "2026-11-17T18:45:00",
+      "end": "2026-11-17T22:15:00",
+      "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
     }
