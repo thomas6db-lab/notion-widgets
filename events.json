@@ -1,5 +1,5 @@
 {
-  "updated": "17/11 11:52",
+  "updated": "17/11 20:29",
   "timezone": "Europe/Brussels",
   "todayLabel": "17 november",
   "tomorrowLabel": "18 november",
@@ -17,11 +17,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "3e02bfca6b3141e1bc6da21a19296030@google.com",
-      "summary": "BDay Pieter",
+      "uid": "af8b8d2d10ec4659b3e62d89af36eb96@google.com",
+      "summary": "Ozan Leuven",
       "location": "",
-      "start": "2026-11-18T19:15:00",
-      "end": "2026-11-18T21:45:00",
+      "start": "2026-11-18T07:00:00",
+      "end": "2026-11-18T07:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
