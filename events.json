@@ -1,45 +1,15 @@
 {
-  "updated": "16/11 19:55",
+  "updated": "17/11 03:19",
   "timezone": "Europe/Brussels",
-  "todayLabel": "16 november",
-  "tomorrowLabel": "17 november",
+  "todayLabel": "17 november",
+  "tomorrowLabel": "18 november",
   "today": [
     {
-      "uid": "14607E35-C0B2-40FB-8B10-EAB0857C42DF",
-      "summary": "Anniv 10m",
-      "location": "",
-      "start": "2026-11-16",
-      "end": "2026-11-17",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "a766389297cd460bbae4338d5f6d8be3@google.com",
-      "summary": "Stockholm x Valencia regelen",
-      "location": "",
-      "start": "2026-11-16T20:00:00",
-      "end": "2026-11-16T20:30:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "f0a7b0c604d342d7839bb52fb526a85d@google.com",
-      "summary": "Call Nelson",
-      "location": "",
-      "start": "2026-11-16T20:30:00",
-      "end": "2026-11-16T21:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "44294b28a469416fa1e95d621eb51774@google.com",
-      "summary": "Verkoop kettingen",
-      "location": "",
-      "start": "2026-11-16T21:00:00",
-      "end": "2026-11-16T22:00:00",
+      "uid": "7165d47368bd4a95bb6518522cff183b@google.com",
+      "summary": "Project Durf",
+      "location": "Handelsbeurs",
+      "start": "2026-11-17T18:45:00",
+      "end": "2026-11-17T22:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -47,11 +17,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "7165d47368bd4a95bb6518522cff183b@google.com",
-      "summary": "Project Durf",
-      "location": "Handelsbeurs",
-      "start": "2026-11-17T18:45:00",
-      "end": "2026-11-17T22:15:00",
+      "uid": "3e02bfca6b3141e1bc6da21a19296030@google.com",
+      "summary": "BDay Pieter",
+      "location": "",
+      "start": "2026-11-18T19:15:00",
+      "end": "2026-11-18T21:45:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
