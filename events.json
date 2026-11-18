@@ -1,15 +1,25 @@
 {
-  "updated": "17/11 20:29",
+  "updated": "18/11 02:49",
   "timezone": "Europe/Brussels",
-  "todayLabel": "17 november",
-  "tomorrowLabel": "18 november",
+  "todayLabel": "18 november",
+  "tomorrowLabel": "19 november",
   "today": [
     {
-      "uid": "7165d47368bd4a95bb6518522cff183b@google.com",
-      "summary": "Project Durf",
-      "location": "Handelsbeurs",
-      "start": "2026-11-17T18:45:00",
-      "end": "2026-11-17T22:15:00",
+      "uid": "af8b8d2d10ec4659b3e62d89af36eb96@google.com",
+      "summary": "Ozan Leuven",
+      "location": "",
+      "start": "2026-11-18T07:00:00",
+      "end": "2026-11-18T07:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "3e02bfca6b3141e1bc6da21a19296030@google.com",
+      "summary": "BDay Pieter",
+      "location": "",
+      "start": "2026-11-18T19:15:00",
+      "end": "2026-11-18T21:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -17,11 +27,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "af8b8d2d10ec4659b3e62d89af36eb96@google.com",
-      "summary": "Ozan Leuven",
+      "uid": "9930e81d53784f388e44d0e8fbedd6bc@google.com",
+      "summary": "Etentje 10m",
       "location": "",
-      "start": "2026-11-18T07:00:00",
-      "end": "2026-11-18T07:30:00",
+      "start": "2026-11-19T19:00:00",
+      "end": "2026-11-19T22:30:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
