@@ -1,5 +1,5 @@
 {
-  "updated": "18/11 02:49",
+  "updated": "18/11 10:16",
   "timezone": "Europe/Brussels",
   "todayLabel": "18 november",
   "tomorrowLabel": "19 november",
@@ -15,11 +15,31 @@
       "calendar": "thomas6db"
     },
     {
+      "uid": "8e7162285ad2488a8b30de0b19d9da1a@google.com",
+      "summary": "Meetup NYC",
+      "location": "",
+      "start": "2026-11-18T20:00:00",
+      "end": "2026-11-18T21:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "672467160f4f445593b6a5e928c68399@google.com",
+      "summary": "Leuven -> Gent",
+      "location": "",
+      "start": "2026-11-18T21:30:00",
+      "end": "2026-11-18T22:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "3e02bfca6b3141e1bc6da21a19296030@google.com",
       "summary": "BDay Pieter",
       "location": "",
-      "start": "2026-11-18T19:15:00",
-      "end": "2026-11-18T21:45:00",
+      "start": "2026-11-18T22:30:00",
+      "end": "2026-11-19T00:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
