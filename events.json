@@ -1,15 +1,25 @@
 {
-  "updated": "20/11 13:45",
+  "updated": "20/11 21:46",
   "timezone": "Europe/Brussels",
   "todayLabel": "20 november",
   "tomorrowLabel": "21 november",
   "today": [
     {
-      "uid": "3e3632a105914adc9a5b3d703b9874fd@google.com",
-      "summary": "Interclassics",
+      "uid": "6262049217634f52882375aceb33cfa5@google.com",
+      "summary": "Run",
       "location": "",
-      "start": "2026-11-20T17:45:00",
-      "end": "2026-11-20T22:15:00",
+      "start": "2026-11-20T20:00:00",
+      "end": "2026-11-20T21:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "2160ad9b6e7a4da5a586d3581549b082@google.com",
+      "summary": "Housewarming",
+      "location": "",
+      "start": "2026-11-20T21:00:00",
+      "end": "2026-11-20T23:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -18,7 +28,7 @@
   "firstTomorrow": [
     {
       "uid": "e425927e757949b28206d65d8ef8909a@google.com",
-      "summary": "Snoeien",
+      "summary": "Snoeien / Blaadjes",
       "location": "",
       "start": "2026-11-21T09:00:00",
       "end": "2026-11-21T12:00:00",
