@@ -1,19 +1,9 @@
 {
-  "updated": "21/11 09:52",
+  "updated": "21/11 17:31",
   "timezone": "Europe/Brussels",
   "todayLabel": "21 november",
   "tomorrowLabel": "22 november",
   "today": [
-    {
-      "uid": "e425927e757949b28206d65d8ef8909a@google.com",
-      "summary": "Snoeien / Blaadjes",
-      "location": "",
-      "start": "2026-11-21T09:00:00",
-      "end": "2026-11-21T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
     {
       "uid": "6c7a24f673704dadb5bb1e1d1721ae8a@google.com",
       "summary": "Fixen Bulls fiets",
@@ -35,6 +25,16 @@
       "calendar": "thomas6db"
     },
     {
+      "uid": "e425927e757949b28206d65d8ef8909a@google.com",
+      "summary": "Snoeien / Blaadjes",
+      "location": "",
+      "start": "2026-11-21T14:30:00",
+      "end": "2026-11-21T16:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
       "uid": "d2a8ce570fbf4f3299fa200f984738d9@google.com",
       "summary": "Steven horloge",
       "location": "",
@@ -45,11 +45,11 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "fd41b55e08b447b3ad182e7ca14443f6@google.com",
-      "summary": "Verkopen Renan",
+      "uid": "a7de4e552c99499f8f47126a6123cf19@google.com",
+      "summary": "Pakjes Run + Renan",
       "location": "",
-      "start": "2026-11-21T16:15:00",
-      "end": "2026-11-21T18:15:00",
+      "start": "2026-11-21T16:30:00",
+      "end": "2026-11-21T17:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -58,8 +58,8 @@
       "uid": "68540329ff33427cae199d4e7015f2d3@google.com",
       "summary": "Fixen Valencia + Stockholm + Parijs",
       "location": "",
-      "start": "2026-11-21T18:15:00",
-      "end": "2026-11-21T19:45:00",
+      "start": "2026-11-21T17:30:00",
+      "end": "2026-11-21T19:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -68,8 +68,18 @@
       "uid": "a2a44d32ea5b48c8803316973bd194ba@google.com",
       "summary": "Branding Planterij",
       "location": "",
-      "start": "2026-11-21T20:45:00",
-      "end": "2026-11-21T23:45:00",
+      "start": "2026-11-21T19:00:00",
+      "end": "2026-11-21T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "aad7a29421f04880baf72499a62fc869@google.com",
+      "summary": "Marokko vastleggen + boeken",
+      "location": "",
+      "start": "2026-11-21T22:00:00",
+      "end": "2026-11-22T00:30:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -81,7 +91,7 @@
       "summary": "Conveo",
       "location": "",
       "start": "2026-11-22T09:00:00",
-      "end": "2026-11-22T12:30:00",
+      "end": "2026-11-22T11:00:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
