@@ -1,5 +1,5 @@
 {
-  "updated": "22/11 17:52",
+  "updated": "22/11 23:16",
   "timezone": "Europe/Brussels",
   "todayLabel": "22 november",
   "tomorrowLabel": "23 november",
@@ -96,7 +96,7 @@
     },
     {
       "uid": "b62772b6307948f28f924c91eb2815d1@google.com",
-      "summary": "Conveo",
+      "summary": "Conveo TV dashboard + proposal",
       "location": "",
       "start": "2026-11-22T20:00:00",
       "end": "2026-11-22T22:00:00",
@@ -105,11 +105,11 @@
       "calendar": "thomas6db"
     },
     {
-      "uid": "31ae5a59e5554d7b8150679127bf6d98@google.com",
-      "summary": "Valies London",
+      "uid": "2b0f07a1d8bb41e7b13813639652ff49@google.com",
+      "summary": "Checken zilver Jules",
       "location": "",
-      "start": "2026-11-22T22:00:00",
-      "end": "2026-11-22T22:30:00",
+      "start": "2026-11-22T22:15:00",
+      "end": "2026-11-22T22:45:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
