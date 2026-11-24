@@ -1,71 +1,9 @@
 {
-  "updated": "23/11 23:55",
+  "updated": "24/11 07:49",
   "timezone": "Europe/Brussels",
-  "todayLabel": "23 november",
-  "tomorrowLabel": "24 november",
+  "todayLabel": "24 november",
+  "tomorrowLabel": "25 november",
   "today": [
-    {
-      "uid": "3D7EF5A6-CEC4-4C57-8727-BC16F60BC313",
-      "summary": "Thomas in London",
-      "location": "",
-      "start": "2026-11-23",
-      "end": "2026-11-27",
-      "allDay": true,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "5cace801e99b490eb52a82b037d710b9@google.com",
-      "summary": "Thuis -> GSP",
-      "location": "",
-      "start": "2026-11-23T06:40:00",
-      "end": "2026-11-23T07:10:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "ca2217f0764442569106bb06e4748f69@google.com",
-      "summary": "GSP -> Centraal",
-      "location": "",
-      "start": "2026-11-23T07:15:00",
-      "end": "2026-11-23T08:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "E7C17165-F674-472B-9C10-D37C16332699",
-      "summary": "Verblijf in Royal National Hotel",
-      "location": "38-51 Bedford Way\nLondon",
-      "start": "2026-11-23T15:00:00",
-      "end": "2026-11-26T12:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    },
-    {
-      "uid": "6606-654453@ufora.ugent.be",
-      "summary": "Stuveco AV 2",
-      "location": "Stuveco – Studentenraad Faculteit Economie & Bedrijfskunde",
-      "start": "2026-11-23T18:00:00",
-      "end": "2026-11-23T20:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "ufora"
-    },
-    {
-      "uid": "2A683C35-BBC8-4A25-A368-D3B7DBD09685",
-      "summary": "🚆 Trein naar London St Pancras International",
-      "location": "Bruxelles-Midi / Brussels-zuid\nBruxelles / Brussels",
-      "start": "2026-11-23T18:52:00",
-      "end": "2026-11-23T20:55:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "1721605--1179705713-0@timeedit.com",
       "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, werkcollege",
@@ -73,8 +11,30 @@
       "start": "2026-11-24T14:00:00",
       "end": "2026-11-24T17:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "timeedit"
+    },
+    {
+      "uid": "216eb2bc4f3f4781b3c98e56a0aee721@google.com",
+      "summary": "Call L-E",
+      "location": "",
+      "start": "2026-11-24T20:00:00",
+      "end": "2026-11-24T20:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "2ae9e35a374f4f0c91dde737582c0c3f@google.com",
+      "summary": "Regent Street → Carnaby → Covent Garden",
+      "location": "",
+      "start": "2026-11-25T21:00:00",
+      "end": "2026-11-25T23:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
