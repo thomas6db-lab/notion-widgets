@@ -1,25 +1,15 @@
 {
-  "updated": "24/11 19:24",
+  "updated": "25/11 03:42",
   "timezone": "Europe/Brussels",
-  "todayLabel": "24 november",
-  "tomorrowLabel": "25 november",
+  "todayLabel": "25 november",
+  "tomorrowLabel": "26 november",
   "today": [
     {
-      "uid": "1721605--1179705713-0@timeedit.com",
-      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, werkcollege",
-      "location": "Auditorium 7. Ledeganck. Campus Ledeganck. (fietsers) via Kraaistraat K.L. Ledeganckstraat 35",
-      "start": "2026-11-24T14:00:00",
-      "end": "2026-11-24T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    },
-    {
-      "uid": "216eb2bc4f3f4781b3c98e56a0aee721@google.com",
-      "summary": "Call L-E",
+      "uid": "2ae9e35a374f4f0c91dde737582c0c3f@google.com",
+      "summary": "Regent Street → Carnaby → Covent Garden",
       "location": "",
-      "start": "2026-11-24T20:00:00",
-      "end": "2026-11-24T20:30:00",
+      "start": "2026-11-25T21:00:00",
+      "end": "2026-11-25T23:00:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
@@ -27,11 +17,11 @@
   ],
   "firstTomorrow": [
     {
-      "uid": "2ae9e35a374f4f0c91dde737582c0c3f@google.com",
-      "summary": "Regent Street → Carnaby → Covent Garden",
-      "location": "",
-      "start": "2026-11-25T21:00:00",
-      "end": "2026-11-25T23:00:00",
+      "uid": "B6CA0B15-2DF9-4317-A9F3-6C24A953AE32",
+      "summary": "🚆 Trein naar Bruxelles-Midi / Brussels-zuid",
+      "location": "London St Pancras International\nLondon",
+      "start": "2026-11-26T19:04:00",
+      "end": "2026-11-26T22:09:00",
       "allDay": false,
       "day": "tomorrow",
       "calendar": "thomas6db"
