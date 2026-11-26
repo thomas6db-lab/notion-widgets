@@ -1,21 +1,9 @@
 {
-  "updated": "25/11 21:41",
+  "updated": "26/11 04:10",
   "timezone": "Europe/Brussels",
-  "todayLabel": "25 november",
-  "tomorrowLabel": "26 november",
+  "todayLabel": "26 november",
+  "tomorrowLabel": "27 november",
   "today": [
-    {
-      "uid": "2ae9e35a374f4f0c91dde737582c0c3f@google.com",
-      "summary": "Regent Street → Carnaby → Covent Garden",
-      "location": "",
-      "start": "2026-11-25T21:00:00",
-      "end": "2026-11-25T23:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "thomas6db"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "B6CA0B15-2DF9-4317-A9F3-6C24A953AE32",
       "summary": "🚆 Trein naar Bruxelles-Midi / Brussels-zuid",
@@ -23,8 +11,30 @@
       "start": "2026-11-26T19:04:00",
       "end": "2026-11-26T22:09:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "thomas6db"
+    },
+    {
+      "uid": "242B92F4-631E-4DDF-AD25-5BBC85CFEA0F",
+      "summary": "Call Vincent",
+      "location": "",
+      "start": "2026-11-26T22:15:00",
+      "end": "2026-11-26T23:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "1721606--1179705713-0@timeedit.com",
+      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, hoorcollege",
+      "location": "Auditorium 1 Jan Broeckx. Blandijn. Campus Boekentoren. Blandijnberg 2",
+      "start": "2026-11-27T14:00:00",
+      "end": "2026-11-27T17:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "timeedit"
     }
   ]
 }
