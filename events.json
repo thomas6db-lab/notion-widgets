@@ -1,21 +1,9 @@
 {
-  "updated": "27/11 23:18",
+  "updated": "28/11 05:00",
   "timezone": "Europe/Brussels",
-  "todayLabel": "27 november",
-  "tomorrowLabel": "28 november",
+  "todayLabel": "28 november",
+  "tomorrowLabel": "29 november",
   "today": [
-    {
-      "uid": "1721606--1179705713-0@timeedit.com",
-      "summary": "F000717A. Financial Risk Management, F000735A. Financial Risk Management, hoorcollege",
-      "location": "Auditorium 1 Jan Broeckx. Blandijn. Campus Boekentoren. Blandijnberg 2",
-      "start": "2026-11-27T14:00:00",
-      "end": "2026-11-27T17:00:00",
-      "allDay": false,
-      "day": "today",
-      "calendar": "timeedit"
-    }
-  ],
-  "firstTomorrow": [
     {
       "uid": "5jon91roooek4vp6rr17mhnhti@google.com",
       "summary": "Fineduca Video",
@@ -23,8 +11,80 @@
       "start": "2026-11-28T10:00:00",
       "end": "2026-11-28T13:00:00",
       "allDay": false,
-      "day": "tomorrow",
+      "day": "today",
       "calendar": "tectonic"
+    },
+    {
+      "uid": "50d20b51e9374b5aafe0b497c191183b@google.com",
+      "summary": "Emile",
+      "location": "",
+      "start": "2026-11-28T11:00:00",
+      "end": "2026-11-28T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "92b07a2cec3d4483aa8f1741d2824c67@google.com",
+      "summary": "Pakjes + verzenden",
+      "location": "",
+      "start": "2026-11-28T13:00:00",
+      "end": "2026-11-28T14:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "273ec0706d7c4b2691a26b240a1698ec@google.com",
+      "summary": "Marokko vastleggen",
+      "location": "",
+      "start": "2026-11-28T14:00:00",
+      "end": "2026-11-28T15:30:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "rt1ms8h341v608es5knv7gkfno@google.com",
+      "summary": "Coffee x Thomas",
+      "location": "Take Five Espressobar, Grote Huidevettershoek 10, 9000 Gent, België",
+      "start": "2026-11-28T16:00:00",
+      "end": "2026-11-28T17:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "tectonic"
+    },
+    {
+      "uid": "a2a44d32ea5b48c8803316973bd194ba@google.com",
+      "summary": "Branding Planterij",
+      "location": "",
+      "start": "2026-11-28T17:00:00",
+      "end": "2026-11-28T19:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "098885db9e754f169444cd8a0d1317b2@google.com",
+      "summary": "Tools azmm mama",
+      "location": "",
+      "start": "2026-11-28T20:30:00",
+      "end": "2026-11-28T22:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    }
+  ],
+  "firstTomorrow": [
+    {
+      "uid": "68540329ff33427cae199d4e7015f2d3@google.com",
+      "summary": "Fixen Valencia + Stockholm + Parijs + Marokko",
+      "location": "",
+      "start": "2026-11-29T09:00:00",
+      "end": "2026-11-29T12:00:00",
+      "allDay": false,
+      "day": "tomorrow",
+      "calendar": "thomas6db"
     }
   ]
 }
