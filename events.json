@@ -1,5 +1,5 @@
 {
-  "updated": "28/11 05:00",
+  "updated": "28/11 13:52",
   "timezone": "Europe/Brussels",
   "todayLabel": "28 november",
   "tomorrowLabel": "29 november",
@@ -60,6 +60,26 @@
       "location": "",
       "start": "2026-11-28T17:00:00",
       "end": "2026-11-28T19:00:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "c3715c64ff3e4e9ca8a0536f7a173123@google.com",
+      "summary": "Branding Tectonic",
+      "location": "",
+      "start": "2026-11-28T19:15:00",
+      "end": "2026-11-28T19:45:00",
+      "allDay": false,
+      "day": "today",
+      "calendar": "thomas6db"
+    },
+    {
+      "uid": "5e8014e225c842488fc2f8dc2c04468a@google.com",
+      "summary": "Ozan reply",
+      "location": "",
+      "start": "2026-11-28T19:45:00",
+      "end": "2026-11-28T20:15:00",
       "allDay": false,
       "day": "today",
       "calendar": "thomas6db"
